@@ -1,0 +1,1104 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Market Primer</title>
+<meta name="description" content="A daily, plain-English explainer of the Indian stock market for complete beginners.">
+<meta name="theme-color" content="#F3F5F1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F141A" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Market Primer">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%88%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F3F5F1; --surface:#FFFFFF; --sunk:#E9EDE7; --ink:#17212E; --muted:#586473; --line:#D8DED5;
+  --accent:#1D4F82; --accent-soft:rgba(29,79,130,.09); --on-accent:#FFFFFF;
+  --marker:rgba(244,176,40,.42); --marker-strong:#E9A21B;
+  --up:#1B7A52; --up-soft:rgba(27,122,82,.11); --down:#B03543; --down-soft:rgba(176,53,67,.10);
+  --note:#FFF4D9; --note-border:#EFD08A;
+  --shadow:0 1px 2px rgba(23,33,46,.05),0 4px 16px rgba(23,33,46,.05);
+  --serif:"Literata",Georgia,"Iowan Old Style","Times New Roman",serif;
+  --sans:"Instrument Sans",system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --r:16px; --r-sm:10px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0F141A; --surface:#171E27; --sunk:#111820; --ink:#E6EBF0; --muted:#9AA6B4; --line:#2A3441;
+    --accent:#8DB6EE; --accent-soft:rgba(141,182,238,.12); --on-accent:#0F141A;
+    --marker:rgba(233,162,27,.30); --marker-strong:#E9A21B;
+    --up:#5CC796; --up-soft:rgba(92,199,150,.12); --down:#F0848F; --down-soft:rgba(240,132,143,.12);
+    --note:#2A2414; --note-border:#6B5A2A;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.25);
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0F141A; --surface:#171E27; --sunk:#111820; --ink:#E6EBF0; --muted:#9AA6B4; --line:#2A3441;
+  --accent:#8DB6EE; --accent-soft:rgba(141,182,238,.12); --on-accent:#0F141A;
+  --marker:rgba(233,162,27,.30); --marker-strong:#E9A21B;
+  --up:#5CC796; --up-soft:rgba(92,199,150,.12); --down:#F0848F; --down-soft:rgba(240,132,143,.12);
+  --note:#2A2414; --note-border:#6B5A2A;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.25);
+  color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:120px}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.5;
+  overflow-x:hidden;-webkit-font-smoothing:antialiased;
+  padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right);padding-bottom:env(safe-area-inset-bottom)}
+button,input{font:inherit;color:inherit}
+button{cursor:pointer}
+a{color:var(--accent);text-underline-offset:2px}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:6px}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* Top bar */
+.topbar{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 88%,transparent);
+  backdrop-filter:saturate(1.4) blur(10px);-webkit-backdrop-filter:saturate(1.4) blur(10px);
+  border-bottom:1px solid var(--line);padding-top:env(safe-area-inset-top)}
+@supports not (background:color-mix(in srgb,red 50%,blue)){.topbar{background:var(--bg)}}
+.topbar-inner{max-width:760px;margin:0 auto;padding:10px 16px 0;display:flex;flex-direction:column;gap:8px}
+.brand{display:flex;align-items:baseline;gap:10px}
+.brand b{font-family:var(--serif);font-weight:600;font-size:20px;letter-spacing:-.01em;white-space:nowrap}
+.brand span{color:var(--muted);font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+@media (max-width:420px){.brand span{display:none}}
+.tabs{display:flex;gap:2px}
+.tab{flex:1 1 0;min-width:0;border:0;background:none;padding:9px 4px 11px;font-size:14.5px;font-weight:500;color:var(--muted);
+  border-bottom:2.5px solid transparent;white-space:nowrap}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--marker-strong);font-weight:600}
+.tab:hover{color:var(--ink)}
+
+main{max-width:760px;margin:0 auto;padding:20px 16px 64px}
+.view[hidden]{display:none}
+section.block{margin-top:44px}
+.eyebrow{font-size:12.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+h2.sec{font-family:var(--serif);font-weight:600;font-size:24px;line-height:1.25;letter-spacing:-.01em;margin:0 0 16px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:20px}
+.prose{font-family:var(--serif);font-size:17.5px;line-height:1.72;max-width:64ch}
+.prose p{margin:0 0 1em}
+.prose p:last-child{margin-bottom:0}
+.muted{color:var(--muted)}
+
+/* Notices */
+.notice{background:var(--note);border:1px solid var(--note-border);border-radius:var(--r-sm);padding:12px 14px;font-size:15px;margin-bottom:16px;
+  display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.notice p{margin:0;flex:1 1 240px}
+
+/* Buttons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);padding:9px 16px;font-size:14.5px;font-weight:600;min-height:40px;text-decoration:none;color:var(--ink)}
+.btn:hover{border-color:var(--muted)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.btn.primary:hover{filter:brightness(1.08)}
+.btn.quiet{background:transparent}
+.btn[disabled]{opacity:.6;cursor:default}
+
+/* Hero */
+.hero{position:relative;padding:26px 22px 24px 30px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);overflow:hidden}
+.hero::before{content:"";position:absolute;left:14px;top:0;bottom:0;width:2px;background:var(--marker-strong);opacity:.55}
+.hero .meta{font-size:14px;color:var(--muted);margin:0 0 10px}
+.hero h1{font-family:var(--serif);font-weight:600;font-size:clamp(24px,5.6vw,34px);line-height:1.22;letter-spacing:-.015em;margin:0 0 16px}
+.pills{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+.pill{display:inline-flex;align-items:center;gap:6px;font-size:13.5px;font-weight:600;padding:4px 11px;border-radius:999px;background:var(--sunk);color:var(--ink);border:1px solid var(--line)}
+.pill.neg{background:var(--down-soft);color:var(--down);border-color:transparent}
+.pill.pos{background:var(--up-soft);color:var(--up);border-color:transparent}
+.hero .mood-note{margin:0;font-size:15.5px;color:var(--muted);max-width:60ch}
+
+.minute{margin-top:20px;background:var(--note);border:1px solid var(--note-border);border-radius:var(--r);padding:18px 20px}
+.minute h2{font-family:var(--serif);font-size:19px;font-weight:600;margin:0 0 10px}
+.minute ul{margin:0;padding-left:20px;font-family:var(--serif);font-size:17px;line-height:1.62}
+.minute li{margin:0 0 8px}
+.minute li:last-child{margin:0}
+
+.stats{margin-top:16px;display:grid;grid-template-columns:auto auto 1fr;gap:10px;align-items:stretch}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-sm);padding:10px 14px;min-width:0}
+.stat b{display:block;font-size:22px;font-family:var(--serif);font-weight:600;line-height:1.1}
+.stat span{font-size:12.5px;color:var(--muted)}
+.stat.hint{font-size:13.5px;color:var(--muted);display:flex;align-items:center;background:transparent;border-style:dashed}
+.stat.hint mark{margin:0 3px}
+@media (max-width:520px){.stats{grid-template-columns:1fr 1fr}.stat.hint{grid-column:1/-1}}
+
+.since ul{margin:0;padding-left:20px;font-family:var(--serif);font-size:17px;line-height:1.62}
+
+/* Chain: the signature visual */
+.chain{list-style:none;margin:0 0 28px;padding:0;position:relative}
+.chain li{position:relative;padding:0 0 22px 56px;min-height:44px}
+.chain li::before{content:"";position:absolute;left:19px;top:40px;bottom:-2px;border-left:2px dashed var(--line)}
+.chain li:last-child{padding-bottom:0}
+.chain li:last-child::before{display:none}
+.chain .num{position:absolute;left:0;top:0;width:40px;height:40px;border-radius:50%;display:grid;place-items:center;
+  font-family:var(--serif);font-weight:600;font-size:17px;background:var(--surface);border:2px solid var(--accent);color:var(--accent)}
+.chain li:last-child .num{background:var(--accent);color:var(--on-accent)}
+.chain .step{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:11px 15px}
+.chain .step b{display:block;font-size:16px;font-weight:600;margin-bottom:2px}
+.chain .step span{font-size:15px;color:var(--muted);line-height:1.5}
+.chain li:last-child .step{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.chain li:not(:last-child) .step::after{content:"↓";display:none}
+@media (prefers-reduced-motion:no-preference){
+  .chain.animate li{opacity:0;transform:translateY(8px);animation:rise .5s ease forwards}
+  @keyframes rise{to{opacity:1;transform:none}}
+}
+
+/* Snapshot tiles */
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
+.tile{text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:3px;min-width:0}
+.tile:hover{border-color:var(--muted)}
+.tile .n{font-size:13px;color:var(--muted);font-weight:500}
+.tile .v{font-family:var(--serif);font-size:20px;font-weight:600;line-height:1.2;overflow-wrap:anywhere}
+.tile .c{font-size:13.5px;font-weight:600}
+.tile .c.up{color:var(--up)} .tile .c.down{color:var(--down)} .tile .c.flat{color:var(--muted)}
+.tiles-hint{font-size:13.5px;color:var(--muted);margin:10px 0 0}
+@media (max-width:400px){.tiles{grid-template-columns:1fr 1fr}.tile .v{font-size:18px}}
+
+/* Stories */
+.story{margin-top:22px;padding:24px 22px}
+.story .cat{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.story h3{font-family:var(--serif);font-size:23px;line-height:1.28;font-weight:600;margin:0 0 10px;letter-spacing:-.01em}
+.story .tldr{font-size:16.5px;color:var(--muted);margin:0 0 6px;line-height:1.55}
+.story h4{font-size:13px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:26px 0 8px}
+.callout{background:var(--note);border:1px solid var(--note-border);border-radius:12px;padding:14px 16px;margin-top:22px}
+.callout h4{margin:0 0 6px!important;color:var(--ink)!important}
+.lenses{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.lens{background:var(--sunk);border-radius:12px;padding:13px 15px;min-width:0}
+.lens b{display:block;font-size:14px;margin-bottom:4px}
+.lens p{margin:0;font-size:15.5px;line-height:1.58}
+@media (max-width:560px){.lenses{grid-template-columns:1fr}}
+.watch{font-size:15.5px;line-height:1.58;margin:0;padding-left:14px;border-left:3px solid var(--accent)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 13px;font-size:14px;font-weight:500;min-height:36px}
+.chip:hover{border-color:var(--muted)}
+.chip.term-chip{background:var(--marker);border-color:transparent}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.chip.ext{background:transparent;border-style:dashed;border-color:var(--accent);color:var(--accent)}
+.chip.ext::after{content:" ↗";font-size:12px}
+
+mark,.term{background:none;color:inherit}
+.term{border:0;padding:0 1px;margin:0;font:inherit;cursor:pointer;border-radius:2px;
+  background-image:linear-gradient(transparent 58%,var(--marker) 58%,var(--marker) 92%,transparent 92%);
+  text-decoration:none;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.term:hover{background-image:linear-gradient(transparent 20%,var(--marker) 20%,var(--marker) 92%,transparent 92%)}
+mark.hl{background-image:linear-gradient(transparent 58%,var(--marker) 58%,var(--marker) 92%,transparent 92%);padding:0 2px}
+
+details.ask{margin-top:24px;border-top:1px solid var(--line);padding-top:14px}
+details.ask summary{cursor:pointer;font-weight:600;font-size:15.5px;list-style:none;display:flex;align-items:center;gap:8px;min-height:36px}
+details.ask summary::-webkit-details-marker{display:none}
+details.ask summary::before{content:"+";display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:var(--sunk);font-size:16px;line-height:1}
+details.ask[open] summary::before{content:"−"}
+.ask-body{padding-top:10px}
+.ask-label{font-size:12.5px;color:var(--muted);font-weight:600;letter-spacing:.04em;text-transform:uppercase;margin:6px 0 8px}
+.answer{margin-top:12px;background:var(--sunk);border-radius:12px;padding:14px 16px;font-family:var(--serif);font-size:16.5px;line-height:1.65}
+.answer p{margin:0 0 .9em}.answer p:last-child{margin:0}
+.askrow{display:flex;gap:8px;margin-top:14px}
+.askrow input{flex:1;min-width:0;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:9px 15px;min-height:42px}
+.askrow input:focus-visible{outline-offset:0}
+.askrow{flex-wrap:wrap}
+.askrow input{flex:1 1 220px}
+.askrow .btn{flex:0 0 auto}
+@media (max-width:420px){.askrow .btn{flex:1 1 100%}}
+.ask-hint{font-size:13px;color:var(--muted);margin:8px 0 0}
+
+/* Concept */
+.concept{padding:24px 22px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);position:relative}
+.concept .term-big{font-family:var(--serif);font-size:30px;font-weight:600;margin:0 0 14px;line-height:1.2}
+.concept .takeaway{font-weight:600;font-size:16px;margin:18px 0 16px;padding-left:14px;border-left:3px solid var(--marker-strong)}
+
+/* Quiz */
+.q{margin-top:14px;padding:18px}
+.q h3{font-size:16.5px;font-weight:600;margin:0 0 12px;line-height:1.45}
+.q h3 span{color:var(--muted);font-weight:500;margin-right:4px}
+.opts{display:grid;gap:8px}
+.opt{text-align:left;border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:11px 14px;font-size:15.5px;line-height:1.4;display:flex;gap:10px;align-items:flex-start}
+.opt:hover:not([disabled]){border-color:var(--accent)}
+.opt .k{flex:none;width:22px;height:22px;border-radius:50%;background:var(--sunk);display:grid;place-items:center;font-size:12.5px;font-weight:700;margin-top:1px}
+.opt[disabled]{cursor:default}
+.opt.right{border-color:var(--up);background:var(--up-soft)}
+.opt.right .k{background:var(--up);color:var(--surface)}
+.opt.wrong{border-color:var(--down);background:var(--down-soft)}
+.opt.wrong .k{background:var(--down);color:var(--surface)}
+.why{margin:12px 0 0;font-size:15px;line-height:1.55;padding:10px 12px;border-radius:10px;background:var(--sunk)}
+.why b{margin-right:4px}
+.score{margin-top:16px;text-align:center;padding:18px}
+.score b{font-family:var(--serif);font-size:28px;display:block}
+
+.finish{text-align:center;padding:26px 20px}
+.finish p{margin:0 0 14px;color:var(--muted)}
+.sources{margin:0;padding-left:18px;font-size:14.5px;line-height:1.6}
+.sources li{margin-bottom:4px;overflow-wrap:anywhere}
+.disclaimer{font-size:13.5px;color:var(--muted);margin-top:18px;line-height:1.55;border-top:1px solid var(--line);padding-top:14px}
+
+/* Basics */
+.progress{display:flex;align-items:center;gap:12px;margin-bottom:18px}
+.bar{flex:1;height:8px;border-radius:99px;background:var(--sunk);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--up);border-radius:99px;transition:width .3s}
+.lessons{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.lesson{background:var(--surface);border:1px solid var(--line);border-radius:14px;scroll-margin-top:130px}
+.lesson-head{width:100%;border:0;background:none;text-align:left;display:flex;gap:14px;align-items:center;padding:14px 16px}
+.lesson-head .ln{flex:none;width:34px;height:34px;border-radius:50%;border:1.5px solid var(--line);display:grid;place-items:center;font-weight:700;font-size:14px;color:var(--muted)}
+.lesson.done .ln{background:var(--up);border-color:var(--up);color:var(--surface)}
+.lesson-head b{display:block;font-size:16px}
+.lesson-head small{display:block;color:var(--muted);font-size:14px}
+.lesson-head .chev{margin-left:auto;color:var(--muted);transition:transform .2s;flex:none}
+.lesson-head[aria-expanded="true"] .chev{transform:rotate(90deg)}
+.lesson-body{padding:4px 18px 20px;border-top:1px solid var(--line)}
+.lesson-body h3{font-family:var(--serif);font-size:19px;font-weight:600;margin:22px 0 8px}
+.lesson-body ul,.lesson-body ol{padding-left:22px;margin:0 0 1em}
+.lesson-body li{margin-bottom:6px}
+.lesson-actions{margin-top:20px;display:flex;flex-wrap:wrap;gap:10px}
+
+/* Words */
+.seg{display:inline-flex;background:var(--sunk);border-radius:999px;padding:3px;margin-bottom:16px}
+.seg button{border:0;background:none;padding:7px 16px;border-radius:999px;font-size:14px;font-weight:600;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:var(--shadow)}
+.words{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.word{padding:16px 18px}
+.word-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.word h3{font-family:var(--serif);font-size:19px;margin:0 0 6px}
+.word p{margin:0 0 8px;font-size:15.5px;line-height:1.58}
+.word details summary{cursor:pointer;color:var(--accent);font-size:14px;font-weight:600}
+.empty{text-align:center;padding:36px 20px;color:var(--muted)}
+.empty b{display:block;font-family:var(--serif);font-size:20px;color:var(--ink);margin-bottom:6px}
+.flash{perspective:1200px;margin-bottom:14px}
+.flash-card{position:relative;min-height:260px;border-radius:var(--r);cursor:pointer;transform-style:preserve-3d;transition:transform .45s ease}
+.flash-card.flipped{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);
+  display:flex;flex-direction:column;justify-content:center;align-items:center;padding:22px;text-align:center;backface-visibility:hidden;-webkit-backface-visibility:hidden;overflow:auto}
+.face.back{transform:rotateY(180deg);text-align:left;align-items:flex-start;justify-content:flex-start}
+.face .big{font-family:var(--serif);font-size:28px;font-weight:600}
+.face small{color:var(--muted);margin-top:10px}
+.face p{margin:0 0 10px;font-size:15.5px;line-height:1.58}
+@media (prefers-reduced-motion:reduce){.flash-card{transition:none}}
+.flash-nav{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.note-small{font-size:13.5px;color:var(--muted);margin-top:18px}
+
+/* Past days */
+.days{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.day{width:100%;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:13px 16px;display:block}
+.day:hover{border-color:var(--muted)}
+.day .dl{font-size:13px;color:var(--muted);display:flex;gap:10px;justify-content:space-between}
+.day .dl .rd{color:var(--up);font-weight:600}
+.day .dh{font-family:var(--serif);font-size:16.5px;line-height:1.4;margin-top:3px}
+.day.current{border-color:var(--accent)}
+
+/* Sheet */
+.backdrop{position:fixed;inset:0;background:rgba(10,14,20,.45);z-index:50;display:flex;align-items:flex-end;justify-content:center;opacity:0;transition:opacity .2s}
+.backdrop.show{opacity:1}
+.sheet{background:var(--surface);width:100%;max-width:600px;border-radius:20px 20px 0 0;padding:10px 20px calc(20px + env(safe-area-inset-bottom));
+  max-height:85vh;overflow:auto;transform:translateY(24px);transition:transform .22s ease;box-shadow:0 -6px 30px rgba(0,0,0,.18)}
+.backdrop.show .sheet{transform:none}
+@media (prefers-reduced-motion:reduce){.backdrop,.sheet{transition:none}}
+@media (min-width:640px){.backdrop{align-items:center}.sheet{border-radius:20px;padding-bottom:22px}}
+.grab{width:40px;height:4px;border-radius:9px;background:var(--line);margin:4px auto 14px}
+.sheet h2{font-family:var(--serif);font-size:24px;font-weight:600;margin:0 0 10px}
+.sheet .sheet-body{font-family:var(--serif);font-size:17px;line-height:1.66}
+.sheet .sheet-body p{margin:0 0 .9em}
+.sheet .more{background:var(--sunk);border-radius:12px;padding:12px 14px;font-size:16px}
+.sheet-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translateX(-50%) translateY(20px);opacity:0;z-index:60;
+  background:var(--ink);color:var(--bg);padding:11px 18px;border-radius:12px;font-size:14.5px;max-width:calc(100vw - 32px);transition:opacity .2s,transform .2s;pointer-events:none;box-shadow:var(--shadow)}
+.toast.show{opacity:1;transform:translateX(-50%)}
+.loading{padding:60px 0;text-align:center;color:var(--muted)}
+.panel{margin-top:24px;background:var(--sunk);border-radius:var(--r);padding:16px 18px;font-size:15px;line-height:1.6}
+.panel p{margin:0 0 8px}.panel p:last-child{margin:0}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand"><b>Market Primer</b><span>the Indian market, explained simply</span></div>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button class="tab" role="tab" id="tab-today" aria-controls="view-today" aria-selected="true" data-view="today">Today</button>
+      <button class="tab" role="tab" id="tab-basics" aria-controls="view-basics" aria-selected="false" data-view="basics">Basics</button>
+      <button class="tab" role="tab" id="tab-words" aria-controls="view-words" aria-selected="false" data-view="words">My words</button>
+      <button class="tab" role="tab" id="tab-past" aria-controls="view-past" aria-selected="false" data-view="past">Past days</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="view" id="view-today" role="tabpanel" aria-labelledby="tab-today"><p class="loading">Loading the latest briefing…</p></div>
+  <div class="view" id="view-basics" role="tabpanel" aria-labelledby="tab-basics" hidden></div>
+  <div class="view" id="view-words" role="tabpanel" aria-labelledby="tab-words" hidden></div>
+  <div class="view" id="view-past" role="tabpanel" aria-labelledby="tab-past" hidden></div>
+</main>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ---------- Constants ---------- */
+  var CLAUDE_URL = "https://claude.ai/new?q=";
+  var MAX_URL = 3000;
+  var PREAMBLE = "I'm a complete beginner with zero financial knowledge, learning about the Indian stock market. Please answer in simple words, explain any jargon immediately, use Indian examples (₹, lakh, crore, SIPs, FDs), keep it under 250 words, and don't give me buy/sell advice.";
+  var NEG_MOODS = ["fearful", "cautious", "nervous", "anxious", "worried", "gloomy", "jittery", "tense", "bearish", "uneasy", "panicky", "shaky", "wary", "grim"];
+  var POS_MOODS = ["hopeful", "upbeat", "optimistic", "cheerful", "confident", "bullish", "buoyant", "relieved", "positive", "strong", "joyful"];
+
+  /* ---------- State ---------- */
+  var state = {
+    index: null,          // array of index entries, newest first
+    indexError: false,
+    cache: {},            // date -> briefing
+    current: null,        // briefing currently shown
+    lessons: null,
+    lessonText: {},       // id -> text | null (missing)
+    wordsMode: "list",
+    flashIndex: 0,
+    view: "today"
+  };
+
+  /* ---------- Storage (localStorage, never trusted to exist) ---------- */
+  var KEY = "marketPrimer.v1.";
+  function load(name, fallback) {
+    try {
+      var raw = window.localStorage.getItem(KEY + name);
+      return raw ? JSON.parse(raw) : fallback;
+    } catch (e) { return fallback; }
+  }
+  function save(name, value) {
+    try { window.localStorage.setItem(KEY + name, JSON.stringify(value)); } catch (e) { /* storage unavailable */ }
+  }
+
+  /* ---------- Helpers ---------- */
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function $(sel, root) { return (root || document).querySelector(sel); }
+  function $$(sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); }
+  function paras(text) {
+    return String(text || "").split(/\n\s*\n/).map(function (p) { return p.trim(); }).filter(Boolean);
+  }
+  function localDate(d) {
+    d = d || new Date();
+    var m = d.getMonth() + 1, day = d.getDate();
+    return d.getFullYear() + "-" + (m < 10 ? "0" : "") + m + "-" + (day < 10 ? "0" : "") + day;
+  }
+  function parseDate(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
+  function daysBetween(a, b) { return Math.round((parseDate(b) - parseDate(a)) / 86400000); }
+  function reRegex(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+
+  var toastTimer;
+  function toast(msg) {
+    var t = $("#toast");
+    t.textContent = msg;
+    t.classList.add("show");
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () { t.classList.remove("show"); }, 3800);
+  }
+
+  /* ---------- Jargon highlighting ----------
+     Works on HTML-escaped text. Each match is swapped for a private-use placeholder token,
+     so later terms can never match inside an earlier highlight or break tags. */
+  function highlight(text, terms, used) {
+    var html = esc(text);
+    var tokens = [];
+    var sorted = (terms || []).slice().sort(function (a, b) { return b.length - a.length; });
+    sorted.forEach(function (term) {
+      var key = term.toLowerCase();
+      if (used[key]) return;
+      var re = new RegExp("(^|[^\\w\\uE000])(" + reRegex(esc(term)) + "(?:es|s)?)(?![\\w])", "i");
+      var found = false;
+      html = html.replace(re, function (m, pre, word) {
+        found = true;
+        tokens.push('<button type="button" class="term" data-term="' + esc(term) + '">' + word + "</button>");
+        return pre + "" + (tokens.length - 1) + "";
+      });
+      if (found) used[key] = true;
+    });
+    return html.replace(/(\d+)/g, function (m, i) { return tokens[+i]; });
+  }
+  function proseHTML(text, terms, used) {
+    return paras(text).map(function (p) { return "<p>" + highlight(p, terms, used) + "</p>"; }).join("");
+  }
+
+  /* ---------- Claude hand-off ---------- */
+  function buildPrompt(b, story, question) {
+    function assemble(what) {
+      return PREAMBLE + "\n\nThis is from my Market Primer briefing for " + b.date + ".\n\nStory: " + story.title +
+        "\nIn short: " + story.tldr + (what ? "\nWhat happened: " + what : "") + "\n\nMy question: " + question;
+    }
+    var what = String(story.what_happened || "").replace(/\s*\n\s*\n\s*/g, " ");
+    var prompt = assemble(what);
+    while ((CLAUDE_URL + encodeURIComponent(prompt)).length > MAX_URL && what.length > 0) {
+      what = what.slice(0, Math.max(0, what.length - 80)).replace(/\s+\S*$/, "");
+      prompt = assemble(what ? what + "…" : "");
+    }
+    return prompt;
+  }
+  function lessonPrompt(lesson) {
+    return PREAMBLE + "\n\nPlease teach me a short beginner lesson called \"" + lesson.title + "\" (" + lesson.sub +
+      "). Use these parts: the big idea; an everyday analogy; a real Indian example; common misunderstandings; how it shows up in the news; and three things to remember.";
+  }
+  function openClaude(prompt) {
+    var url = CLAUDE_URL + encodeURIComponent(prompt);
+    var w = null;
+    try { w = window.open(url, "_blank"); } catch (e) { w = null; }
+    if (w) {
+      try { w.opener = null; } catch (e) { /* ignore */ }
+      return;
+    }
+    copyText(prompt).then(function (ok) {
+      toast(ok ? "Your browser blocked the new tab. The question is copied, so paste it into claude.ai."
+               : "Your browser blocked the new tab. Please allow pop-ups for this site and try again.");
+    });
+  }
+  function copyText(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text).then(function () { return true; }, function () { return fallbackCopy(text); });
+    }
+    return Promise.resolve(fallbackCopy(text));
+  }
+  function fallbackCopy(text) {
+    try {
+      var ta = document.createElement("textarea");
+      ta.value = text; ta.setAttribute("readonly", ""); ta.style.position = "fixed"; ta.style.opacity = "0";
+      document.body.appendChild(ta); ta.select();
+      var ok = document.execCommand("copy");
+      document.body.removeChild(ta);
+      return ok;
+    } catch (e) { return false; }
+  }
+
+  /* ---------- Saved words, reading log ---------- */
+  function getWords() { return load("words", []); }
+  function isSaved(term) {
+    var k = term.toLowerCase();
+    return getWords().some(function (w) { return w.term.toLowerCase() === k; });
+  }
+  function saveWord(entry) {
+    var words = getWords();
+    var k = entry.term.toLowerCase();
+    if (words.some(function (w) { return w.term.toLowerCase() === k; })) return false;
+    words.push({ term: entry.term, definition: entry.definition || "", more: entry.more || "", savedAt: Date.now() });
+    save("words", words);
+    updateStats();
+    return true;
+  }
+  function removeWord(term) {
+    var k = term.toLowerCase();
+    save("words", getWords().filter(function (w) { return w.term.toLowerCase() !== k; }));
+    updateStats();
+  }
+  function streak() {
+    var log = load("readLog", []);
+    if (!log.length) return 0;
+    var set = {};
+    log.forEach(function (d) { set[d] = true; });
+    var d = new Date();
+    if (!set[localDate(d)]) {
+      d.setDate(d.getDate() - 1);
+      if (!set[localDate(d)]) return 0;
+    }
+    var n = 0;
+    while (set[localDate(d)]) { n++; d.setDate(d.getDate() - 1); }
+    return n;
+  }
+  function updateStats() {
+    var s = $("#stat-streak"), w = $("#stat-words");
+    if (s) s.textContent = streak();
+    if (w) w.textContent = getWords().length;
+  }
+
+  /* ---------- Bottom sheet ---------- */
+  var sheetState = null;
+  function openSheet(opts) {
+    closeSheet(true);
+    var back = document.createElement("div");
+    back.className = "backdrop";
+    back.innerHTML = '<div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title">' +
+      '<div class="grab" aria-hidden="true"></div>' +
+      (opts.eyebrow ? '<p class="eyebrow">' + esc(opts.eyebrow) + "</p>" : "") +
+      '<h2 id="sheet-title">' + esc(opts.title) + "</h2>" +
+      '<div class="sheet-body">' + opts.body + "</div>" +
+      '<div class="sheet-actions">' + (opts.actions || "") + '<button type="button" class="btn quiet" data-close>Close</button></div></div>';
+    document.body.appendChild(back);
+    sheetState = { el: back, returnTo: document.activeElement };
+    back.addEventListener("click", function (e) {
+      if (e.target === back || e.target.closest("[data-close]")) closeSheet();
+    });
+    if (opts.onReady) opts.onReady(back);
+    requestAnimationFrame(function () { back.classList.add("show"); });
+    var first = $(".sheet-actions button", back);
+    if (first) first.focus({ preventScroll: true });
+  }
+  function closeSheet(immediate) {
+    if (!sheetState) return;
+    var s = sheetState;
+    sheetState = null;
+    s.el.classList.remove("show");
+    setTimeout(function () { if (s.el.parentNode) s.el.parentNode.removeChild(s.el); }, immediate ? 0 : 200);
+    if (s.returnTo && s.returnTo.focus && !immediate) s.returnTo.focus({ preventScroll: true });
+  }
+  document.addEventListener("keydown", function (e) {
+    if (!sheetState) return;
+    if (e.key === "Escape") { closeSheet(); return; }
+    if (e.key === "Tab") {
+      var f = $$("button, a, input", sheetState.el);
+      if (!f.length) return;
+      if (e.shiftKey && document.activeElement === f[0]) { e.preventDefault(); f[f.length - 1].focus(); }
+      else if (!e.shiftKey && document.activeElement === f[f.length - 1]) { e.preventDefault(); f[0].focus(); }
+    }
+  });
+
+  function glossaryEntry(term) {
+    var b = state.current;
+    if (!b) return null;
+    var k = term.toLowerCase();
+    var g = (b.glossary || []).filter(function (x) { return x.term.toLowerCase() === k; })[0];
+    return g || null;
+  }
+  function openTermSheet(term) {
+    var g = glossaryEntry(term) || { term: term, definition: "No definition was found for this word in today's briefing.", more: "" };
+    var saved = isSaved(g.term);
+    openSheet({
+      eyebrow: "Word",
+      title: g.term,
+      body: "<p>" + esc(g.definition) + "</p>" + '<div class="more" id="sheet-more" hidden>' + paras(g.more).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("") + "</div>",
+      actions: '<button type="button" class="btn primary" data-save' + (saved ? " disabled" : "") + ">" + (saved ? "Saved ✓" : "Save to my words") + "</button>" +
+        (g.more ? '<button type="button" class="btn" data-more aria-expanded="false" aria-controls="sheet-more">Explain more</button>' : ""),
+      onReady: function (el) {
+        var sb = $("[data-save]", el), mb = $("[data-more]", el);
+        sb.addEventListener("click", function () {
+          if (saveWord(g)) toast("Saved “" + g.term + "” to My words.");
+          sb.textContent = "Saved ✓"; sb.disabled = true;
+        });
+        if (mb) mb.addEventListener("click", function () {
+          var m = $("#sheet-more", el);
+          var open = m.hidden;
+          m.hidden = !open;
+          mb.setAttribute("aria-expanded", String(open));
+          mb.textContent = open ? "Show less" : "Explain more";
+        });
+      }
+    });
+  }
+
+  /* ---------- Views ---------- */
+  function setView(name, opts) {
+    opts = opts || {};
+    state.view = name;
+    $$(".tab").forEach(function (t) { t.setAttribute("aria-selected", String(t.dataset.view === name)); });
+    $$(".view").forEach(function (v) { v.hidden = v.id !== "view-" + name; });
+    if (name === "basics") renderBasics();
+    if (name === "words") renderWords();
+    if (name === "past") renderPast();
+    if (name === "today") updateStats();
+    if (!opts.keepScroll) window.scrollTo(0, 0);
+    var hash = name === "today" ? "" : "#" + name;
+    if (location.hash !== hash) {
+      try { history.replaceState(null, "", location.pathname + location.search + hash); } catch (e) { /* ignore */ }
+    }
+  }
+  $$(".tab").forEach(function (t) {
+    t.addEventListener("click", function () { setView(t.dataset.view); });
+  });
+  document.querySelector(".tabs").addEventListener("keydown", function (e) {
+    if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+    var tabs = $$(".tab"), i = tabs.indexOf(document.activeElement);
+    if (i < 0) return;
+    var n = tabs[(i + (e.key === "ArrowRight" ? 1 : tabs.length - 1)) % tabs.length];
+    n.focus(); n.click();
+  });
+
+  /* ---------- Data loading ---------- */
+  function fetchJSON(url) {
+    return fetch(url, { cache: "no-store" }).then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    });
+  }
+  function loadIndex() {
+    return fetchJSON("briefings/index.json?v=" + Date.now()).then(function (data) {
+      var list = (data && data.briefings) || [];
+      list.sort(function (a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; });
+      state.index = list;
+    }, function () { state.indexError = true; state.index = []; });
+  }
+  function loadBriefing(date) {
+    if (state.cache[date]) return Promise.resolve(state.cache[date]);
+    return fetchJSON("briefings/" + encodeURIComponent(date) + ".json").then(function (b) {
+      state.cache[date] = b;
+      return b;
+    });
+  }
+  function showBriefing(date) {
+    var v = $("#view-today");
+    v.innerHTML = '<p class="loading">Loading…</p>';
+    return loadBriefing(date).then(function (b) {
+      state.current = b;
+      renderToday(b);
+    }, function () {
+      v.innerHTML = '<div class="notice"><p>That briefing couldn’t be loaded. Please check your connection and refresh the page.</p></div>';
+    });
+  }
+
+  /* ---------- Today ---------- */
+  function moodClass(m) {
+    var k = String(m || "").toLowerCase();
+    if (NEG_MOODS.indexOf(k) >= 0) return "neg";
+    if (POS_MOODS.indexOf(k) >= 0) return "pos";
+    return "";
+  }
+
+  function renderToday(b) {
+    var latest = state.index && state.index[0];
+    var readMap = load("read", {});
+    var notices = "";
+    if (latest && latest.date !== b.date) {
+      notices += '<div class="notice"><p>You’re reading an older briefing from ' + esc(b.session_label) + ".</p>" +
+        '<button type="button" class="btn" data-latest>Go to the latest</button></div>';
+    } else if (latest && daysBetween(latest.date, localDate()) > 4) {
+      notices += '<div class="notice"><p>This is the most recent briefing, but it’s a few days old. Markets may have been closed for holidays, or the daily routine may have paused. You can check it at <a href="https://claude.ai/code/routines" target="_blank" rel="noopener">claude.ai/code/routines</a>.</p></div>';
+    }
+
+    var h = notices;
+
+    // 1. Hero
+    h += '<header class="hero">' +
+      '<p class="meta">' + esc(b.session_label) + " · " + esc(b.prepared_for) + "</p>" +
+      "<h1>" + esc(b.headline) + "</h1>" +
+      '<div class="pills"><span class="pill ' + moodClass(b.mood) + '">Mood: ' + esc(b.mood) + '</span><span class="pill">' + esc(b.reading_minutes) + " min read</span></div>" +
+      '<p class="mood-note">' + esc(b.mood_note) + "</p></header>";
+
+    // 2. One minute
+    h += '<section class="minute" aria-labelledby="h-minute"><h2 id="h-minute">If you only have one minute</h2><ul>' +
+      (b.one_minute || []).map(function (s) { return "<li>" + esc(s) + "</li>"; }).join("") + "</ul></section>";
+
+    // 3. Stats
+    h += '<div class="stats">' +
+      '<div class="stat"><b id="stat-streak">0</b><span>day reading streak</span></div>' +
+      '<div class="stat"><b id="stat-words">0</b><span>saved words</span></div>' +
+      '<div class="stat hint">Tap any <mark class="hl">highlighted word</mark> for a quick explanation.</div></div>';
+
+    // 4. Since yesterday
+    if (b.since_yesterday && b.since_yesterday.length) {
+      h += '<section class="block since" aria-labelledby="h-since"><p class="eyebrow">Follow-ups</p><h2 class="sec" id="h-since">Since your last briefing</h2><div class="card"><ul>' +
+        b.since_yesterday.map(function (s) { return "<li>" + esc(s) + "</li>"; }).join("") + "</ul></div></section>";
+    }
+
+    // 5. Chain + big picture
+    h += '<section class="block" aria-labelledby="h-chain"><p class="eyebrow">The big picture</p><h2 class="sec" id="h-chain">How today’s news connects</h2>' +
+      '<ol class="chain animate">' + (b.chain || []).map(function (c, i) {
+        return '<li style="animation-delay:' + (i * 110) + 'ms"><span class="num" aria-hidden="true">' + (i + 1) + '</span><div class="step"><b>' + esc(c.label) + "</b><span>" + esc(c.note) + "</span></div></li>";
+      }).join("") + "</ol>" +
+      '<div class="prose">' + paras(b.big_picture).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("") + "</div></section>";
+
+    // 6. Snapshot
+    if (b.snapshot && b.snapshot.length) {
+      h += '<section class="block" aria-labelledby="h-nums"><p class="eyebrow">Snapshot</p><h2 class="sec" id="h-nums">The numbers, and what they mean</h2><div class="tiles">' +
+        b.snapshot.map(function (t, i) {
+          var arrow = t.direction === "up" ? "▲ " : t.direction === "down" ? "▼ " : "";
+          var dir = t.direction === "up" ? "up" : t.direction === "down" ? "down" : "flat";
+          return '<button type="button" class="tile" data-tile="' + i + '"><span class="n">' + esc(t.name) + "</span>" +
+            (t.value ? '<span class="v">' + esc(t.value) + "</span>" : "") +
+            '<span class="c ' + dir + '">' + arrow + esc(t.change) + "</span></button>";
+        }).join("") + '</div><p class="tiles-hint">Tap a number to see what it measures.</p></section>';
+    }
+
+    // 7. Stories
+    h += '<section class="block" aria-labelledby="h-stories"><p class="eyebrow">' + (b.stories || []).length + ' stories</p><h2 class="sec" id="h-stories">Today’s stories</h2>';
+    (b.stories || []).forEach(function (s) { h += storyHTML(b, s); });
+    h += "</section>";
+
+    // 9. Concept
+    if (b.concept) {
+      var c = b.concept;
+      h += '<section class="block" aria-labelledby="h-concept"><p class="eyebrow">Concept of the day</p><h2 class="sec sr-only" id="h-concept">Concept of the day</h2>' +
+        '<div class="concept"><p class="term-big"><mark class="hl">' + esc(c.term) + "</mark></p>" +
+        '<div class="prose">' + paras(c.explanation).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("") + "</div>" +
+        '<div class="callout"><h4>Where you saw it today</h4><div class="prose">' + paras(c.example).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("") + "</div></div>" +
+        '<p class="takeaway">' + esc(c.takeaway) + "</p>" +
+        '<button type="button" class="btn" data-save-concept' + (isSaved(c.term) ? " disabled>Saved ✓" : ">Save to my words") + "</button></div></section>";
+    }
+
+    // 10. Quiz
+    if (b.quiz && b.quiz.length) {
+      var prev = load("quiz", {})[b.date];
+      h += '<section class="block" aria-labelledby="h-quiz"><p class="eyebrow">Quiz</p><h2 class="sec" id="h-quiz">Check your understanding</h2>' +
+        (prev ? '<p class="muted">Last time you scored ' + prev.score + " out of " + prev.total + ". Try again if you like.</p>" : "") +
+        b.quiz.map(function (q, qi) {
+          return '<div class="card q" data-q="' + qi + '"><h3><span>' + (qi + 1) + ".</span>" + esc(q.q) + '</h3><div class="opts">' +
+            q.options.map(function (o, oi) {
+              return '<button type="button" class="opt" data-opt="' + oi + '"><span class="k" aria-hidden="true">' + "ABCD"[oi] + "</span><span>" + esc(o) + "</span></button>";
+            }).join("") + '</div><div class="why-slot" aria-live="polite"></div></div>';
+        }).join("") + '<div id="quiz-score" aria-live="polite"></div></section>';
+    }
+
+    // 11. Finish
+    var isRead = !!readMap[b.date];
+    h += '<section class="block"><div class="card finish"><h2 class="sec">Finished reading?</h2><p>Marking it as read keeps your streak going.</p>' +
+      '<button type="button" class="btn primary" data-mark-read' + (isRead ? " disabled>Marked as read ✓" : ">Mark as read") + "</button></div></section>";
+
+    // 12. Sources
+    h += '<section class="block" aria-labelledby="h-src"><p class="eyebrow">Sources</p><h2 class="sec" id="h-src">Where these facts came from</h2><ol class="sources">' +
+      (b.sources || []).map(function (s) {
+        return '<li><a href="' + esc(s.url) + '" target="_blank" rel="noopener noreferrer">' + esc(s.title) + "</a></li>";
+      }).join("") + "</ol>" +
+      '<p class="disclaimer">This briefing is written automatically each weekday to help you learn. It is not financial advice, and it doesn’t recommend buying or selling anything. Figures are as reported on the day and may since have changed or been revised.</p></section>';
+
+    var v = $("#view-today");
+    v.innerHTML = h;
+    bindToday(v, b);
+    updateStats();
+  }
+
+  function storyHTML(b, s) {
+    var used = {};
+    var terms = s.terms || [];
+    var imp = s.implications || {};
+    var lens = function (label, key) {
+      return '<div class="lens"><b>' + label + "</b><p>" + highlight(imp[key] || "", terms, used) + "</p></div>";
+    };
+    var h = '<article class="card story" id="story-' + esc(s.id) + '" data-story="' + esc(s.id) + '">' +
+      '<span class="cat">' + esc(s.category) + "</span>" +
+      "<h3>" + esc(s.title) + "</h3>" +
+      '<p class="tldr">' + esc(s.tldr) + "</p>" +
+      "<h4>What happened</h4><div class=\"prose\">" + proseHTML(s.what_happened, terms, used) + "</div>" +
+      "<h4>In plain English</h4><div class=\"prose\">" + proseHTML(s.simple_explanation, terms, used) + "</div>" +
+      '<div class="callout"><h4>Think of it like this</h4><div class="prose">' + proseHTML(s.analogy, terms, used) + "</div></div>" +
+      "<h4>Why it happened</h4><div class=\"prose\">" + proseHTML(s.why, terms, used) + "</div>" +
+      '<h4>What it means for…</h4><div class="lenses">' +
+      lens("Your money", "you") + lens("The stock market", "markets") + lens("India’s economy", "economy") + lens("Prices you pay", "prices") +
+      "</div>" +
+      '<h4>Watch next</h4><p class="watch">' + highlight(s.watch || "", terms, used) + "</p>";
+    if (terms.length) {
+      h += '<h4>Words in this story</h4><div class="chips">' + terms.map(function (t) {
+        return '<button type="button" class="chip term-chip" data-term="' + esc(t) + '">' + esc(t) + "</button>";
+      }).join("") + "</div>";
+    }
+    var inputId = "ask-" + esc(s.id);
+    h += '<details class="ask"><summary>Still confused? Ask about this story</summary><div class="ask-body">' +
+      '<p class="ask-label">Answered here</p><div class="chips">' +
+      '<button type="button" class="chip" data-explain="like12" aria-pressed="false">Explain like I’m 12</button>' +
+      '<button type="button" class="chip" data-explain="real_life" aria-pressed="false">Real-life example</button></div>' +
+      '<div class="answer" data-answer hidden aria-live="polite"></div>' +
+      '<p class="ask-label" style="margin-top:16px">Ask Claude</p><div class="chips">' +
+      '<button type="button" class="chip ext" data-ask="What does this mean for my SIP? I invest a fixed amount every month in a mutual fund.">What about my SIP?</button>' +
+      '<button type="button" class="chip ext" data-ask="Has something like this happened before in India? What happened next?">Has this happened before?</button></div>' +
+      '<form class="askrow" data-askform><label class="sr-only" for="' + inputId + '">Your question about this story</label>' +
+      '<input id="' + inputId + '" type="text" placeholder="Type your own question" autocomplete="off" enterkeyhint="send">' +
+      '<button type="submit" class="btn primary">Ask Claude</button></form>' +
+      '<p class="ask-hint">Opens Claude in a new tab with this story and your question filled in.</p>' +
+      "</div></details></article>";
+    return h;
+  }
+
+  function bindToday(v, b) {
+    var latestBtn = $("[data-latest]", v);
+    if (latestBtn) latestBtn.addEventListener("click", function () { showBriefing(state.index[0].date).then(function () { window.scrollTo(0, 0); }); });
+
+    delete quizAnswers[b.date];
+    if (v._onClick) v.removeEventListener("click", v._onClick);
+    v._onClick = function (e) {
+      var t = e.target.closest("[data-term]");
+      if (t) { openTermSheet(t.getAttribute("data-term")); return; }
+
+      var tile = e.target.closest("[data-tile]");
+      if (tile) {
+        var sn = b.snapshot[+tile.getAttribute("data-tile")];
+        openSheet({
+          eyebrow: "The numbers",
+          title: sn.name,
+          body: (sn.value ? '<p><b>' + esc(sn.value) + "</b> · " + esc(sn.change) + "</p>" : "<p><b>" + esc(sn.change) + "</b></p>") +
+            paras(sn.what_it_is).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("")
+        });
+        return;
+      }
+
+      var ex = e.target.closest("[data-explain]");
+      if (ex) {
+        var art = ex.closest("[data-story]");
+        var story = findStory(b, art.getAttribute("data-story"));
+        var box = $("[data-answer]", art);
+        var kind = ex.getAttribute("data-explain");
+        var wasOn = ex.getAttribute("aria-pressed") === "true";
+        $$("[data-explain]", art).forEach(function (c) { c.setAttribute("aria-pressed", "false"); });
+        if (wasOn) { box.hidden = true; box.innerHTML = ""; return; }
+        ex.setAttribute("aria-pressed", "true");
+        var text = (story.explainers && story.explainers[kind]) || "This explanation isn’t available for this story.";
+        box.innerHTML = paras(text).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("");
+        box.hidden = false;
+        return;
+      }
+
+      var ask = e.target.closest("[data-ask]");
+      if (ask) {
+        var st = findStory(b, ask.closest("[data-story]").getAttribute("data-story"));
+        openClaude(buildPrompt(b, st, ask.getAttribute("data-ask")));
+        return;
+      }
+
+      var opt = e.target.closest("[data-opt]");
+      if (opt && !opt.disabled) { answerQuiz(b, opt); return; }
+
+      if (e.target.closest("[data-save-concept]")) {
+        var btn = e.target.closest("[data-save-concept]");
+        var c = b.concept;
+        var g = glossaryEntry(c.term);
+        if (saveWord({ term: c.term, definition: g ? g.definition : c.takeaway, more: g ? g.more : c.explanation })) toast("Saved “" + c.term + "” to My words.");
+        btn.textContent = "Saved ✓"; btn.disabled = true;
+        return;
+      }
+
+      if (e.target.closest("[data-mark-read]")) {
+        var mb = e.target.closest("[data-mark-read]");
+        var readMap = load("read", {});
+        readMap[b.date] = true;
+        save("read", readMap);
+        var log = load("readLog", []);
+        var today = localDate();
+        if (log.indexOf(today) < 0) { log.push(today); save("readLog", log); }
+        mb.textContent = "Marked as read ✓"; mb.disabled = true;
+        updateStats();
+        toast("Nicely done. Your streak is " + streak() + (streak() === 1 ? " day." : " days."));
+      }
+    };
+    v.addEventListener("click", v._onClick);
+
+    $$("[data-askform]", v).forEach(function (f) {
+      f.addEventListener("submit", function (e) {
+        e.preventDefault();
+        var input = $("input", f);
+        var q = input.value.trim();
+        if (!q) { input.focus(); toast("Type a question first."); return; }
+        var st = findStory(b, f.closest("[data-story]").getAttribute("data-story"));
+        openClaude(buildPrompt(b, st, q));
+      });
+    });
+  }
+
+  function findStory(b, id) {
+    return (b.stories || []).filter(function (s) { return s.id === id; })[0];
+  }
+
+  var quizAnswers = {};
+  function answerQuiz(b, opt) {
+    var card = opt.closest("[data-q]");
+    var qi = +card.getAttribute("data-q");
+    var q = b.quiz[qi];
+    var chosen = +opt.getAttribute("data-opt");
+    var correct = chosen === q.answer;
+    $$(".opt", card).forEach(function (o) {
+      var i = +o.getAttribute("data-opt");
+      o.disabled = true;
+      if (i === q.answer) o.classList.add("right");
+      else if (i === chosen) o.classList.add("wrong");
+    });
+    $(".why-slot", card).innerHTML = '<p class="why"><b>' + (correct ? "Right." : "Not quite.") + "</b>" + esc(q.why) + "</p>";
+    if (!quizAnswers[b.date]) quizAnswers[b.date] = {};
+    quizAnswers[b.date][qi] = correct;
+    var answered = Object.keys(quizAnswers[b.date]).length;
+    if (answered === b.quiz.length) {
+      var score = Object.keys(quizAnswers[b.date]).filter(function (k) { return quizAnswers[b.date][k]; }).length;
+      var all = load("quiz", {});
+      all[b.date] = { score: score, total: b.quiz.length };
+      save("quiz", all);
+      var msg = score === b.quiz.length ? "Perfect. You’ve really got today’s ideas." :
+        score >= b.quiz.length / 2 ? "Good going. Re-read the explanations for any you missed." :
+        "That’s fine. These ideas take a few days to sink in, so try the Basics tab too.";
+      $("#quiz-score").innerHTML = '<div class="card score"><b>' + score + " out of " + b.quiz.length + "</b><span class=\"muted\">" + msg + "</span></div>";
+      delete quizAnswers[b.date];
+    }
+  }
+
+  /* ---------- Basics ---------- */
+  function renderBasics() {
+    var v = $("#view-basics");
+    if (!state.lessons) {
+      v.innerHTML = '<p class="loading">Loading lessons…</p>';
+      fetchJSON("lessons/lessons.json?v=" + Date.now()).then(function (d) {
+        state.lessons = (d && d.lessons) || [];
+        renderBasics();
+      }, function () {
+        v.innerHTML = '<div class="notice"><p>The lessons couldn’t be loaded. Please refresh in a minute.</p></div>';
+      });
+      return;
+    }
+    var done = load("lessonsDone", []);
+    var n = state.lessons.length;
+    var finished = state.lessons.filter(function (l) { return done.indexOf(l.id) >= 0; }).length;
+    var h = '<p class="eyebrow">The course</p><h2 class="sec">Basics, one idea at a time</h2>' +
+      '<div class="progress"><div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="' + n + '" aria-valuenow="' + finished + '" aria-label="Lessons finished"><i style="width:' + (n ? finished / n * 100 : 0) + '%"></i></div>' +
+      '<span class="muted" style="font-size:14px">Finished ' + finished + " of " + n + "</span></div>" +
+      '<ol class="lessons">' + state.lessons.map(function (l, i) {
+        var isDone = done.indexOf(l.id) >= 0;
+        return '<li class="lesson' + (isDone ? " done" : "") + '" id="lesson-' + esc(l.id) + '">' +
+          '<button type="button" class="lesson-head" aria-expanded="false" aria-controls="lb-' + esc(l.id) + '" data-lesson="' + esc(l.id) + '">' +
+          '<span class="ln" aria-hidden="true">' + (isDone ? "✓" : i + 1) + "</span><span><b>" + esc(l.title) + "</b><small>" + esc(l.sub) + "</small></span>" +
+          '<svg class="chev" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>' +
+          (isDone ? '<span class="sr-only">(finished)</span>' : "") + "</button>" +
+          '<div class="lesson-body" id="lb-' + esc(l.id) + '" hidden></div></li>';
+      }).join("") + "</ol>" +
+      '<p class="note-small">A new lesson is added automatically with the daily briefing until the course is complete. Progress is saved on this device only.</p>';
+    v.innerHTML = h;
+    $$("[data-lesson]", v).forEach(function (btn) {
+      btn.addEventListener("click", function () { toggleLesson(btn.getAttribute("data-lesson")); });
+    });
+  }
+
+  function toggleLesson(id) {
+    var li = $("#lesson-" + id), btn = $(".lesson-head", li), body = $(".lesson-body", li);
+    var open = btn.getAttribute("aria-expanded") === "true";
+    if (open) { btn.setAttribute("aria-expanded", "false"); body.hidden = true; return; }
+    btn.setAttribute("aria-expanded", "true");
+    body.hidden = false;
+    var lesson = state.lessons.filter(function (l) { return l.id === id; })[0];
+    var fill = function () {
+      var text = state.lessonText[id];
+      var done = load("lessonsDone", []).indexOf(id) >= 0;
+      if (text == null) {
+        body.innerHTML = '<p class="prose" style="margin-top:14px">This lesson hasn’t been written yet. It will be added automatically soon, with one new lesson arriving alongside a daily briefing.</p>' +
+          '<div class="lesson-actions"><button type="button" class="btn primary" data-learn>Learn it with Claude now ↗</button></div>';
+        $("[data-learn]", body).addEventListener("click", function () { openClaude(lessonPrompt(lesson)); });
+      } else {
+        body.innerHTML = '<div class="prose">' + renderMarkdown(text) + "</div>" +
+          '<div class="lesson-actions"><button type="button" class="btn ' + (done ? "" : "primary") + '" data-done>' + (done ? "Mark as not done" : "I’ve understood this") + "</button></div>";
+        $("[data-done]", body).addEventListener("click", function () {
+          var list = load("lessonsDone", []);
+          var k = list.indexOf(id);
+          if (k >= 0) list.splice(k, 1); else list.push(id);
+          save("lessonsDone", list);
+          var y = window.scrollY;
+          renderBasics();
+          toggleLesson(id);
+          window.scrollTo(0, y);
+        });
+      }
+    };
+    if (id in state.lessonText) { fill(); }
+    else {
+      body.innerHTML = '<p class="loading" style="padding:20px 0">Loading…</p>';
+      fetch("lessons/" + encodeURIComponent(id) + ".txt", { cache: "no-store" }).then(function (r) {
+        if (r.status === 404) return null;
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.text();
+      }).then(function (t) { state.lessonText[id] = t; fill(); }, function () {
+        body.innerHTML = '<p class="muted" style="margin-top:14px">This lesson couldn’t be loaded. Check your connection and try again.</p>';
+      });
+    }
+    requestAnimationFrame(function () { li.scrollIntoView({ block: "start", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); });
+  }
+
+  // Tiny safe Markdown renderer: ## headings, bullets, numbered lists, **bold**, paragraphs.
+  function renderMarkdown(md) {
+    var inline = function (s) { return esc(s).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>"); };
+    var out = [], para = [], list = null;
+    function flushPara() { if (para.length) { out.push("<p>" + inline(para.join(" ")) + "</p>"); para = []; } }
+    function flushList() { if (list) { out.push("<" + list.type + ">" + list.items.map(function (i) { return "<li>" + inline(i) + "</li>"; }).join("") + "</" + list.type + ">"); list = null; } }
+    String(md).replace(/\r\n?/g, "\n").split("\n").forEach(function (line) {
+      var m;
+      if (/^\s*$/.test(line)) { flushPara(); flushList(); return; }
+      if ((m = line.match(/^#{1,6}\s+(.*)$/))) { flushPara(); flushList(); out.push("<h3>" + inline(m[1]) + "</h3>"); return; }
+      if ((m = line.match(/^\s*[-*]\s+(.*)$/))) { flushPara(); if (!list || list.type !== "ul") { flushList(); list = { type: "ul", items: [] }; } list.items.push(m[1]); return; }
+      if ((m = line.match(/^\s*\d+[.)]\s+(.*)$/))) { flushPara(); if (!list || list.type !== "ol") { flushList(); list = { type: "ol", items: [] }; } list.items.push(m[1]); return; }
+      if (list) { list.items[list.items.length - 1] += " " + line.trim(); return; }
+      para.push(line.trim());
+    });
+    flushPara(); flushList();
+    return out.join("");
+  }
+
+  /* ---------- My words ---------- */
+  function renderWords() {
+    var v = $("#view-words");
+    var words = getWords().slice().sort(function (a, b) { return (b.savedAt || 0) - (a.savedAt || 0); });
+    var h = '<p class="eyebrow">Your vocabulary</p><h2 class="sec">My words</h2>';
+    if (!words.length) {
+      v.innerHTML = h + '<div class="card empty"><b>No saved words yet</b>When you tap a highlighted word in a story, choose “Save to my words” and it will appear here for revision.</div>' +
+        '<p class="note-small">Words are saved on this device only.</p>';
+      return;
+    }
+    h += '<div class="seg" role="group" aria-label="View as"><button type="button" data-mode="list" aria-pressed="' + (state.wordsMode === "list") + '">List</button>' +
+      '<button type="button" data-mode="cards" aria-pressed="' + (state.wordsMode === "cards") + '">Flashcards</button></div>';
+    if (state.wordsMode === "list") {
+      h += '<ul class="words">' + words.map(function (w) {
+        return '<li class="card word"><div class="word-top"><h3>' + esc(w.term) + '</h3><button type="button" class="btn quiet" data-remove="' + esc(w.term) + '" aria-label="Remove ' + esc(w.term) + '">Remove</button></div>' +
+          "<p>" + esc(w.definition) + "</p>" +
+          (w.more ? "<details><summary>Explain more</summary>" + paras(w.more).map(function (p) { return "<p style=\"margin-top:8px\">" + esc(p) + "</p>"; }).join("") + "</details>" : "") + "</li>";
+      }).join("") + "</ul>";
+    } else {
+      if (state.flashIndex >= words.length) state.flashIndex = 0;
+      var w = words[state.flashIndex];
+      h += '<div class="flash"><div class="flash-card" role="button" tabindex="0" aria-label="Flashcard for ' + esc(w.term) + '. Press to flip." aria-pressed="false">' +
+        '<div class="face front"><span class="big">' + esc(w.term) + "</span><small>Tap to see the meaning</small></div>" +
+        '<div class="face back"><p><b>' + esc(w.term) + "</b></p><p>" + esc(w.definition) + "</p>" + (w.more ? '<p class="muted">' + esc(w.more) + "</p>" : "") + "</div></div></div>" +
+        '<div class="flash-nav"><button type="button" class="btn" data-prev' + (words.length < 2 ? " disabled" : "") + '>Previous</button><span class="muted" aria-live="polite">' + (state.flashIndex + 1) + " of " + words.length + '</span><button type="button" class="btn" data-next' + (words.length < 2 ? " disabled" : "") + ">Next</button></div>";
+    }
+    h += '<p class="note-small">Words are saved on this device only.</p>';
+    v.innerHTML = h;
+
+    $$("[data-mode]", v).forEach(function (b) {
+      b.addEventListener("click", function () { state.wordsMode = b.getAttribute("data-mode"); renderWords(); });
+    });
+    $$("[data-remove]", v).forEach(function (b) {
+      b.addEventListener("click", function () { removeWord(b.getAttribute("data-remove")); renderWords(); toast("Removed."); });
+    });
+    var card = $(".flash-card", v);
+    if (card) {
+      var flip = function () { var f = card.classList.toggle("flipped"); card.setAttribute("aria-pressed", String(f)); };
+      card.addEventListener("click", flip);
+      card.addEventListener("keydown", function (e) { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); flip(); } });
+      $("[data-prev]", v).addEventListener("click", function () { state.flashIndex = (state.flashIndex - 1 + words.length) % words.length; renderWords(); });
+      $("[data-next]", v).addEventListener("click", function () { state.flashIndex = (state.flashIndex + 1) % words.length; renderWords(); });
+    }
+  }
+
+  /* ---------- Past days ---------- */
+  function renderPast() {
+    var v = $("#view-past");
+    var h = '<p class="eyebrow">Archive</p><h2 class="sec">Past days</h2>';
+    if (state.indexError) {
+      h += '<div class="notice"><p>The list of briefings couldn’t be loaded. If this site was just set up, GitHub Pages may still be publishing. Please refresh in a minute.</p></div>';
+    } else if (!state.index || !state.index.length) {
+      h += '<div class="card empty"><b>No briefings yet</b>The first one will appear after the next weekday evening run.</div>';
+    } else {
+      var readMap = load("read", {});
+      var cur = state.current && state.current.date;
+      h += '<ul class="days">' + state.index.map(function (e) {
+        return '<li><button type="button" class="day' + (e.date === cur ? " current" : "") + '" data-date="' + esc(e.date) + '">' +
+          '<span class="dl"><span>' + esc(e.session_label) + "</span>" + (readMap[e.date] ? '<span class="rd">Read ✓</span>' : "") + "</span>" +
+          '<span class="dh">' + esc(e.headline) + "</span></button></li>";
+      }).join("") + "</ul>";
+    }
+    h += '<div class="panel"><p><b>How new briefings arrive.</b> An automated routine researches the day’s market news and publishes a new briefing every weekday evening, after the market closes at 3:30 pm India time.</p><p>It skips weekends and market holidays, so there’s no briefing on days the market is shut.</p></div>';
+    v.innerHTML = h;
+    $$("[data-date]", v).forEach(function (b) {
+      b.addEventListener("click", function () {
+        setView("today");
+        showBriefing(b.getAttribute("data-date"));
+      });
+    });
+  }
+
+  /* ---------- Start ---------- */
+  function start() {
+    var initial = (location.hash || "").replace("#", "");
+    if (["basics", "words", "past"].indexOf(initial) >= 0) setView(initial, { keepScroll: true });
+    loadIndex().then(function () {
+      if (state.indexError) {
+        $("#view-today").innerHTML = '<div class="notice"><p>Today’s briefing couldn’t be loaded yet. If this site was only just set up, GitHub Pages may still be publishing. Please refresh in a minute.</p></div>';
+        if (state.view === "past") renderPast();
+        return;
+      }
+      if (!state.index.length) {
+        $("#view-today").innerHTML = '<div class="card empty"><b>No briefings yet</b>The first briefing will appear after the next weekday evening run.</div>';
+        return;
+      }
+      showBriefing(state.index[0].date).then(function () { if (state.view === "past") renderPast(); });
+    });
+  }
+  start();
+})();
+</script>
+</body>
+</html>
