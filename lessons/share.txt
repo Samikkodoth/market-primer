@@ -1,0 +1,34 @@
+## The big idea
+
+A share is a tiny piece of ownership in a company. When a company is split into, say, 100 crore equal pieces, each piece is one share. Owning one makes you a part-owner: a very small slice, but a real one.
+
+As an owner, you have a claim on the company's future profits. If the company grows and earns more, each slice usually becomes more valuable, and people will pay more to buy it from you. Some companies also share part of their profit with owners in cash, which is called a **dividend**. If the company does badly, the value of your slice can fall, sometimes a lot.
+
+## An everyday analogy
+
+Imagine a popular dosa stall that wants to open five more branches but doesn't have the money. The owner divides the business into 1,000 equal parts and sells 400 of them to people in the neighbourhood for ₹1,000 each.
+
+If the new branches do well and the business earns much more, someone might later offer you ₹1,500 for your part. If the branches fail, nobody may want your part even for ₹600. You became a part-owner, sharing in both the good and the bad.
+
+## A real Indian example
+
+When you hear that Reliance, Infosys or HDFC Bank shares rose or fell today, it means the price at which people are buying and selling slices of those companies changed. You can buy even a single share through a trading app linked to a **demat account**, an electronic account that holds your shares, much like a bank account holds your money.
+
+If you invest in a mutual fund or an index fund SIP, you also own shares, just indirectly. The fund pools money from many people and buys shares of many companies, so your ₹2,000 a month ends up as small slices of dozens of businesses.
+
+## Common misunderstandings
+
+- **"A cheap share is a bargain."** A ₹50 share isn't cheaper than a ₹5,000 share in any meaningful way. What matters is how much the whole company is worth compared with what it earns.
+- **"Share prices always go up in the long run."** The overall market has tended to rise over long periods, but individual companies can shrink or fail entirely.
+- **"Owning shares means I help run the company."** Ordinary shareholders can vote on some big decisions, but day-to-day management stays with the company's leaders.
+- **"A falling price means I've lost money."** It's a loss on paper. It only becomes real if you sell at the lower price.
+
+## How it shows up in the news
+
+Headlines like "Axis Bank shares fell 4.5%" or "PB Fintech crashed 36%" describe changes in share prices. News also mentions **market capitalisation**, which is the share price multiplied by the total number of shares: the market's price tag for the whole company. When indices like the Sensex or Nifty 50 move, they're summarising the share prices of many big companies at once.
+
+## Three things to remember
+
+1. A share is part-ownership of a real business, not a lottery ticket.
+2. Its price moves with what people expect the company to earn in future, and those expectations can change fast.
+3. Owning many companies, for example through a fund, spreads your risk so that one company's bad news doesn't sink you.
