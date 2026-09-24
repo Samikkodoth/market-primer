@@ -1,0 +1,15 @@
+{"lessons":[
+  {"id":"share","title":"What is a share?","sub":"Owning a small piece of a company"},
+  {"id":"exchanges","title":"How the stock market works","sub":"Buyers, sellers, NSE, BSE and brokers"},
+  {"id":"indices","title":"Sensex and Nifty","sub":"Why one number sums up the market"},
+  {"id":"inflation","title":"Inflation","sub":"Why ₹100 buys less every year"},
+  {"id":"rates","title":"Interest rates and the RBI","sub":"The repo rate and why it moves everything"},
+  {"id":"bonds","title":"Bonds and yields","sub":"Lending money, and the price–yield seesaw"},
+  {"id":"rupee","title":"The rupee and the dollar","sub":"What makes a currency stronger or weaker"},
+  {"id":"flows","title":"Who moves the market","sub":"FIIs, DIIs, mutual funds and you"},
+  {"id":"mf","title":"Mutual funds and SIPs","sub":"Letting a professional invest for you, little by little"},
+  {"id":"ipo","title":"IPOs","sub":"How companies go public, and the hype around it"},
+  {"id":"risk","title":"Risk, diversification and time","sub":"Why not to put all your eggs in one basket"},
+  {"id":"results","title":"Reading company results","sub":"Revenue, profit, and the P/E ratio"},
+  {"id":"commodities","title":"Gold, oil and commodities","sub":"Why raw materials matter to your wallet"}
+]}
