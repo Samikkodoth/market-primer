@@ -2,7 +2,8 @@
 
 A calm, daily explainer of the Indian stock market for someone with zero financial knowledge. Every weekday evening a Claude Code routine researches the day's market news, writes a new briefing, checks it and publishes it. The website is a single static page on GitHub Pages that reads those briefings.
 
-- **Live site:** https://&lt;owner&gt;.github.io/market-primer/ (see the final setup report for the exact link)
+- **Live site:** https://samikkodoth.github.io/market-primer/
+- **Repository:** https://github.com/Samikkodoth/market-primer
 - **Not financial advice.** Everything here is written automatically, for learning only.
 
 ## What each file does
