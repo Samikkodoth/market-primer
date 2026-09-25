@@ -1,0 +1,34 @@
+## The big idea
+
+A stock market is a place where people buy and sell shares, the small pieces of ownership in companies. In India, almost all of this happens on two **stock exchanges**: the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE). Both are fully electronic: computers match buyers with sellers.
+
+You can't walk up to an exchange yourself. You go through a **broker**, usually a trading app or your bank, which sends your order to the exchange. The shares you buy are kept in a **demat account**, an electronic locker for shares. Normal trading runs from 9:15 am to 3:30 pm on weekdays, except on exchange holidays.
+
+## An everyday analogy
+
+Think of a large, well-run vegetable mandi. Farmers want to sell, shoppers want to buy, and the mandi provides the space, the scales and the rules so that strangers can trade safely. Agents take orders from people who can't be there in person.
+
+The exchange is the mandi, your broker is the agent, and SEBI, the market regulator, is the inspector who makes sure the scales are honest and nobody cheats.
+
+## A real Indian example
+
+Say you open a trading app and place an order to buy 5 shares of a company at ₹400 each. The app sends your order to the NSE. The exchange's computer looks for someone who wants to sell 5 shares at ₹400 or less. When it finds a match, the trade happens in a fraction of a second.
+
+The price you see on the screen is simply the last price at which a buyer and seller agreed. If more people want to buy than sell, buyers have to offer more, and the price rises. If more want to sell, the price falls. Soon after, the money leaves your account and the shares arrive in your demat account. This step is called **settlement**, and a clearing corporation guarantees it, so you needn't trust the stranger on the other side.
+
+## Common misunderstandings
+
+- **"I'm buying the shares from the company."** Usually not. After a company's IPO, you buy from other investors. The company doesn't get your money.
+- **"The market is a casino."** Prices swing in the short term, but over long periods they tend to follow how companies actually perform.
+- **"NSE and BSE have different companies."** Most large companies are listed on both, and prices on the two are almost the same.
+- **"You need lakhs to start."** You can buy a single share, and mutual fund SIPs can start with small monthly amounts. Minimums vary by fund and change over time.
+
+## How it shows up in the news
+
+Reports say things like "the market fell" or "the Sensex rose 315 points". The Sensex (BSE) and the Nifty 50 (NSE) are indices that sum up how big companies' shares moved. News also covers market holidays, new listings and SEBI rule changes. When the NSE itself listed in September 2026, it made news because an exchange is a business too, earning a fee on every trade.
+
+## Three things to remember
+
+1. An exchange is a marketplace with rules. Buyers and sellers set the price, not the exchange.
+2. You trade through a broker, and your shares sit in your demat account.
+3. SEBI oversees the whole system to keep it fair and to protect investors.

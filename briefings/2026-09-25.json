@@ -1,0 +1,575 @@
+{
+  "date": "2026-09-25",
+  "session_label": "Friday 25 September 2026",
+  "prepared_for": "Read tonight or over the weekend",
+  "headline": "Indian shares bounced back a little on bargain hunting and slightly cheaper oil, but the Nifty still ended its seventh losing week in a row.",
+  "mood": "Cautious",
+  "mood_note": "A calmer day after Thursday's slide, with the fear gauge easing, but analysts say the worries about oil, US interest rates and foreign selling haven't gone away.",
+  "reading_minutes": 13,
+  "since_yesterday": [
+    "Thursday's 1.6% fall was followed by a 0.3–0.4% rebound, recovering about a quarter of the loss.",
+    "India VIX, the fear gauge, eased 4.2% to 12.16 after jumping about 25% on Thursday.",
+    "PB Fintech, which crashed 36% on Thursday after IRDAI's commission proposal, touched a fresh 52-week low of ₹1,210."
+  ],
+  "one_minute": [
+    "The Sensex rose 315.20 points (0.43%) to 73,895.74 and the Nifty 50 rose 77.40 points (0.34%) to 23,140.50, as investors picked up shares after Thursday's fall.",
+    "Even so, the Nifty fell 0.88% over the week, its seventh weekly fall in a row and its longest such run in nearly six years.",
+    "Oil eased about 1.1% to $105.4 a barrel on hopes of a US–Iran deal, and the rupee gained 19 paise to about 95.80 per dollar.",
+    "Ten IPOs were open for bids on one day, seeking nearly ₹6,000 crore, while NSE's shares slipped back towards their IPO price.",
+    "SEBI approved new rules for portfolio managers and a formula-based way to settle cases of rule-breaking."
+  ],
+  "big_picture": "Friday was a breather after Thursday's sharp fall. Some investors saw lower prices as a chance to buy good companies more cheaply, and oil slipped a little on hopes that the US and Iran could agree to reopen the Strait of Hormuz. That was enough to lift the Sensex and Nifty by less than half a percent and to strengthen the rupee slightly.\n\nBut zoom out and the picture is still gloomy. The Nifty has now fallen for seven weeks in a row, the longest run in nearly six years, and big names like Reliance, HUL and Maruti touched one-year lows during the day. The reasons are the same ones we covered on Thursday: oil above $100, US borrowing costs at their highest since 2007, and foreign investors taking money out. For a beginner, the lesson is that one good day doesn't end a trend, and one bad week doesn't define a long-term investment.",
+  "chain": [
+    {
+      "label": "Thursday's sharp fall",
+      "note": "The Sensex had lost 1.67%, leaving many shares cheaper than a week earlier."
+    },
+    {
+      "label": "Bargain hunters step in",
+      "note": "Investors bought selected banks, auto and consumer companies they saw as good value."
+    },
+    {
+      "label": "Oil eases slightly",
+      "note": "Hopes of a phased US–Iran deal pulled Brent down about 1.1% to $105.4 a barrel."
+    },
+    {
+      "label": "Rupee and markets steady",
+      "note": "The rupee gained 19 paise, the fear gauge fell 4.2% and the Sensex rose 0.43%."
+    },
+    {
+      "label": "But the trend stays down",
+      "note": "With US yields near 2007 highs and foreign selling continuing, the Nifty still ended a seventh losing week."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "73,895.74",
+      "change": "+315.20 (+0.43%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE (Bombay Stock Exchange). Today's rise recovered roughly a quarter of Thursday's fall."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "23,140.50",
+      "change": "+77.40 (+0.34%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Many index funds copy it, so an index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty 50 this week",
+      "value": "",
+      "change": "−0.88%",
+      "direction": "down",
+      "what_it_is": "How much the Nifty 50 changed over the whole week. It was the seventh weekly fall in a row, the longest such run in nearly six years."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "−0.14%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies. They slipped slightly even as the big companies rose, a sign that buyers were being selective."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+0.15%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller listed companies, which are generally riskier and swing more. They edged up today."
+    },
+    {
+      "name": "India VIX",
+      "value": "12.16",
+      "change": "−4.2%",
+      "direction": "down",
+      "what_it_is": "India VIX is the market's 'fear gauge'. It estimates how much traders expect the Nifty to swing over the next month. A fall means nerves calmed a little after Thursday's jump."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "95.80",
+      "change": "+19 paise, stronger (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee, which makes imported things like oil and electronics slightly cheaper."
+    },
+    {
+      "name": "Brent crude oil",
+      "value": "$105.4",
+      "change": "−1.10%",
+      "direction": "down",
+      "what_it_is": "Brent is the world's main oil price, in US dollars per barrel (about 159 litres). India imports most of its oil, so this price feeds into fuel and transport costs over time."
+    },
+    {
+      "name": "US 10-year bond yield",
+      "value": "about 5.2%",
+      "change": "highest since 2007",
+      "direction": "up",
+      "what_it_is": "The interest the US government pays to borrow for 10 years. It's the benchmark 'safe' return for global investors, so when it rises, shares in markets like India look less attractive."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-rebound",
+      "category": "Stock market",
+      "title": "Sensex and Nifty bounce back about 0.4% after Thursday's sharp fall",
+      "tldr": "Bargain hunting in banks, auto and consumer companies and a small dip in oil prices lifted the market, but the gain was modest.",
+      "what_happened": "The Sensex rose 315.20 points, or 0.43%, to close at 73,895.74. The Nifty 50 gained 77.40 points, or 0.34%, to 23,140.50. On Thursday both had fallen about 1.6%, so Friday won back only about a quarter of that loss.\n\nAmong Sensex companies, 19 rose and 11 fell. Axis Bank gained the most, up 2.82%, followed by Mahindra & Mahindra (2.24%), Asian Paints (1.93%), Bajaj Finance (1.21%), HCL Tech (1.17%) and Titan (1.01%). Infosys, Kotak Mahindra Bank, ICICI Bank and Tata Steel were among the laggards. Among BSE sector groups, consumer durables rose 1.14%, auto 0.95% and realty 0.65%. The Nifty Midcap 100 slipped 0.14% while the Nifty Smallcap 100 rose 0.15%. India VIX, the fear gauge, fell 4.2% to 12.16. On the NSE, 1,925 shares rose and 1,594 fell.",
+      "simple_explanation": "After a big fall, some investors look at the lower prices and decide that good companies have become cheaper than they should be. They buy, and that lifts prices a little. This is called value buying, and it is what analysts said drove Friday's rise.\n\nThe rise was small, though. The worries that caused Thursday's fall, high US interest rates, expensive oil and foreign investors pulling money out, have not gone away. So investors bought carefully and selectively. The fear gauge easing tells you nerves calmed slightly, not that everyone is relaxed.",
+      "analogy": "Think of a street market the day after a scary rumour emptied it. A few shoppers return, notice that prices are lower than usual and pick up some items. The market is busier than yesterday, but most stall owners are still watching the sky for trouble.",
+      "why": "Analysts said the bounce came mainly from selective value buying after Thursday's sell-off. Reports of progress towards a phased US–Iran deal eased oil prices a little, which helps India because it imports most of its oil. Vinod Nair of Geojit Investments said volatile crude and high bond yields kept the recovery capped, and that worries over inflation, foreign fund outflows and pressure on emerging-market currencies remain.\n\nThe global backdrop stayed tough. In the US, the 10-year Treasury yield rose to about 5.2% on Thursday, its highest since 2007, and traders put the chance of another US rate hike in October at about 66%. Japan's Nikkei rose 1.3% on Friday.",
+      "implications": {
+        "you": "If you have an equity or index fund SIP, its value probably rose a little today, recovering part of Thursday's dip. A 0.3–0.4% move is an ordinary day. Your FD, savings account and loan EMIs are not affected by share prices.",
+        "markets": "The fear gauge eased and more shares rose than fell, which is a calmer picture than Thursday. But analysts describe the mood as cautious, with foreign selling and US bond yields still the main worries.",
+        "economy": "A small one-day rise doesn't change anything in the real economy. The bigger forces, oil prices and global interest rates, matter far more for jobs and prices.",
+        "prices": "No direct effect. A slight fall in oil, if it lasts, would ease pressure on fuel and transport costs, but one day is too short to matter."
+      },
+      "watch": "Whether the bounce holds next week, whether foreign investors keep selling, and whether US bond yields keep climbing.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Value buying",
+        "Midcap",
+        "Smallcap",
+        "India VIX",
+        "Market breadth",
+        "US Treasury yield",
+        "Federal Reserve"
+      ],
+      "explainers": {
+        "like12": "Yesterday, lots of people got scared and sold their pieces of Indian companies, so prices dropped a lot. Today, some people looked at those lower prices and thought, 'These are good companies, and now they're on sale!' So they bought some, and prices went up a bit.\n\nIt's like the day after a rainstorm cancels a school fair. The next day, a few kids come back, notice the snacks are cheaper, and buy some. The fair is livelier, but it's not as busy as before the storm.\n\nThe Sensex went up about 0.4%, which only makes up for part of yesterday's fall. The big worries, like expensive oil and high interest rates in America, are still there, so people are buying carefully.",
+        "real_life": "Think of Meera, a 31-year-old nurse in Chennai with a ₹3,000 monthly SIP in a Nifty 50 index fund worth about ₹1,20,000. On Thursday the fall knocked roughly ₹2,000 off its value on paper. Today's 0.34% rise added back roughly ₹400.\n\nSo after two days she is still a little behind, on paper. But she hasn't sold anything, and her next ₹3,000 instalment will buy units at prices lower than last week. Her salary, her rent and her bank FD are untouched. The useful habit for Meera is to notice that markets move in both directions day to day, and to judge her SIP over years, not over a Thursday and a Friday."
+      }
+    },
+    {
+      "id": "seven-week-losing-streak",
+      "category": "Stock market",
+      "title": "Nifty ends a seventh straight losing week, its longest run in nearly six years",
+      "tldr": "Despite Friday's bounce, the Nifty fell 0.88% this week. Reliance, HUL and Maruti touched one-year lows during the day.",
+      "what_happened": "Friday's gain was not enough to save the week. The Nifty 50 fell 0.88% over the week, its seventh weekly fall in a row. 5paisa's market report said this is the index's longest weekly losing streak in nearly six years, since the sell-off during the Covid-19 pandemic.\n\nDuring Friday's trading, three Sensex companies, Reliance Industries, Hindustan Unilever (HUL) and Maruti Suzuki, hit their lowest prices in 52 weeks. In total, 24 companies in the wider BSE 500 index touched 52-week lows, including PB Fintech (Policybazaar's parent), Tata Motors Passenger Vehicles, Britannia, Wipro and NSDL. PB Fintech fell to a fresh low of ₹1,210 a day after the insurance regulator's proposal to cap sales commissions.",
+      "simple_explanation": "A losing streak means the market ended lower week after week. Seven weeks in a row is unusual. It doesn't mean the market has crashed: a 0.88% weekly fall is small. It means the direction has been steadily down, with small falls adding up.\n\nA 52-week low is the lowest price a share has traded at in a year. When well-known companies like Reliance, HUL and Maruti reach one, it shows investors have become more cautious about them. It doesn't tell you whether the price will keep falling or recover.",
+      "analogy": "Imagine a cricket team losing seven matches in a row, mostly by small margins. No single loss is a disaster, but the run shows something keeps going wrong. Fans start paying attention to the pattern rather than any one match.",
+      "why": "The main reasons have been the same for weeks: oil above $100 a barrel because of the conflict around the Strait of Hormuz, rising interest rates in the US and elsewhere, and steady selling by foreign investors. Reports have linked Reliance's weakness to oil price swings and windfall taxes. PB Fintech has been hit by the IRDAI commission proposal. Reports did not give a specific reason for HUL and Maruti touching lows.",
+      "implications": {
+        "you": "If you started an SIP recently, you may see its value below what you put in. That's common during a losing streak. Each monthly instalment buys more units when prices are lower. Nothing here requires action, and a few weeks of losses are normal in the life of a long-term investment.",
+        "markets": "Long losing streaks tend to keep investors cautious. Analysts will watch for signs that oil, US yields or foreign selling have turned before calling an end to the downtrend.",
+        "economy": "Falling share prices over weeks can make it harder and costlier for companies to raise money, and can make households feel a little less wealthy. The effect on jobs is indirect and slow.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "Whether the Nifty can post a rising week next week, and whether more big companies hit 52-week lows.",
+      "terms": [
+        "Nifty 50",
+        "52-week low",
+        "BSE 500",
+        "Index"
+      ],
+      "explainers": {
+        "like12": "Imagine you check your height on the wall every Sunday, and for seven Sundays in a row the mark is a tiny bit lower. You'd notice! That's what happened to the Nifty, the number that shows how India's 50 biggest companies are doing. It ended lower for seven weeks in a row, the longest run like that in almost six years.\n\nEach week's drop was small, but they add up. Some very famous companies, like Reliance and Maruti, even reached their lowest price in a whole year.\n\nThe reasons are grown-up worries: oil is expensive, borrowing money is getting costlier in America, and foreign investors keep taking money out. Streaks like this have ended before, but nobody knows exactly when this one will.",
+        "real_life": "Suppose Arjun, a 26-year-old sales executive in Lucknow, started a ₹2,000 monthly SIP in an index fund in August. He has now put in about ₹4,000, and the fund's value may be slightly lower than that. Seeing a loss so early can feel discouraging.\n\nBut Arjun's SIP is designed for exactly this. When prices fall for weeks, his fixed ₹2,000 buys more units each month. If prices recover over the coming years, those extra units add up. If he owned Reliance or Maruti shares directly, he would see them at one-year lows right now, but that says nothing certain about where they will be later. His job, salary and EMIs don't change because of the streak."
+      }
+    },
+    {
+      "id": "oil-eases-rupee-gains",
+      "category": "Rupee & oil",
+      "title": "Oil slips on hopes of a US–Iran deal and the rupee gains 19 paise",
+      "tldr": "Brent crude fell about 1.1% to $105.4 a barrel and the rupee strengthened to about 95.80 per dollar.",
+      "what_happened": "Brent crude, the world's main oil price, fell 1.10% to $105.4 a barrel on reports of progress towards a phased agreement between the US and Iran that could reopen the Strait of Hormuz. Oil is still very expensive: Brent traded between about $84 and $110 over the past month.\n\nThe rupee rose 19 paise to close at 95.80 (provisional) against the US dollar, according to PTI. It opened at 95.92 and weakened to 95.94 during the day before recovering. Dealers credited better global risk sentiment and possible intervention by the RBI. Gains were limited by importers buying dollars, high crude prices and a strong dollar after signals from the US Federal Reserve that it may raise rates further. India's foreign exchange reserves are close to $781 billion, which gives the RBI room to steady the rupee.",
+      "simple_explanation": "India buys most of its oil from abroad and pays in dollars. When oil gets a little cheaper, India needs slightly fewer dollars, so the rupee can recover a bit. That's what happened today.\n\nThe RBI, India's central bank, holds a large stockpile of dollars called foreign exchange reserves. When the rupee falls quickly, the RBI can sell some dollars to calm things down. Traders believe it did that today to stop the rupee going past 96.",
+      "analogy": "Think of a family that has to buy a lot of groceries from a far-away shop that only accepts a special coupon. When groceries get a little cheaper, the family needs fewer coupons, and coupons stop getting pricier for a while. The family also keeps a box of coupons at home for emergencies, which is like the RBI's reserves.",
+      "why": "Oil prices have been jumping up and down on every hint about US–Iran talks over the Strait of Hormuz, a narrow sea route used by many oil tankers. Today the news leaned towards a possible deal, so prices eased. The rupee followed oil, helped by a calmer mood in Indian shares and, traders believe, by the RBI selling dollars. But a strong dollar and high US interest rates kept the rupee from rising much.",
+      "implications": {
+        "you": "A slightly stronger rupee makes dollar-priced things, like foreign travel, overseas fees and imported gadgets, very slightly cheaper than yesterday. At 19 paise, the difference is tiny: about ₹19 on every $100.",
+        "markets": "Lower oil helps companies that use a lot of fuel, like airlines, paint makers and transport firms. A stronger rupee slightly reduces the rupee value of IT companies' dollar earnings.",
+        "economy": "Every dollar drop in oil eases India's import bill a little. But with Brent still above $100, the pressure on inflation and the rupee remains.",
+        "prices": "One day's dip in oil won't change petrol or diesel prices. Those depend on where oil settles over weeks and on decisions by the government and oil companies."
+      },
+      "watch": "Any concrete step in US–Iran talks, whether Brent stays above $100, and whether the rupee holds below 96 per dollar.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "Exchange rate",
+        "Provisional",
+        "Federal Reserve"
+      ],
+      "explainers": {
+        "like12": "India needs lots of oil, and most of it comes from far away. To buy it, India must pay with dollars, America's money. So India swaps rupees for dollars.\n\nToday there was hopeful news that a blocked sea road, the Strait of Hormuz, might open up again. When people expect more oil to get through, oil gets a little cheaper. Cheaper oil means India needs slightly fewer dollars, so each dollar costs a few paise less. That's the rupee 'getting stronger'.\n\nIndia's big bank, the RBI, also has a huge piggy bank full of dollars. When the rupee is falling too fast, it can sell some dollars to calm things down. People think it did that today. One dollar now costs about 95 rupees and 80 paise.",
+        "real_life": "Consider Farhan, a 34-year-old graphic designer in Kolkata who pays $20 a month for design software. At 95.80 rupees per dollar, that costs him about ₹1,916 before bank fees, a few rupees less than yesterday. It's a tiny change.\n\nWhat matters more for Farhan is the bigger picture. Oil has been over $100 a barrel for weeks, and the rupee is near 96 per dollar. If that continues, his cab fares, food delivery charges and the price of things transported by truck could rise slowly. A single day of cheaper oil doesn't change that, but a lasting US–Iran deal could. For now, his monthly budget looks the same as yesterday."
+      }
+    },
+    {
+      "id": "ipo-rush",
+      "category": "IPO",
+      "title": "Ten IPOs open for bids on the same day, seeking nearly ₹6,000 crore",
+      "tldr": "Runwal Enterprises and three others opened their IPOs, four closed and two were midway. NSE shares slipped back towards their IPO price.",
+      "what_happened": "Investors could bid for 10 IPOs on Friday, together seeking nearly ₹6,000 crore, according to BusinessToday. Four opened on Friday, including Runwal Enterprises, Orient Cables, Ace Vector and German Green Steel. Four were closing and two were on their second day.\n\nRunwal Enterprises, a real estate developer, is raising ₹500 crore by selling new shares at ₹290–305 each, in lots of 49 shares. It raised ₹148.95 crore from 10 anchor investors at ₹305 a share before opening. Its IPO was subscribed only 20% in the first three hours, closes on 29 September, and the shares are due to list on 5 October. A-One Steels' IPO was 93% booked by Friday.\n\nMeanwhile, NSE's shares fell more than 1.5% during Friday's trade, a day after listing, trading near their IPO price of ₹1,785. Macquarie has a target price of ₹1,965.",
+      "simple_explanation": "An IPO is when a company sells its shares to the public for the first time. Investors apply through their broker app or bank, choosing a price within a range called the price band, and must apply for at least one lot. If more people apply than there are shares, the shares are shared out by lottery.\n\nWhen many IPOs open at once, investors' money is spread across them, so some get strong demand and others struggle. 'Subscribed 20%' means bids came in for only a fifth of the shares on offer so far, which is a slow start, though many investors bid on the last day.",
+      "analogy": "It's like ten new restaurants opening on the same street in the same week. Diners can't try them all, so some are packed and others have empty tables. A restaurant's opening crowd also tells you little about whether it will still be popular in five years.",
+      "why": "Companies like to raise money when there is demand from investors, and India's IPO market has been busy this year. Several companies had lined up issues for late September. With the wider market falling for weeks, investors appear to be choosier, which may explain the slow early bids for some issues. NSE's shares slipped as the initial excitement faded, a common pattern after listing.",
+      "implications": {
+        "you": "If you're thinking of applying for an IPO, remember that the minimum amount is the lot size times the price: for Runwal, 49 shares at ₹305 is ₹14,945. Your money is blocked in your bank account until allotment and returned if you don't get shares. IPOs can list below their price, so they carry real risk.",
+        "markets": "A large number of IPOs pulls investors' money into new shares, which some analysts say can take buying away from existing shares for a while.",
+        "economy": "IPOs help companies raise money to repay debt, build projects or expand. A busy IPO market is a sign that companies can find funding.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Final subscription figures for Runwal and the other IPOs, and how NSE's shares settle in their first weeks.",
+      "terms": [
+        "IPO",
+        "Price band",
+        "Lot size",
+        "Anchor investor",
+        "Oversubscribed",
+        "Listing",
+        "Issue price",
+        "Target price"
+      ],
+      "explainers": {
+        "like12": "Imagine ten new shops all asking people, on the same day, 'Do you want to become a tiny owner of our shop?' That's what happened in India's market today. Ten companies were selling small pieces of themselves to the public. This is called an IPO.\n\nTo apply, you must buy a whole packet of pieces, not just one. For one company, Runwal, a packet has 49 pieces at up to ₹305 each.\n\nWith so many shops asking at once, people can't buy from all of them, so some shops get lots of interest and some get little. Runwal got only a small amount of interest in its first few hours. But people often wait until the last day to apply, so the final count could look very different.",
+        "real_life": "Say Neha, a 28-year-old accountant in Ahmedabad, has ₹20,000 set aside and hears about the IPO rush from friends. To apply for one lot of Runwal Enterprises, she would need ₹14,945, which her bank blocks in her account until the shares are allotted. If she doesn't get shares, the money is released. If she does, she owns 49 shares from 5 October.\n\nWhat happens next is uncertain. The shares could list above or below ₹305. NSE's own shares, which listed on Thursday, slipped back towards their IPO price on Friday. Neha's ₹20,000 in an FD, by contrast, would earn a known amount of interest. An IPO carries more risk and the possibility of more reward."
+      }
+    },
+    {
+      "id": "sebi-pms-settlement-rules",
+      "category": "Regulation",
+      "title": "SEBI approves new rules for portfolio managers and a faster way to settle cases",
+      "tldr": "Portfolio managers get more freedom to invest in IPOs, foreign assets and unlisted bonds, and firms accused of breaking rules get a formula-based route to settle.",
+      "what_happened": "At its board meeting on 24 September, SEBI, the stock market regulator, approved the SEBI (Portfolio Managers) Regulations, 2026, replacing the 2020 rules. Portfolio managers will be able to invest client money in IPOs and in new debt issues. Those who make decisions on clients' behalf can put up to 10% of a client's money into investment-grade, unlisted bonds, if the client agrees. Investments in exchange-traded derivatives are capped at 1.25 times the client's assets. They may also invest in foreign shares, bonds, REITs, funds and government debt, within India's rules on money sent abroad.\n\nSEBI also approved new settlement rules. The amount to settle a case will be based on a formula starting from the minimum penalty for the violation. SEBI can offer settlement even before a show-cause notice, with 60 days to apply, and the deadline after a notice rises from 60 to 90 days. The board also allowed depository receipts against units of REITs and InvITs listed in India, to attract foreign investors.",
+      "simple_explanation": "A portfolio management service, or PMS, is like having a personal fund manager. It's usually for wealthier investors because the minimum investment is high. SEBI's new rules widen what these managers can buy, while keeping limits on riskier things like derivatives.\n\nThe settlement change is about how SEBI handles cases of rule-breaking. Instead of long legal battles, a company or person can pay an amount and close the case. A clearer formula should make the amount more predictable and the process faster.",
+      "analogy": "Imagine a housing society updating two rulebooks at once. One lets the society's hired manager spend on more kinds of upkeep, but with spending limits. The other sets a fixed scale of fines for breaking society rules, so disputes can be closed quickly instead of dragging on for months.",
+      "why": "SEBI said the PMS changes aim to help the industry grow, make compliance easier and remove outdated requirements. The settlement changes are meant to make outcomes more consistent and speed up the closing of cases. Allowing depository receipts for REITs and InvITs is meant to bring more foreign money into Indian property and infrastructure.",
+      "implications": {
+        "you": "Most beginners don't use a PMS, so these rules are unlikely to affect you directly. If you invest through mutual funds or SIPs, nothing changes. If you own REIT or InvIT units, more foreign investors could eventually take an interest in them.",
+        "markets": "PMS managers could now put some client money into IPOs and foreign assets, adding to demand there. Faster settlements may reduce the backlog of SEBI cases.",
+        "economy": "Easier foreign investment in REITs and InvITs could help fund offices, roads and power lines. The effect will be gradual.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "When SEBI publishes the detailed regulations and the dates they take effect.",
+      "terms": [
+        "SEBI",
+        "Portfolio management service",
+        "Derivatives",
+        "REIT",
+        "InvIT",
+        "Depository receipt",
+        "Settlement"
+      ],
+      "explainers": {
+        "like12": "SEBI is like the head referee of India's stock market. It makes sure everyone plays by the rules.\n\nThis week SEBI changed two rulebooks. The first is for special money managers who look after rich people's savings one person at a time. Now they're allowed to buy more kinds of things, like pieces of new companies and some things from other countries, but with limits on the riskiest stuff.\n\nThe second rulebook is about what happens when someone breaks a rule. Instead of a long argument, they can pay a set amount worked out by a formula and close the matter faster, a bit like a fixed fine for being late to class.\n\nFor most families, these changes won't make any difference right away.",
+        "real_life": "Take Vikram, a 45-year-old business owner in Indore who has a large amount invested through a PMS. Under the new rules, his portfolio manager may put some of his money into IPOs or foreign shares, which wasn't possible in the same way before. His manager can only put up to 10% into unlisted bonds, and only if Vikram agrees.\n\nNow compare Pooja, a 30-year-old clerk in Nagpur with a ₹1,500 monthly SIP. The PMS rules don't touch her at all, because she invests through a mutual fund. The settlement rule doesn't affect her either. For ordinary savers, the main lesson is that SEBI regularly updates the rules, and not every headline about SEBI changes your own money."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Value buying",
+    "explanation": "Value buying means buying shares after their prices have fallen, because you believe they are now cheaper than the company is really worth. Investors who do this look at things like a company's profits and future prospects, and compare them with the share price. When a sell-off drags down good companies along with weak ones, value buyers see a discount.\n\nValue buying often explains why markets bounce the day after a big fall. But a bounce driven by bargain hunting is different from a rally driven by good news. If the reasons for the fall are still there, prices can fall again. That is why analysts called today's rise 'selective' and 'capped'.",
+    "example": "On Thursday the Sensex fell 1.67%. On Friday, investors bought selected shares like Axis Bank (up 2.82%) and Mahindra & Mahindra (up 2.24%), lifting the Sensex 0.43%. Analysts put this down to value buying, while noting that high oil prices, US bond yields and foreign selling were still weighing on the market.",
+    "takeaway": "When you read that markets rose on 'value buying', it means some investors saw bargains after a fall, not that the underlying worries have disappeared."
+  },
+  "quiz": [
+    {
+      "q": "Analysts said Friday's rise was driven by 'value buying'. What does that mean?",
+      "options": [
+        "Investors bought shares they felt had become cheap after Thursday's fall",
+        "The government bought shares to support the market",
+        "Companies announced much higher profits",
+        "Shares were only bought by foreign investors"
+      ],
+      "answer": 0,
+      "why": "Value buying is when investors buy after a fall because they think prices are now below what the companies are worth. It can lift prices even when the underlying worries remain."
+    },
+    {
+      "q": "The Nifty rose on Friday but still fell 0.88% for the week. How can both be true?",
+      "options": [
+        "The Nifty is measured differently on Fridays",
+        "Friday's gain was smaller than the losses earlier in the week",
+        "Weekly figures only count Monday",
+        "The two numbers come from different countries"
+      ],
+      "answer": 1,
+      "why": "A weekly change adds up all five days. Friday's 0.34% gain wasn't enough to make up for Thursday's 1.64% fall and the other days' moves."
+    },
+    {
+      "q": "What does it mean when a share hits a '52-week low'?",
+      "options": [
+        "The company has been trading for 52 weeks",
+        "The share fell 52% in a week",
+        "The share is at its lowest price in about a year",
+        "The share will be removed from the exchange"
+      ],
+      "answer": 2,
+      "why": "A 52-week low is the lowest price over the past year. It shows investors have become more cautious, but it doesn't predict where the price goes next."
+    },
+    {
+      "q": "Why did a small fall in oil prices help the rupee?",
+      "options": [
+        "Because India sells oil to other countries",
+        "Because oil is priced in rupees",
+        "Because cheaper oil means India needs slightly fewer dollars to pay for its imports",
+        "Because the RBI sets oil prices"
+      ],
+      "answer": 2,
+      "why": "India imports most of its oil and pays in dollars. Cheaper oil reduces demand for dollars, which helps the rupee."
+    },
+    {
+      "q": "An IPO has a lot size of 49 shares and a top price of ₹305. What is the minimum amount you'd need to apply at the top price?",
+      "options": [
+        "₹305",
+        "₹4,900",
+        "₹14,945",
+        "₹49,000"
+      ],
+      "answer": 2,
+      "why": "You must apply for at least one full lot. 49 shares × ₹305 = ₹14,945."
+    },
+    {
+      "q": "SEBI's new portfolio manager rules mainly affect which group?",
+      "options": [
+        "Everyone with a savings bank account",
+        "Investors who use a portfolio management service, usually wealthier people",
+        "Only people with home loans",
+        "Only insurance agents"
+      ],
+      "answer": 1,
+      "why": "A PMS is a personalised investment service, usually for wealthier investors. People investing through ordinary mutual fund SIPs aren't directly affected."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Index",
+      "definition": "A single number that tracks the combined price movement of a group of shares, so you can see how that group is doing at a glance.",
+      "more": "An index is a scorecard for a group of companies. Instead of checking hundreds of share prices, you look at one number. There are indices for the whole market (Sensex, Nifty 50), for company size (midcap, smallcap) and for sectors like banks, IT or pharma. It's like the Consumer Price Index your newspaper uses for prices: one number summing up many. In market news, a phrase like 'the bank index fell 2%' tells you that bank shares, taken together, had a bad day."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A 'fear gauge' that estimates how much traders expect the Nifty to swing over the next 30 days. Higher means more nervousness.",
+      "more": "VIX stands for volatility index. It's calculated from prices of Nifty options, contracts traders use to protect themselves against big moves. When people rush to buy protection, VIX rises. It's like the price of umbrellas going up when everyone expects rain. VIX doesn't say whether the market will go up or down, only how bumpy traders expect it to be. News often reports a big percentage jump in VIX on bad days, but the level itself matters too: lower teens is calm, and 25 or more is quite nervous."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage between Iran and Oman that a large share of the world's oil tankers travel through.",
+      "more": "The Strait of Hormuz connects the oil-rich Persian Gulf to the open ocean. Because so many oil and gas shipments pass through it, any conflict or blockade there can quickly push up global oil prices. It's like the single main road into a busy city: block it and everything coming in gets delayed and costlier. News about the Strait usually moves oil prices within minutes, and through oil it affects India's rupee, inflation and fuel costs."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial public offering: the first time a company sells its shares to the general public, after which they trade on a stock exchange.",
+      "more": "In an IPO, a company, or its existing owners, sells shares to the public at a set price. Investors apply through their broker or bank app, and if there's more demand than shares, allotment is decided by lottery or proportionally. It's like a family business opening its ownership to the neighbourhood for the first time. After the IPO, the shares 'list' and anyone can trade them. News coverage often focuses on subscription numbers, grey market premium and listing-day gains, which can distract from the company's long-term quality."
+    },
+    {
+      "term": "Listing",
+      "definition": "When a company's shares start trading on a stock exchange, usually a few days after its IPO closes.",
+      "more": "Listing day is the first day the public can freely buy and sell a new company's shares. The first price is set in a special pre-open session based on orders. It's like a new product finally reaching shop shelves after pre-bookings: now the market decides what it's really worth. News reports quote the listing price, the day's high and the closing price, compared with the issue price. A listed company must also publish regular results and follow disclosure rules set by SEBI."
+    },
+    {
+      "term": "Issue price",
+      "definition": "The price per share at which a company sells its shares in an IPO.",
+      "more": "The issue price is usually chosen from a price band, a range the company announces before the IPO, based on the demand it sees. Popular IPOs usually settle at the top of the band. It's like pre-booking a new phone at a fixed launch price before it goes on open sale. Once the shares list, their market price can move above or below the issue price. News headlines compare the listing price and first-day close with the issue price to report a 'listing gain' or 'loss'."
+    },
+    {
+      "term": "Oversubscribed",
+      "definition": "When investors apply for more shares in an IPO than are available. '5.71 times' means bids for about 5.7 shares for every one offered.",
+      "more": "Oversubscription shows how much demand there was for an IPO. If an issue is oversubscribed many times, most applicants get fewer shares than they asked for, or none at all. It's like a college with 100 seats receiving 571 applications. Reports often break subscription down by investor type: retail, institutional and high-net-worth. A heavily oversubscribed IPO often lists higher, but not always. Today NSE was oversubscribed 5.71 times and still listed only slightly above its issue price."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee rose 19 paise to close at 95.80 against the dollar'."
+    },
+    {
+      "term": "Value buying",
+      "definition": "Buying shares after their prices have fallen, because investors think they have become cheap compared with what the companies are worth.",
+      "more": "After a sharp fall, some investors step in because they believe good companies are now available at a discount. This is called value buying or bargain hunting. It's like shoppers rushing to a shop during a sale: the clothes are the same, only the price is lower. Value buying often causes a small bounce the day after a big fall. News reports use the phrase to explain a rebound, but it doesn't mean the worries behind the fall have gone away, and the market can fall again."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A count of how many shares rose versus how many fell on a day. It shows whether a move was widespread or driven by a few big names.",
+      "more": "An index like the Nifty 50 can rise just because a few giant companies did well, even if most shares fell. Market breadth checks that by counting advances and declines across the whole exchange. It's like judging a school's results not only by the toppers but by how many students passed. If far more shares rose than fell, breadth is 'positive' and the rally is broad. News reports quote breadth as, for example, '1,925 stocks advanced and 1,594 declined'."
+    },
+    {
+      "term": "52-week low",
+      "definition": "The lowest price a share has traded at over the past year.",
+      "more": "Investors track the highest and lowest price of each share over the last 52 weeks, roughly one year. When a share hits a new 52-week low, it is cheaper than at any point in that year. That can mean investors are worried about the company, its sector or the wider economy. It's like noticing that a house in your area is now selling for the lowest price in a year: it might be a bargain, or there might be a reason. News reports list shares hitting 52-week highs and lows each day."
+    },
+    {
+      "term": "BSE 500",
+      "definition": "An index of 500 companies listed on the BSE, covering most of the value of the Indian stock market.",
+      "more": "The Sensex tracks only 30 large companies. The BSE 500 is a much wider index that includes large, medium and some smaller companies across many sectors. Because it is so broad, it gives a fuller picture of the whole market than the Sensex does. It's like checking the marks of the whole school instead of only one class. News reports often use it to count how many companies hit 52-week highs or lows, as a way to measure how widespread a trend is."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "Price band",
+      "definition": "The range of prices, from lowest to highest, within which investors can bid for shares in an IPO.",
+      "more": "Before an IPO opens, the company announces a price band, such as ₹290–305 per share. Investors bid for shares at a price inside that range. Once bidding closes, the company fixes the final issue price, usually at the top of the band if demand is strong. It's like a seller saying a used bike will go for somewhere between ₹29,000 and ₹30,500 depending on interest. Most small investors simply bid at the top price (called the 'cut-off') to improve their chance of getting shares."
+    },
+    {
+      "term": "Lot size",
+      "definition": "The minimum number of shares you must apply for in an IPO. You can apply only in multiples of it.",
+      "more": "IPO shares are sold in fixed bundles called lots. If the lot size is 49 shares, you must apply for 49, 98, 147 and so on, not 10 or 60. The smallest application therefore costs the lot size multiplied by the price: at ₹305, one lot of 49 shares costs ₹14,945. It's like a shop selling eggs only by the tray, not singly. News reports mention the lot size so readers know the minimum amount needed to apply."
+    },
+    {
+      "term": "Anchor investor",
+      "definition": "A large investor, such as a mutual fund or insurer, that commits to buy shares in an IPO a day before it opens to the public.",
+      "more": "Anchor investors are big institutions that agree to buy part of an IPO at a fixed price before ordinary investors can bid. They must hold the shares for a set period before selling. Their participation is meant to show confidence and give the IPO a steady start. It's like a few well-known guests confirming for a wedding early, which reassures others that the event will be good. News reports mention how much a company raised from anchors, but anchor interest doesn't guarantee a good listing."
+    },
+    {
+      "term": "Target price",
+      "definition": "The price an analyst expects a share to reach, usually within about a year.",
+      "more": "Brokerage firms study companies and publish a target price along with a rating like 'buy', 'outperform' or 'sell'. A target is an educated guess, not a promise, and analysts often change targets as news changes. Different firms can have very different targets for the same share. It's like a weather forecast: useful to know, but it can be wrong. News reports quote target prices often, for example 'Macquarie sees the stock reaching ₹1,965'. Market Primer reports these views but never recommends buying or selling."
+    },
+    {
+      "term": "SEBI",
+      "definition": "The Securities and Exchange Board of India, the government body that regulates the stock market, mutual funds and brokers.",
+      "more": "SEBI makes and enforces the rules for anyone who deals with shares, bonds or mutual funds in India: companies, stock exchanges, brokers, fund managers and investors. Its aim is to protect investors and keep markets fair. Think of it as the referee and rule-maker of the stock market, similar to what IRDAI does for insurance. SEBI's board meets regularly to approve new rules, and its decisions can change how products are sold, what they can invest in and how wrongdoing is punished."
+    },
+    {
+      "term": "Portfolio management service",
+      "definition": "A service where a professional manager invests a client's money directly in shares and other assets, usually for wealthier investors.",
+      "more": "In a portfolio management service, or PMS, a licensed manager builds and runs an investment portfolio for each client separately, unlike a mutual fund, which pools everyone's money. In a 'discretionary' PMS, the manager decides what to buy and sell without asking each time. PMS is aimed at wealthier investors and needs a large minimum investment. It's like hiring a personal trainer instead of joining a group fitness class. SEBI sets the rules on what PMS managers can invest in and how they report to clients."
+    },
+    {
+      "term": "Derivatives",
+      "definition": "Contracts whose value depends on the price of something else, such as a share or an index. Futures and options are the most common.",
+      "more": "A derivative is a deal based on the future price of an asset. For example, a Nifty futures contract lets someone bet on where the Nifty will be on a certain date without owning the shares. Derivatives can be used to protect against losses, but they can also magnify losses quickly. It's like booking a train ticket in advance at a fixed fare: the ticket's value depends on what fares do later. SEBI has repeatedly warned that most individual traders lose money in futures and options."
+    },
+    {
+      "term": "REIT",
+      "definition": "Real estate investment trust: a listed fund that owns rent-earning property such as offices or malls and shares the rent with its unit holders.",
+      "more": "A REIT collects money from investors, buys completed properties that earn rent, and pays out most of that rent to investors. Its units trade on the stock exchange like shares. This lets ordinary people earn from commercial property without buying a whole building. It's like many friends pooling money to buy a shop and share the monthly rent. News about REITs usually covers their payouts, occupancy of their buildings and new rules from SEBI about who can invest in them."
+    },
+    {
+      "term": "InvIT",
+      "definition": "Infrastructure investment trust: a listed fund that owns income-earning infrastructure such as toll roads, power lines or pipelines.",
+      "more": "An InvIT works like a REIT, but instead of offices or malls it owns infrastructure: highways that collect tolls, power transmission lines or gas pipelines. It pays out most of the income to its unit holders. It's like a group of people jointly owning a toll booth and sharing the daily collection. InvITs help companies and the government raise money for new projects by selling finished ones to investors. News reports cover InvIT payouts, new listings and rule changes by SEBI."
+    },
+    {
+      "term": "Depository receipt",
+      "definition": "A certificate traded in a foreign market that represents securities of a company or trust from another country.",
+      "more": "A depository receipt lets investors in one country buy a stake in something listed in another country without dealing directly with that country's market. A bank holds the original securities and issues receipts abroad that stand for them. It's like a trusted local agent holding your land papers in another city and giving you a certificate to trade. Indian companies have long used depository receipts to reach foreign investors. News reports mention them when a regulator allows a new type of asset to be offered abroad this way."
+    },
+    {
+      "term": "Settlement",
+      "definition": "In regulation, a way for a person or company accused of breaking rules to end the case by paying an amount, without admitting or denying guilt.",
+      "more": "When SEBI suspects wrongdoing, it can take a case through a long process of notices, hearings and orders. Settlement offers a shorter route: the accused applies, pays an agreed sum, and the case is closed. It saves time for both sides. It's like settling a small dispute with a neighbour through a local committee rather than going to court. A show-cause notice is the formal letter asking someone to explain their actions. News reports often say a company 'settled with SEBI' for a certain amount."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex rises 315 pts, Nifty ends at 23,140; realty, auto shares shine",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-updates-september-25-sensex-today-nifty50-gift-nifty-crude-oil-prices-nse-share-price-126092500092_1.html"
+    },
+    {
+      "title": "ThePrint (PTI): Sensex recovers 315 pts on value buying in consumer durables, auto shares",
+      "url": "https://theprint.in/economy/sensex-recovers-315-pts-on-value-buying-in-consumer-durables-auto-shares/3053447/"
+    },
+    {
+      "title": "The Tribune (ANI): Nifty closes 77 points higher at 23,140, Sensex gains 315 points on value buying",
+      "url": "https://www.tribuneindia.com/news/business/nifty-closes-77-points-higher-at-23140-sensex-gains-315-points-on-value-buying-after-sell-off"
+    },
+    {
+      "title": "Free Press Journal: Sensex jumps 315 points, what helped markets recover",
+      "url": "https://www.freepressjournal.in/business/sensex-jumps-315-points-heres-what-helped-markets-recover-after-thursdays-sharp-sell-off"
+    },
+    {
+      "title": "HDFC Sky: Sensex gains 315 points; Nifty rebounds above 23,100",
+      "url": "https://hdfcsky.com/news/stock-markets-bounce-back-on-value-buying-sensex-rises-315-pts"
+    },
+    {
+      "title": "5paisa: Nifty recovers on Friday, ends longest weekly losing streak",
+      "url": "https://www.5paisa.com/blog/post-market-update-nifty-recovers-longest-weekly-losing-streak-september-25-2026"
+    },
+    {
+      "title": "Business Standard: RIL, PB Fintech, HUL, TMPV, Maruti among 24 BSE 500 stocks at 52-week lows",
+      "url": "https://www.business-standard.com/markets/news/ril-pb-fintech-hul-tmpv-maruti-among-24-bse-500-stocks-at-52-week-lows-126092500562_1.html"
+    },
+    {
+      "title": "Outlook Business (PTI): Rupee rises 19 paise to close at 95.80 against US dollar",
+      "url": "https://www.outlookbusiness.com/markets/rupee-rises-19-paise-to-close-at-9580-against-us-dollar"
+    },
+    {
+      "title": "HDFC Sky: Rupee gains 19 paise to close at 95.80",
+      "url": "https://hdfcsky.com/news/inr-vs-usd-rate-september-25-2026"
+    },
+    {
+      "title": "Investing.com: Brent oil futures historical prices",
+      "url": "https://www.investing.com/commodities/brent-oil-historical-data"
+    },
+    {
+      "title": "BusinessToday: IPO rush, 10 issues open for subscription today",
+      "url": "https://www.businesstoday.in/markets/ipo-corner/story/ipo-rush-10-issues-open-for-subscription-today-check-price-band-subscription-status-and-key-risks-557818-2026-09-25"
+    },
+    {
+      "title": "BusinessToday: Runwal Enterprises opens today, price band and details",
+      "url": "https://www.businesstoday.in/markets/ipo-corner/story/runwal-enterprises-opens-today-should-you-subscribe-check-price-band-reviews-fresh-gmp-more-557732-2026-09-25"
+    },
+    {
+      "title": "India TV: NSE shares fall 1.5% to trade near IPO price a day after debut",
+      "url": "https://www.indiatvnews.com/business/markets/nse-shares-fall-1-5-to-trade-near-ipo-price-a-day-after-debut-here-s-what-macquarie-says-2026-09-25-1055248"
+    },
+    {
+      "title": "SEBI: Key decisions taken in the SEBI Board Meeting dated 24th September, 2026",
+      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/key-decisions-taken-in-the-sebi-board-meeting-dated-24th-september-2026_104725.html"
+    },
+    {
+      "title": "Outlook Money: Sebi board meeting, PMS overhaul, easier settlements",
+      "url": "https://www.outlookmoney.com/invest/sebi-board-meeting-outcome-september-24-pms-regulation-overhaul"
+    },
+    {
+      "title": "CNBC: 30-year Treasury yield hits highest level since 2004 as bond market rout continues",
+      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html"
+    },
+    {
+      "title": "TheStreet: Stock market today, Sept. 24, 2026",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-24-2026"
+    },
+    {
+      "title": "Invezz: Nikkei rises through the bond shock",
+      "url": "https://invezz.com/news/2026/09/25/nikkei-rises-through-the-bond-shock-is-kospi-walking-into-a-selloff-after-chuseok/"
+    }
+  ]
+}
