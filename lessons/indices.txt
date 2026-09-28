@@ -1,0 +1,35 @@
+## The big idea
+
+India has thousands of listed companies, and their share prices change every second. Nobody can follow them all. An **index** solves this by combining the prices of a chosen group of shares into one number. If that number goes up, the group as a whole rose; if it goes down, the group fell.
+
+The two most famous indices in India are the **Sensex** and the **Nifty 50**. The Sensex, run by BSE, tracks 30 large, well-established companies. The Nifty 50, run by NSE, tracks 50. Because they contain many of the same big names, such as banks, IT firms and Reliance, they almost always move in the same direction on the same day.
+
+Bigger companies count for more. Both indices weight each company by the value of its shares that are freely available to trade, so a 2% move in a giant bank shifts the index far more than a 2% move in a smaller member.
+
+## An everyday analogy
+
+Think of a class's average marks. You don't need to read every answer sheet to know whether the class did well; the average tells you at a glance.
+
+An index works the same way, with one twist: it's like an average where the toppers' marks count several times over, because the biggest companies carry the most weight.
+
+## A real Indian example
+
+On 28 September 2026, the Sensex fell 1,124.02 points, or 1.52%, to 72,771.72, and the Nifty 50 fell 360.25 points, or 1.56%, to 22,780.25. The point falls look very different, but the percentage falls are almost the same. That's because the two indices simply start from different numbers.
+
+If you have an SIP in a Nifty 50 index fund, your fund buys all 50 companies in roughly the same proportions as the index. So on that day, your fund's value also fell by about 1.5%.
+
+## Common misunderstandings
+
+- **"A 1,000-point fall is always a disaster."** Points depend on the index's level. When the Sensex is above 70,000, 1,000 points is under 1.5%. Always look at the percentage.
+- **"The Sensex is the whole market."** It covers only 30 companies. Other indices track midcaps, smallcaps and sectors like banks or IT, and they can move differently.
+- **"A rising index means my shares rose."** Not necessarily. The index can rise while individual shares you own fall.
+
+## How it shows up in the news
+
+Evening news usually starts with the Sensex and Nifty: their closing level, the points change and the percentage change. You will also hear about the Nifty Bank, Nifty IT or Nifty PSU Bank for particular industries, and the Nifty Midcap 100 and Nifty Smallcap 100 for medium and smaller companies. Phrases like "the Nifty broke below 23,000" refer to round-number levels that traders watch. Which companies are in each index, and the exact rules for choosing them, change over time, so check the exchange's website for the current list.
+
+## Three things to remember
+
+1. An index is one number that sums up how a group of shares is doing, with bigger companies counting more.
+2. Always compare percentage changes, not points.
+3. An index fund copies an index, so it rises and falls roughly in line with it.

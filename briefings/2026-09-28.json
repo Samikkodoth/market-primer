@@ -1,0 +1,566 @@
+{
+  "date": "2026-09-28",
+  "session_label": "Monday 28 September 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "Indian shares fell about 1.5% to near six-month lows after the US rejected Iran's offer to reopen the Strait of Hormuz, sending oil back above $107 and the rupee past 96 per dollar.",
+  "mood": "Fearful",
+  "mood_note": "Almost every sector fell, the fear gauge jumped about 12% and falling shares far outnumbered rising ones. Analysts point to the same worries as last week, now sharper: oil, US interest rates and foreign selling.",
+  "reading_minutes": 13,
+  "since_yesterday": [
+    "Friday's small rebound was wiped out: the Nifty fell 360.25 points on Monday after gaining 77.40 on Friday.",
+    "India VIX, the fear gauge, rose about 12% to 13.63 after easing to 12.16 on Friday.",
+    "Oil reversed Friday's dip: hopes of a US–Iran deal faded over the weekend, and Brent climbed back above $107 a barrel."
+  ],
+  "one_minute": [
+    "The Sensex fell 1,124.02 points (1.52%) to 72,771.72 and the Nifty 50 fell 360.25 points (1.56%) to 22,780.25, ending near six-month lows.",
+    "Over the weekend, US President Donald Trump rejected Iran's proposal to reopen the Strait of Hormuz, and Brent crude jumped roughly 3% to above $107 a barrel.",
+    "The rupee fell 28 paise to close at 96.03 (provisional) per dollar, and the US 10-year bond yield rose to about 5.21%.",
+    "Selling was broad: PSU banks fell 3.24%, midcaps and smallcaps fell more than the big companies, and about 2,905 shares fell against 1,214 that rose.",
+    "Runwal Enterprises' IPO was subscribed 0.48 times by the end of day two, with one day left."
+  ],
+  "big_picture": "Friday's hope turned into Monday's worry. Last week, oil eased on talk of a US–Iran deal to reopen the Strait of Hormuz, the sea route used by many oil tankers. On Saturday, President Trump said Iran's latest offer was not acceptable. Oil jumped, and Indian shares, the rupee and other Asian markets fell.\n\nFor India, expensive oil is the core problem. India buys most of its oil from abroad and pays in dollars, so higher oil prices push up costs, weaken the rupee and can feed inflation. Add US borrowing costs at their highest in nearly two decades and foreign investors steadily taking money out, and you get a day like today: the Sensex down more than 1,100 points and almost every sector in the red. A beginner should remember that falls like this have happened many times before. What matters for long-term savers is years, not one Monday.",
+  "chain": [
+    {
+      "label": "US rejects Iran's offer",
+      "note": "On Saturday, President Trump said Iran's proposal to reopen the Strait of Hormuz was not acceptable."
+    },
+    {
+      "label": "Oil jumps",
+      "note": "Brent crude rose roughly 3% to above $107 a barrel on fears that oil supplies would stay disrupted."
+    },
+    {
+      "label": "Rupee weakens",
+      "note": "Costlier oil means India needs more dollars, and the rupee fell 28 paise to 96.03."
+    },
+    {
+      "label": "Global investors turn cautious",
+      "note": "US bond yields near 5.2% and a 'risk-off' mood hit Asian markets, with South Korea's Kospi down 2.70%."
+    },
+    {
+      "label": "Indian shares slide",
+      "note": "The Sensex lost 1,124 points, PSU banks fell 3.24% and the fear gauge rose about 12%."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "72,771.72",
+      "change": "−1,124.02 (−1.52%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE (Bombay Stock Exchange). Today's fall took it to near a six-month low."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,780.25",
+      "change": "−360.25 (−1.56%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Many index funds copy it, so an index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "−1.63%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies. They fell slightly more than the big companies today."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "−1.83%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller listed companies, which are riskier and swing more. They fell the most of the three size groups."
+    },
+    {
+      "name": "Nifty PSU Bank",
+      "value": "",
+      "change": "−3.24%",
+      "direction": "down",
+      "what_it_is": "This tracks 12 government-owned banks, such as SBI and Bank of Baroda. It was the worst-hit sector index today."
+    },
+    {
+      "name": "India VIX",
+      "value": "13.63",
+      "change": "+12.09%",
+      "direction": "up",
+      "what_it_is": "India VIX is the market's 'fear gauge'. It estimates how much traders expect the Nifty to swing over the next month. A jump means nerves are rising, though 13.63 is still a moderate level."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "96.03",
+      "change": "−28 paise, weaker (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee, which makes imported things like oil and electronics slightly more expensive."
+    },
+    {
+      "name": "Brent crude oil",
+      "value": "about $107",
+      "change": "up roughly 2.5–3%",
+      "direction": "up",
+      "what_it_is": "Brent is the world's main oil price, in US dollars per barrel (about 159 litres). Sources reported slightly different levels through the day, between about $106.7 and $108.6."
+    },
+    {
+      "name": "US 10-year bond yield",
+      "value": "about 5.21%",
+      "change": "+0.05 percentage points",
+      "direction": "up",
+      "what_it_is": "The interest the US government pays to borrow for 10 years. It's near its highest level since 2007, which makes shares in markets like India look less attractive to global investors."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-slump",
+      "category": "Stock market",
+      "title": "Sensex tumbles 1,124 points and Nifty slides below 22,800 to near six-month lows",
+      "tldr": "Almost every sector fell as oil jumped, with PSU banks hit hardest and smaller companies falling more than big ones.",
+      "what_happened": "The Sensex fell 1,124.02 points, or 1.52%, to close at 72,771.72. The Nifty 50 fell 360.25 points, or 1.56%, to 22,780.25. Both ended near six-month lows, and the Nifty closed well below the 23,000 level that analysts had been watching.\n\nThe selling was broad. Almost all sector indices on the NSE ended lower. The Nifty PSU Bank index fell 3.24%, the worst of the day, while realty, oil and gas and metal shares each lost around 2%. The Nifty Midcap 100 fell 1.63% and the Nifty Smallcap 100 fell 1.83%. Across the market, 2,905 shares fell and only 1,214 rose. Jio Financial Services, Tata Motors Passenger Vehicles and Adani Enterprises were among the Nifty's biggest losers; Dr Reddy's and Infosys were among the very few gainers. India VIX, the fear gauge, rose 12.09% to 13.63.\n\nThe total value of BSE-listed companies fell by about ₹6 lakh crore by mid-session, BusinessToday reported; 5paisa put the full-day figure at ₹8.88 lakh crore.",
+      "simple_explanation": "When the Sensex falls 1.5% in a day, it means the prices of India's biggest companies' shares fell by that much on average. That's a big day, but not a rare one. Markets have days like this several times a year.\n\nWhat stands out today is how widespread the fall was. It wasn't one troubled company or industry: banks, property firms, metal and oil companies all fell, and small companies fell more than large ones. That usually means investors are nervous about the whole economy, here because of oil, rather than about one business.",
+      "analogy": "Picture a monsoon storm warning. Every shop on the street pulls down its shutters a little, not because any one shop did something wrong but because everyone is worried about the same weather. The smaller stalls, with less shelter, close up the fastest.",
+      "why": "The trigger was oil. After Iran's proposal to reopen the Strait of Hormuz was rejected by the US, Brent crude jumped above $107 a barrel. Analysts said rising oil prices, high US bond yields and a weakening rupee together raised worries about inflation and foreign money leaving India. Hariselvan Radhakrishnan of HST Wealth said banks were a key drag, with both private and government lenders falling. Rupak De of LKP Securities said selling intensified once the Nifty broke below 23,000.\n\nBanks often fall hard at times like this because investors worry that higher inflation could keep interest rates high and hurt loan growth.",
+      "implications": {
+        "you": "If you have an equity or index fund SIP, its value probably fell about 1.5% today on paper. On ₹1 lakh, that's roughly ₹1,500. Nothing is lost unless you sell, and your next SIP instalment buys units at lower prices. FDs, savings accounts and home-loan EMIs are not affected by share prices.",
+        "markets": "Broad selling, a rising fear gauge and the Nifty below 23,000 all point to a nervous market. Analysts will watch whether this becomes an eighth losing week.",
+        "economy": "A one-day fall doesn't change jobs or growth. But if oil stays high for months, it can slow the economy by raising costs for businesses and households.",
+        "prices": "The share market fall itself doesn't change everyday prices. The oil jump behind it could, if it lasts."
+      },
+      "watch": "Whether the Nifty can climb back above 23,000, whether the fear gauge keeps rising, and any fresh US–Iran news.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Sectoral index",
+        "PSU bank",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "India VIX",
+        "Market capitalisation"
+      ],
+      "explainers": {
+        "like12": "The Sensex is like a scoreboard showing how India's 30 biggest companies are doing. Today the score dropped a lot, by more than 1,100 points.\n\nWhy? Far away, America and Iran are arguing about a narrow sea road that oil ships use. Over the weekend, America said no to Iran's plan to reopen it. So people worried oil would stay expensive. India buys most of its oil from other countries, so expensive oil is bad news for India.\n\nWhen people get worried, many sell their shares at once, and prices fall. Today almost everything fell: banks, property companies, metal companies. Small companies fell even more than big ones. It's a bad day, but markets have had bad days before and later recovered.",
+        "real_life": "Consider Ravi, a 35-year-old bank clerk in Pune with about ₹2,00,000 built up in a Nifty 50 index fund through a ₹5,000 monthly SIP. Today's 1.56% fall knocked roughly ₹3,100 off its value on paper. Over the past seven weeks of losses, he has seen more.\n\nIt feels uncomfortable, but nothing has actually left Ravi's pocket. His salary, his rent and the ₹50,000 FD he keeps for emergencies are exactly the same as on Friday. His next ₹5,000 instalment will buy more units than it did in summer, because prices are lower. The thing that could affect Ravi's daily life is not the Sensex itself but oil: if it stays high for months, his bus fares and grocery bills could slowly rise."
+      }
+    },
+    {
+      "id": "oil-jumps-rupee-past-96",
+      "category": "Rupee & oil",
+      "title": "Oil jumps above $107 after the US rejects Iran's offer, and the rupee slips past 96",
+      "tldr": "Brent crude rose roughly 3% and the rupee fell 28 paise to 96.03 per dollar as hopes of reopening the Strait of Hormuz faded.",
+      "what_happened": "On Saturday, US President Donald Trump said he had rejected Iran's latest proposal, which Iran said would reopen the Strait of Hormuz and restart peace talks. Speaking to reporters, he said the deal would not be acceptable, without explaining further. Iran's foreign minister said no rejection had yet come through official channels.\n\nOn Monday, Brent crude climbed sharply. Reports during the day put it between about $106.7 and $108.6 a barrel, up roughly 2.5–3%, and above $107 for much of the Indian afternoon. Oil has risen about 18% so far in September, according to Saxo.\n\nThe rupee fell 28 paise to close at 96.03 (provisional) against the US dollar, according to PTI. It opened at 95.89 and weakened through the day. Forex dealers blamed a risk-off mood in global markets and the jump in crude.",
+      "simple_explanation": "India imports most of its oil and pays for it in dollars. When oil gets more expensive, Indian companies need more dollars, and they buy them with rupees. More demand for dollars makes each dollar cost more rupees, so the rupee 'weakens'.\n\nToday, both things happened at once: oil jumped, and global investors got nervous and moved money into the dollar. That pushed the rupee past 96 per dollar. A weaker rupee in turn makes oil even more expensive in rupee terms, which is why oil news matters so much for India.",
+      "analogy": "Imagine your family buys all its cooking gas from a supplier in another town who only accepts a special token. When the gas price goes up, you need more tokens, and when everyone in your colony rushes to buy tokens at once, each token costs more too. You get hit twice.",
+      "why": "Oil prices have been swinging on every hint about US–Iran talks over the Strait of Hormuz, a narrow passage that a large share of the world's oil tankers use. Friday's dip came from hopes of a deal; Monday's jump came from those hopes fading. Iran had offered, through Qatari mediators, to reopen the strait in exchange for the US ending its blockade of Iranian ports. Forex dealers said the stalemate, falling risk assets and higher crude may keep pressure on the rupee.",
+      "implications": {
+        "you": "A weaker rupee makes dollar-priced things slightly costlier: foreign travel, overseas tuition, imported gadgets and app subscriptions billed in dollars. At 28 paise, the change is small, about ₹28 on every $100.",
+        "markets": "Higher oil hurts companies that use a lot of fuel, like airlines, paint makers and transport firms. A weaker rupee slightly helps IT and pharma companies that earn in dollars, which may explain why Infosys and Dr Reddy's rose today.",
+        "economy": "Oil above $100 raises India's import bill, can widen the gap between what India buys and sells abroad, and adds to inflation pressure.",
+        "prices": "One day's jump won't change petrol or diesel prices. Those depend on where oil settles over weeks and on decisions by the government and oil companies. But weeks of high oil can push up transport and food costs."
+      },
+      "watch": "Any new US–Iran talks, whether Brent stays above $105, and whether the rupee holds near 96 per dollar.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "Exchange rate",
+        "Provisional",
+        "Risk-off"
+      ],
+      "explainers": {
+        "like12": "India needs lots of oil, but most of it comes from far away. To buy it, India pays in dollars, America's money.\n\nThere's a narrow sea road called the Strait of Hormuz that many oil ships travel through, and right now it's blocked because of a fight between America and Iran. Iran offered a plan to open it again, but over the weekend America said no. So people expect oil to stay hard to get, and its price went up.\n\nWhen oil costs more, India needs more dollars. When lots of people want dollars, each dollar costs more rupees. Today one dollar cost about 96 rupees, a little more than on Friday. That's what people mean when they say 'the rupee got weaker'.",
+        "real_life": "Take Sneha, a 29-year-old software tester in Hyderabad who is saving for a trip to Singapore in December and has budgeted $1,000 for spending money. At Friday's rate of about 95.80, that was roughly ₹95,800. At today's 96.03, it's about ₹96,030, some ₹230 more. Small, but it adds up if the rupee keeps slipping.\n\nThe bigger effect on Sneha could come later, from oil. Her daily cab rides, food delivery fees and the price of vegetables trucked into the city all depend partly on fuel costs. If Brent stays above $100 for months, those could creep up. For now, her monthly budget looks almost the same as last week."
+      }
+    },
+    {
+      "id": "foreign-selling-domestic-buying",
+      "category": "Investors",
+      "title": "Foreign investors keep selling, and Nifty heads for its worst year since 2011",
+      "tldr": "Foreign funds have pulled large sums out of Indian shares this month and over two years, while Indian institutions have kept buying.",
+      "what_happened": "Foreign portfolio investors, or FPIs, pulled ₹20,974 crore out of Indian shares in the first three weeks of September, according to depository data reported by PTI on 20 September. That followed net buying of ₹20,200 crore in July and ₹29,630 crore in August. Their total outflow for 2026 has reached ₹2.45 lakh crore, more than all of 2025.\n\nA report from Motilal Oswal Financial Services (MOFSL), published on Monday, said foreign institutional investors have sold about $56 billion of Indian shares over the past two years, wiping out their net buying since 2019. Over the same period, domestic institutions such as mutual funds and insurers put a record of around $177 billion into Indian shares.\n\nBusinessToday reported that the Nifty is down 13% in 2026 so far, on track for its worst year since 2011.",
+      "simple_explanation": "Two big groups of investors move the Indian market: foreign funds (FIIs or FPIs) and Indian institutions (DIIs), like mutual funds. Foreign funds have been selling steadily, because they can now earn high, safe returns on US government bonds and because oil and a weaker rupee make India look riskier to them.\n\nIndian institutions have been buying, largely with money that comes from ordinary people's monthly SIPs. That buying has cushioned the fall. Without it, the market would probably have dropped further. But it hasn't been enough to stop a long slide.",
+      "analogy": "Think of a big wholesale buyer from another state who used to buy heavily at your town's mandi and has now started selling his stock and leaving. Local shopkeepers keep buying steadily, which stops prices collapsing, but they can't fully make up for the big buyer walking away.",
+      "why": "Analysts link the foreign selling to higher US interest rates, oil above $100 a barrel, and global uncertainty. When the US 10-year bond pays over 5%, a foreign fund can earn a solid return at home with little risk, so riskier markets like India have to work harder to attract money. A weaker rupee also cuts foreign investors' returns when they convert back into dollars. Siddhartha Khemka of Motilal Oswal said he expects the market to consolidate and possibly recover towards 23,000–24,000 by the end of the year; Hitesh Tailor of Choice Broking said the short-term structure has turned negative.",
+      "implications": {
+        "you": "If you invest through an SIP, you are part of the domestic money that has been cushioning the market. A year in which the Nifty falls 13% is painful to watch, but SIPs are designed to keep buying through such periods. Nothing here requires you to act.",
+        "markets": "Continued foreign selling tends to pressure large companies, banks and the rupee. Analysts watch for signs that foreign funds are returning before calling a turn.",
+        "economy": "Foreign money leaving can weaken the rupee and make borrowing slightly costlier for companies. Strong domestic saving through mutual funds makes India less dependent on foreign investors than in the past.",
+        "prices": "Indirect only. A weaker rupee, partly caused by foreign selling, makes imports like oil and electronics a little more expensive."
+      },
+      "watch": "Monthly FPI figures for September, due soon after the month ends on Wednesday, and whether US bond yields ease.",
+      "terms": [
+        "FII",
+        "DII",
+        "Emerging market",
+        "US Treasury yield"
+      ],
+      "explainers": {
+        "like12": "Imagine a big school canteen with two groups of customers. One group is visitors from abroad who come with lots of money. The other is the school's own students, who bring pocket money every week.\n\nFor two years, the visitors have been selling more than they buy and leaving, taking their money with them. Why? Because America now pays them good interest for keeping money safely there, and India looks a bit risky right now with oil being so expensive.\n\nThe students, Indian mutual funds using money from people's monthly SIPs, keep buying every week. That stops the canteen's prices from crashing. But because the visitors are leaving so fast, prices have still slipped. This year the Nifty is down 13%.",
+        "real_life": "Imagine Kavita, a 40-year-old schoolteacher in Jaipur who has put ₹3,000 a month into a large-cap mutual fund since 2022. Every month, her fund manager uses her money, and money from millions like her, to buy Indian shares. That is the 'domestic institutional buying' in the news, and it's one reason the market hasn't fallen further.\n\nThis year her fund's value has dropped, because foreign investors have been selling and the Nifty is down 13%. Her instalments now buy more units than they did last year. Her salary, her home loan EMI and her PPF account are unaffected. Whether this year's fall matters to Kavita depends mostly on how many years she keeps investing, not on what foreign funds do this month."
+      }
+    },
+    {
+      "id": "global-cues-yields-asia",
+      "category": "Global",
+      "title": "US bond yields stay near 5.2% and Asian markets fall",
+      "tldr": "South Korea's Kospi fell 2.70% and US stock futures slipped as oil and interest-rate worries spread across markets.",
+      "what_happened": "The yield on the US 10-year government bond rose to about 5.21% on Monday, up 0.05 percentage points and near its highest level since 2007. Higher yields mean the US government is paying more to borrow, and they set a higher 'safe return' for investors around the world.\n\nIn Asia, South Korea's Kospi fell 2.70% as it reopened after the Chuseok holiday, with chip makers Samsung Electronics and SK Hynix each falling more than 4%. In the US, stock futures pointed lower before the market opened: Dow futures were down about 0.5% and Nasdaq-100 futures about 0.8%. Reports said worries about the safety of AI systems also weighed on US markets.",
+      "simple_explanation": "Indian markets don't move in isolation. When the US government pays over 5% on its bonds, global investors can earn a good, safe return in the US. That makes riskier markets, like India and South Korea, less attractive, so money tends to flow out of them.\n\nOn days when oil jumps too, investors across Asia get nervous at the same time. That's why Indian, Korean and US markets all pointed down on Monday, each for slightly different local reasons but with the same global worries underneath.",
+      "analogy": "Think of a bank near your home suddenly offering 8% on FDs. Many people who had lent money to a friend's small business might ask for it back to put it in the safer FD. High US bond yields work the same way on global investors.",
+      "why": "Traders see the US Federal Reserve keeping interest rates high to fight inflation, and higher oil prices add to that inflation worry. Kyle Rodda of Capital.com said geopolitical risk would define the start of the trading week after US–Iran diplomacy stalled over the weekend. Korean shares had extra ground to catch up on after being closed for a holiday during last week's falls.",
+      "implications": {
+        "you": "You don't need to follow US bonds daily. But when you hear 'US yields hit a new high', expect pressure on Indian shares and the rupee, which can show up in your SIP value and in the cost of anything priced in dollars.",
+        "markets": "High US yields are one of the main reasons foreign funds are selling Indian shares. Many analysts say a lasting recovery in India may need US yields and oil to ease.",
+        "economy": "High global interest rates make borrowing abroad costlier for Indian companies and the government, and can limit how far the RBI can cut rates at home.",
+        "prices": "No direct effect on everyday prices. The indirect route is through a weaker rupee."
+      },
+      "watch": "The US market close tonight, any comments from Federal Reserve officials, and whether the 10-year yield moves above recent highs.",
+      "terms": [
+        "US Treasury yield",
+        "Emerging market",
+        "Stock futures",
+        "Federal Reserve"
+      ],
+      "explainers": {
+        "like12": "Imagine the richest family in your town, America, starts offering to pay very good interest to anyone who lends them money. Lending to them is also very safe. Suddenly lots of people want to lend to America instead of putting money into riskier places.\n\nThat's what's happening. America's government pays about 5.2% interest on its 10-year bonds, one of the highest rates in almost 20 years. So investors around the world are taking some money out of places like India and South Korea and moving it to America.\n\nOn top of that, oil got more expensive today. So markets across Asia fell together. South Korea's market dropped 2.7%. It's a reminder that what happens far away can move prices here too.",
+        "real_life": "Think of Imran, a 33-year-old marketing manager in Bengaluru who owns a few shares of an Indian bank and has an SIP in an index fund. He might wonder why news about American bonds matters to him.\n\nHere's the link. When US bonds pay over 5%, a big foreign pension fund that owns Indian bank shares may sell some to put the money into safe US bonds. That selling pushes down the price of Imran's bank shares and his index fund. It also weakens the rupee, which makes Imran's planned laptop purchase, priced in dollars, a little costlier. None of this changes Imran's salary or EMI, but it helps explain why his portfolio has been sliding."
+      }
+    },
+    {
+      "id": "runwal-ipo-day-two",
+      "category": "IPO",
+      "title": "Runwal Enterprises IPO is about half subscribed with one day to go",
+      "tldr": "The real estate developer's ₹500 crore IPO drew bids for 0.48 times the shares on offer by the end of day two, led by institutional investors.",
+      "what_happened": "Runwal Enterprises, a real estate developer, opened its IPO on Friday, seeking ₹500 crore at ₹290–305 a share in lots of 49 shares. By the end of Monday, day two, it had been subscribed 0.48 times overall, up from 0.42 times after day one, according to data compiled by ScanX.\n\nBy category, qualified institutional buyers (QIBs) had bid for 0.96 times their portion, retail investors 0.28 times and non-institutional investors 0.37 times. The IPO closes on 29 September, allotment is expected on 30 September, and the shares are due to list on 5 October. Before opening, the company raised ₹148.95 crore from anchor investors.",
+      "simple_explanation": "Subscription tells you how much demand an IPO has. 0.48 times means investors have bid for about half the shares on offer so far. It's a slow response, but many investors, especially big ones, bid on the last day, so the final figure can look quite different.\n\nThe category split shows who's interested. Big institutions have almost filled their portion, while ordinary retail investors have bid for only about a quarter of theirs. Launching an IPO during a falling market is harder, because investors are cautious and have many other issues to choose from.",
+      "analogy": "It's like a new restaurant's opening weekend clashing with a storm. Tables are half empty on day two, though a big group booking is nearly confirmed. Whether it's full on the last night, and whether it's still popular in a year, are different questions.",
+      "why": "India's IPO market has been busy, with about ten issues open at once late last week. But the wider market has fallen for seven weeks in a row, and Monday's sharp drop added to the caution. Real estate shares were among the weaker groups on Monday, with the Nifty Realty index down more than 2%.",
+      "implications": {
+        "you": "If you're considering applying, one lot costs ₹14,945 at the top price. Your money is blocked, not debited, until allotment, and released if you don't get shares. If an IPO is not fully subscribed, everyone who applied gets shares. New listings can trade above or below their issue price.",
+        "markets": "A weak response to IPOs during a falling market is common. It can make other companies delay their own IPO plans.",
+        "economy": "IPOs help companies raise money to repay debt or build projects. A slower IPO market can make that harder for a while.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Final subscription figures on Tuesday evening, and the listing price on 5 October.",
+      "terms": [
+        "IPO",
+        "Price band",
+        "Lot size",
+        "Subscription",
+        "QIB",
+        "Allotment",
+        "Listing"
+      ],
+      "explainers": {
+        "like12": "An IPO is when a company sells small pieces of itself to the public for the first time. Runwal, a company that builds homes and buildings, is doing that right now.\n\nIt's offering a certain number of pieces. After two days, people have asked for only about half of them. That's what '0.48 times' means. Big investors, like mutual funds, have asked for almost all of their share, but everyday people have asked for only about a quarter of theirs.\n\nWhy so slow? This week the whole market has been falling, and people get careful when prices are dropping. The IPO is open for one more day, and lots of people wait until the last day to apply, so the number could still go up.",
+        "real_life": "Say Rohit, a 27-year-old engineer in Nashik, has ₹25,000 saved and is tempted by the Runwal IPO. One lot of 49 shares at ₹305 costs ₹14,945. His bank would block that amount in his account until 30 September. If the retail portion ends up less than fully subscribed, he'd almost certainly get shares; if it's oversubscribed, he might not.\n\nIf he gets them, he'd own 49 shares from 5 October, and their price could end up above or below ₹305. Real estate shares had a weak day on Monday. Rohit's ₹25,000 in an FD would earn a known amount of interest. An IPO offers the chance of more, and the risk of losing some of it."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Market capitalisation",
+    "explanation": "Market capitalisation, or market cap, is the total value of a company's shares at the current price: the share price multiplied by the number of shares. Add up the market cap of every company listed on the BSE and you get the value of the whole market.\n\nWhen headlines say 'investors lose ₹6 lakh crore in a day', they are describing a fall in this total. It isn't cash that left anyone's bank account. It's the paper value of everyone's shares, measured at the day's prices. If prices recover, the 'lost' value comes back; it becomes a real loss only for those who sell at the lower price.",
+    "example": "On Monday, the total market cap of BSE-listed companies fell from about ₹481.88 lakh crore to ₹475.85 lakh crore by mid-session, a drop of around ₹6 lakh crore, according to BusinessToday. 5paisa estimated the full-day fall at ₹8.88 lakh crore.",
+    "takeaway": "'Investors lost ₹X lakh crore' means the market value of shares fell on paper. It's a measure of the size of a move, not money that vanished from people's pockets."
+  },
+  "quiz": [
+    {
+      "q": "What set off Monday's sharp fall in Indian shares?",
+      "options": [
+        "The RBI raised interest rates",
+        "The US rejected Iran's proposal to reopen the Strait of Hormuz, pushing oil higher",
+        "A big Indian company reported a loss",
+        "The stock exchange was closed for half the day"
+      ],
+      "answer": 1,
+      "why": "President Trump said on Saturday that Iran's offer was not acceptable. Oil jumped above $107 a barrel, and because India imports most of its oil, Indian shares and the rupee fell."
+    },
+    {
+      "q": "Why does a jump in oil prices tend to weaken the rupee?",
+      "options": [
+        "Because oil companies are paid in rupees",
+        "Because India exports a lot of oil",
+        "Because India pays for its oil imports in dollars, so it needs more dollars when oil costs more",
+        "Because the government fixes the rupee's value to oil"
+      ],
+      "answer": 2,
+      "why": "More expensive oil means Indian importers need more dollars. Higher demand for dollars makes each dollar cost more rupees."
+    },
+    {
+      "q": "Headlines said investors 'lost ₹6 lakh crore'. What does that mean?",
+      "options": [
+        "₹6 lakh crore was withdrawn from Indian banks",
+        "The total market value of listed companies' shares fell by about that much on paper",
+        "The government spent ₹6 lakh crore supporting the market",
+        "Foreign investors took ₹6 lakh crore out of India in one day"
+      ],
+      "answer": 1,
+      "why": "It describes a fall in total market capitalisation. It's a paper loss for shareholders, not money leaving bank accounts."
+    },
+    {
+      "q": "About 2,905 shares fell and 1,214 rose. What does this 'market breadth' tell you?",
+      "options": [
+        "Only a few big companies fell",
+        "The fall was widespread across the market",
+        "More shares rose than fell",
+        "The market was closed for most of the day"
+      ],
+      "answer": 1,
+      "why": "When far more shares fall than rise, the selling is broad, not limited to a few big names."
+    },
+    {
+      "q": "Why do high US bond yields matter for Indian shares?",
+      "options": [
+        "They make Indian companies pay more tax",
+        "They give global investors a good, safe return in the US, so some move money out of riskier markets like India",
+        "They are set by the RBI",
+        "They only affect people living in the US"
+      ],
+      "answer": 1,
+      "why": "When US government bonds pay over 5%, riskier markets need to offer more to attract money. Foreign funds may sell Indian shares to buy US bonds."
+    },
+    {
+      "q": "Runwal Enterprises' IPO was subscribed 0.48 times after day two. What does that mean?",
+      "options": [
+        "The IPO has been cancelled",
+        "Investors have bid for about half of the shares on offer so far",
+        "Each share is worth 0.48 rupees",
+        "48 investors have applied"
+      ],
+      "answer": 1,
+      "why": "Subscription compares bids with shares on offer. 0.48 times means bids for about 48% of the shares so far, with one day left."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A 'fear gauge' that estimates how much traders expect the Nifty to swing over the next 30 days. Higher means more nervousness.",
+      "more": "VIX stands for volatility index. It's calculated from prices of Nifty options, contracts traders use to protect themselves against big moves. When people rush to buy protection, VIX rises. It's like the price of umbrellas going up when everyone expects rain. VIX doesn't say whether the market will go up or down, only how bumpy traders expect it to be. News often reports a big percentage jump in VIX on bad days, but the level itself matters too: lower teens is calm, and 25 or more is quite nervous."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A count of how many shares rose versus how many fell on a day. It shows whether a move was widespread or driven by a few big names.",
+      "more": "An index like the Nifty 50 can rise just because a few giant companies did well, even if most shares fell. Market breadth checks that by counting advances and declines across the whole exchange. It's like judging a school's results not only by the toppers but by how many students passed. If far more shares rose than fell, breadth is 'positive' and the rally is broad. News reports quote breadth as, for example, '1,925 stocks advanced and 1,594 declined'."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage between Iran and Oman that a large share of the world's oil tankers travel through.",
+      "more": "The Strait of Hormuz connects the oil-rich Persian Gulf to the open ocean. Because so many oil and gas shipments pass through it, any conflict or blockade there can quickly push up global oil prices. It's like the single main road into a busy city: block it and everything coming in gets delayed and costlier. News about the Strait usually moves oil prices within minutes, and through oil it affects India's rupee, inflation and fuel costs."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial public offering: the first time a company sells its shares to the general public, after which they trade on a stock exchange.",
+      "more": "In an IPO, a company, or its existing owners, sells shares to the public at a set price. Investors apply through their broker or bank app, and if there's more demand than shares, allotment is decided by lottery or proportionally. It's like a family business opening its ownership to the neighbourhood for the first time. After the IPO, the shares 'list' and anyone can trade them. News coverage often focuses on subscription numbers, grey market premium and listing-day gains, which can distract from the company's long-term quality."
+    },
+    {
+      "term": "Listing",
+      "definition": "When a company's shares start trading on a stock exchange, usually a few days after its IPO closes.",
+      "more": "Listing day is the first day the public can freely buy and sell a new company's shares. The first price is set in a special pre-open session based on orders. It's like a new product finally reaching shop shelves after pre-bookings: now the market decides what it's really worth. News reports quote the listing price, the day's high and the closing price, compared with the issue price. A listed company must also publish regular results and follow disclosure rules set by SEBI."
+    },
+    {
+      "term": "Price band",
+      "definition": "The range of prices, from lowest to highest, within which investors can bid for shares in an IPO.",
+      "more": "Before an IPO opens, the company announces a price band, such as ₹290–305 per share. Investors bid for shares at a price inside that range. Once bidding closes, the company fixes the final issue price, usually at the top of the band if demand is strong. It's like a seller saying a used bike will go for somewhere between ₹29,000 and ₹30,500 depending on interest. Most small investors simply bid at the top price (called the 'cut-off') to improve their chance of getting shares."
+    },
+    {
+      "term": "Lot size",
+      "definition": "The minimum number of shares you must apply for in an IPO. You can apply only in multiples of it.",
+      "more": "IPO shares are sold in fixed bundles called lots. If the lot size is 49 shares, you must apply for 49, 98, 147 and so on, not 10 or 60. The smallest application therefore costs the lot size multiplied by the price: at ₹305, one lot of 49 shares costs ₹14,945. It's like a shop selling eggs only by the tray, not singly. News reports mention the lot size so readers know the minimum amount needed to apply."
+    },
+    {
+      "term": "Market capitalisation",
+      "definition": "The total value of all of a company's shares at today's price. Added up across companies, it shows the value of the whole market.",
+      "more": "Market capitalisation, or market cap, is the share price multiplied by the number of shares a company has issued. Add up the market cap of every company on the BSE and you get the value of the whole exchange. When headlines say 'investors lost ₹6 lakh crore', they mean this total fell by that much during the day. It's like the estimated value of every house in your colony falling because prices nearby dropped: nobody paid anyone, and the loss is only on paper unless people sell."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry, such as banks, IT, metals or real estate.",
+      "more": "Besides the Sensex and Nifty 50, the exchanges publish indices for single industries, like Nifty Bank, Nifty IT, Nifty Metal or Nifty Realty. They show which parts of the economy investors are feeling good or bad about on a given day. It's like looking at the results of each section of a class, not just the class average. News reports often say 'all sectoral indices ended in the red', which means every industry group fell, a sign the selling was broad rather than limited to one problem area."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Risk-off",
+      "definition": "A market mood in which investors sell riskier things like shares and emerging-market currencies and move towards safer ones.",
+      "more": "When worries rise, such as a war, an oil shock or rising interest rates, big investors often cut risk. They sell shares, especially in emerging markets like India, and move money into things they see as safer, like the US dollar. This is called a 'risk-off' mood. The opposite, 'risk-on', is when investors feel confident and buy riskier assets. It's like a family postponing a holiday and keeping cash at home after hearing worrying news. Currency dealers often blame 'risk-off sentiment' for a falling rupee."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "Emerging market",
+      "definition": "A country whose economy is growing and developing, such as India, Brazil or Indonesia. Investors see these markets as higher-growth but riskier.",
+      "more": "Global investors group countries into developed markets, like the US, Japan and Western Europe, and emerging markets, like India, China, South Korea and Brazil. Emerging markets can grow faster, but their shares and currencies usually swing more. When global investors get nervous, they often pull money out of emerging markets first. It's like a young, fast-growing startup: exciting in good times, but the first to feel it when money gets tight. News reports often say 'emerging-market currencies weakened', which usually includes the rupee."
+    },
+    {
+      "term": "Stock futures",
+      "definition": "Contracts that let traders bet on where a share index will be later. Before a market opens, their prices hint at how it may start.",
+      "more": "Futures are agreements to buy or sell something at a set price on a future date. Index futures, such as those on the US S&P 500 or Dow Jones, trade almost round the clock. Because the US stock market opens only in the Indian evening, Indian news often reports 'US futures were down 0.5%' during our trading day. That's an early signal of how American investors are feeling. It's like checking the queue outside a shop before it opens to guess how busy the day will be."
+    },
+    {
+      "term": "Subscription",
+      "definition": "How much of an IPO investors have applied for. '0.48 times' means bids came in for about half of the shares on offer.",
+      "more": "During an IPO, the exchanges publish how many shares investors have bid for compared with how many are available, called the subscription figure. '1 times' means demand exactly matches supply; '5 times' means five shares were sought for each one offered; '0.48 times' means only about half were sought so far. Many investors bid on the last day, so early figures often rise sharply at the end. It's like counting RSVPs for a wedding: many replies arrive only on the last day."
+    },
+    {
+      "term": "QIB",
+      "definition": "Qualified institutional buyer: a large professional investor, such as a mutual fund, bank or insurer, that gets a separate share of an IPO.",
+      "more": "In an Indian IPO, the shares on offer are divided into portions for different kinds of investors. QIBs are big, regulated institutions like mutual funds, insurance companies, banks and foreign funds. Retail investors, who apply for smaller amounts, get their own portion, and wealthy individuals (NIIs or HNIs) get another. Reports on IPO demand usually break down subscription by category. It's like a cinema holding separate queues for bulk bookings, families and single tickets. Strong QIB demand is often read as a sign that professionals like the issue."
+    },
+    {
+      "term": "Allotment",
+      "definition": "The step after an IPO closes, when the company decides who gets shares and how many.",
+      "more": "If an IPO receives more bids than shares, not everyone gets what they asked for. Retail investors are usually given shares by a computerised lottery, with each lucky applicant getting at least one lot. If an IPO is not fully subscribed, everyone who applied gets shares. Money for unsuccessful bids, which was only blocked, is released back to the bank account. It's like a housing lottery for flats: you apply, wait for the draw and then learn if you got one. News reports give the allotment date so applicants know when to check."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex slumps 1,124 pts, Nifty settles at 22,780; Nifty PSU Bank falls 3%",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-updates-september-28-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126092800062_1.html"
+    },
+    {
+      "title": "The Tribune (ANI): Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107",
+      "url": "https://www.tribuneindia.com/news/business/nifty-falls-1-56-sensex-tanks-1124-points-as-psu-banks-plunge-crude-tops-usd-107"
+    },
+    {
+      "title": "India TV: Sensex plunges 1,124 points, Nifty below 22,800; here's what led to the crash today",
+      "url": "https://www.indiatvnews.com/business/markets/sensex-plunges-1-124-points-nifty-below-22-800-psu-bank-realty-stocks-among-top-losers-2026-09-28-1055517"
+    },
+    {
+      "title": "Deccan Herald: Sensex tumbles 1,124 points to hit six-month low",
+      "url": "https://www.deccanherald.com/business/markets/sensex-sinks-1124-points-as-crude-surge-west-asia-tensions-rattle-markets-4162517"
+    },
+    {
+      "title": "LatestLY: Why is stock market down today, September 28, 2026?",
+      "url": "https://www.latestly.com/business/why-is-stock-market-down-today-september-28-2026-7623905.html"
+    },
+    {
+      "title": "HDFC Sky: India VIX surges 12% to 13.63",
+      "url": "https://hdfcsky.com/news/india-vix-rises-12-09percent-as-us-iran-deadlock-crude-and-nifty-sell-off-lift-volatility-september-28-2026"
+    },
+    {
+      "title": "BusinessToday: Sensex, Nifty plunge over 1%; investors lose Rs 6 lakh crore as Brent crude crosses $107",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sensex-nifty-plunge-over-1-investors-lose-rs-6-lakh-crore-as-brent-crude-crosses-107-558163-2026-09-28"
+    },
+    {
+      "title": "BusinessToday: Sensex, Nifty hammered as Brent tops $108; will oil, yields keep markets under pressure?",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sensex-nifty-hammered-as-brent-tops-108-will-oil-yields-keep-markets-under-pressure-558288-2026-09-28"
+    },
+    {
+      "title": "5paisa: Sensex, Nifty fall over 1.5%; ₹8.88 lakh crore wealth wiped out",
+      "url": "https://www.5paisa.com/blog/post-market-update-sensex-nifty-fall-market-wealth-wiped-out-september-28-2026"
+    },
+    {
+      "title": "Business Standard: Nifty PSU Bank tanks 2%, stocks dip up to 4%",
+      "url": "https://www.business-standard.com/markets/news/nifty-psu-bank-tanks-2-stocks-dip-up-to-4-analysts-flag-rate-hike-woes-126092800303_1.html"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee falls 28 paise to close at 96.03 against US dollar",
+      "url": "https://www.deccanherald.com/business/markets/rupee-falls-28-paise-to-close-at-9603-against-us-dollar-4162497"
+    },
+    {
+      "title": "CNBC: Oil prices jump as Trump rejects Iranian proposal to reopen Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html"
+    },
+    {
+      "title": "Trading Economics: Brent crude oil",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    },
+    {
+      "title": "NPR: Trump rejects plan to reopen Strait of Hormuz",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+    },
+    {
+      "title": "CNN: Iran says it is awaiting 'definitive' US response despite Trump rejecting latest proposal",
+      "url": "https://www.cnn.com/2026/09/26/middleeast/trump-rejects-iran-proposal-hormuz-intl"
+    },
+    {
+      "title": "Business Standard (PTI): FPIs withdraw ₹20,974 crore from equities in Sep amid global uncertainty",
+      "url": "https://www.business-standard.com/amp/markets/news/fpis-withdraw-20-974-crore-from-equities-in-sep-amid-global-uncertainty-126092000171_1.html"
+    },
+    {
+      "title": "Business Standard: $56 bn FII outflows offset inflows since CY2019, says MOFSL",
+      "url": "https://www.business-standard.com/markets/news/56-bn-fii-outflows-in-3-years-offset-inflows-since-cy2019-mofsl-126092800483_1.html"
+    },
+    {
+      "title": "BusinessToday: Nifty set for worst returns in 15 years, analysts weigh in",
+      "url": "https://www.businesstoday.in/markets/stocks/story/nifty-set-for-worst-returns-in-15-years-analysts-weigh-in-558312-2026-09-28"
+    },
+    {
+      "title": "Trading Economics: US 10-year Treasury yield",
+      "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    },
+    {
+      "title": "Invezz: Kospi leads Asia lower as 5% US yields and $106 oil hit expensive tech",
+      "url": "https://invezz.com/news/2026/09/28/kospi-leads-asia-lower-as-5-us-yields-and-106-oil-hit-expensive-tech/"
+    },
+    {
+      "title": "Saxo: Asia market quick take, 28 September 2026",
+      "url": "https://www.home.saxo/en-ch/content/articles/macro/asia-market-quick-take-28-september-2026-28092026"
+    },
+    {
+      "title": "TheStreet: Stock market today, Sept. 28, 2026",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026"
+    },
+    {
+      "title": "ScanX: Runwal Enterprises IPO day 2, subscribed 0.48x; QIB leads at 0.96x",
+      "url": "https://scanx.trade/stock-market-news/ipo/runwal-enterprises-ipo-day-2-subscribed-0-48x-qib-leads-0-96x-ahead/52120602"
+    }
+  ]
+}
