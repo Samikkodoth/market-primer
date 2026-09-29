@@ -1,0 +1,35 @@
+## The big idea
+
+**Inflation** is the general rise in prices over time. When inflation is 5%, a basket of things that cost ₹100 last year costs about ₹105 this year. Your money hasn't disappeared, but each rupee buys a little less.
+
+In India, the most-watched measure is **retail inflation**, based on the Consumer Price Index (CPI). The government collects prices of food, fuel, rent, clothes, school fees, medicines and more, and works out how much the whole basket has changed compared with a year earlier. That percentage is the inflation rate you hear about in the news every month.
+
+A little inflation is normal in a growing economy. Problems start when prices rise too fast, because salaries and savings struggle to keep up.
+
+## An everyday analogy
+
+Think of a bucket with a small hole in the bottom. The water in it is your savings. Inflation is the hole: slowly, steadily, the water level drops unless you keep adding more.
+
+Interest on an FD, or returns from other investments, is like pouring water back in. If you pour in faster than the hole leaks, your savings grow in real terms. If you pour in slower, you're losing ground even though the number in your bank account is going up.
+
+## A real Indian example
+
+Suppose your FD earns 7% a year and inflation is 5%. Your "real" return, what you gain in buying power, is roughly 2%. If inflation rises to 8% while your FD still pays 7%, your real return turns negative: after a year, your money buys slightly less than before, even with the interest.
+
+That's why news about oil matters for inflation. India imports most of its oil. When crude stays above $100 a barrel, as it has for much of September 2026, and if that lasts for months, transport, cooking fuel and many goods can gradually get costlier, which feeds into the CPI.
+
+## Common misunderstandings
+
+- **"Inflation falling means prices are falling."** No. Lower inflation means prices are rising more slowly. Prices actually falling is called deflation, and it's rare.
+- **"Inflation affects everyone equally."** It doesn't. A family that spends most of its income on food feels a jump in vegetable prices much more than one that doesn't.
+- **"My salary went up, so inflation doesn't matter."** It matters if your raise is smaller than inflation. A 4% raise with 6% inflation is a real pay cut.
+
+## How it shows up in the news
+
+The government publishes CPI inflation every month, and headlines compare it with the previous month and with the RBI's target. The RBI aims to keep inflation within a target range set by the government, and it raises or cuts its interest rate partly based on where inflation is heading. So an inflation number can affect your home-loan EMI and FD rates months later. The exact target and the basket's make-up are reviewed from time to time, so check the latest figures on the RBI or government statistics websites.
+
+## Three things to remember
+
+1. Inflation is the steady rise in prices; it slowly reduces what your money can buy.
+2. What matters for savings is the return after inflation, not just the interest rate.
+3. The RBI watches inflation closely, so it shapes interest rates on your loans and deposits.

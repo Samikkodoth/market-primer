@@ -1,0 +1,551 @@
+{
+  "date": "2026-09-29",
+  "session_label": "Tuesday 29 September 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "Indian shares slipped for a second day as oil stayed near $107 and US bond yields hit a 19-year high, with IT and consumer goods companies leading the fall.",
+  "mood": "Uneasy",
+  "mood_note": "The fall was far smaller than Monday's and the fear gauge eased slightly, but falling shares still outnumbered rising ones and the same worries, oil, US yields and foreign selling, haven't gone away.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "Monday's heavy fall was followed by a much smaller one: the Nifty lost 64.05 points on Tuesday after dropping 360.25 on Monday.",
+    "India VIX, the fear gauge, eased 2.32% to 13.32 after jumping to 13.63 on Monday.",
+    "The rupee's final close for Monday was 95.97 per dollar, slightly better than the 96.03 provisional figure we reported; on Tuesday it ended at 95.95 (provisional)."
+  ],
+  "one_minute": [
+    "The Sensex fell 242.65 points (0.33%) to 72,529.07 and the Nifty 50 fell 64.05 points (0.28%) to 22,716.20, a second day of losses.",
+    "Consumer durables fell 2.71% and realty 2.00%, led by Titan, while pharma and metal shares held up better.",
+    "IT shares kept sliding: the Nifty IT index is down 11% in September, and Infosys and Wipro hit 52-week lows.",
+    "Brent crude hovered near $107 a barrel as Iran was reported to doubt a deal with the US before November; the rupee closed almost flat at 95.95 (provisional), with the RBI thought to have stepped in.",
+    "The US 10-year bond yield rose to 5.24%, its highest since 2007, and Asian markets fell."
+  ],
+  "big_picture": "Tuesday was a quieter version of Monday. The same three worries, expensive oil, high US interest rates and foreign investors pulling money out, kept Indian shares under pressure, but the fall was small and the fear gauge eased a little.\n\nWhat stood out was where the selling landed. Companies that depend on families feeling comfortable enough to spend, like jewellery and appliance makers, fell the most. So did IT companies, which earn much of their money from overseas clients who are now delaying projects. The Nifty IT index has lost 11% this month, almost twice the fall in the Nifty 50.\n\nFor a beginner, the key idea is that a market can fall for different reasons in different corners. Oil hurts some businesses, global slowdowns hurt others, and a few, like medicine makers, hold up because people need them in good times and bad.",
+  "chain": [
+    {
+      "label": "Iran doubts a quick deal",
+      "note": "Iranian officials were reported to be pessimistic about reopening the Strait of Hormuz before the US midterm elections in November."
+    },
+    {
+      "label": "Oil stays near $107",
+      "note": "Brent crude rose for a second day in Asian trading, keeping costs high for oil-importing India."
+    },
+    {
+      "label": "US yields hit a 19-year high",
+      "note": "The US 10-year yield reached 5.24%, pulling global money towards safe US bonds and away from shares."
+    },
+    {
+      "label": "Foreign selling continues",
+      "note": "FIIs sold ₹5,353.22 crore on Monday; Indian funds bought almost as much, softening the blow."
+    },
+    {
+      "label": "Indian shares slip again",
+      "note": "The Sensex fell 242.65 points, with consumer goods, property and IT shares leading the decline."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "72,529.07",
+      "change": "−242.65 (−0.33%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. Today's fall was small compared with Monday's."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,716.20",
+      "change": "−64.05 (−0.28%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "−0.99%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies. They fell a little more than the big companies today."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "−0.81%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller listed companies, which usually swing more than big ones."
+    },
+    {
+      "name": "Nifty Consumer Durables",
+      "value": "37,129.95",
+      "change": "−2.71%",
+      "direction": "down",
+      "what_it_is": "This tracks makers of long-lasting goods like jewellery, watches and appliances. It was the worst-hit sector today."
+    },
+    {
+      "name": "Nifty Realty",
+      "value": "",
+      "change": "−2.00%",
+      "direction": "down",
+      "what_it_is": "This tracks listed property developers. It fell for a second straight day."
+    },
+    {
+      "name": "India VIX",
+      "value": "13.32",
+      "change": "−2.32%",
+      "direction": "down",
+      "what_it_is": "India VIX is the market's 'fear gauge'. It estimates how much traders expect the Nifty to swing over the next month. A small fall means nerves eased slightly."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "95.95",
+      "change": "+2 paise, stronger (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee. It was almost unchanged today."
+    },
+    {
+      "name": "Brent crude oil",
+      "value": "about $107",
+      "change": "up about 1.6% in Asian trading, later steadier",
+      "direction": "up",
+      "what_it_is": "Brent is the world's main oil price, in US dollars per barrel (about 159 litres). Prices moved around during the day, and reports differed on the exact level."
+    },
+    {
+      "name": "US 10-year bond yield",
+      "value": "5.24%",
+      "change": "+6 basis points (Monday's US close)",
+      "direction": "up",
+      "what_it_is": "The interest the US government pays to borrow for 10 years. It's at its highest since 2007, which makes shares in markets like India look less attractive to global investors."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-second-day-fall",
+      "category": "Stock market",
+      "title": "Sensex slips 243 points and Nifty ends at 22,716 as the losing streak reaches two days",
+      "tldr": "A much smaller fall than Monday's, but consumer goods, property and IT shares dragged, and the Nifty closed out a painful monthly series.",
+      "what_happened": "The Sensex fell 242.65 points, or 0.33%, to close at 72,529.07. The Nifty 50 fell 64.05 points, or 0.28%, to 22,716.20. It was the second losing day in a row, but a far gentler one than Monday, when the Sensex lost more than 1,100 points.\n\nOnly three of the 11 main sector indices on the NSE ended higher. The Nifty Consumer Durables index, which includes makers of jewellery, appliances and electronics, fell 2.71%, and the Nifty Realty index fell 2.00%. Pharma and metal shares held up better: the Nifty Metal index rose 0.78%. The Nifty Midcap 100 fell 0.99% and the Nifty Smallcap 100 fell 0.81%. Across the market, 2,039 shares fell and 1,529 rose.\n\nTitan fell about 3%, and Wipro, HCLTech, Apollo Hospitals and Tech Mahindra each lost more than 2%. Adani Enterprises bucked the trend with a gain of about 5%. India VIX, the fear gauge, eased 2.32% to 13.32.\n\nTuesday was also the monthly expiry day for Nifty derivatives. 5paisa reported the Nifty fell about 5.67% over the September series; other reports put the fall near 6%.",
+      "simple_explanation": "After Monday's big drop, Tuesday was a quieter, slightly negative day. The market fell a little, not a lot.\n\nThe interesting part is which companies fell. Shares of firms that sell things people buy when they feel comfortable, like jewellery and home appliances, fell the most. Investors worry that if oil stays expensive, families will have less money left over for such purchases. Property and IT companies also fell. Pharma companies, whose medicines people buy in good times and bad, did relatively well.",
+      "analogy": "Think of a household that just got a big electricity bill. The first reaction is panic. The next day is calmer, but the family quietly postpones buying a new fridge or gold earrings. Tuesday's market looked like that second day.",
+      "why": "Analysts pointed to the same worries as Monday: oil prices near $107 a barrel, high US bond yields and foreign investors selling Indian shares. Selling in consumer durables, chemicals, property and IT reflected concerns about slower global growth and higher costs linked to oil, according to IANS.\n\nRupak De of LKP Securities noted that the Nifty had slipped to its 200-week moving average, a long-term trend line near 22,600, for the first time since the Covid crash. Analysts also said attention is gradually shifting to company results for the July–September quarter, with expectations already lower than they were for the previous quarter.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund, its value dipped about 0.3% today, roughly ₹300 on ₹1 lakh. That's small. Your FD, savings account and loan EMIs are unaffected by share prices.",
+        "markets": "The fall was mild, and the fear gauge eased. But the Nifty is sitting near a long-term trend line that traders are watching closely, so the next few days matter to them.",
+        "economy": "A small one-day fall says nothing new about jobs or growth. The worry behind it, costly oil, could slow spending if it lasts for months.",
+        "prices": "No direct effect on everyday prices today. The oil price in the background is what could matter for fuel and transport costs later."
+      },
+      "watch": "Whether the Nifty holds around 22,600, where its 200-week moving average sits, and early signals as companies begin reporting July–September results in October.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Sectoral index",
+        "Consumer durables",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "India VIX",
+        "Derivatives expiry",
+        "Moving average"
+      ],
+      "explainers": {
+        "like12": "Imagine a school sports day where yesterday your house team lost badly. Today it lost again, but only by a little. That's what happened to India's share market on Tuesday.\n\nThe Sensex, which is like the score of India's 30 biggest companies, dropped a small amount. Companies that sell nice-to-have things, like jewellery and fridges, dropped the most. Grown-ups are worried that oil is expensive, and when families spend more on petrol and gas, they may put off buying new earrings or a new TV.\n\nMedicine companies did a bit better, because people buy medicines no matter what. So the market wasn't panicking today, it was just being careful.",
+        "real_life": "Take Anita, a 29-year-old accountant in Chennai with a ₹3,000 monthly SIP in a Nifty 50 index fund worth about ₹1,20,000. Today's 0.28% fall trimmed roughly ₹340 from its value on paper, much less than Monday's hit.\n\nAnita also owns a few Titan shares that her father gifted her. Those fell about 3% today, so a ₹20,000 holding is worth about ₹600 less for now. Nothing has left her bank account: her salary, rent and the EMI on her scooter are unchanged.\n\nThe lesson for Anita is that a single company's shares can swing much more than an index fund that spreads money across 50 companies. That spreading is why index funds usually move more gently."
+      }
+    },
+    {
+      "id": "it-shares-52-week-lows",
+      "category": "Companies",
+      "title": "IT shares slump: Nifty IT down 11% in September as Infosys and Wipro hit 52-week lows",
+      "tldr": "India's software companies have fallen almost twice as much as the overall market this month, as worries grow about slower spending by their overseas clients.",
+      "what_happened": "Shares of several big IT services companies hit their lowest prices in a year on Tuesday. Infosys, Wipro, KPIT Technologies and Tata Elxsi touched 52-week lows on the NSE, Business Standard reported. TCS, HCLTech, Mphasis, Persistent Systems and Tech Mahindra were down between 1% and 2% during the day.\n\nAt the close, Wipro was down 2.95%, HCLTech 2.44% and Tech Mahindra 2.06%, among the Nifty 50's biggest losers.\n\nThe Nifty IT index has fallen 11% so far in September, according to Business Standard, compared with a fall of about 6% for the Nifty 50.",
+      "simple_explanation": "Indian IT companies earn most of their money by doing software and technology work for businesses in the US and Europe. When those overseas businesses feel unsure about the future, they delay or cut new projects, and Indian IT firms get less work.\n\nA 52-week low means a share is at its cheapest price in the past year. Several of India's best-known IT companies reaching that point in the same week shows how nervous investors are about the whole industry, not just one company.",
+      "analogy": "Think of a wedding caterer in a season when families are cutting back. Nobody cancels the wedding, but they drop the extra dessert counter and the live music. The caterer still has work, but less of it, and at thinner margins.",
+      "why": "The main worry is that global clients are slowing their 'discretionary' spending, meaning optional projects that can wait. Reports said some analysts have downgraded companies such as HCLTech and Wipro, while others remain positive on larger firms like TCS and Infosys.\n\nThe July–September quarter results, due in October, are the next big test. Investors will look closely at what company managements say about new orders, client demand and when spending might recover.",
+      "implications": {
+        "you": "IT companies are among India's largest private employers. A slowdown in their business can mean slower hiring and smaller pay rises for freshers and mid-level staff, though it does not automatically mean job cuts. If you own IT-focused mutual funds, they have likely fallen more than broad index funds this month.",
+        "markets": "IT companies carry significant weight in the Nifty 50, so their slide has pulled the whole index down. Analysts will watch the quarterly results closely.",
+        "economy": "IT services bring in a large share of India's dollar earnings. Weaker demand could mean slower growth in those earnings over time.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "The first July–September results from large IT firms in October, and what they say about client spending.",
+      "terms": [
+        "IT services",
+        "52-week low",
+        "Discretionary spending",
+        "Quarterly results",
+        "Nifty 50"
+      ],
+      "explainers": {
+        "like12": "Some of India's most famous companies, like Infosys and Wipro, write computer programs and fix technology problems for big companies in America and Europe. They get paid for each project.\n\nRight now, those foreign companies are being careful with their money. They are saying, 'Let's wait before starting that new project.' That means Indian IT companies might get fewer new jobs to do.\n\nPeople who own shares in these IT companies are worried about this, so many are selling. That has pushed the share prices down to their lowest point in a whole year. In a few weeks, the companies will tell everyone how much they earned in the last three months, and that will show whether the worry is right.",
+        "real_life": "Consider Karthik, a 26-year-old software engineer at a large IT firm in Bengaluru. He doesn't own any shares, but this news still matters to him.\n\nWhen clients delay projects, IT companies often slow hiring and hold back on pay rises. Karthik may find his next appraisal is smaller than he hoped, or that moving to a new project takes longer. That's a real but gradual effect, not a sudden one.\n\nHis cousin Meera, who invests ₹2,000 a month in a technology-focused mutual fund, will see its value down more sharply this month than her friends' broad index funds. That's the trade-off of putting money into one industry: bigger swings in both directions."
+      }
+    },
+    {
+      "id": "oil-rupee-rbi",
+      "category": "Rupee & oil",
+      "title": "Oil hovers near $107 as Iran doubts a quick deal, and the rupee holds just under 96 with RBI help",
+      "tldr": "Oil stayed expensive, but the rupee ended almost flat after the RBI appeared to step in to stop it weakening further.",
+      "what_happened": "Brent crude, the global oil benchmark, rose about 1.57% to around $107 a barrel in Asian trading, Reuters-based reports said, its second day of gains. Iranian officials were reported to be pessimistic about reaching a deal with the US to reopen the Strait of Hormuz before the US midterm elections in November. Oil later eased, with some reports describing prices as flat, partly because Middle Eastern crude exports rose to 12.8 million barrels a day in September, their highest since February.\n\nThe rupee opened at 96.03 per dollar and weakened to 96.15 during the day, but closed at 95.95 (provisional), 2 paise stronger than Monday's close. Forex traders said the Reserve Bank of India likely intervened near the 96 level.",
+      "simple_explanation": "India buys most of its oil from other countries and pays in dollars. When oil is expensive, Indian companies need more dollars, and that tends to weaken the rupee.\n\nToday the rupee started weak but recovered by the evening. The RBI, India's central bank, holds a large reserve of dollars. When the rupee falls too fast, it can sell some of those dollars, which adds to supply and steadies the rupee. Traders believe that's what happened today.",
+      "analogy": "Think of a village water tank during a dry spell. When the level drops too quickly, the panchayat releases water from a reserve to keep the supply steady. The RBI's dollar reserves work a bit like that reserve tank for the rupee.",
+      "why": "Over the weekend, US President Donald Trump rejected Iran's proposal to reopen the Strait of Hormuz, a narrow sea route used by many oil tankers. On Tuesday, reports that Iran did not expect a deal before November kept oil high. On the other side, higher exports from Middle Eastern producers eased some supply fears.\n\nThe rupee faced pressure from high oil, a strong dollar and dollar buying by Indian importers, traders said. Likely RBI intervention and a late softening in oil helped it recover.",
+      "implications": {
+        "you": "If you plan to pay for foreign travel, an overseas course or imported gadgets, a rupee near 96 per dollar makes those costlier than a year ago. For most day-to-day spending, today's tiny move changes nothing.",
+        "markets": "Oil and the rupee remain the two numbers investors watch most closely for India right now. Oil companies, airlines and paint makers are especially sensitive to crude prices.",
+        "economy": "Oil above $100 for a long time raises India's import bill and can push up inflation. That can make it harder for interest rates to come down.",
+        "prices": "Petrol and diesel pump prices in India don't change daily with global oil, but a long stretch of expensive crude can eventually feed into transport, fuel and food costs."
+      },
+      "watch": "Any new US–Iran talks, whether Brent moves toward $110 or back below $100, and whether the rupee stays below 96.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "Exchange rate",
+        "Provisional",
+        "RBI intervention"
+      ],
+      "explainers": {
+        "like12": "Think of India as a big family that has to buy most of its cooking gas and petrol from shops in other countries. Those shops only accept dollars, not rupees.\n\nRight now, petrol is very expensive around the world because of a fight between America and Iran near a narrow sea path that oil ships use. So India needs lots of dollars to buy the same amount of oil. When everyone wants dollars, each dollar costs more rupees. That's what 'the rupee is weak' means.\n\nToday the rupee started the day weak, but the RBI, which is like India's big money bank, used some of its saved-up dollars to calm things down. By evening, the rupee was almost exactly where it was yesterday.",
+        "real_life": "Consider Sunita, a 40-year-old school administrator in Lucknow whose daughter is starting a college course in Australia next year. The fees are fixed in Australian dollars, but her family converts rupees, and a weaker rupee against the US dollar usually means a weaker rupee against other major currencies too.\n\nFor Sunita, the rupee staying near 96 per dollar instead of, say, 90 means the same fees cost noticeably more in rupees. Today's 2-paise move is too tiny to matter, but the trend over months does.\n\nFor her day-to-day life in Lucknow, nothing changed today. Her salary, grocery bill and bus fare are the same. The bigger risk is if expensive oil lasts for months and slowly pushes up prices of transport and goods."
+      }
+    },
+    {
+      "id": "foreign-selling-domestic-buying",
+      "category": "Investors",
+      "title": "Foreign investors sell over ₹5,000 crore on Monday, while Indian funds buy almost as much",
+      "tldr": "The tug-of-war continues: foreign funds keep pulling money out, and Indian mutual funds and insurers keep putting it in.",
+      "what_happened": "Foreign institutional investors (FIIs) sold ₹5,353.22 crore more of Indian shares than they bought on Monday, according to provisional exchange data. Domestic institutional investors (DIIs), such as mutual funds and insurance companies, bought ₹5,189.02 crore more than they sold.\n\nFor Tuesday, 5paisa reported provisional figures showing FIIs as net sellers of about ₹4,907 crore and DIIs as net buyers of about ₹4,754 crore. These are early numbers and can be revised.",
+      "simple_explanation": "Two big groups of professional investors move India's share market. Foreign investors are large funds based abroad. Domestic investors are Indian mutual funds, insurers and pension funds, and much of their money comes from ordinary Indians' SIPs and insurance premiums.\n\nFor weeks, foreigners have been selling and Indians have been buying. Because the amounts are similar, the Indian buying has helped cushion the market. Without it, falls would likely have been sharper.",
+      "analogy": "Picture a crowded train compartment. At every station, some passengers get off and others squeeze on. If about as many get on as get off, the compartment stays roughly as full. Foreign selling and domestic buying have been working like that.",
+      "why": "Foreign investors are being drawn back home by very high US bond yields, which offer attractive returns with little risk. Expensive oil and a weak rupee also make India less attractive to them, because a falling rupee reduces the value of their returns when converted back into dollars.\n\nDomestic funds keep buying because Indian savers continue to invest through monthly SIPs, which bring in a steady flow of money every month.",
+      "implications": {
+        "you": "If you run an SIP, your money is part of the domestic buying that's cushioning the market. Your instalments are buying units at lower prices than a few months ago.",
+        "markets": "As long as domestic buying roughly matches foreign selling, sharp crashes are less likely. If SIP flows slowed, the market would be more exposed.",
+        "economy": "Steady foreign outflows add to pressure on the rupee, because foreign investors convert rupees back into dollars when they leave.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "The final FII and DII figures for Tuesday, and whether foreign selling eases if oil or US yields cool.",
+      "terms": [
+        "FII",
+        "DII",
+        "Provisional",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine a big school fair where two groups of people are buying and selling toys. One group is visitors from another town. The other group is people from your own town.\n\nLately, the visitors have been selling lots of their toys and taking their money home, because they found a better deal back in their own town. But the people from your town keep buying toys every month, bit by bit, because they have a habit of saving.\n\nBecause your town's people are buying almost as much as the visitors are selling, toy prices don't crash. That's what's happening in India's share market: foreign investors are selling, and Indian investors, many of them regular families saving through SIPs, are buying.",
+        "real_life": "Take Ramesh, a 33-year-old sales manager in Ahmedabad who puts ₹4,000 every month into two mutual funds through SIPs. He has never thought of himself as a big investor.\n\nBut millions of people like Ramesh together send a large sum into mutual funds every month. Those funds use that money to buy shares, and that's a big part of the 'domestic buying' in today's news.\n\nFor Ramesh, it means two things. His fund values have fallen this month along with the market, which is uncomfortable. But his instalments are now buying more units for the same ₹4,000 than they did a few months ago. Whether that works out well depends on how the market does over many years, not weeks."
+      }
+    },
+    {
+      "id": "global-yields-asia",
+      "category": "Global",
+      "title": "US 10-year yield climbs to 5.24%, its highest since 2007, and Asian markets fall",
+      "tldr": "Rising US borrowing costs hit Wall Street on Monday, and Asian markets followed on Tuesday.",
+      "what_happened": "On Monday in the US, the Dow Jones Industrial Average fell 347.11 points to 51,481.51, the S&P 500 fell 0.77% to 7,683.69, and the Nasdaq Composite fell 0.92% to 26,820.38. The yield on the 10-year US government bond rose 6 basis points to 5.24%, its highest since 2007, and the 30-year yield rose to 5.56%, its highest since 2004.\n\nOn Tuesday, most Asian markets fell. Japan's Nikkei 225 fell 1.35%, South Korea's Kospi fell 1.07% and Hong Kong's Hang Seng fell 0.95%.",
+      "simple_explanation": "The US government borrows by selling bonds. The 'yield' is the yearly interest investors earn on those bonds. When yields rise, safe US bonds become more rewarding.\n\nThat pulls money away from riskier places, including shares in the US and in emerging markets like India. So when US yields climb to their highest level in about two decades, stock markets around the world tend to feel the pressure.",
+      "analogy": "Imagine your bank suddenly offering 9% on a fixed deposit, with almost no risk. You'd think twice before putting money into a friend's new business. Global investors are thinking the same way about shares today.",
+      "why": "US stocks fell as US–Iran tensions returned and oil rose, while bond yields jumped at the start of a week full of US economic data. Traders expect the US Federal Reserve, which raised interest rates in September, to keep rates high to fight inflation. Asian markets followed Wall Street lower as the US 10-year yield stayed above 5.2%.",
+      "implications": {
+        "you": "High US yields can influence Indian interest rates indirectly. If they stay high, the hoped-for fall in Indian loan rates may take longer, but there's no direct effect on your EMI today.",
+        "markets": "As long as US yields stay above 5%, foreign money is likely to stay cautious about India and other emerging markets.",
+        "economy": "Higher global borrowing costs can make it more expensive for Indian companies that borrow abroad.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "US economic data this week, comments from Federal Reserve officials, and whether the 10-year yield rises further.",
+      "terms": [
+        "US Treasury yield",
+        "Basis point",
+        "Federal Reserve",
+        "Emerging market"
+      ],
+      "explainers": {
+        "like12": "Imagine the richest family in the neighbourhood, America, asks to borrow money and promises to pay back extra. Lately, it's promising to pay back more than it has in almost 20 years.\n\nThat sounds like a great deal, and it's very safe, because America almost always pays back. So people who had lent their money to other places, like shops and businesses in India, Japan and Korea, start moving it to America instead.\n\nWhen money leaves those shops and businesses, their share prices tend to fall. That's why markets in America, Japan, Korea and India all had a gloomy day. It all started with America offering more interest on its loans.",
+        "real_life": "Consider Priya, a 31-year-old nurse in Kochi who is planning to buy a flat next year with a home loan. She has been hoping interest rates will come down before then.\n\nUS bond yields near 5.24% don't directly change her loan rate. But they matter indirectly. When US rates are high, the RBI has to be careful: cutting Indian rates too fast could make money leave India and weaken the rupee further. So high US yields can delay rate cuts in India.\n\nFor Priya, that could mean a home-loan rate that stays where it is for longer than she hoped. Her current savings and FDs are unaffected, and FD rates might stay attractive for a while."
+      }
+    }
+  ],
+  "concept": {
+    "term": "52-week high and low",
+    "explanation": "The 52-week high is the highest price a share has traded at in the past year; the 52-week low is the lowest. Together they show the range a share has moved in over twelve months.\n\nNews reports mention them because they give quick context. A share at its 52-week low has become cheaper than at any point in the past year, often because investors have grown worried about the company or its industry. A share at its 52-week high is the opposite. Neither tells you where the price will go next. A share can keep falling after a 52-week low, or keep rising after a 52-week high.",
+    "example": "On Tuesday, Infosys, Wipro, KPIT Technologies and Tata Elxsi all touched 52-week lows, according to Business Standard, as worries grew about slower spending by their overseas clients. The Nifty IT index has fallen 11% in September.",
+    "takeaway": "A 52-week low tells you where a price stands compared with the past year. It's a useful signal of mood, not a prediction or a reason on its own to buy or sell."
+  },
+  "quiz": [
+    {
+      "q": "Which sector fell the most on Tuesday?",
+      "options": [
+        "Pharma",
+        "Consumer durables",
+        "Metal",
+        "Nothing fell; it was a rising day"
+      ],
+      "answer": 1,
+      "why": "The Nifty Consumer Durables index fell 2.71%, led by Titan. Investors worry that high oil prices could leave families with less money for purchases like jewellery and appliances."
+    },
+    {
+      "q": "What does it mean that Infosys and Wipro hit 52-week lows?",
+      "options": [
+        "They are closing down",
+        "Their share prices were at their lowest level in a year",
+        "They have 52 weeks to repay a loan",
+        "Their profits fell to zero"
+      ],
+      "answer": 1,
+      "why": "A 52-week low is the lowest price in the past year. It shows investors are worried, but it doesn't say anything certain about what happens next."
+    },
+    {
+      "q": "Why are Indian IT shares under pressure this month?",
+      "options": [
+        "The RBI banned software exports",
+        "Overseas clients are delaying optional technology projects",
+        "IT companies stopped paying salaries",
+        "The rupee became much stronger"
+      ],
+      "answer": 1,
+      "why": "Indian IT firms earn much of their money from clients in the US and Europe. When those clients cut 'discretionary' spending, Indian firms get less new work."
+    },
+    {
+      "q": "The rupee started the day weak but closed almost flat. What do traders think helped?",
+      "options": [
+        "The RBI likely sold dollars to steady the rupee",
+        "Oil prices fell to $60",
+        "Foreign investors bought ₹50,000 crore of shares",
+        "The government fixed the exchange rate"
+      ],
+      "answer": 0,
+      "why": "Forex traders said the RBI likely stepped in near the 96 level. By selling some of its dollar reserves, it can slow a fall in the rupee."
+    },
+    {
+      "q": "Foreign investors sold ₹5,353.22 crore of shares on Monday. Why didn't the market crash further?",
+      "options": [
+        "The stock exchange stopped trading",
+        "Domestic investors such as mutual funds bought almost as much",
+        "The government bought all the shares",
+        "The figures were cancelled"
+      ],
+      "answer": 1,
+      "why": "Domestic institutional investors bought ₹5,189.02 crore, almost matching the foreign selling. Much of that money comes from ordinary Indians' SIPs."
+    },
+    {
+      "q": "The US 10-year bond yield rose by 6 basis points. How much is that?",
+      "options": [
+        "6 percentage points",
+        "0.6 percentage points",
+        "0.06 percentage points",
+        "6 rupees"
+      ],
+      "answer": 2,
+      "why": "One basis point is one hundredth of a percentage point, so 6 basis points is 0.06 percentage points."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry, such as banks, IT, metals or real estate.",
+      "more": "Besides the Sensex and Nifty 50, the exchanges publish indices for single industries, like Nifty Bank, Nifty IT, Nifty Metal or Nifty Realty. They show which parts of the economy investors are feeling good or bad about on a given day. It's like looking at the results of each section of a class, not just the class average. News reports often say 'all sectoral indices ended in the red', which means every industry group fell, a sign the selling was broad rather than limited to one problem area."
+    },
+    {
+      "term": "Consumer durables",
+      "definition": "Long-lasting goods people buy for the home or themselves, such as appliances, electronics, watches and jewellery.",
+      "more": "Consumer durables are things you don't buy every week: fridges, TVs, air conditioners, watches and jewellery. Because they cost more and can be postponed, sales depend heavily on how confident families feel about their money. Think of a household that delays buying a new washing machine when petrol and school fees go up. The Nifty Consumer Durables index tracks listed makers of such goods, like Titan. When news says 'consumer durables led the fall', it usually means investors fear people will cut back on these purchases."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A count of how many shares rose versus how many fell on a day. It shows whether a move was widespread or driven by a few big names.",
+      "more": "An index like the Nifty 50 can rise just because a few giant companies did well, even if most shares fell. Market breadth checks that by counting advances and declines across the whole exchange. It's like judging a school's results not only by the toppers but by how many students passed. If far more shares rose than fell, breadth is 'positive' and the rally is broad. News reports quote breadth as, for example, '1,925 stocks advanced and 1,594 declined'."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A 'fear gauge' that estimates how much traders expect the Nifty to swing over the next 30 days. Higher means more nervousness.",
+      "more": "VIX stands for volatility index. It's calculated from prices of Nifty options, contracts traders use to protect themselves against big moves. When people rush to buy protection, VIX rises. It's like the price of umbrellas going up when everyone expects rain. VIX doesn't say whether the market will go up or down, only how bumpy traders expect it to be. News often reports a big percentage jump in VIX on bad days, but the level itself matters too: lower teens is calm, and 25 or more is quite nervous."
+    },
+    {
+      "term": "Derivatives expiry",
+      "definition": "The day on which a batch of futures and options contracts ends and must be settled or rolled over.",
+      "more": "Futures and options are contracts that let traders bet on where a share or an index will be on a future date. Each contract has an end date, called expiry. On monthly expiry day, traders close their old positions or move them to the next month, which can make prices jumpier than usual. It's a bit like the last day to use a monthly bus pass: lots of people rush to use or renew it. News reports often talk about how much the Nifty rose or fell 'in the series', meaning from one expiry to the next."
+    },
+    {
+      "term": "Moving average",
+      "definition": "The average of an index's or share's closing prices over a set period, such as 50 days or 200 weeks, used to show its trend.",
+      "more": "A moving average smooths out daily ups and downs to show the general direction. A 200-week moving average, for example, is the average closing level over roughly the last four years, updated every week. Think of it like your average monthly electricity bill over four years: one high month doesn't change it much. Technical analysts watch whether an index is above or below such lines. When they say the Nifty 'slipped to its 200-week moving average', they mean it has fallen to its long-term average level, which some treat as a possible support point."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that do technology work, such as writing software and running computer systems, for other businesses, often abroad.",
+      "more": "Indian IT services firms like TCS, Infosys, Wipro and HCLTech employ lakhs of people and earn most of their money from clients in the US and Europe. They build software, manage data centres and help companies move to the cloud. Think of them as highly skilled contractors hired for technology projects. Their earnings depend on how much overseas clients spend. The Nifty IT index tracks the biggest listed IT companies. News about them often focuses on 'deal wins', 'client spending' and 'guidance', meaning companies' own forecasts for growth."
+    },
+    {
+      "term": "52-week low",
+      "definition": "The lowest price a share or index has traded at over the past year.",
+      "more": "The 52-week low is the cheapest a share has been in the last 52 weeks, or one year. Its opposite is the 52-week high. News reports mention it because touching a one-year low often signals that investors have become pessimistic about a company or industry. But cheap doesn't automatically mean good value: a share can keep falling after hitting a 52-week low. Think of it like the lowest price you've seen for onions all year; it tells you where prices are, not where they will go next."
+    },
+    {
+      "term": "Discretionary spending",
+      "definition": "Spending that is optional and can be delayed, as opposed to essential spending.",
+      "more": "Discretionary spending is money spent on things people or companies want but don't strictly need right away. For a family, that might be a holiday or a new phone, as opposed to rent and groceries. For a company, it might be a new software project instead of keeping existing systems running. When times feel uncertain, discretionary spending is the first thing to be cut. For Indian IT firms, slowdowns in clients' discretionary spending mean fewer new projects, which is why the phrase appears so often in IT news."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its sales, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish their financial results every quarter, meaning every three months. The July–September quarter is often called Q2, because India's financial year starts in April. Results show how much a company sold, what it spent and how much profit it made, compared with the same period a year earlier. Think of it like a report card that arrives four times a year. Share prices often move sharply on results day if the numbers are better or worse than analysts expected."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage between Iran and Oman that a large share of the world's oil tankers travel through.",
+      "more": "The Strait of Hormuz connects the oil-rich Persian Gulf to the open ocean. Because so many oil and gas shipments pass through it, any conflict or blockade there can quickly push up global oil prices. It's like the single main road into a busy city: block it and everything coming in gets delayed and costlier. News about the Strait usually moves oil prices within minutes, and through oil it affects India's rupee, inflation and fuel costs."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars in the currency market to steady the rupee.",
+      "more": "The RBI holds a large stock of foreign currency, mainly dollars, called forex reserves. When the rupee weakens too fast, the RBI can sell some dollars, adding supply and slowing the fall. When the rupee strengthens quickly, it may buy dollars instead. Think of a dam that releases or holds back water to keep a river's flow steady. The RBI rarely confirms each intervention on the day, so news reports usually say traders 'suspect' or 'believe' it stepped in. Its aim is to reduce sharp swings, not to fix the rupee at a set level."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One hundredth of a percentage point. 100 basis points equal 1 percentage point.",
+      "more": "Basis points are used to describe small changes in interest rates and bond yields precisely. If a yield rises from 5.18% to 5.24%, it has risen by 6 basis points. Saying '6 basis points' avoids confusion between 'percent' and 'percentage points'. Think of it like measuring in paise instead of rupees: it's the same money, just a finer unit. You'll see it in news about the RBI's repo rate, where a 25-basis-point cut means a quarter of a percentage point."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Emerging market",
+      "definition": "A country whose economy is growing and developing, such as India, Brazil or Indonesia. Investors see these markets as higher-growth but riskier.",
+      "more": "Global investors group countries into developed markets, like the US, Japan and Western Europe, and emerging markets, like India, China, South Korea and Brazil. Emerging markets can grow faster, but their shares and currencies usually swing more. When global investors get nervous, they often pull money out of emerging markets first. It's like a young, fast-growing startup: exciting in good times, but the first to feel it when money gets tight. News reports often say 'emerging-market currencies weakened', which usually includes the rupee."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex falls for 2nd day, Nifty at 22,716; realty pack tanks 2%",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-updates-september-29-sensex-today-nifty50-gift-nifty-crude-oil-price-ipo-today-126092900092_1.html"
+    },
+    {
+      "title": "India TV: Markets extend losing streak as Sensex falls 243 points, Titan drops 2.72%",
+      "url": "https://www.indiatvnews.com/business/markets/markets-extended-losing-streak-as-sensex-falls-243-points-nifty-ends-below-22-750-titan-drops-2-72-pc-2026-09-29-1055625"
+    },
+    {
+      "title": "The Hans India (IANS): Sensex, Nifty extend losses for 2nd session as oil prices weigh on sentiment",
+      "url": "https://www.thehansindia.com/business/market-compass/sensex-nifty-extend-losses-for-2nd-session-as-oil-prices-weigh-on-sentiment-1126967"
+    },
+    {
+      "title": "5paisa: Nifty falls 5.5% in September series as crude oil, yields rise",
+      "url": "https://www.5paisa.com/blog/post-market-update-nifty-falls-crude-oil-bond-yields-september-29-2026"
+    },
+    {
+      "title": "Upstox: Top gainers and losers, September 29",
+      "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-september-29-titan-wipro-shares-fall-3-adani-enterprises-surges-5-check-list/article-201071/"
+    },
+    {
+      "title": "Business Standard: Benchmarks tumble for 2nd day; consumer durables shares plunge",
+      "url": "https://www.business-standard.com/markets/capital-market-news/benchmarks-tumble-for-2nd-day-consumer-durables-shares-plunge-126092900741_1.html"
+    },
+    {
+      "title": "Business Standard: Quick Wrap, Nifty Realty index declines 2.00%",
+      "url": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-realty-index-declines-2-00-126092900863_1.html"
+    },
+    {
+      "title": "Business Standard: Nifty IT cracks 11% in Sept; Infy, Wipro, Tata Elxsi trade at 52-week lows",
+      "url": "https://www.business-standard.com/markets/news/nifty-it-cracks-11-in-sept-infy-wipro-tata-elxsi-trade-at-52-week-lows-126092900530_1.html"
+    },
+    {
+      "title": "HDFC Sky: Nifty extends weakness (LKP Securities' Rupak De on the 200-week average)",
+      "url": "https://hdfcsky.com/news/daily-market-quote-29-september-2026"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee settles on flat note, up 2 paise at 95.95 against US dollar",
+      "url": "https://www.deccanherald.com/business/markets/rupee-settles-on-flat-note-up-2-paise-at-9595-against-us-dollar-4163905"
+    },
+    {
+      "title": "ETV Bharat: Rupee falls 16 paise to 96.13 in early trade",
+      "url": "https://www.etvbharat.com/en/business/rupee-against-us-dollar-today-september-29-tuesday-enn26092901069"
+    },
+    {
+      "title": "CNBC: Oil prices flat as Middle East supply concerns persist",
+      "url": "https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html"
+    },
+    {
+      "title": "Bloomberg: Oil extends gain as Iran uncertainty outweighs Saudi pipe return",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/latest-oil-market-news-and-analysis-for-sept-29"
+    },
+    {
+      "title": "NewsBytes: FIIs sell ₹5,353.22cr of Indian stocks as DIIs buy ₹5,189.02cr provisionally",
+      "url": "https://www.newsbytesapp.com/news/business/fiis-sell-rs535322cr-indian-stocks-as-diis-buy-rs518902cr-provisionally/tldr"
+    },
+    {
+      "title": "5paisa: FII DII data today",
+      "url": "https://www.5paisa.com/share-market-today/fii-dii-data"
+    },
+    {
+      "title": "TheStreet: Stock market today, Sept. 28, 2026",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026"
+    },
+    {
+      "title": "Yahoo Finance: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html"
+    },
+    {
+      "title": "investingLive: Asia-Pacific market news, Asia stocks slip",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-stocks-slip/"
+    },
+    {
+      "title": "BondSavvy: September 2026 Fed dot plot",
+      "url": "https://www.bondsavvy.com/fixed-income-investments-blog/fed-dot-plot"
+    }
+  ]
+}
