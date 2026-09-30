@@ -14,7 +14,7 @@ Banks work the same way. They borrow from the RBI, and from depositors, and lend
 
 ## A real Indian example
 
-Suppose you have a floating-rate home loan of ₹30 lakh. If your bank's rate goes up by a quarter of a percentage point after an RBI hike, your EMI rises a little, or your loan runs for a few extra months. Across 20 years, small changes add up to a noticeable amount.
+Suppose you have a floating-rate home loan of ₹30 lakh. If your bank's rate goes up by a quarter of a percentage point after an RBI hike, your EMI rises, or your loan runs for a few extra months. Over 20 years, small changes add up.
 
 On the other side, a retired person living on FD interest benefits when rates are higher, and loses out when they fall. That's why a rate decision can be good news for one family member and bad news for another.
 
