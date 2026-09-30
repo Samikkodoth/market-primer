@@ -1,0 +1,35 @@
+## The big idea
+
+An **interest rate** is the price of borrowing money. When you take a loan, you pay interest to the lender. When you keep money in an FD, the bank pays interest to you.
+
+In India, the most important interest rate is the **repo rate**. It's the rate at which the Reserve Bank of India (RBI) lends money to banks for short periods. Banks, in turn, set the rates on your home loans, car loans and FDs with the repo rate in mind. So when the RBI changes the repo rate, the effect slowly spreads through the whole economy.
+
+The RBI's Monetary Policy Committee (MPC) meets several times a year to decide whether to raise, cut or hold the repo rate. Its main job is to keep inflation within a target range while supporting growth.
+
+## An everyday analogy
+
+Think of the repo rate as the wholesale price of money. A kirana shop buys rice from a wholesaler and sells it to you with a margin on top. If the wholesale price goes up, the shop's price usually follows, though not always on the same day.
+
+Banks work the same way. They borrow from the RBI, and from depositors, and lend to you at a higher rate. When the RBI's "wholesale" rate rises, loan rates tend to rise; when it falls, they tend to fall.
+
+## A real Indian example
+
+Suppose you have a floating-rate home loan of ₹30 lakh. If your bank's rate goes up by a quarter of a percentage point after an RBI hike, your EMI rises a little, or your loan runs for a few extra months. Across 20 years, small changes add up to a noticeable amount.
+
+On the other side, a retired person living on FD interest benefits when rates are higher, and loses out when they fall. That's why a rate decision can be good news for one family member and bad news for another.
+
+## Common misunderstandings
+
+- **"The RBI sets my loan rate."** Not directly. Your bank sets it, but it's usually linked to the repo rate or another benchmark, so it moves when the RBI acts.
+- **"A rate cut lowers my EMI the next day."** Banks pass on changes with a delay, and fixed-rate loans don't change at all.
+- **"Higher rates are always bad."** They make borrowing costlier, but they help savers and can slow inflation, which protects everyone's buying power.
+
+## How it shows up in the news
+
+Headlines focus on MPC meetings: "RBI holds repo rate" or "RBI cuts rates by 25 basis points". Reporters also watch the RBI's tone for hints about future moves. Share markets often react because lower rates can boost company profits and spending. Global rates matter too: when US interest rates are very high, the RBI may be cautious about cutting, to avoid weakening the rupee. The repo rate and the inflation target change over time, so check the RBI's website for current figures.
+
+## Three things to remember
+
+1. The repo rate is the RBI's main tool, and it shapes loan and FD rates across India.
+2. Rate changes reach your EMI and FD slowly, and affect borrowers and savers in opposite ways.
+3. The RBI balances inflation, growth and the rupee, so global events can influence its decisions.

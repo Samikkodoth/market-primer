@@ -1,0 +1,497 @@
+{
+  "date": "2026-09-30",
+  "session_label": "Wednesday 30 September 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "Indian shares fell for a third day after an early rally faded, as hospital stocks slumped on Supreme Court remarks about medicine prices and oil rose again; the rupee gained 13 paise.",
+  "mood": "Jittery",
+  "mood_note": "The market swung from a 500-point Sensex gain to a loss within hours. The fall at the close was small, but the big intraday swing and heavy foreign selling show nerves remain frayed.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "Tuesday's foreign selling was much bigger than the early figure we reported: exchange data showed FIIs sold ₹9,980.20 crore, against about ₹4,907 crore in the early numbers, while DIIs bought ₹6,952.70 crore.",
+    "The rupee's final close for Tuesday was 95.94 per dollar, 1 paisa better than the 95.95 provisional figure we reported; on Wednesday it rose to 95.81 (provisional).",
+    "Oil fell on Tuesday as Middle East supply recovered, so Brent was trading around $103.73 on Wednesday, below the roughly $107 we reported yesterday."
+  ],
+  "one_minute": [
+    "The Sensex fell 48.78 points (0.07%) to 72,480.29 and the Nifty 50 fell 95.75 points (0.42%) to 22,620.45, a third day of losses after an early rally faded.",
+    "Hospital shares slumped after the Supreme Court questioned huge mark-ups on medicines: Apollo Hospitals fell 5.70% and Max Healthcare 5.33%. Banks rose.",
+    "Foreign investors sold ₹9,980.20 crore of shares on Tuesday; SEBI and the RBI said they are working to make foreign investor sign-up faster and digital.",
+    "The rupee rose 13 paise to 95.81 (provisional). Brent crude rose to $103.73 in Asian trading after Trump denied offering Iran sanctions relief.",
+    "The US 30-year bond yield touched its highest since 2002; Japan's Nikkei rose 1.94% while Korea's Kospi fell."
+  ],
+  "big_picture": "Wednesday showed how quickly the mood can turn. The Sensex was up more than 500 points by late morning, then sellers took over in the afternoon and the market closed lower for the third day running.\n\nThe standout story was about rules rather than oil. A Supreme Court hearing on the huge gap between what some medicines cost and what patients pay sent hospital shares tumbling. Nothing has been decided, but investors sold first, a clear example of what's called regulatory risk.\n\nThe usual background worries haven't gone away. Foreign investors sold nearly ₹10,000 crore of shares on Tuesday, US borrowing costs keep rising and oil is still above $100 a barrel. For a beginner, the lesson is that a quiet-looking closing number can hide a very busy, uncertain day.",
+  "chain": [
+    {
+      "label": "Supreme Court questions medicine mark-ups",
+      "note": "On Tuesday, the court asked why a 16% margin cap on some medicines couldn't apply to all, after hearing of cancer drugs priced about ten times their cost to retailers."
+    },
+    {
+      "label": "Hospital shares slump",
+      "note": "Apollo Hospitals fell 5.70% and Max Healthcare 5.33%, dragging the Nifty Healthcare index down 2.57%."
+    },
+    {
+      "label": "Oil rises again",
+      "note": "Brent rose 1.11% to $103.73 in Asian trading after Trump denied he was willing to ease sanctions on Iran."
+    },
+    {
+      "label": "Heavy foreign selling",
+      "note": "FIIs sold ₹9,980.20 crore of Indian shares on Tuesday, far more than DIIs bought."
+    },
+    {
+      "label": "Early rally fades",
+      "note": "The Sensex gave up a 500-point gain and closed 48.78 points lower; banks limited the damage."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "72,480.29",
+      "change": "−48.78 (−0.07%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It ended almost flat after swinging more than 500 points up during the day."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,620.45",
+      "change": "−95.75 (−0.42%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It fell more than the Sensex, partly because hospital shares, today's worst performers, are part of it. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "−0.02%",
+      "direction": "flat",
+      "what_it_is": "This tracks 100 medium-sized companies. They barely moved today."
+    },
+    {
+      "name": "Nifty Healthcare",
+      "value": "",
+      "change": "−2.57%",
+      "direction": "down",
+      "what_it_is": "This tracks listed hospital chains, drug makers and other health companies. It was the worst-performing sector today."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "95.81",
+      "change": "+13 paise, stronger (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude oil",
+      "value": "$103.73",
+      "change": "+1.11% (Asian trading)",
+      "direction": "up",
+      "what_it_is": "Brent is the world's main oil price, in US dollars per barrel (about 159 litres). It rose in the morning after falling on Tuesday."
+    },
+    {
+      "name": "US 30-year bond yield",
+      "value": "5.613%",
+      "change": "session high on Tuesday, highest since 2002",
+      "direction": "up",
+      "what_it_is": "The interest the US government pays to borrow for 30 years. Very high US yields tend to pull global money away from markets like India."
+    },
+    {
+      "name": "Nikkei 225 (Japan)",
+      "value": "66,753.50",
+      "change": "+1.94%",
+      "direction": "up",
+      "what_it_is": "Japan's main share index. It rose strongly even as India's market fell."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-third-day-fall",
+      "category": "Stock market",
+      "title": "Sensex ends almost flat but Nifty slips 96 points to 22,620 after a volatile session, a third day of losses",
+      "tldr": "An early rally faded in the afternoon. Hospital and pharma shares fell hard, while banks rose and softened the blow.",
+      "what_happened": "The Sensex fell 48.78 points, or 0.07%, to close at 72,480.29. The Nifty 50 fell 95.75 points, or 0.42%, to 22,620.45. It was the third losing day in a row.\n\nThe day was a roller coaster. After a flat start, the Sensex rose more than 500 points and the Nifty moved above 22,800, but selling returned in the afternoon and pulled the Nifty back towards 22,600, ANI reported.\n\nThe Nifty Healthcare index fell the most, down 2.57%, and the Nifty Metal and Nifty Pharma indices each lost more than 1%. Banks, property and media shares rose. The Nifty Midcap 100 and the smallcap index each ended just 0.02% lower, according to Business Standard.\n\nAmong Nifty 50 companies, Apollo Hospitals fell 5.70%, Max Healthcare 5.33%, BSE 3.38%, Nestle India 2.65% and Sun Pharma 2.60%. Kotak Mahindra Bank rose 2.71%, IndiGo's parent InterGlobe Aviation 2.30% and ICICI Bank 2.28%.",
+      "simple_explanation": "The market went up in the morning, then gave it all back in the afternoon. By the close, the Sensex was almost unchanged and the Nifty was down a little.\n\nWhy did the two headline numbers move so differently? The Sensex tracks 30 big companies and the Nifty 50 tracks 50, so they don't hold exactly the same shares or the same weights. Today's biggest fallers, hospital companies such as Apollo Hospitals and Max Healthcare, are part of the Nifty 50, which helps explain the gap.\n\nThe smaller companies in the midcap and smallcap indices barely moved at all.",
+      "analogy": "Think of a cricket team that races to 60 for no loss in the first few overs, then loses quick wickets and ends with an ordinary total. The final score looks dull, but the match was anything but calm. Wednesday's market was like that.",
+      "why": "Business Standard said the losses came as oil prices rebounded on fading hopes of a deal between the US and Iran. Heavy selling by foreign investors, who sold nearly ₹10,000 crore of shares on Tuesday, also weighed on mood.\n\nThe sharpest selling was in hospital shares, after Supreme Court remarks on Tuesday about very high mark-ups on medicines sold by private hospitals (see the next story). Buying in private and public sector banks cushioned the fall.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund, its value dipped about 0.4% today, roughly ₹400 on ₹1 lakh. A Sensex fund barely moved. Your FD, savings account and loan EMIs are not affected by share prices.",
+        "markets": "Big swings within a single day show that traders are unsure. The Nifty has now fallen for three sessions in a row.",
+        "economy": "A small daily fall doesn't change the picture for jobs or growth. The bigger worries behind it, oil and foreign selling, are the ones to watch.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "Whether banks keep supporting the market, and how hospital shares behave as the Supreme Court case continues.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "Sectoral index",
+        "Midcap",
+        "Smallcap"
+      ],
+      "explainers": {
+        "like12": "Imagine climbing a slide at the park. You climb halfway up the ladder, then decide to come back down. At the end, you're standing almost where you started. That's what India's share market did on Wednesday.\n\nIn the morning, prices went up. In the afternoon, people started selling, and prices came back down. The Sensex, the score of 30 big companies, ended almost exactly where it began. The Nifty, the score of 50 big companies, ended a little lower.\n\nHospital companies had the worst day, because a court asked tough questions about how much they charge for medicines. Banks had a good day and stopped the market from falling more.",
+        "real_life": "Take Deepa, a 34-year-old bank clerk in Pune who puts ₹5,000 a month into a Nifty 50 index fund, now worth about ₹2 lakh. Today's 0.42% fall trimmed about ₹840 from its value on paper. Her colleague, who has a Sensex index fund, saw almost no change.\n\nNeither of them lost any money from their bank accounts. Their salaries, rent and EMIs are the same as yesterday.\n\nIf Deepa had checked her app at noon, she would have seen her fund up. By evening, it was down. That's a good reminder that checking prices several times a day mostly adds worry, while a monthly SIP is designed for the long run."
+      }
+    },
+    {
+      "id": "hospital-shares-supreme-court",
+      "category": "Companies",
+      "title": "Hospital shares tumble after the Supreme Court questions huge mark-ups on medicines",
+      "tldr": "Apollo Hospitals and Max Healthcare fell more than 5% as investors worried that stricter limits on medicine prices could cut hospital earnings.",
+      "what_happened": "Shares of listed hospital chains fell sharply on Wednesday. Apollo Hospitals closed 5.70% lower and Max Healthcare 5.33% lower, the two biggest losers in the Nifty 50. Fortis Healthcare, Yatharth Hospital and other hospital shares also fell, some by up to 7% during the day, Business Standard reported.\n\nThe trigger was a Supreme Court hearing on Tuesday. A bench of Justices Vikram Nath and Sandeep Mehta was told that some cancer medicines carry a printed MRP roughly ten times what retailers pay for them. Reports quoted the court describing such mark-ups as 'carnage'.\n\nThe judges asked why the 16% cap on retailers' margins, which applies to medicines under government price control, could not be extended to all medicines. They also asked the Centre to examine the practice of hospitals requiring patients to buy medicines from their in-house pharmacies. The court has not ordered any cap.",
+      "simple_explanation": "Private hospitals earn money from beds, doctors' fees, tests and medicines. Medicines sold through their own pharmacies can be a profitable part of the business.\n\nOn Tuesday, the Supreme Court asked why some medicines, especially cancer drugs, are sold at prices many times higher than they cost. It also asked why a limit on shop margins that already applies to some medicines shouldn't apply to all.\n\nNothing has been decided. But investors worried that if such limits come in, hospitals could earn less, so they sold hospital shares.",
+      "analogy": "Picture a cinema where a samosa costs ₹150, while the same samosa costs ₹20 outside and you aren't allowed to bring food in. If a court asked why, the cinema's owners would worry about losing a very profitable counter, even before any rule changed.",
+      "why": "The worry is regulatory risk: the possibility that a court or the government changes the rules in a way that cuts into profits. According to Business Standard and Business Today, the biggest concern for investors is the court's question about extending the 16% margin cap to all medicines.\n\nThe court also noted that when patients are treated under government health schemes, hospitals are reimbursed based on these printed prices, so high mark-ups affect taxpayers as well as patients. The case is continuing.",
+      "implications": {
+        "you": "If you or a family member needs expensive medicines, especially for cancer, this case could eventually affect what hospitals charge. For now nothing has changed, and prices remain what they were yesterday.",
+        "markets": "A court case like this can keep them volatile until there's clarity on what, if anything, changes.",
+        "economy": "Lower medicine prices could ease household health bills and government spending on health schemes, but any change would take time and is far from certain.",
+        "prices": "No change to medicine prices yet. Any cap would need a decision by the court or the government first."
+      },
+      "watch": "The next hearing in the case, and whether the government responds on medicine margins or hospital pharmacy rules.",
+      "terms": [
+        "MRP",
+        "Trade margin",
+        "Drug price control",
+        "Regulatory risk"
+      ],
+      "explainers": {
+        "like12": "Imagine your school canteen buys a juice box for ₹10 and sells it to you for ₹100, and you're not allowed to bring juice from home. That wouldn't feel fair, would it?\n\nThe Supreme Court, India's highest court, heard that some hospitals sell certain cancer medicines at about ten times what shops pay for them. The judges asked why there isn't a limit on how much extra hospitals and shops can add to all medicines, like there already is for some.\n\nNo new rule has been made yet. But people who own shares in hospital companies got worried that hospitals might earn less in the future, so they sold their shares, and the prices fell a lot.",
+        "real_life": "Consider Harish, a 52-year-old shop owner in Indore whose mother is being treated for cancer at a private hospital. Every month he spends thousands of rupees on medicines from the hospital pharmacy.\n\nIf, after this case, limits on medicine mark-ups are widened or hospitals are made to let patients buy medicines elsewhere, Harish's monthly bill could fall. But that isn't certain, and it wouldn't happen overnight.\n\nMeanwhile, Harish's nephew, who owns a few Apollo Hospitals shares, saw them fall almost 6% today. The same news can look good for patients and bad for shareholders, which is why investors react so quickly to court hearings."
+      }
+    },
+    {
+      "id": "fii-selling-sebi-fpi-onboarding",
+      "category": "Investors",
+      "title": "Foreign investors sell nearly ₹10,000 crore of shares on Tuesday; SEBI and RBI work to make it easier for them to come in",
+      "tldr": "Foreign selling on Tuesday was far bigger than early reports suggested, while regulators said they are cutting red tape for new foreign investors.",
+      "what_happened": "Foreign institutional investors (FIIs) sold ₹9,980.20 crore more of Indian shares than they bought on Tuesday, according to provisional exchange data. Domestic institutional investors (DIIs), such as mutual funds and insurers, bought ₹6,952.70 crore more than they sold. One report described it as the biggest single day of foreign selling in about four months.\n\nSeparately, SEBI chairman Tuhin Kanta Pandey said on Wednesday that SEBI and the RBI are working to make registration for foreign portfolio investors (FPIs) faster, simpler and digital. He said onboarding within five working days has been successfully tested for some countries, and that documents can now be submitted with digital signatures instead of physically signed and certified papers. SEBI is also working with the RBI on a framework for bond indices that can trade on exchanges.",
+      "simple_explanation": "Foreign investors have been pulling money out of Indian shares for weeks, and Tuesday was a particularly heavy day. Indian funds bought a lot, but this time not enough to fully balance the foreign selling.\n\nAt the same time, India's market regulators are trying to make it easier for foreign investors to start investing here. Right now, a foreign fund needs to register and complete identity checks, which can involve a lot of paperwork. Faster, digital sign-up means less waiting, which could help attract money when conditions improve.",
+      "analogy": "Think of a popular restaurant during a slow patch. Diners are leaving, and the owner can't control that. But the owner can shorten the waiting line and simplify the menu, so that when people want to return, it's easy for them to walk in.",
+      "why": "Foreign funds have been selling because US government bonds now pay unusually high interest, oil is expensive and the rupee is weak, which makes Indian shares less attractive in dollar terms.\n\nRegulators can't control those global forces, but they can remove practical hurdles. Easier onboarding is part of a longer-running effort to widen foreign investor access to Indian shares and bonds.",
+      "implications": {
+        "you": "If you run an SIP, your money is part of the domestic buying that's helping to absorb foreign selling. The onboarding changes don't affect ordinary Indian investors directly.",
+        "markets": "On Tuesday, foreign selling was larger than domestic buying, which helps explain the market's weakness. Easier access could help bring foreign money back in future, though returns and global conditions matter far more.",
+        "economy": "Steady foreign outflows put pressure on the rupee. Making India easier to invest in is a long-term positive, but won't reverse outflows by itself.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "Wednesday's FII and DII figures, and any formal SEBI circulars on faster FPI registration.",
+      "terms": [
+        "FII",
+        "DII",
+        "Provisional",
+        "SEBI",
+        "FPI",
+        "KYC"
+      ],
+      "explainers": {
+        "like12": "Imagine a big school fair. Visitors from another town have been packing up their stalls and going home, because they found better deals back in their own town. On Tuesday, lots of them left at once.\n\nPeople from your own town kept setting up new stalls, but not quite as fast as the visitors were leaving.\n\nThe fair's organisers, who are like SEBI and the RBI, can't stop visitors from leaving. But they're making the entry gate much faster, so visitors don't have to fill in piles of forms or wait for weeks. That way, when visitors want to come back, it's quick and easy for them to join.",
+        "real_life": "Take Ramesh, a 33-year-old sales manager in Ahmedabad who invests ₹4,000 a month through SIPs. Together with millions of others, his instalments help mutual funds buy shares when foreign investors sell.\n\nOn Tuesday, foreigners sold far more than usual, and Indian funds couldn't fully make up the difference. That's part of why Ramesh's fund values have slipped this week.\n\nThe new SEBI and RBI steps won't change anything for Ramesh directly. His KYC is already done. But if foreign money becomes easier to bring in over time, it could mean more buyers in the market in future, which tends to support prices. That's a slow, long-term effect, not something he'll notice this month."
+      }
+    },
+    {
+      "id": "rupee-oil-trump-iran",
+      "category": "Rupee & oil",
+      "title": "Rupee gains 13 paise to 95.81 as oil swings on Trump's denial of Iran sanctions relief",
+      "tldr": "The rupee strengthened, helped by a softer dollar, even though oil prices rose again in Asian trading.",
+      "what_happened": "The rupee rose 13 paise to close at 95.81 (provisional) against the US dollar on Wednesday, PTI reported. It opened at 95.87 and weakened to 95.98 during the day before recovering. On Tuesday it had settled at 95.94.\n\nBrent crude, the global oil benchmark, rose $1.14, or 1.11%, to $103.73 a barrel in Asian trading on Wednesday, Reuters reported. It had fallen on Tuesday as supply from the Middle East recovered. The rise came after US President Donald Trump denied a report by the news site Axios that he was willing to ease sanctions on Iran, writing that he had offered Iran 'NOTHING'. Qatar is pushing for peace talks.\n\nBrent was on course for a gain of around 14% in September, its biggest monthly rise since July, Reuters said.",
+      "simple_explanation": "The rupee's value depends on how many dollars people in India need compared with how many are coming in. Oil is a big reason India needs dollars, because we import most of our oil.\n\nOn Wednesday, the rupee got a little stronger. Traders said the US dollar weakened against other currencies overnight, and oil had come down from its highs of earlier in the week. Oil rose again on Wednesday morning after Trump said he hadn't offered Iran any relief, but it was still below where it was on Monday.",
+      "analogy": "Think of the rupee as a kite and oil as the wind. When the wind blows hard, the kite is harder to hold. On Wednesday, the wind eased a little from earlier in the week, and a helping hand from a weaker dollar let the kite rise slightly.",
+      "why": "Forex traders told PTI that crude easing from its high levels and an overnight fall in the dollar index helped the rupee. Earlier in the day, dollar demand from state-run oil companies pushed the rupee weaker, and traders said the RBI's dollar sales have been keeping the rupee from crossing 96 per dollar.\n\nOil remains tied to US–Iran tensions and the Strait of Hormuz. Reports of possible sanctions relief can push oil down, and denials push it back up.",
+      "implications": {
+        "you": "A 13-paise gain is too small to change anything in your daily life. If you're paying for foreign travel or fees soon, a rupee near 96 still makes those costlier than a year ago.",
+        "markets": "Oil above $100 keeps pressure on airlines, paint makers and oil marketing companies. A steadier rupee slightly eases the pressure on foreign investors' returns.",
+        "economy": "Oil gaining about 14% in a month raises India's import bill. If it lasts, it can push up inflation and delay any cut in interest rates.",
+        "prices": "Pump prices for petrol and diesel don't change daily with global oil, but a long stretch of expensive crude can eventually feed into fuel, transport and food costs."
+      },
+      "watch": "Whether the US and Iran resume talks, whether Brent stays above $100, and whether the rupee holds below 96.",
+      "terms": [
+        "Exchange rate",
+        "Provisional",
+        "Brent crude",
+        "Barrel",
+        "Sanctions",
+        "Dollar index",
+        "RBI intervention"
+      ],
+      "explainers": {
+        "like12": "Imagine India is a family that buys most of its petrol and cooking gas from shops abroad, and those shops only take dollars. The more expensive petrol gets, the more dollars the family needs, and the more rupees it takes to buy each dollar.\n\nOn Wednesday, the rupee got a tiny bit stronger, which means one dollar cost a little fewer rupees than yesterday. That happened partly because the dollar itself got a bit weaker around the world.\n\nOil prices went up again in the morning, because America's President said he hadn't offered Iran any deal. Oil prices go up and down a lot right now, depending on news about America and Iran.",
+        "real_life": "Consider Sunita, a 40-year-old school administrator in Lucknow whose daughter is starting a college course in Australia next year. Every paise the rupee gains makes the fees slightly cheaper in rupees, and every paise it loses makes them costlier.\n\nToday's 13-paise gain means about ₹13 less for every $100 of fees. That's tiny on its own. What matters for Sunita is the trend over months, and that still depends heavily on oil.\n\nIn her daily life, nothing changed today. Her bus fare, groceries and electricity bill are the same. The risk to watch is whether expensive oil lasts long enough to push up prices of fuel and transport."
+      }
+    },
+    {
+      "id": "us-yields-asia-mixed",
+      "category": "Global",
+      "title": "US 30-year bond yield hits its highest since 2002; Japan's Nikkei jumps while Korea's Kospi slips",
+      "tldr": "US borrowing costs kept climbing and Wall Street slipped for a second day, but Asian markets were mixed rather than uniformly weak.",
+      "what_happened": "On Tuesday in the US, the Dow Jones Industrial Average fell 131.59 points, or 0.26%, to 51,349.92. The S&P 500 slipped 0.16% to 7,670.84 and the Nasdaq Composite 0.09% to 26,797.54. It was the second straight losing day for all three.\n\nUS government bond yields rose again. The 10-year yield topped 5.29% at its highest point of the day, and the 30-year yield touched 5.613%, its highest since June 2002.\n\nIn Asia on Wednesday, Japan's Nikkei 225 rose 1.94% to 66,753.50, while South Korea's Kospi fell 0.48% to 6,838.05.",
+      "simple_explanation": "When the US government borrows money, it pays interest to lenders. That interest rate, the yield, has been climbing to levels not seen in about two decades.\n\nHigh US yields make safe American bonds more attractive, which can pull money away from shares everywhere, including in India. But on Wednesday, Asian markets didn't all move the same way: Japan rose strongly while Korea dipped. Local factors matter too, not just what happens in America.",
+      "analogy": "Imagine the safest bank in town raises its FD rate again and again. Many savers move money there. But a few shops in town still do well on a busy day, because of their own customers. Japan's market was one of those shops on Wednesday.",
+      "why": "US yields have been rising as traders expect interest rates in the US to stay high to fight inflation, with oil prices adding to price worries. US stocks ended off their lowest levels of the day, but still posted back-to-back losses.\n\nIn Asia, Japanese shares led the region's gains, while Korean shares diverged and ended lower.",
+      "implications": {
+        "you": "High US yields can indirectly delay interest rate cuts in India, which would affect loan EMIs and FD rates over time. There's no direct effect on your finances today.",
+        "markets": "While US yields stay above 5%, foreign investors are likely to remain cautious about emerging markets like India.",
+        "economy": "Higher global borrowing costs make it more expensive for Indian companies and the government to borrow abroad.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "US economic data later this week and whether the 10-year yield moves further above 5.3%.",
+      "terms": [
+        "US Treasury yield",
+        "Emerging market",
+        "Nikkei 225"
+      ],
+      "explainers": {
+        "like12": "Imagine the richest family on your street, America, borrows money and promises to pay back extra. Lately, it's promising more extra than it has in over 20 years.\n\nBecause America almost always pays back, lots of people want to lend to it. Some take their money out of shops and businesses in other countries to do that, and that can make share prices in those places fall.\n\nBut on Wednesday, not every country's market fell. Japan's market went up a lot, while Korea's went down a little. It's like a class where the teacher announces a hard test: some students get nervous, but others still do well because they prepared.",
+        "real_life": "Consider Priya, a 31-year-old nurse in Kochi planning to buy a flat next year with a home loan. She's hoping loan rates in India will fall before then.\n\nUS bond yields at 20-year highs don't change her loan rate directly. But when US rates are this high, the RBI has to be careful about cutting Indian rates, because that could send more money out of India and weaken the rupee.\n\nSo for Priya, high US yields could mean her home-loan rate stays where it is for longer than she hoped. On the plus side, the FD where she keeps her down-payment savings may continue to earn a decent rate for a while."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Regulatory risk",
+    "explanation": "Regulatory risk is the chance that a change in laws, rules, court rulings or government policy hurts a company or a whole industry. Companies can plan for competition and costs, but they can't control what a regulator or court decides.\n\nInvestors often react to regulatory risk before anything actually changes. A court's question, a draft rule or a consultation paper can be enough to make them sell, because they try to guess the future. If the fear turns out to be overblown, shares can recover; if the rule comes in, they may fall further. That's why share prices of industries like hospitals, telecom, insurance and fuel retailers can swing sharply on news from courts and regulators.",
+    "example": "On Wednesday, Apollo Hospitals fell 5.70% and Max Healthcare 5.33% after the Supreme Court asked why a 16% margin cap on some medicines couldn't be extended to all medicines. The court has not ordered any cap; investors sold because of the possibility.",
+    "takeaway": "Regulatory risk means the rules of the game could change. Share prices often move on the fear of a change, well before any decision is made."
+  },
+  "quiz": [
+    {
+      "q": "Why did hospital shares fall sharply on Wednesday?",
+      "options": [
+        "Hospitals reported big losses",
+        "The Supreme Court questioned very high mark-ups on medicines",
+        "The RBI raised interest rates",
+        "Oil prices fell to $60"
+      ],
+      "answer": 1,
+      "why": "The court asked why some medicines, including cancer drugs, are sold at about ten times their cost to retailers, and why a 16% margin cap couldn't apply to all medicines. Investors worried hospital earnings could fall."
+    },
+    {
+      "q": "The Sensex fell only 0.07%, but the Nifty 50 fell 0.42%. Why can they move differently?",
+      "options": [
+        "One of them is wrong",
+        "They track different sets of companies with different weights",
+        "The Nifty only tracks foreign companies",
+        "The Sensex was closed in the afternoon"
+      ],
+      "answer": 1,
+      "why": "The Sensex tracks 30 companies and the Nifty 50 tracks 50. On days when a few sectors move sharply, like hospitals on Wednesday, the two can end up far apart."
+    },
+    {
+      "q": "What does 'regulatory risk' mean?",
+      "options": [
+        "The risk that a company's factory catches fire",
+        "The risk that new rules, laws or court decisions hurt a business",
+        "The risk of a share being delisted for no reason",
+        "The risk that the rupee becomes stronger"
+      ],
+      "answer": 1,
+      "why": "Regulatory risk is the chance that rules change in a way that affects a business. Shares often react to the possibility, before any decision."
+    },
+    {
+      "q": "The rupee moved from 95.94 to 95.81 per dollar. What does that mean?",
+      "options": [
+        "The rupee got weaker",
+        "The rupee got stronger",
+        "Nothing changed",
+        "Petrol prices fell by 13 paise"
+      ],
+      "answer": 1,
+      "why": "A lower number means one dollar costs fewer rupees, so the rupee got slightly stronger."
+    },
+    {
+      "q": "What are SEBI and the RBI trying to do for foreign portfolio investors?",
+      "options": [
+        "Ban them from buying Indian shares",
+        "Make their registration faster, simpler and digital",
+        "Charge them a new tax",
+        "Force them to sell their shares"
+      ],
+      "answer": 1,
+      "why": "SEBI's chairman said the regulators are working to make FPI sign-up quicker, with onboarding within five working days tested for some countries and digital signatures accepted."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry, such as banks, IT, metals or real estate.",
+      "more": "Besides the Sensex and Nifty 50, the exchanges publish indices for single industries, like Nifty Bank, Nifty IT, Nifty Metal or Nifty Realty. They show which parts of the economy investors are feeling good or bad about on a given day. It's like looking at the results of each section of a class, not just the class average. News reports often say 'all sectoral indices ended in the red', which means every industry group fell, a sign the selling was broad rather than limited to one problem area."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "SEBI",
+      "definition": "The Securities and Exchange Board of India, the government body that regulates the stock market, mutual funds and brokers.",
+      "more": "SEBI makes and enforces the rules for anyone who deals with shares, bonds or mutual funds in India: companies, stock exchanges, brokers, fund managers and investors. Its aim is to protect investors and keep markets fair. Think of it as the referee and rule-maker of the stock market, similar to what IRDAI does for insurance. SEBI's board meets regularly to approve new rules, and its decisions can change how products are sold, what they can invest in and how wrongdoing is punished."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars in the currency market to steady the rupee.",
+      "more": "The RBI holds a large stock of foreign currency, mainly dollars, called forex reserves. When the rupee weakens too fast, the RBI can sell some dollars, adding supply and slowing the fall. When the rupee strengthens quickly, it may buy dollars instead. Think of a dam that releases or holds back water to keep a river's flow steady. The RBI rarely confirms each intervention on the day, so news reports usually say traders 'suspect' or 'believe' it stepped in. Its aim is to reduce sharp swings, not to fix the rupee at a set level."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "Emerging market",
+      "definition": "A country whose economy is growing and developing, such as India, Brazil or Indonesia. Investors see these markets as higher-growth but riskier.",
+      "more": "Global investors group countries into developed markets, like the US, Japan and Western Europe, and emerging markets, like India, China, South Korea and Brazil. Emerging markets can grow faster, but their shares and currencies usually swing more. When global investors get nervous, they often pull money out of emerging markets first. It's like a young, fast-growing startup: exciting in good times, but the first to feel it when money gets tight. News reports often say 'emerging-market currencies weakened', which usually includes the rupee."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "MRP",
+      "definition": "Maximum Retail Price: the highest price a shop is legally allowed to charge for a packaged product in India.",
+      "more": "Every packaged product sold in India, from a biscuit packet to a strip of tablets, must print its MRP. Shops can sell for less, but not more. The MRP is set by the company, not by the government, except for some medicines under price control. A shopkeeper usually buys the product for much less than the MRP; the gap is their margin. In the news, MRP comes up when there are complaints that printed prices are far above what the product actually costs to make or supply, as in Wednesday's debate about hospital medicines."
+    },
+    {
+      "term": "Trade margin",
+      "definition": "The difference between what a seller pays for a product and what it charges the customer.",
+      "more": "If a chemist buys a strip of tablets for ₹80 and sells it for ₹100, the trade margin is ₹20. Every link in a supply chain, the company, the distributor and the shop, takes a margin. Margins pay for rent, staff and profit, so some margin is normal. It becomes a public issue when margins are very large on essentials such as medicines. That's what the Supreme Court raised on Tuesday, when it was told some cancer drugs carry printed prices about ten times what retailers pay for them."
+    },
+    {
+      "term": "Drug price control",
+      "definition": "Government rules that cap the prices, or the margins, of certain medicines so they stay affordable.",
+      "more": "In India, the Drugs (Prices Control) Order, 2013, known as the DPCO, sets ceiling prices for medicines on an official list of essential drugs, known as scheduled drugs. The National Pharmaceutical Pricing Authority enforces it. For scheduled drugs, the retailer's margin is capped at 16%, according to reports on Tuesday's Supreme Court hearing. Many other medicines are not covered in the same way, so their prices are largely set by companies. Price control is a balance: it helps patients, but companies and hospitals argue it can squeeze their earnings. The rules are revised from time to time."
+    },
+    {
+      "term": "Regulatory risk",
+      "definition": "The chance that a new law, rule, court decision or government action hurts a company's business.",
+      "more": "Every business follows rules, and rules can change. When investors fear that a court or regulator might cap prices, raise taxes or add new conditions, they may sell a company's shares even before anything is decided. Imagine running a tea stall and hearing that the municipality may cap the price of a cup of tea. Nothing has changed yet, but you'd worry about your income. Regulatory risk explains why shares sometimes fall sharply on a court hearing or a draft proposal, and then recover if the fear fades."
+    },
+    {
+      "term": "FPI",
+      "definition": "Foreign portfolio investor: a foreign fund or investor that buys Indian shares, bonds or similar investments, registered with SEBI.",
+      "more": "FPI is the official term SEBI uses for foreign investors who buy financial investments in India, such as shares and bonds, without taking control of a company. In everyday market news, 'FII' and 'FPI' are often used to mean the same group. Before they can invest, FPIs must register and complete checks, which can take time and paperwork. Think of it as the entry process at a big exhibition: the quicker and simpler the gate, the easier it is for visitors to come in. Their buying and selling can move the Sensex and the rupee."
+    },
+    {
+      "term": "KYC",
+      "definition": "Know Your Customer: the identity and address checks a bank, broker or fund must do before accepting someone's money.",
+      "more": "When you open a bank account, a demat account or start an SIP, you share your PAN, Aadhaar or other documents. That's KYC. It exists to stop fraud and money laundering. For foreign investors, KYC can involve documents from several countries, which is why it has sometimes been slow. In Wednesday's news, SEBI's chairman said regulators are simplifying these checks, including accepting digital signatures instead of physically signed and certified papers. For you, KYC is usually a one-time step that you update if your details change."
+    },
+    {
+      "term": "Sanctions",
+      "definition": "Penalties one country places on another, such as blocking trade, freezing money or banning certain dealings, to pressure it.",
+      "more": "Countries use sanctions instead of force to push another government to change its behaviour. The US has placed sanctions on Iran for years, including limits on its oil sales and frozen funds held abroad. Easing sanctions is often a bargaining chip in talks. For oil markets, sanctions matter because they affect how much oil can reach buyers. Any hint that sanctions may ease can push oil prices down, and a denial can push them back up, as happened on Wednesday. For India, which imports most of its oil, these swings affect costs and the rupee."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A number that measures the US dollar's strength against a group of six major currencies, including the euro, yen and pound.",
+      "more": "Just as the Sensex sums up many shares in one number, the dollar index sums up how strong the dollar is against other big currencies. When it rises, the dollar is getting stronger worldwide, and currencies like the rupee often weaken. When it falls, the rupee usually gets a little breathing room. Think of it as the dollar's report card compared with its main rivals. Currency traders in India watch it every morning, and PTI's rupee reports often mention it as one reason for the rupee's move."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known share market index, tracking 225 large companies listed in Tokyo.",
+      "more": "The Nikkei 225 is to Japan what the Sensex is to India: a single number showing how big companies' shares are doing. Because Japan is one of the world's largest economies, and Asian markets open before India's, Indian traders glance at the Nikkei, South Korea's Kospi and Hong Kong's Hang Seng each morning for clues. If Asia is rising strongly, Indian markets often open on a firmer note, though local factors like oil and foreign selling can quickly take over, as they did on Wednesday."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex ends volatile trade flat, Nifty at 22,620",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-september-30-sensex-today-nifty-gift-nifty-crude-oil-price-adroit-industries-share-ipo-today-126093000100_1.html"
+    },
+    {
+      "title": "ANI: Sensex, Nifty end lower after volatile session; pharma, healthcare, metal stocks drag",
+      "url": "https://aninews.in/news/business/sensex-nifty-end-lower-after-volatile-session-pharma-healthcare-metal-stocks-drag20260930160717/"
+    },
+    {
+      "title": "Upstox: Top gainers and losers, Sept 30: Apollo Hospitals falls 6%, Max Healthcare down",
+      "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-sept-30-apollo-hospitals-falls-6-max-healthcare-down-3-kotak-mahindra-bank-rises-3/article-201146/"
+    },
+    {
+      "title": "Angel One: Top gainers and losers on September 30, 2026",
+      "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-september-30-2026-kotak-bank-and-indigo-gain-while-apollo-hospitals-drops-over-5"
+    },
+    {
+      "title": "Business Standard: Hospital stocks under pressure: Apollo, Yatharth, Fortis, Max drop up to 7%",
+      "url": "https://www.business-standard.com/markets/news/hospital-stocks-under-pressure-apollo-yatharth-fortis-max-drop-up-to-7-126093000332_1.html"
+    },
+    {
+      "title": "Business Today: Why hospital stocks are declining today",
+      "url": "https://www.businesstoday.in/markets/stocks/story/yatharth-apollo-kims-fortis-max-healthcare-stocks-fall-why-hospital-stocks-are-declining-today-558704-2026-09-30"
+    },
+    {
+      "title": "Onmanorama: Supreme Court questions 10-fold markup on medicines",
+      "url": "https://www.onmanorama.com/news/india/2026/09/30/supreme-court-uniform-medicine-margin.html"
+    },
+    {
+      "title": "Bar & Bench: Private hospitals functioning like industries, not service providers: Supreme Court",
+      "url": "https://www.barandbench.com/news/private-hospitals-functioning-like-industries-not-service-providers-supreme-court"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee rises 13 paise to close at 95.81 against US dollar",
+      "url": "https://www.deccanherald.com/business/markets/rupee-rises-13-paise-to-close-at-9581-against-us-dollar-4165313"
+    },
+    {
+      "title": "CNBC (Reuters): Oil climbs after Trump denies he is willing to ease sanctions on Iran",
+      "url": "https://www.cnbc.com/2026/09/30/oil-climbs-after-trump-denies-he-is-willing-to-ease-sanctions-on-iran.html"
+    },
+    {
+      "title": "Business Standard: Sebi, RBI working to ease FPI onboarding, facilitate bond indices: Pandey",
+      "url": "https://www.business-standard.com/markets/news/sebi-rbi-working-to-ease-fpi-onboarding-facilitate-bond-indices-pandey-126093000897_1.html"
+    },
+    {
+      "title": "Business Today: FPI onboarding in 5 days: Sebi, RBI push digital registration",
+      "url": "https://www.businesstoday.in/markets/story/fpi-onboarding-in-5-days-sebi-rbi-push-digital-registration-to-attract-foreign-investors-558887-2026-09-30"
+    },
+    {
+      "title": "5paisa: FII DII data",
+      "url": "https://www.5paisa.com/share-market-today/fii-dii-data"
+    },
+    {
+      "title": "Yahoo Finance: Stock market today, Tuesday September 29",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html"
+    },
+    {
+      "title": "TradingKey: Japanese and South Korean stocks diverge",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262193470-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"
+    }
+  ]
+}
