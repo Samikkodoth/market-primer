@@ -1,0 +1,35 @@
+## The big idea
+
+A **bond** is a loan you give to a government or a company. In return, the borrower promises to pay you interest at regular intervals and to return your money on a fixed date, called maturity.
+
+When the Indian government needs money for roads, salaries or schemes, it borrows by selling bonds, often called government securities or G-secs. Companies do the same. Banks, insurers, mutual funds and pension funds buy most of these bonds, so your EPF, insurance policy or debt fund probably owns some.
+
+The **yield** is the return a buyer earns on a bond at today's price. Here's the key point: bond prices and yields move in opposite directions, like a seesaw.
+
+## An everyday analogy
+
+Imagine you lent a friend ₹1,000, and they promised to pay you ₹70 a year. That's a 7% return. Now suppose new lenders can get ₹80 a year on a fresh ₹1,000 loan. Nobody would pay you the full ₹1,000 for your old ₹70-a-year promise. To sell it, you'd have to accept less, perhaps ₹900. The buyer still gets ₹70 a year, but on ₹900 that works out to a higher return.
+
+So when market interest rates rise, the prices of existing bonds fall and their yields rise. When rates fall, older bonds paying more become valuable, and their prices rise.
+
+## A real Indian example
+
+Suppose you hold a debt mutual fund that owns long-term government bonds. If market interest rates in India rise, the bonds in your fund lose value, and your fund's value can dip for a while. If rates fall, the same fund can gain.
+
+Yields abroad matter too. When US government bond yields climb sharply, global investors can earn a high, safe return in America. Some then sell Indian shares and bonds, which can weaken the rupee and push Indian yields up.
+
+## Common misunderstandings
+
+- **"Bonds can never lose money."** You get your full amount back if you hold to maturity and the borrower pays. But if you sell early, or hold through a fund, prices can fall.
+- **"A higher yield is simply better."** A high yield can be a warning that the borrower is risky, or that prices have just fallen.
+- **"Bonds have nothing to do with shares."** Rising yields often hurt share prices, because safe returns become more attractive and borrowing gets costlier for companies.
+
+## How it shows up in the news
+
+You'll read headlines such as "10-year bond yield rises" or "US Treasury yields hit a multi-year high". The 10-year government bond yield is a key benchmark: it influences loan rates, FD rates and how investors value shares. Reporters also talk about yields "spiking" when bond prices fall fast. Interest rates and yields change all the time, so always check current figures.
+
+## Three things to remember
+
+1. A bond is a loan with a promise of interest and repayment.
+2. Bond prices and yields move in opposite directions.
+3. Rising yields, in India or the US, often mean pressure on shares, the rupee and debt fund values.

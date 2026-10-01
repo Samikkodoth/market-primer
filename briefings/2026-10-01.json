@@ -1,0 +1,551 @@
+{
+  "date": "2026-10-01",
+  "session_label": "Thursday 1 October 2026",
+  "prepared_for": "Read tonight or over the long weekend",
+  "headline": "Indian shares fell for a fourth day as auto stocks slumped on disappointing September sales, foreign investors kept selling and the rupee slid to a two-month low of 96.31 per dollar.",
+  "mood": "Anxious",
+  "mood_note": "The Sensex touched its lowest level of 2026 during the day before recovering part of the fall. India VIX, the market's fear gauge, jumped as much as 16%, and traders were wary ahead of a long weekend and next week's RBI decision.",
+  "reading_minutes": 13,
+  "since_yesterday": [
+    "Foreign investors' selling grew on Wednesday: provisional data showed FIIs sold ₹10,148 crore, their biggest one-day sale since March 23, while DIIs bought ₹11,272 crore.",
+    "The Nifty's losing run, three days yesterday, stretched to four, and it dipped below 22,400 during the day for the first time since April 2.",
+    "In the US, traders cut their bets on a Federal Reserve rate hike in October to 37%, from more than 70% a week earlier, according to US market reports."
+  ],
+  "one_minute": [
+    "The Sensex fell 570.59 points (0.79%) to 71,909.70 and the Nifty 50 fell 198.50 points (0.88%) to 22,421.95, a fourth day of losses. During the day the Sensex hit its lowest level of 2026.",
+    "Auto shares slumped after September sales fell short of expectations: Bajaj Auto fell 7.62% and Maruti Suzuki 4.86%. Infosys rose 4.11% as IT shares gained.",
+    "Foreign investors sold ₹10,148 crore of shares on Wednesday, and the rupee fell 37 paise to 96.31 per dollar, a two-month low.",
+    "Small savings rates, including PPF at 7.1%, stay unchanged for October–December. The RBI's rate decision is due on October 7.",
+    "GST collections rose 14.7% to ₹2.04 lakh crore in September. Markets are closed on Friday for Gandhi Jayanti and reopen on Monday."
+  ],
+  "big_picture": "Thursday was the fourth losing day in a row, and the roughest so far. At its worst, around midday, the Sensex was more than 1,000 points down and at its lowest level of the year. Buyers returned later, but the market still closed clearly lower.\n\nThe day's clearest lesson came from auto companies. Most of them sold more vehicles in September than a year ago, yet their shares fell sharply, because investors had expected even more. In the market, what matters is often the gap between what people expected and what actually happened.\n\nThe bigger worries are unchanged: foreign investors are pulling money out as US interest rates stay above 5%, oil remains expensive and the rupee is weakening. With markets shut on Friday and the RBI's decision due next Wednesday, many traders chose caution. For savers, the steady news was that PPF and other small savings rates stay the same until December.",
+  "chain": [
+    {
+      "label": "US yields stay very high",
+      "note": "The US 10-year government bond yield ended Wednesday at 5.298%, keeping safe US investments attractive to global funds."
+    },
+    {
+      "label": "Heavy foreign selling",
+      "note": "FIIs sold ₹10,148 crore of Indian shares on Wednesday, their biggest one-day sale since March 23."
+    },
+    {
+      "label": "Rupee slides",
+      "note": "With foreign money leaving and oil expensive, the rupee fell 37 paise to 96.31 per dollar on Thursday."
+    },
+    {
+      "label": "Auto sales disappoint",
+      "note": "September sales from Bajaj Auto, Mahindra & Mahindra and others fell short of analysts' forecasts; Bajaj Auto shares fell 7.62%."
+    },
+    {
+      "label": "Caution before a long weekend and the RBI",
+      "note": "With markets shut on Friday and an RBI decision due on October 7, traders sold, and the Nifty ended 0.88% lower."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "71,909.70",
+      "change": "−570.59 (−0.79%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It fell for a fourth day and touched its lowest level of 2026 during the session."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,421.95",
+      "change": "−198.50 (−0.88%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap",
+      "value": "",
+      "change": "−1.01%",
+      "direction": "down",
+      "what_it_is": "This tracks medium-sized companies. They fell a little more than the biggest companies today."
+    },
+    {
+      "name": "Nifty Smallcap",
+      "value": "",
+      "change": "−0.97%",
+      "direction": "down",
+      "what_it_is": "This tracks smaller listed companies, which usually swing more than big ones."
+    },
+    {
+      "name": "Nifty Auto",
+      "value": "",
+      "change": "about −3%",
+      "direction": "down",
+      "what_it_is": "This tracks carmakers, two-wheeler makers and parts companies. It was hit by disappointing September sales."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "96.31",
+      "change": "−37 paise, weaker",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee. This is the rupee's weakest close in over two months."
+    },
+    {
+      "name": "US 10-year bond yield",
+      "value": "5.298%",
+      "change": "up about 4 basis points (Wednesday)",
+      "direction": "up",
+      "what_it_is": "The interest the US government pays to borrow for 10 years. High US yields tend to pull global money away from markets like India."
+    },
+    {
+      "name": "Nikkei 225 (Japan)",
+      "value": "",
+      "change": "about +3%",
+      "direction": "up",
+      "what_it_is": "Japan's main share index. It rose strongly on chip and AI shares while India fell. Markets in China and Hong Kong were closed for a holiday."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-fourth-day-fall",
+      "category": "Stock market",
+      "title": "Sensex falls 571 points and Nifty ends at 22,422 as shares drop for a fourth day",
+      "tldr": "Worries about high oil prices, rising global interest rates and heavy foreign selling pushed the Sensex to its lowest point of 2026 during the day. IT shares rose and softened the fall.",
+      "what_happened": "The Sensex fell 570.59 points, or 0.79%, to close at 71,909.70. The Nifty 50 fell 198.50 points, or 0.88%, to 22,421.95. It was the fourth losing session in a row.\n\nDuring the day the fall was much sharper. Business Standard reported that the Sensex swung 1,280 points, from a high of 72,573 to a low of 71,293, hitting a new low for 2026. The Nifty slipped below 22,400 for the first time since April 2. Shares recovered some ground before the close.\n\nSmaller companies fell more: the Nifty Midcap index lost 1.01% and the Nifty Smallcap index 0.97%. India VIX, the market's 'fear gauge', jumped as much as 16% during the day to about 15.69.\n\nNot everything fell. Infosys rose 4.11% to ₹1,035, the best performer in the Nifty 50, and TCS, HCL Tech, HDFC Bank and Kotak Mahindra Bank also gained.",
+      "simple_explanation": "For four days now, more people have wanted to sell Indian shares than buy them, so prices keep slipping.\n\nToday the selling was strongest around midday. At its lowest, the Sensex was at its weakest level this year. Some buyers stepped in later, so the final fall was smaller than it looked at lunchtime.\n\nIT companies did well because they earn much of their money in dollars, and a weaker rupee makes those dollars worth more in rupees.",
+      "analogy": "Think of a monsoon week with heavy rain every afternoon. One day the downpour floods your street for an hour, then it eases and some water drains away by evening. The street is still wetter than yesterday, but not as bad as it looked at the worst moment.",
+      "why": "Vinod Nair of Geojit Investments said the fall was mainly driven by outside factors: bond yields at multi-year highs and oil prices that remain high. He said investors were also cautious ahead of the July–September quarter results and the RBI's policy decision next week.\n\nOther analysts quoted by Business Standard listed fears that interest rates could be raised in October, a lack of liquidity, continued selling by foreign investors and the long weekend: markets are shut on Friday for Gandhi Jayanti, so some traders preferred not to hold shares over three days of possible news. Auto shares, hit by disappointing September sales, added to the fall.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund, its value fell about 0.9% today, roughly ₹900 on every ₹1 lakh. Midcap and smallcap funds fell about 1%. Your FD, savings account and EMIs are not affected by one day's fall.",
+        "markets": "The Nifty has now fallen four sessions running and touched its lowest level since early April during the day. The big jump in India VIX shows traders expect more swings.",
+        "economy": "A few weak days in the market don't change jobs or growth by themselves. The worries behind them, high oil and high global interest rates, are the ones that matter for the economy.",
+        "prices": "No direct effect on everyday prices today. Oil is the factor to watch for fuel and transport costs."
+      },
+      "watch": "Markets reopen on Monday 5 October, the same day the RBI's policy committee begins its meeting. Watch oil prices and US bond yields over the long weekend.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "Midcap",
+        "Smallcap",
+        "India VIX",
+        "IT services",
+        "Quarterly results",
+        "Liquidity",
+        "Rate hike",
+        "Long weekend",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine a cricket stadium where fans keep leaving early, match after match, because they're worried about rain. Each day the stands look a little emptier.\n\nThe stock market is a bit like that. For four days now, more people have wanted to sell their shares than buy them. Today, around lunchtime, the selling was so strong that prices fell to their lowest level this whole year. Later, some buyers came back, so the day ended a little better than the worst moment.\n\nWhy are people worried? Oil is expensive, borrowing money around the world is getting costlier, and big foreign investors keep selling. One bright spot: computer services companies like Infosys went up, because they earn in dollars.",
+        "real_life": "Take Arjun, a 29-year-old software tester in Bengaluru. He puts ₹4,000 a month into a Nifty 50 index fund through a SIP, and it's now worth about ₹1.5 lakh. Today's 0.88% fall trimmed about ₹1,300 from that value.\n\nHis monthly SIP still goes in as usual. When prices are lower, the same ₹4,000 buys a few more units of the fund, which is how SIPs smooth out ups and downs over many years.\n\nArjun's salary, rent and bike loan EMI don't change because of today's fall. What could matter more for him is next week's RBI decision, which may affect loan rates, and whether oil prices push up the cost of petrol."
+      }
+    },
+    {
+      "id": "auto-stocks-september-sales",
+      "category": "Companies",
+      "title": "Auto shares slump after September sales fall short of expectations; Bajaj Auto drops 7.6%",
+      "tldr": "Carmakers and two-wheeler makers reported their September sales. Many grew, but by less than analysts had expected, and the Nifty Auto index slipped about 3%.",
+      "what_happened": "Auto companies publish their monthly sales on the first day of each month, and Thursday's numbers disappointed investors. Business Standard reported that the Nifty Auto index slipped about 3%.\n\nBajaj Auto was the worst performer in the Nifty 50, closing 7.62% lower at ₹10,045. The company's domestic two-wheeler sales fell 12% year-on-year to 2,39,771 units. Its total sales, including exports, rose 5% to 5,38,443 units, but analysts at the brokerage Jefferies had expected about 5,85,000.\n\nMaruti Suzuki fell 4.86% to ₹11,386, even though its total sales rose 24.4% to 2,36,013 units. Mahindra & Mahindra also fell; its auto sales rose 15% to 1,14,874 vehicles, below the roughly 1,21,500 Jefferies had expected. Tata Motors' passenger vehicle sales rose 15% to 70,210 units.",
+      "simple_explanation": "Every month, vehicle makers tell everyone how many cars, bikes and scooters they sold. Investors use this as an early report card.\n\nMost companies sold more than a year ago. But investors had expected even more, and share prices already reflected those hopes. When the numbers came in lower, investors sold. CNBC described September sales as softening.\n\nBajaj Auto was hit hardest because its scooter and motorcycle sales within India actually fell compared with last year.",
+      "analogy": "Imagine a student who scored 95 in the last test and whose parents expect at least 95 again. If the student scores 88, it's still a good mark, but the parents focus on the drop. Share prices react to the gap between what was expected and what arrived, not just to whether the number went up.",
+      "why": "Sales growth that falls short of what analysts expected often leads to selling, because investors have already paid for the hoped-for growth. Bajaj Auto's 12% fall in domestic two-wheeler sales was a clear disappointment, and Jefferies' forecasts for both Bajaj Auto and M&M were higher than the actual figures.\n\nThe weak sentiment across the wider market, with foreign investors selling and oil prices high, also made investors quicker to sell on any bad news.",
+      "implications": {
+        "you": "If you're planning to buy a car or scooter for the festive season, nothing has changed in showroom prices because of today's share fall. If you own auto company shares or a fund with large auto holdings, their value dropped today.",
+        "markets": "Auto shares are a large part of the Nifty 50, so their fall dragged the whole index down. Investors will now watch October's festive-season sales closely.",
+        "economy": "Monthly vehicle sales are watched as a sign of how freely families are spending. Car sales grew strongly year-on-year, but the fall in Bajaj Auto's domestic two-wheeler sales is a small warning sign about demand. One month of data isn't a trend.",
+        "prices": "No change to vehicle prices today."
+      },
+      "watch": "October sales numbers, which include the festive season, and the companies' July–September quarterly results later this month.",
+      "terms": [
+        "Monthly auto sales",
+        "Two-wheeler",
+        "Year-on-year",
+        "Brokerage",
+        "Street estimates",
+        "Sectoral index"
+      ],
+      "explainers": {
+        "like12": "Imagine you run a lemonade stand. Last month you sold a record number of glasses, so your friends expect you to sell even more this month. You do sell more than you did a year ago, but fewer than everyone guessed. Your friends feel a little let down.\n\nThat's what happened to car and bike companies. On the 1st of every month, they tell everyone how many vehicles they sold. Today's numbers were mostly higher than a year ago, but lower than experts had predicted. One company, Bajaj Auto, sold fewer scooters and motorbikes in India than last year.\n\nPeople who own shares in these companies felt let down, so many sold, and the prices fell.",
+        "real_life": "Consider Meena, a 38-year-old school teacher in Nagpur who invests ₹3,000 a month in a large-cap mutual fund. Car and bike makers like Maruti, Mahindra and Bajaj Auto are among the companies her fund owns.\n\nWhen their shares fell between about 4% and 8% today, a small slice of her fund's value went with them. Because the fund holds dozens of companies, the hit to her overall savings was much smaller than the fall in any one share.\n\nMeena is also planning to buy a scooter before Diwali. Today's share fall doesn't change the scooter's price at the showroom. What she pays depends on the company's pricing, any festive offers, and her loan rate if she borrows."
+      }
+    },
+    {
+      "id": "foreign-selling-rupee-low",
+      "category": "Money flows",
+      "title": "Foreign investors sold over ₹10,000 crore in a day and the rupee fell 37 paise to a two-month low",
+      "tldr": "Foreign investors made their biggest one-day sale since March on Wednesday, while domestic investors bought even more. The rupee weakened to 96.31 per dollar on Thursday.",
+      "what_happened": "Foreign institutional investors (FIIs) sold ₹10,148 crore of Indian shares on Wednesday, according to provisional exchange data. That was their largest single-day sale since March 23, when they sold about ₹10,414 crore. Domestic institutional investors (DIIs), such as Indian mutual funds and insurers, bought ₹11,272 crore on the same day.\n\nOn Thursday, the rupee fell 37 paise to close at 96.31 against the US dollar, its weakest level in more than two months, PTI reported. It opened at 95.95 and touched 96.34 during the day. Dealers blamed rising global bond yields, worries in global markets, foreign selling and higher crude oil prices.\n\nIn the US, the 10-year government bond yield ended Wednesday up about 4 basis points at 5.298%, according to US market reports.",
+      "simple_explanation": "Big foreign funds have been taking money out of India. When they sell Indian shares, they get rupees, which they then swap for dollars to take home. All those rupees being swapped for dollars push the rupee down.\n\nWhy are they leaving? US government bonds now pay over 5% a year, a very high rate. That makes safe US investments more attractive than Indian shares, which carry more risk.\n\nThe good news is that Indian mutual funds and insurers, often using money from ordinary people's SIPs, bought even more than the foreigners sold on Wednesday.",
+      "analogy": "Think of a big family wedding where a group of out-of-town guests leaves early to catch a better offer elsewhere. The hall would look empty, but local relatives keep arriving and filling the seats. The party goes on, though the mood wobbles each time a group walks out.",
+      "why": "Analysts have pointed to three main reasons for the foreign selling: high interest rates in the US, high oil prices linked to tensions around Iran and the Strait of Hormuz, and a weaker rupee, which reduces returns for foreign investors when they convert back to dollars.\n\nThere was one slightly calmer sign from the US. According to US market reports, traders cut their bets on a US Federal Reserve rate hike in October to 37%, from more than 70% a week earlier, after New York Fed president John Williams said there was no urgency to raise rates.",
+      "implications": {
+        "you": "A weaker rupee makes things priced in dollars costlier: foreign travel, overseas education fees, imported gadgets and, over time, fuel. If you send money abroad, each dollar now costs a little more. If a family member sends money home from abroad, it's worth slightly more in rupees.",
+        "markets": "Steady buying by Indian funds is cushioning the market, but heavy foreign selling keeps pressure on share prices and the rupee.",
+        "economy": "A weaker rupee raises the cost of imported oil, which can feed into inflation. It helps exporters such as IT companies, which earn in dollars.",
+        "prices": "A rupee at 96.31 per dollar makes imports slightly costlier. The effect on petrol and diesel prices depends on government and oil company decisions."
+      },
+      "watch": "Whether foreign selling eases, and whether the rupee holds near 96 per dollar or weakens further.",
+      "terms": [
+        "FII",
+        "DII",
+        "Provisional",
+        "Exchange rate",
+        "US Treasury yield",
+        "Federal Reserve",
+        "Rate hike",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Imagine a big group of visitors from another country who bought lots of toys in your town's market. Now they're selling those toys back and taking their money home. To do that, they swap rupees for dollars.\n\nWhen lots of people want dollars at the same time, dollars become more expensive. So one dollar now costs ₹96.31, more than before. That's what 'the rupee fell' means.\n\nThe visitors are leaving partly because America's government is now paying a high interest rate on its loans, so they can earn good money there with less risk. The nice part is that Indian families, through their monthly savings in mutual funds, bought even more shares than the visitors sold on Wednesday.",
+        "real_life": "Take Sunil, a 45-year-old bank officer in Kochi whose daughter is studying in the United States. He sends her money for fees and living costs every few months.\n\nThe rupee opened Thursday at 95.95 per dollar and closed at 96.31. On a transfer of 10,000 dollars, that 36-paise move alone adds about ₹3,600 to what Sunil pays. Over a year of fees, small daily moves like this can add up.\n\nMeanwhile Sunil's cousin, who works in the US and sends money home, gets a few more rupees for every dollar.\n\nSunil's own monthly mutual fund SIP is part of the 'domestic institutional' buying that is helping to steady the market while foreign funds sell."
+      }
+    },
+    {
+      "id": "small-savings-rates-rbi-next-week",
+      "category": "Your money",
+      "title": "Government keeps PPF, NSC and other small savings rates unchanged; RBI decision due on October 7",
+      "tldr": "Rates on post office and government savings schemes stay the same for October to December. The RBI announces its next interest rate decision next Wednesday.",
+      "what_happened": "The government has kept interest rates on small savings schemes unchanged for the October–December quarter. The rates in force from July to September will continue until December 31.\n\nThe Public Provident Fund (PPF) stays at 7.1% and the National Savings Certificate (NSC) at 7.7%. Sukanya Samriddhi Yojana and the Senior Citizens' Savings Scheme stay at 8.2%. Kisan Vikas Patra earns 7.5% and matures in 115 months, and the Monthly Income Scheme pays 7.4%. Post office time deposits range from 6.9% for one year to 7.5% for five years.\n\nSeparately, the RBI's Monetary Policy Committee (MPC) meets from October 5 to 7, with its decision expected on October 7. At its last meeting in August it kept the repo rate unchanged at 5.25%. Analysts quoted by Business Standard on Thursday listed fears of a rate hike in October among the reasons for the market's fall.",
+      "simple_explanation": "Small savings schemes are safe, government-backed ways to save, available at post offices and banks. Every three months, the government decides what interest they will pay. This time it changed nothing.\n\nThe RBI's interest rate decision, due next week, is a different thing. It mainly affects bank loan and FD rates. Some investors worry the RBI might raise rates to protect the rupee and fight costlier oil, though nothing has been decided.",
+      "analogy": "Think of the small savings rates as a train timetable that's reviewed every three months. This time, the railway kept the same timings. The RBI meeting is like a separate announcement on ticket fares next week: travellers are nervous it might go up.",
+      "why": "The government reviews small savings rates every quarter, and has kept them steady again. It hasn't given detailed reasons in the reports we found.\n\nThe RBI decision matters more for borrowers. With US interest rates very high, oil above $95 a barrel and the rupee at a two-month low, some analysts fear the RBI may need to raise rates. Others expect it to hold. The decision is due on October 7.",
+      "implications": {
+        "you": "If you have a PPF account, NSC or SSY account, your interest rate stays the same until at least December 31. If you have a floating-rate home loan, keep an eye on the RBI's decision on October 7, because a rate hike could raise your EMI over the following months.",
+        "markets": "Fear of an RBI rate hike is one reason shares have been falling. The decision on October 7 is a key event for banks and other rate-sensitive shares.",
+        "economy": "Unchanged small savings rates give savers certainty for three months. A possible RBI hike would aim to protect the rupee and control inflation, but could slow borrowing and spending.",
+        "prices": "No direct effect on prices. Interest rate decisions affect inflation slowly, over months."
+      },
+      "watch": "The RBI's decision at about 10 am on Wednesday, October 7, and what the Governor says about oil, the rupee and inflation.",
+      "terms": [
+        "Small savings schemes",
+        "PPF",
+        "MPC",
+        "Repo rate",
+        "Rate hike",
+        "EMI",
+        "Brent crude",
+        "Barrel"
+      ],
+      "explainers": {
+        "like12": "Imagine your grandparents keep money in a special post office piggy bank that pays them a little extra every year. The government decides how much extra, and it checks every three months. Today it said: no change, the extra stays the same until December.\n\nSeparately, the Reserve Bank of India, which looks after the country's money, will decide next week whether borrowing should become costlier. Some people are worried it might, because the rupee is weak and oil is expensive. If borrowing gets costlier, families with home loans might have to pay a bit more each month.\n\nNobody knows the answer yet. We'll find out on October 7.",
+        "real_life": "Consider Ramesh, a 45-year-old accountant in Coimbatore. Over the years he has built up about ₹6 lakh in his PPF account. At 7.1% a year, that earns him roughly ₹42,000 a year in interest. Today's decision means the rate stays at 7.1% for October to December, so his savings keep growing at the same pace.\n\nHis younger brother Karthik, 34, has a ₹40 lakh floating-rate home loan. The government's decision doesn't affect him, but the RBI's decision next week could. If the RBI raises the repo rate and his bank passes it on, his EMI could rise, or his loan could run longer. If the RBI holds, nothing changes for now.\n\nThe same week's news can matter differently to savers and borrowers in one family."
+      }
+    },
+    {
+      "id": "gst-collections-september",
+      "category": "Economy",
+      "title": "GST collections rise 14.7% to ₹2.04 lakh crore in September",
+      "tldr": "The government collected more tax on goods and services in September than a year ago, helped by a sharp rise in tax on imports.",
+      "what_happened": "India's gross GST collections rose 14.7% year-on-year to ₹2.04 lakh crore in September, from ₹1.77 lakh crore a year earlier, Business Today reported.\n\nTax on imported goods rose 25.9% to ₹65,525 crore, while domestic GST grew 10.1% to ₹1.38 lakh crore. After refunds to businesses, net collections were ₹1.77 lakh crore, up 18.1%.\n\nFor the first six months of this financial year, April to September, gross GST collections were ₹12.46 lakh crore, up 11.6% from ₹11.17 lakh crore a year earlier.",
+      "simple_explanation": "Every time you buy something, whether a phone, a restaurant meal or a bag of cement, part of what you pay is GST. Shops and companies collect it and pay it to the government.\n\nIn September the government collected about 15% more than a year ago. A big part of the increase came from tax on things brought into India from abroad. Some of that can come from imports simply costing more, for example because the rupee is weaker.",
+      "analogy": "Think of a housing society's maintenance fund. If more flats are occupied and more people pay on time, the fund grows. If repair costs go up and dues are a percentage of those costs, the fund also grows, even with the same number of residents. GST collections can rise for both kinds of reasons.",
+      "why": "Higher GST collections usually reflect more buying and selling in the economy. This time, tax on imports grew much faster than tax on domestic sales, 25.9% against 10.1%. Reports we found did not give a detailed breakdown of why import taxes rose so fast, so we can't say how much came from higher volumes and how much from higher prices.",
+      "implications": {
+        "you": "No direct change to your bills. GST rates haven't changed because of this report; it's simply a record of what was collected.",
+        "markets": "Strong tax collections are generally seen as a healthy sign, but today the market focused on oil, global interest rates and foreign selling instead.",
+        "economy": "More GST money gives the central and state governments more room to spend on roads, welfare schemes and salaries without borrowing as much. Domestic GST growth of about 10% suggests steady business activity.",
+        "prices": "No effect on prices. The report counts tax already paid."
+      },
+      "watch": "October's GST figures, which will capture the festive season, and whether import tax collections keep growing so quickly.",
+      "terms": [
+        "GST",
+        "Year-on-year"
+      ],
+      "explainers": {
+        "like12": "When your family buys a packet of biscuits, a small part of the price goes to the government as tax. That tax is called GST. Shops collect it and send it to the government every month.\n\nIn September, the government collected ₹2.04 lakh crore in GST. That's a giant number, about 15% more than the same month last year. The biggest jump came from tax on things that came into India from other countries.\n\nWhen the government collects more tax, it has more money to build roads, run schools and pay for schemes, without needing to borrow as much. So this is generally seen as good news for the country.",
+        "real_life": "Take Ravi, a 40-year-old who runs a small electronics shop in Lucknow. When he sells a ₹20,000 mobile phone, part of that price is GST, which he collects from his customer and pays to the government every month after adjusting for the GST he paid on his own purchases.\n\nToday's report doesn't change any tax rates, so Ravi's prices and his customers' bills stay the same. But the higher collections, especially on imports, partly reflect goods like phones and parts that come from abroad.\n\nFor a salaried person, the main link is indirect: more tax money can mean the government needs to borrow less, which over time can help keep interest rates lower."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Street estimates",
+    "explanation": "Before a company announces its sales or profits, analysts at brokerages publish forecasts of what they expect. Together, these are called 'Street estimates' or 'consensus'. Share prices usually already reflect these expectations, because investors buy and sell based on them.\n\nSo when the real number comes out, the market compares it with the forecast. A company can grow and still see its shares fall if it grows less than expected. It can also report a fall and see its shares rise, if the fall is smaller than feared. Investors often call this 'beating' or 'missing' estimates.",
+    "example": "On Thursday, Bajaj Auto said its total September sales rose 5% to 5,38,443 units. That's growth, but analysts at Jefferies had expected about 5,85,000 units, and the company's domestic two-wheeler sales fell 12%. Bajaj Auto's shares fell 7.62%. Mahindra & Mahindra's sales rose 15% to 1,14,874 vehicles, but Jefferies had expected about 1,21,500, and its shares fell too.",
+    "takeaway": "The market reacts to surprises. A good result that is less good than expected can still push a share price down."
+  },
+  "quiz": [
+    {
+      "q": "Bajaj Auto's total sales rose 5% in September. Why did its shares still fall 7.62%?",
+      "options": [
+        "The company stopped making scooters",
+        "Sales were lower than analysts had expected, and domestic two-wheeler sales fell",
+        "The government banned two-wheeler exports",
+        "The RBI raised interest rates on Thursday"
+      ],
+      "answer": 1,
+      "why": "Jefferies had expected about 5,85,000 units against the 5,38,443 reported, and Bajaj Auto's domestic two-wheeler sales fell 12%. Share prices react to the gap between expectations and reality."
+    },
+    {
+      "q": "Why did Infosys and other IT shares rise while most of the market fell?",
+      "options": [
+        "IT companies earn much of their money in dollars, and a weaker rupee helps them",
+        "The government cut taxes on IT companies",
+        "IT companies reported their quarterly results",
+        "Oil prices fell to zero"
+      ],
+      "answer": 0,
+      "why": "IT companies earn a lot of revenue in foreign currencies. When the rupee weakens, those earnings are worth more in rupees. Infosys rose 4.11%."
+    },
+    {
+      "q": "What happened to the PPF interest rate for October–December?",
+      "options": [
+        "It was raised to 8.2%",
+        "It was cut to 6.9%",
+        "It stayed unchanged at 7.1%",
+        "It was scrapped"
+      ],
+      "answer": 2,
+      "why": "The government kept all small savings rates unchanged for the quarter, so PPF stays at 7.1% and NSC at 7.7%."
+    },
+    {
+      "q": "The rupee closed at 96.31 per dollar, down 37 paise. What does that mean for someone paying a child's fees abroad?",
+      "options": [
+        "They need fewer rupees for the same fees",
+        "They need more rupees for the same fees",
+        "Nothing changes for them",
+        "Fees abroad are paid in rupees, so it doesn't matter"
+      ],
+      "answer": 1,
+      "why": "A weaker rupee means each dollar costs more rupees, so foreign fees, travel and imported goods become costlier."
+    },
+    {
+      "q": "When is the RBI's next interest rate decision expected?",
+      "options": [
+        "Friday, October 2",
+        "Wednesday, October 7",
+        "December 31",
+        "It was announced on Thursday"
+      ],
+      "answer": 1,
+      "why": "The RBI's Monetary Policy Committee meets from October 5 to 7, with its decision expected on October 7. Some analysts fear a rate hike."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry, such as banks, IT, metals or real estate.",
+      "more": "Besides the Sensex and Nifty 50, the exchanges publish indices for single industries, like Nifty Bank, Nifty IT, Nifty Metal or Nifty Realty. They show which parts of the economy investors are feeling good or bad about on a given day. It's like looking at the results of each section of a class, not just the class average. News reports often say 'all sectoral indices ended in the red', which means every industry group fell, a sign the selling was broad rather than limited to one problem area."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A 'fear gauge' that estimates how much traders expect the Nifty to swing over the next 30 days. Higher means more nervousness.",
+      "more": "VIX stands for volatility index. It's calculated from prices of Nifty options, contracts traders use to protect themselves against big moves. When people rush to buy protection, VIX rises. It's like the price of umbrellas going up when everyone expects rain. VIX doesn't say whether the market will go up or down, only how bumpy traders expect it to be. News often reports a big percentage jump in VIX on bad days, but the level itself matters too: lower teens is calm, and 25 or more is quite nervous."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that do technology work, such as writing software and running computer systems, for other businesses, often abroad.",
+      "more": "Indian IT services firms like TCS, Infosys, Wipro and HCLTech employ lakhs of people and earn most of their money from clients in the US and Europe. They build software, manage data centres and help companies move to the cloud. Think of them as highly skilled contractors hired for technology projects. Their earnings depend on how much overseas clients spend. The Nifty IT index tracks the biggest listed IT companies. News about them often focuses on 'deal wins', 'client spending' and 'guidance', meaning companies' own forecasts for growth."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "MPC",
+      "definition": "The Monetary Policy Committee: the six-member RBI panel that decides the repo rate.",
+      "more": "The MPC includes RBI officials and outside experts, and meets several times a year to decide interest rates, mainly to keep inflation near the government's target. Members vote, and the decision and its reasons are announced publicly. It's like a family meeting that decides the household budget after looking at rising grocery bills. News before a meeting is full of economists' predictions, and afterwards reports focus on the decision, the vote split and hints about the next move."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its sales, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish their financial results every quarter, meaning every three months. The July–September quarter is often called Q2, because India's financial year starts in April. Results show how much a company sold, what it spent and how much profit it made, compared with the same period a year earlier. Think of it like a report card that arrives four times a year. Share prices often move sharply on results day if the numbers are better or worse than analysts expected."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "Comparing a number with the same period a year earlier, for example September 2026 against September 2025.",
+      "more": "Year-on-year, often written 'YoY', is the most common way news reports measure growth. Comparing with the same month last year removes seasonal effects: car sales are always higher in festival months, and GST collections differ month to month. It's like comparing your child's marks in this year's half-yearly exam with last year's half-yearly, rather than with a class test. When you read 'sales rose 15% year-on-year', it means 15% more than in the same month a year ago, not 15% more than last month."
+    },
+    {
+      "term": "Monthly auto sales",
+      "definition": "The number of vehicles each carmaker and two-wheeler maker sold in a month, published on the first day of the next month.",
+      "more": "On the 1st of every month, companies such as Maruti Suzuki, Mahindra & Mahindra, Tata Motors and Bajaj Auto announce how many vehicles they sent to dealers in the previous month. Investors treat these numbers as an early report card, weeks before full quarterly results. They also read them as a sign of how much ordinary families are spending, because a scooter or car is often a household's biggest purchase after a home. Reports split the figures into domestic sales and exports, and compare them year-on-year."
+    },
+    {
+      "term": "Street estimates",
+      "definition": "What analysts, taken together, expected a company or economic figure to be before it was announced.",
+      "more": "'The Street' is market slang for professional investors and analysts, after Wall Street in New York. Before sales or profit numbers come out, brokerages publish their forecasts. Share prices usually already reflect these expectations. So when the actual number arrives, investors compare it with the forecast, not with zero. A company can report growth and still see its shares fall if the growth is smaller than expected. It's like a student who usually scores 90 getting 80: still a good mark, but parents react to the drop."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "Two-wheeler",
+      "definition": "A motorcycle, scooter or moped. Two-wheelers are the most common vehicles bought by Indian families.",
+      "more": "India is one of the world's largest markets for motorcycles and scooters. Makers include Hero MotoCorp, Bajaj Auto, TVS Motor, Honda and Royal Enfield, which belongs to Eicher Motors. Because a two-wheeler is often the first vehicle a family buys, especially in small towns and villages, investors watch two-wheeler sales as a sign of how comfortable ordinary households feel about spending. A fall in domestic two-wheeler sales can hint at stretched budgets, while strong sales often follow a good harvest or the festival season."
+    },
+    {
+      "term": "GST",
+      "definition": "Goods and Services Tax: the tax added to the price of most things you buy in India, collected by the central and state governments.",
+      "more": "GST replaced many older taxes in 2017. When you pay a restaurant bill or buy a phone, part of the price is GST, and the shop passes it on to the government. Every month the government reports how much GST it collected. 'Gross' is the total; 'net' is what remains after refunds to businesses. Higher collections usually mean more buying and selling in the economy, and give the government more money for roads, schemes and salaries. GST rates differ by product and are changed from time to time by the GST Council."
+    },
+    {
+      "term": "Small savings schemes",
+      "definition": "Government-backed savings products such as PPF, NSC, Sukanya Samriddhi and post office deposits, whose interest rates are set every quarter.",
+      "more": "Small savings schemes are run by the government through post offices and banks. They include the Public Provident Fund (PPF), National Savings Certificate (NSC), Sukanya Samriddhi Yojana (SSY) for daughters, the Senior Citizens' Savings Scheme (SCSS), Kisan Vikas Patra and post office time deposits. Because the government stands behind them, they are seen as very safe. The finance ministry reviews their interest rates every three months, usually announcing them on the last day of a quarter. Rates can go up, down or stay the same, so check the latest figures before investing."
+    },
+    {
+      "term": "PPF",
+      "definition": "Public Provident Fund: a long-term, government-backed savings scheme with a 15-year lock-in and tax benefits.",
+      "more": "The PPF is one of India's most popular savings products for salaried and self-employed people. You can open an account at a post office or bank and deposit money every year. The money is locked in for 15 years, with some partial withdrawals allowed earlier. Interest is set by the government every quarter and, under current rules, is tax-free. It's like a sturdy steel trunk in which a family puts away money for a child's education or retirement. Rules on limits and tax can change, so check before investing."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Liquidity",
+      "definition": "How much money is easily available in the financial system, or how easily something can be bought or sold without moving its price.",
+      "more": "Liquidity has two common meanings in the news. In banking, it means how much spare cash banks have to lend; when liquidity is 'tight', loans can become costlier. In markets, it means how easily you can buy or sell. A big company's shares are liquid because there are always buyers and sellers. Think of a busy vegetable market versus a single stall in a quiet lane: in the busy market you can sell quickly at a fair price. When analysts mention a 'lack of liquidity', they mean less money flowing in to support prices."
+    },
+    {
+      "term": "Long weekend",
+      "definition": "A weekend joined to a holiday, when the stock market stays closed for three or more days in a row.",
+      "more": "Indian stock exchanges close on weekends and on a list of public holidays published each year. When a holiday falls on a Friday or Monday, the market shuts for three days. Traders sometimes sell before a long weekend because news can break while they are unable to trade, such as a jump in oil prices or a big global event. It's like closing your shop for three days during uncertain weather: some owners would rather move stock early than risk being caught out."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex falls for 4th day, ends 571pts down; Nifty at 22,422; Nifty Auto slips 3%",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-1-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126100100095_1.html"
+    },
+    {
+      "title": "Business Standard: Market crash: Sensex sinks 1,280 pts intraday, at 2026 low; Nifty at 22,200",
+      "url": "https://www.business-standard.com/markets/news/why-are-markets-falling-today-sensex-crashes-1-000-pts-intraday-hits-2026-low-nifty-at-22-300-126100100568_1.html"
+    },
+    {
+      "title": "The Tribune: Market slide continues as bond yields at multi-year highs, Sensex falls 571 points, Nifty ends 0.88% lower",
+      "url": "https://www.tribuneindia.com/news/bond-yields/market-slide-continues-as-bond-yields-at-multi-year-highs-sensex-falls-571-points-nifty-ends-0-88-lower"
+    },
+    {
+      "title": "Angel One: Top Gainers and Losers on October 1, 2026",
+      "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-october-1-2026-infosys-and-hdfc-life-gain-while-bajaj-auto-drops-over-7"
+    },
+    {
+      "title": "Upstox: Auto stocks crash: Bajaj Auto, M&M, Eicher Motors tumble up to 9%",
+      "url": "https://upstox.com/news/market-news/stocks/auto-stocks-crash-bajaj-auto-m-and-m-eicher-motors-tumble-up-to-9-what-s-hurting-the-sentiment/article-201193/"
+    },
+    {
+      "title": "BusinessToday: Bajaj Auto shares slump over 7% after September sales data",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bajaj-auto-shares-slump-over-7-after-september-sales-data-558955-2026-10-01"
+    },
+    {
+      "title": "CNBC: Shares of Indian auto companies slide as sales soften in September",
+      "url": "https://www.cnbc.com/2026/10/01/india-auto-shares-bajaj-maruti-mahindra.html"
+    },
+    {
+      "title": "The Tribune: Maruti Suzuki sales rise 24.4% to 2.36 lakh in September",
+      "url": "https://www.tribuneindia.com/news/automotive-industry/maruti-suzuki-sales-rise-24-4-to-2-36-lakh-tata-motors-cv-sales-jump-42-4-to-51062-in-september"
+    },
+    {
+      "title": "5paisa: Nifty down nearly 13% in 2026 as FII selling intensifies in September",
+      "url": "https://www.5paisa.com/blog/nifty-down-nearly-13-in-2026-as-fii-selling-intensifies-in-september"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee slumps 37 paise to close at 96.31 against US dollar",
+      "url": "https://www.deccanherald.com/business/markets/rupee-slumps-37-paise-to-close-at-9631-against-us-dollar-4166785"
+    },
+    {
+      "title": "Yahoo Finance: Dow, S&P 500 post monthly losses in September as Treasury yields climb",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html"
+    },
+    {
+      "title": "CNBC: Oil prices rise as Chinese refiners reportedly ban October fuel exports",
+      "url": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html"
+    },
+    {
+      "title": "Free Press Journal: Small savings interest rates unchanged for Oct-Dec; PPF at 7.1%, NSC at 7.7%",
+      "url": "https://www.freepressjournal.in/business/small-savings-interest-rates-unchanged-for-oct-dec-ppf-at-71-per-cent-nsc-at-77-pc"
+    },
+    {
+      "title": "5paisa: RBI MPC meeting schedule",
+      "url": "https://www.5paisa.com/blog/rbi-mpc-meeting-schedule"
+    },
+    {
+      "title": "BusinessToday: September GST collections rise 14.7% to ₹2.04 lakh crore",
+      "url": "https://www.businesstoday.in/latest/economy/story/september-gst-collections-rise-14-7-to-rs2-04-lakh-crore-558985-2026-10-01"
+    },
+    {
+      "title": "Upstox: IT stocks shine: Infosys, TCS, Tech Mahindra lift Nifty IT",
+      "url": "https://upstox.com/news/market-news/stocks/it-stocks-shine-infosys-tcs-tech-mahindra-mphasis-others-lift-nifty-it-up-1-7-what-investors-should-know/article-201178/"
+    }
+  ]
+}
