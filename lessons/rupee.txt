@@ -1,0 +1,35 @@
+## The big idea
+
+The **exchange rate** tells you how many rupees you need to buy one unit of another currency. When the news says "the rupee closed at 96 per dollar", it means one US dollar cost about ₹96.
+
+If that number goes **up**, say from ₹95 to ₹96, the rupee has **weakened** (depreciated): you need more rupees for the same dollar. If it goes **down**, the rupee has **strengthened** (appreciated).
+
+Like the price of anything, the rupee's value depends on demand and supply. When lots of people want dollars, by selling rupees to get them, the dollar gets costlier. When lots of dollars flow into India and are swapped for rupees, the rupee gains.
+
+## An everyday analogy
+
+Think of a mandi where onions are traded. If many buyers turn up wanting onions and few sellers arrive, onion prices rise. Currency markets work the same way, except the "onions" are dollars.
+
+Who wants dollars? Companies importing oil, gold and electronics; students paying foreign fees; and foreign investors taking money out of India. Who brings dollars in? Exporters, such as IT companies; Indians abroad sending money home; and foreign investors putting money into Indian shares and bonds.
+
+## A real Indian example
+
+India imports most of the crude oil it uses and pays for it in dollars. When oil prices jump, oil companies need more dollars, which pushes the rupee down. At the same time, when foreign investors sell Indian shares, they convert their rupees back into dollars, adding to the pressure.
+
+The **Reserve Bank of India** holds large reserves of foreign currency. When the rupee falls too fast, it can sell some dollars to calm the market. The RBI says it doesn't aim for a particular rate; it tries to smooth out sharp swings.
+
+## Common misunderstandings
+
+- **"A weak rupee is always bad."** Not quite. It makes imports, foreign travel and studying abroad costlier, but it helps exporters, and families receiving money from relatives abroad get more rupees.
+- **"The government sets the exchange rate."** In India, the rate is mostly set by the market every day. The RBI steps in only to limit big swings.
+- **"A rupee at ₹96 means India's economy is failing."** Currencies move for many reasons, including what's happening in the US. A falling rupee is a signal worth watching, not a verdict on its own.
+
+## How it shows up in the news
+
+You'll see lines like "the rupee fell 37 paise to close at 96.31 against the dollar". Reports often mention why: foreign investor selling, oil prices, a strong dollar or likely RBI intervention. The **dollar index**, which measures the dollar against other major currencies, also gets mentioned, because a stronger dollar tends to push most currencies down, including the rupee.
+
+## Three things to remember
+
+1. A higher number per dollar means a weaker rupee.
+2. Oil prices and foreign investor flows are two of the biggest forces moving the rupee.
+3. A weak rupee hurts importers and travellers, and helps exporters and families receiving money from abroad.

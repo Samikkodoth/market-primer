@@ -1,0 +1,619 @@
+{
+  "date": "2026-10-05",
+  "session_label": "Monday 5 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "Indian shares broke a four-day losing run after weak US jobs data cut the odds of a US rate hike and oil eased; the Sensex rose 473 points as the RBI began its three-day rate meeting.",
+  "mood": "Relieved",
+  "mood_note": "The first up day after four losses, helped by strong Asian markets. But India VIX held at 14.45 and the RBI's rate decision on Wednesday keeps traders cautious.",
+  "reading_minutes": 13,
+  "since_yesterday": [
+    "Foreign investors kept selling on Thursday: provisional data showed FIIs sold ₹9,484.22 crore and DIIs bought ₹10,041.84 crore.",
+    "The losing run that reached four days on Thursday ended today, with the Nifty back above 22,500.",
+    "On Friday, while Indian markets were shut for Gandhi Jayanti, a weak US jobs report cut the odds of an October Fed rate hike to 17.7%, from 71% a week earlier."
+  ],
+  "one_minute": [
+    "The Sensex rose 472.77 points (0.66%) to 72,382.47 and the Nifty 50 rose 133.80 points (0.60%) to 22,555.75, ending a four-day losing run.",
+    "The US added only 29,000 jobs in September, far fewer than expected, so traders now see a much smaller chance of a US rate hike this month.",
+    "The RBI's rate-setting committee began meeting; eight of 10 economists polled by Business Standard expect the repo rate to rise to 5.50% on Wednesday.",
+    "ITC rose 5.08% after Citi upgraded it to 'Buy'. HCLTech fell 3.31%. Snapdeal's parent AceVector listed 11.5% below its IPO price.",
+    "The rupee closed almost flat at 96.29 per dollar, with traders pointing to likely RBI support."
+  ],
+  "big_picture": "After four days of losses, Indian shares had a good day. The help came mostly from abroad. A weak US jobs report on Friday made it much less likely that the US central bank will raise interest rates this month, and Asian markets rallied on Monday. Oil also eased a little.\n\nThat doesn't mean the worries have gone. US interest rates are still above 5%, foreign investors sold more than ₹9,400 crore of Indian shares on Thursday alone, and the rupee is stuck near 96 per dollar.\n\nThe big event this week is at home. The RBI's rate-setting committee started meeting today, and most economists expect it to raise the repo rate on Wednesday. If it does, loan EMIs could rise in the weeks after, while FD rates could improve. Many analysts say the market already expects a small hike, so the surprise, if any, will be in what the RBI says about the months ahead.",
+  "chain": [
+    {
+      "label": "Weak US jobs report",
+      "note": "The US added only 29,000 jobs in September, against about 84,000 expected, and unemployment rose to 4.2%."
+    },
+    {
+      "label": "US rate-hike bets fall",
+      "note": "The CME FedWatch tool showed a 17.7% chance of an October Fed hike, down from 71% a week earlier."
+    },
+    {
+      "label": "Asian markets rally, oil eases",
+      "note": "Japan's Nikkei rose about 2.5% in morning trade and analysts noted a moderation in crude prices."
+    },
+    {
+      "label": "Indian shares recover",
+      "note": "Buyers returned, led by ITC, banks and FMCG shares, and the Nifty rose 0.60% to 22,555.75."
+    },
+    {
+      "label": "Caution before the RBI",
+      "note": "With the RBI's decision due on Wednesday and a hike widely expected, India VIX held at 14.45 and the rupee barely moved."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "72,382.47",
+      "change": "+472.77 (+0.66%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It ended a four-day losing run today."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,555.75",
+      "change": "+133.80 (+0.60%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+0.67%",
+      "direction": "up",
+      "what_it_is": "This tracks medium-sized companies. They rose slightly more than the biggest companies today."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+0.47%",
+      "direction": "up",
+      "what_it_is": "This tracks smaller listed companies, which usually swing more than big ones."
+    },
+    {
+      "name": "India VIX",
+      "value": "14.45",
+      "change": "steady",
+      "direction": "flat",
+      "what_it_is": "The market's 'fear gauge'. It shows how big a swing traders expect over the next month. It's up 35.3% over 30 days."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "96.29",
+      "change": "almost unchanged (96.32 on Thursday)",
+      "direction": "flat",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "about $101–102",
+      "change": "slightly lower",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "US 10-year bond yield",
+      "value": "about 5.28%",
+      "change": "Friday close",
+      "direction": "flat",
+      "what_it_is": "The interest the US government pays to borrow for 10 years. High US yields tend to pull global money away from markets like India."
+    },
+    {
+      "name": "S&P 500 (US, Friday)",
+      "value": "7,722.72",
+      "change": "+56.27 (+0.7%)",
+      "direction": "up",
+      "what_it_is": "A main index of 500 large US companies. It rose after the weak jobs report cut rate-hike fears."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-snap-losing-run",
+      "category": "Stock market",
+      "title": "Sensex gains 473 points and Nifty ends at 22,556, snapping a four-day losing run",
+      "tldr": "Indian shares rose after weak US jobs data cut the chances of a US interest rate hike and oil prices eased. ITC led the gains; IT and pharma shares lagged.",
+      "what_happened": "The Sensex rose 472.77 points, or 0.66%, to close at 72,382.47. The Nifty 50 rose 133.80 points, or 0.60%, to 22,555.75. Both indices ended a four-day losing streak.\n\nSmaller companies also rose: the Nifty Midcap 100 gained 0.67% and the Nifty Smallcap 100 0.47%, according to BusinessToday. FMCG, energy and banking shares led the rise, while pharma and IT shares lagged.\n\nITC was the best performer, rising 5.08% to ₹268.90 on the BSE after a brokerage upgrade. BSE Ltd, the company that runs the Bombay Stock Exchange, rose 4.39% and Tata Motors Passenger Vehicles 3.31%. HCLTech was the biggest loser, falling 3.31% to ₹1,201.90.\n\nIndia VIX, the market's 'fear gauge', held steady at 14.45.",
+      "simple_explanation": "After four days of falling, Indian shares finally had a good day. The main reason came from America. On Friday, while Indian markets were shut for Gandhi Jayanti, the US reported that very few new jobs were created in September. That made it less likely that the US central bank will raise interest rates this month.\n\nWhen US interest rates look less likely to rise, global investors feel a bit braver about putting money into countries like India. Oil also eased a little, which helps India because we import most of our oil.\n\nThe rise was modest, and the Nifty is still well below where it was a few weeks ago.",
+      "analogy": "Think of a cricket team that has lost four matches in a row and then wins one comfortably. The dressing room is happier, but the team is still low on the points table. One win changes the mood; it doesn't yet change the season.",
+      "why": "Vinod Nair of Geojit Investments said markets recovered on softer-than-expected US jobs data and a moderation in crude oil prices, which gave investors some relief as they think about where interest rates are heading.\n\nHe added that attention is now turning to the RBI's decision on Wednesday and to company results for July–September, and that a 0.25 percentage point rate hike is already largely expected by the market. Asian markets were also strong on Monday, which helped the mood.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund, it rose about 0.6% today, roughly ₹600 on every ₹1 lakh. That recovers only part of last week's fall. Your FD, savings account and EMIs are not affected by one day's move.",
+        "markets": "Ending a losing streak matters for mood, but India VIX at 14.45 shows traders are still nervous before Wednesday's RBI decision. BusinessToday noted the VIX is up 35.3% over the past 30 days.",
+        "economy": "One day of gains in the share market says little about the real economy. The bigger questions, such as interest rates, oil and foreign money, are unchanged for now.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "The RBI's rate decision on Wednesday, and whether foreign investors keep selling.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Losing streak",
+        "Midcap",
+        "Smallcap",
+        "FMCG",
+        "India VIX",
+        "Federal Reserve",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine the share market as a big mood meter for companies. For four days, the meter kept dropping because people were worried about oil being expensive and interest rates going up around the world.\n\nOn Friday, when India's market was closed for Gandhi Jayanti, America reported that hardly any new jobs were created last month. That sounds like bad news, but it made people think America's central bank won't make loans costlier this month. Fewer worries meant more people were willing to buy shares again.\n\nSo on Monday, the meter climbed back up a little. It's still lower than a few weeks ago, but it's the first good day after four bad ones.",
+        "real_life": "Think of Ravi, a 29-year-old software tester in Pune who puts ₹5,000 a month into a Nifty 50 index fund through a SIP. Over the last four trading days, his fund's value slipped a little each day.\n\nOn Monday it rose about 0.6%. If his fund was worth ₹1.2 lakh, that's about ₹720 back in a day, though still not all of last week's fall.\n\nNone of this changes what Ravi needs to do day to day. His SIP goes in on the same date each month whatever the market did today, and his home loan EMI and savings account are not affected by one day of gains. The decision that could touch his EMI is the RBI's, due on Wednesday."
+      }
+    },
+    {
+      "id": "rbi-policy-meeting-begins",
+      "category": "RBI and your money",
+      "title": "RBI's rate-setting committee begins three-day meeting; most economists expect a hike to 5.50% on Wednesday",
+      "tldr": "The RBI's Monetary Policy Committee started meeting on Monday and will announce its decision on October 7. Eight of 10 economists polled by Business Standard expect the repo rate to rise by 0.25 percentage points.",
+      "what_happened": "The RBI's six-member Monetary Policy Committee (MPC) began its meeting on Monday. It will meet until Wednesday, October 7, when the decision will be announced.\n\nThe repo rate, the rate at which the RBI lends to banks, is currently 5.25%. The RBI has kept it unchanged at its last four reviews, after cutting it by a total of 1.25 percentage points in 2025.\n\nIn a Business Standard poll, eight of 10 economists said they expect a hike of 25 basis points (0.25 percentage points), taking the repo rate to 5.50%. Retail inflation rose to 4.82% in August, above the RBI's 4% target for the third month in a row. Higher energy prices and rate rises by some major central banks abroad have added to the case for a hike.",
+      "simple_explanation": "The RBI is India's central bank. One of its main jobs is to stop prices from rising too fast. Its main tool is the repo rate, the interest rate at which it lends to banks.\n\nWhen prices rise too quickly, the RBI can raise this rate. Banks then usually raise the interest on loans, which makes people and businesses borrow and spend a little less, and that can slow down price rises.\n\nRight now prices are rising faster than the RBI wants, oil is expensive and the rupee is weak. That's why most economists think a small rate increase is coming on Wednesday. Nothing changes until the RBI actually announces its decision.",
+      "analogy": "Think of the repo rate as the wholesale price of money. When a wholesaler raises the price of rice, the kirana shop usually raises its price too, though not on the same day. When the RBI raises its rate, banks tend to follow with their loan rates over the next few weeks.",
+      "why": "The RBI's target is to keep retail inflation near 4%. It has been above that for three months, reaching 4.82% in August. Expensive oil feeds into fuel and transport costs, and a weak rupee makes imports costlier. Business Standard's report said rising inflation, higher energy prices and rate increases by some major global central banks have raised expectations of a hike.\n\nNot everyone agrees: two of the 10 economists in the poll did not expect a hike.",
+      "implications": {
+        "you": "If the RBI raises the repo rate, banks are likely to raise rates on floating-rate home, car and personal loans over the following weeks, so EMIs could go up. FD rates may also rise, which helps savers. Nothing changes until the decision on Wednesday.",
+        "markets": "Vinod Nair of Geojit Investments said a 25 basis point hike is already largely priced in. A bigger hike, or a surprise pause, could move shares and the rupee sharply.",
+        "economy": "Higher rates can slow borrowing and spending, which helps cool prices but can also slow growth and hiring a little. The RBI has to balance both.",
+        "prices": "A rate hike doesn't lower prices overnight. Its aim is to slow price rises over the coming months."
+      },
+      "watch": "The RBI's announcement on Wednesday, October 7, and what the Governor says about inflation and the rupee.",
+      "terms": [
+        "Repo rate",
+        "MPC",
+        "Basis point",
+        "Retail inflation",
+        "Inflation",
+        "Rate hike",
+        "EMI",
+        "Priced in"
+      ],
+      "explainers": {
+        "like12": "Imagine your school canteen is run by a careful manager. If everyone suddenly buys lots of samosas, the price of samosas starts rising every week. To calm things down, the manager makes it a little harder to borrow lunch money from the school fund, by asking for a bit more back.\n\nThe RBI is like that manager for the whole country. When prices of things like vegetables, fuel and rent rise too fast, it can make borrowing slightly more expensive. People then borrow and spend a little less, and prices stop racing ahead.\n\nThis week, a group of six people at the RBI is meeting to decide whether to do that. Most experts think they will, and we'll find out on Wednesday.",
+        "real_life": "Consider Priya, a 34-year-old bank employee in Chennai with a ₹30 lakh floating-rate home loan. Her EMI is linked to her bank's lending rate, which tends to follow the RBI's repo rate.\n\nIf the RBI raises the repo rate by 0.25 percentage points on Wednesday, her bank may raise her loan rate by a similar amount in the coming weeks. Usually, the bank then either increases her EMI a little or adds a few months to her loan.\n\nPriya's retired father, who lives on FD interest, sees it differently. Higher rates could mean better returns when his FDs are renewed. The same decision can be bad news for one family member and good news for another."
+      }
+    },
+    {
+      "id": "us-jobs-fed-hike-bets-fall",
+      "category": "Global",
+      "title": "Weak US jobs report cuts bets on a Federal Reserve rate hike; Asian markets rally",
+      "tldr": "The US added only 29,000 jobs in September, far fewer than expected. Traders now see a much smaller chance of a US rate hike this month, which lifted shares in the US, Asia and India.",
+      "what_happened": "On Friday, October 2, while Indian markets were closed, the US government reported that employers added 29,000 jobs in September. Economists polled by Dow Jones had expected 84,000. The unemployment rate rose to 4.2%, from 4.1%.\n\nUS shares rose on the news. The S&P 500 gained 0.7% to 7,722.72, the Dow Jones 0.5% to 51,176.96 and the Nasdaq 1.2% to 27,190.86. The 10-year US government bond yield ended at about 5.28%, still very high.\n\nAccording to the CME FedWatch tool, markets now see a 17.7% chance of a Fed rate hike at its October 28 meeting, down from 71% a week earlier. Asian markets rose on Monday: Japan's Nikkei 225 climbed about 2.5% in morning trade to above 70,000, and South Korea's Kospi was reported up 3.68%.",
+      "simple_explanation": "The US Federal Reserve is America's central bank. Like the RBI, it can raise interest rates to fight rising prices. When US interest rates go up, big global investors often pull money out of countries like India and park it safely in the US.\n\nFriday's report showed American companies hired far fewer people than expected. That suggests the US economy is cooling, so the Fed may not need to raise rates this month.\n\nThat eased one of the biggest worries hanging over Indian shares for weeks. But US bond yields, the interest the US government pays on its loans, are still above 5%, which keeps US savings attractive to global investors.",
+      "analogy": "Imagine a strict hostel warden who has been threatening to bring curfew forward by an hour. Then a report shows students are already going to bed early. Everyone relaxes, because the warden probably won't need the stricter rule, at least not this month.",
+      "why": "Weak hiring usually means the economy is slowing, and a slowing economy puts less upward pressure on prices. That gives the Fed less reason to raise rates. Traders quickly cut their bets on a hike, and shares rose.\n\nIn India, Vinod Nair of Geojit Investments pointed to the softer US jobs data as one of the main reasons for Monday's recovery.",
+      "implications": {
+        "you": "There is no direct effect on your bank account. But fewer US rate worries can mean less foreign selling of Indian shares, which supports mutual fund values, and less pressure on the rupee.",
+        "markets": "If the Fed does not raise rates in October, foreign investors may slow their selling of Indian shares. The US bond yield near 5.28% is still a strong pull on global money.",
+        "economy": "A slowing US economy is a mixed signal for India. It can ease pressure on interest rates, but it can also mean less demand for Indian IT services and exports.",
+        "prices": "No direct effect on prices in India today."
+      },
+      "watch": "The Fed's meeting on October 28, and how US bond yields move this week.",
+      "terms": [
+        "Nonfarm payrolls",
+        "Federal Reserve",
+        "CME FedWatch",
+        "US Treasury yield",
+        "Rate hike"
+      ],
+      "explainers": {
+        "like12": "America has a huge bank in charge of its money, called the Federal Reserve. For weeks, people worried it would make borrowing more expensive. When that happens, investors from around the world often take their money out of countries like India and keep it in America instead.\n\nOn Friday, America said very few new jobs were created last month. That means the US economy is slowing down a bit. When an economy slows, the Federal Reserve usually doesn't need to make borrowing costlier.\n\nSo investors relaxed. Share markets in America, Japan, Korea and India all went up. It's a bit strange, but sometimes slightly bad news in one place feels like good news for markets everywhere.",
+        "real_life": "Consider Arjun, a 41-year-old sales manager in Bengaluru who invests ₹10,000 a month in a flexi-cap mutual fund. For weeks, foreign investors have been selling Indian shares partly because US interest rates were high and might go higher.\n\nFriday's weak US jobs data made a US rate hike in October look much less likely. If that keeps foreign selling down, the shares Arjun's fund owns may face less pressure, though nothing is guaranteed.\n\nArjun also has a nephew planning to study in the US next year. A calmer outlook for US rates can ease pressure on the rupee, which would affect how many rupees the family needs for fees. But the rupee barely moved today, so for now there's no real change."
+      }
+    },
+    {
+      "id": "itc-citi-upgrade-hcltech-falls",
+      "category": "Companies",
+      "title": "ITC jumps 5% after Citi upgrades it to 'Buy'; HCLTech falls 3% ahead of results",
+      "tldr": "ITC was the day's best performer after the brokerage Citi turned positive on it. HCLTech fell as investors grew cautious before IT companies report their July–September results.",
+      "what_happened": "ITC, the company behind cigarettes, Aashirvaad atta, Sunfeast biscuits and hotels, rose 5.08% to ₹268.90 on the BSE. It was the biggest contributor to the Nifty 50's gain, according to market reports.\n\nAnalysts at Citi upgraded ITC to 'Buy' from 'Sell'. Business Standard reported that Citi said ITC's steps to deal with recent pressures are working better than first expected, its profitability appears to be bottoming out, and the cycle of cutting profit forecasts is largely over.\n\nAt the other end, HCLTech was the worst performer, falling 3.31% to ₹1,201.90. Business Upturn reported there was no major negative company announcement; investors were cautious ahead of July–September results, with worries about growth, pricing pressure and tech spending by clients. HDFC Bank, Sun Pharma and Infosys were also among the losers.",
+      "simple_explanation": "Big brokerages employ analysts whose job is to study companies and tell investors whether they think a share will do well. They label shares 'Buy', 'Hold' or 'Sell'.\n\nCiti had been negative on ITC. Now it has changed its mind completely and says ITC's worst period may be ending. Because many investors follow such reports, lots of people bought ITC shares, and the price jumped.\n\nHCLTech fell for the opposite kind of reason: not bad news, but nervousness about what its next results might show.",
+      "analogy": "Imagine a food critic who gave a local restaurant a poor review last year. Now they return, find the kitchen has improved, and write a glowing review. The next weekend, more people queue outside. The food may not have changed overnight, but people's opinion of it has.",
+      "why": "A full switch from 'Sell' to 'Buy' by a large global brokerage is unusual and gets noticed. Citi's view that profit forecasts have stopped being cut matters because investors care about where profits are heading next, not just where they are now.\n\nFor HCLTech, results season for July–September starts soon, and IT companies have faced questions about how fast they can grow. Some investors sold before the results.",
+      "implications": {
+        "you": "ITC is one of the biggest companies in the Nifty 50, so if you have an index fund or a large-cap fund, its 5% rise helped your fund today. A brokerage rating is an opinion, not a guarantee, and brokerages often disagree.",
+        "markets": "ITC was the biggest contributor to the Nifty's gain. HCLTech's fall shows how cautious investors are ahead of IT results.",
+        "economy": "Neither move says much about the wider economy on its own.",
+        "prices": "No effect on the price of ITC's products, such as atta or biscuits."
+      },
+      "watch": "IT companies' July–September results, which start arriving later this month.",
+      "terms": [
+        "Brokerage",
+        "Rating upgrade",
+        "FMCG",
+        "IT services",
+        "Quarterly results"
+      ],
+      "explainers": {
+        "like12": "Some grown-ups have a job studying companies and telling everyone whether they think a company's shares are worth buying. It's a bit like a movie reviewer, but for businesses.\n\nOne big reviewer, called Citi, had said ITC's shares were not worth buying. Today Citi changed its mind and said ITC looks good now. ITC makes things you might know, like Aashirvaad atta and Sunfeast biscuits.\n\nWhen a famous reviewer changes their opinion, many people listen. Lots of people bought ITC shares, so the price went up by 5% in one day. Another company, HCLTech, went down because people were nervous about its upcoming report card.",
+        "real_life": "Consider Sunita, a 45-year-old shop owner in Indore who started a ₹2,000 monthly SIP in a large-cap mutual fund. She doesn't own ITC shares directly, but her fund probably does, because ITC is one of India's largest companies.\n\nWhen ITC rose 5% today, it added a small amount to her fund's value. When HCLTech fell 3%, it took a little away. Because her fund holds many companies, these moves mostly balance out.\n\nIf Sunita reads that 'Citi says Buy ITC', it's worth remembering that this is one firm's opinion. Until now, the same brokerage had the opposite view. Her monthly SIP doesn't need to change because of one report."
+      }
+    },
+    {
+      "id": "snapdeal-acevector-weak-listing",
+      "category": "IPOs",
+      "title": "Snapdeal parent AceVector lists 11.5% below its IPO price",
+      "tldr": "Shares of AceVector, which owns the online shopping site Snapdeal, opened at ₹28.32 on the NSE, below the ₹32 IPO price, so IPO investors were sitting on a loss on day one.",
+      "what_happened": "AceVector, the parent company of the e-commerce platform Snapdeal, made a weak stock market debut on Monday. Its shares opened at ₹28.32 on the NSE, 11.5% below the IPO issue price of ₹32. On the BSE, they opened at ₹28.30.\n\nThe ₹420 crore IPO was open for bids from September 25 to September 29. It combined a fresh issue of new shares worth ₹287 crore and an offer for sale of existing shares worth ₹133 crore.\n\nOrient Cables, German Green Steel and Runwal Enterprises also listed on Monday, according to Goodreturns. We could not confirm the closing prices for these debuts at the time of writing.",
+      "simple_explanation": "When a company first sells its shares to the public, it's called an IPO. People apply, and those who get shares pay a fixed price, here ₹32 each.\n\nThen the shares start trading on the stock exchange, and the price is set by buyers and sellers. On Monday, buyers were only willing to pay about ₹28 for each AceVector share. So anyone who got shares in the IPO was showing a loss of about ₹3.70 per share at the opening price.\n\nThis happens when the market is nervous or when investors think the IPO price was too high.",
+      "analogy": "Imagine you pay ₹32 for a ticket to a much-talked-about new show. On the day, the crowd is thinner than expected, and people outside are reselling tickets for ₹28. Your ticket hasn't changed, but what others will pay for it has.",
+      "why": "We could not find a detailed analyst explanation for the weak listing. The wider market has been under pressure for weeks, with foreign investors selling heavily, and newly listed companies often feel that mood first.",
+      "implications": {
+        "you": "If you applied for this IPO and got shares, you were showing a loss at the opening price. A listing-day price is just the first trade, not the final word on a company. IPOs can make or lose money, so it helps to read what the company does before applying.",
+        "markets": "A weak listing can make investors more cautious about other upcoming IPOs, especially while the wider market is shaky.",
+        "economy": "No direct effect on the wider economy.",
+        "prices": "No effect on prices on Snapdeal's website."
+      },
+      "watch": "How AceVector and Monday's other new listings trade over the coming days.",
+      "terms": [
+        "IPO",
+        "Listing",
+        "Issue price",
+        "Offer for sale"
+      ],
+      "explainers": {
+        "like12": "Imagine a company that runs an online shop wants money to grow. It says, 'Anyone can buy a tiny piece of our company for ₹32.' That's called an IPO.\n\nAfter everyone has bought their pieces, the pieces can be swapped and sold in a big marketplace called the stock exchange. On the first day there, buyers decided a piece of Snapdeal's parent company was only worth about ₹28.\n\nSo people who paid ₹32 each were a little behind on day one. That doesn't mean the company is bad. It just means fewer people wanted to buy its shares on Monday than the company had hoped.",
+        "real_life": "Consider Karthik, a 26-year-old accountant in Hyderabad who was allotted AceVector shares worth about ₹15,000 in the IPO, at ₹32 each.\n\nOn Monday, the shares opened at ₹28.32. That's about 11.5% less, so on paper his ₹15,000 was worth roughly ₹13,300 at the opening price. He loses money only if he sells below what he paid; the price could go up or down from here.\n\nThe bigger lesson for Karthik is that IPOs don't always give quick gains. Before applying for the next one, he could read the company's offer document summary, check whether it makes a profit and think about whether he'd be happy holding the shares for years."
+      }
+    },
+    {
+      "id": "rupee-flat-fii-selling",
+      "category": "Money",
+      "title": "Rupee ends almost flat near 96.29 per dollar; foreign investors sold ₹9,484 crore on Thursday",
+      "tldr": "The rupee barely moved, with traders pointing to likely RBI support. Foreign investors' heavy selling continued last Thursday, while Indian institutions bought even more.",
+      "what_happened": "The rupee closed at 96.2925 per dollar on Monday, barely changed from 96.3150 on Thursday. It had opened about 10 paise stronger at 96.22, helped by softer oil prices and lower bets on a US rate hike. Traders said a firmer dollar and higher oil prices pulled it back, while likely selling of dollars by the RBI kept it in a narrow range.\n\nBrent crude, the international oil benchmark, was trading around $101–102 a barrel. Worries about shipping through the Strait of Hormuz continue to keep it high.\n\nProvisional exchange data for Thursday, October 1, showed foreign institutional investors (FIIs) sold shares worth ₹9,484.22 crore, while domestic institutional investors (DIIs) bought ₹10,041.84 crore. Data for Monday was not yet available when this was written.",
+      "simple_explanation": "The rupee's value against the dollar tells you how many rupees you need to buy one US dollar. At about ₹96, the rupee is close to the two-month low it touched last week.\n\nTwo big things keep pushing it down. First, foreign investors keep selling Indian shares. When they take their money home, they swap rupees for dollars, which lowers the rupee's value. Second, India buys most of its oil from abroad, paying in dollars, and oil is expensive.\n\nIndian mutual funds and insurance companies, the DIIs, are buying the shares that foreigners sell, which is why the market hasn't fallen even more.",
+      "analogy": "Picture a tug-of-war. On one side, foreign investors leaving and costly oil pull the rupee down. On the other side, the RBI steps in with its reserves to stop it from sliding too fast. Today the rope barely moved.",
+      "why": "Foreign investors have been selling Indian shares for weeks as US interest rates stay above 5%, making US savings more attractive. Every rupee they take out increases demand for dollars.\n\nThe RBI usually doesn't confirm when it steps in, but currency traders said its likely dollar sales kept the rupee steady. With an RBI rate decision due on Wednesday, traders were also waiting before making big bets.",
+      "implications": {
+        "you": "A weak rupee makes foreign travel, foreign education, imported gadgets and anything priced in dollars costlier. If you send or receive money from abroad, today's rate was almost the same as Thursday's.",
+        "markets": "As long as FIIs keep selling at this pace, Indian shares and the rupee stay under pressure. DII buying has been absorbing much of the selling.",
+        "economy": "Expensive oil and a weak rupee raise India's import bill. Over time, that can push up the prices of fuel and things that depend on transport.",
+        "prices": "No change in petrol or diesel prices was reported today, but oil above $100 a barrel keeps pressure on fuel costs."
+      },
+      "watch": "Whether foreign selling slows after the weaker US jobs data, and how the rupee reacts to Wednesday's RBI decision.",
+      "terms": [
+        "Exchange rate",
+        "Rupee depreciation",
+        "RBI intervention",
+        "Brent crude",
+        "Barrel",
+        "FII",
+        "DII",
+        "Provisional"
+      ],
+      "explainers": {
+        "like12": "Money from different countries can be swapped. Right now, to get one American dollar, you need about 96 Indian rupees. A few years ago, you needed fewer.\n\nWhy? Lots of people from other countries who had bought Indian shares are selling them and swapping their rupees back into dollars. Also, India buys a lot of oil from other countries and has to pay in dollars. When many people want dollars, the dollar becomes more expensive.\n\nThe RBI, India's money manager, has a big savings box of dollars. When the rupee falls too quickly, it can sell some dollars to calm things down. On Monday, the rupee hardly moved at all.",
+        "real_life": "Consider Fatima, a 32-year-old nurse in Kochi whose brother works in Dubai and sends money home every month. When the rupee is weak, each dirham or dollar he sends turns into more rupees, so a weak rupee actually helps her family a little.\n\nBut Fatima is also saving for a family trip to Singapore. A weak rupee makes the hotel and flights, often priced in dollars, cost more in rupees.\n\nOn Monday, the rupee barely moved, so neither the money her brother sends nor her trip budget changed much from last week."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Priced in",
+    "explanation": "Share prices move on expectations, not just on news. If most investors are fairly sure something will happen, such as an RBI rate hike, many of them buy or sell ahead of time. By the day the news actually arrives, prices already reflect it. Analysts then say the event is 'priced in'.\n\nThis is why markets sometimes barely react to big announcements, and why they can swing sharply when the news is different from what everyone expected. The surprise is what moves prices, not the news itself.",
+    "example": "Most economists expect the RBI to raise the repo rate by 0.25 percentage points to 5.50% on Wednesday. Vinod Nair of Geojit Investments said such a hike is already largely priced in. So if the RBI does exactly that, shares may not fall much. If it raises rates by more, or doesn't raise them at all, the market could move sharply, because that would be a surprise.",
+    "takeaway": "Markets react to the gap between what was expected and what happened. Expected news is often already in the price."
+  },
+  "quiz": [
+    {
+      "q": "Why did Indian shares rise on Monday after four days of losses?",
+      "options": [
+        "The RBI cut interest rates on Monday",
+        "Weak US jobs data made a US rate hike this month less likely, and oil eased",
+        "Foreign investors bought record amounts of Indian shares",
+        "The government cut petrol prices"
+      ],
+      "answer": 1,
+      "why": "The US added only 29,000 jobs in September, far fewer than expected. That cut the odds of a Fed hike in October, and Vinod Nair of Geojit Investments also pointed to a moderation in crude prices."
+    },
+    {
+      "q": "What do most economists polled by Business Standard expect the RBI to do on Wednesday?",
+      "options": [
+        "Cut the repo rate to 5.00%",
+        "Keep the repo rate at 5.25%",
+        "Raise the repo rate by 25 basis points to 5.50%",
+        "Raise the repo rate by 1 percentage point"
+      ],
+      "answer": 2,
+      "why": "Eight of 10 economists expect a 25 basis point hike to 5.50%, mainly because retail inflation has been above the 4% target for three months."
+    },
+    {
+      "q": "An analyst says an RBI rate hike is 'priced in'. What does that mean?",
+      "options": [
+        "The RBI has already announced it",
+        "Banks have already raised loan rates",
+        "Investors already expect it, so share prices already reflect it",
+        "The hike will cost the government money"
+      ],
+      "answer": 2,
+      "why": "'Priced in' means investors have already acted on an expected event. That's why the reaction may be small if the RBI does what everyone expects."
+    },
+    {
+      "q": "AceVector's IPO price was ₹32 and its shares opened at ₹28.32 on the NSE. What does that mean for someone allotted shares in the IPO?",
+      "options": [
+        "They were showing a loss at the opening price",
+        "They got a listing gain",
+        "They must sell their shares immediately",
+        "Their money will be refunded"
+      ],
+      "answer": 0,
+      "why": "The shares opened about 11.5% below the price IPO investors paid, so they were showing a loss on paper. The price can rise or fall from there."
+    },
+    {
+      "q": "Why did ITC shares rise 5.08% on Monday?",
+      "options": [
+        "ITC reported record quarterly profits",
+        "The government cut taxes on cigarettes",
+        "The brokerage Citi upgraded ITC to 'Buy' from 'Sell'",
+        "ITC announced a new IPO"
+      ],
+      "answer": 2,
+      "why": "Citi said ITC's profitability appears to be bottoming out and the cycle of profit-forecast cuts is largely over. A brokerage rating is an opinion, not a guarantee."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A 'fear gauge' that estimates how much traders expect the Nifty to swing over the next 30 days. Higher means more nervousness.",
+      "more": "VIX stands for volatility index. It's calculated from prices of Nifty options, contracts traders use to protect themselves against big moves. When people rush to buy protection, VIX rises. It's like the price of umbrellas going up when everyone expects rain. VIX doesn't say whether the market will go up or down, only how bumpy traders expect it to be. News often reports a big percentage jump in VIX on bad days, but the level itself matters too: lower teens is calm, and 25 or more is quite nervous."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that do technology work, such as writing software and running computer systems, for other businesses, often abroad.",
+      "more": "Indian IT services firms like TCS, Infosys, Wipro and HCLTech employ lakhs of people and earn most of their money from clients in the US and Europe. They build software, manage data centres and help companies move to the cloud. Think of them as highly skilled contractors hired for technology projects. Their earnings depend on how much overseas clients spend. The Nifty IT index tracks the biggest listed IT companies. News about them often focuses on 'deal wins', 'client spending' and 'guidance', meaning companies' own forecasts for growth."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "MPC",
+      "definition": "The Monetary Policy Committee: the six-member RBI panel that decides the repo rate.",
+      "more": "The MPC includes RBI officials and outside experts, and meets several times a year to decide interest rates, mainly to keep inflation near the government's target. Members vote, and the decision and its reasons are announced publicly. It's like a family meeting that decides the household budget after looking at rising grocery bills. News before a meeting is full of economists' predictions, and afterwards reports focus on the decision, the vote split and hints about the next move."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its sales, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish their financial results every quarter, meaning every three months. The July–September quarter is often called Q2, because India's financial year starts in April. Results show how much a company sold, what it spent and how much profit it made, compared with the same period a year earlier. Think of it like a report card that arrives four times a year. Share prices often move sharply on results day if the numbers are better or worse than analysts expected."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Losing streak",
+      "definition": "A run of trading days in a row on which an index or share closed lower.",
+      "more": "News reports count how many sessions in a row the Sensex or Nifty has fallen, and say a streak is 'snapped' or 'broken' when the index finally closes higher. A streak tells you about mood rather than size: four small falls can add up to less than one big one. Think of a cricket team that loses four matches in a row. The fifth win lifts spirits, but it doesn't erase the earlier losses from the points table. When you read that a losing run ended, check how much ground was actually recovered."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One hundredth of a percentage point. 25 basis points = 0.25%.",
+      "more": "Interest rates often change by small amounts, so finance people use basis points to be precise. 100 basis points make 1 percentage point. If the RBI raises the repo rate from 5.25% to 5.50%, that's a rise of 25 basis points, often written as '25 bps'. Saying 'a 0.25% rise' can confuse people, because it could also mean a quarter of a percent of 5.25. Think of basis points as the paise of interest rates: a small unit that adds up. On a large home loan, even 25 basis points can change your EMI noticeably."
+    },
+    {
+      "term": "Retail inflation",
+      "definition": "How fast the prices of everyday goods and services bought by households are rising, measured by the Consumer Price Index (CPI).",
+      "more": "Every month the government collects prices of hundreds of items, from vegetables and milk to rent, school fees and bus fares, and works out how much more they cost than a year earlier. That figure is retail inflation. The RBI aims to keep it around 4%, within a band of 2% to 6%. If retail inflation stays above the target, the RBI may raise interest rates to cool demand. When news says 'CPI inflation rose to 4.82% in August', it means a basket of household items cost 4.82% more than in August last year."
+    },
+    {
+      "term": "Priced in",
+      "definition": "When investors already expect an event and have adjusted share prices for it before it happens.",
+      "more": "Markets look ahead. If most people expect the RBI to raise rates, many will have sold or bought shares already, so prices reflect the expected hike before it's announced. When the news finally arrives, prices may barely move, because it's no longer a surprise. If the decision differs from expectations, prices can jump or fall sharply. It's like a train ticket price on a festival weekend: everyone knows demand will be high, so the price is already higher when you book. Analysts say 'priced in' to explain why big news sometimes causes little reaction."
+    },
+    {
+      "term": "Nonfarm payrolls",
+      "definition": "The monthly US report on how many jobs were added outside farming. It's one of the most-watched numbers in global markets.",
+      "more": "On the first Friday of most months, the US government reports how many jobs American employers created in the previous month, along with the unemployment rate. Strong job growth suggests a hot economy, which can push the Federal Reserve to keep interest rates high or raise them. Weak job growth suggests a slowdown, which makes rate hikes less likely. Because US interest rates affect money flows worldwide, this report can move Indian shares and the rupee on the next trading day. Think of it as a monthly health check-up of the world's biggest economy."
+    },
+    {
+      "term": "CME FedWatch",
+      "definition": "A widely quoted tool that uses US futures prices to estimate the odds of the Federal Reserve changing interest rates at its next meetings.",
+      "more": "Traders in the US bet on where interest rates will be in the coming months using contracts called futures. The CME Group, which runs a large futures exchange, turns those prices into simple percentages, such as a '17.7% chance of a rate hike'. It isn't an official forecast and the Fed doesn't use it. It's more like the odds a bookmaker gives before a match: they show what the crowd expects and can swing quickly after new data. News reports quote it when expectations change sharply."
+    },
+    {
+      "term": "Rating upgrade",
+      "definition": "When a brokerage's analysts change their view on a share to a more positive one, for example from 'Sell' to 'Buy'.",
+      "more": "Brokerages publish research reports that rate shares as Buy, Hold, Sell or similar, along with a 'target price' they think the share could reach. An upgrade means the analyst has become more positive; a downgrade means less positive. A big upgrade from a well-known firm can move a share price sharply in a day, because many investors follow these reports. But analysts can be wrong, and different brokerages often disagree. Think of it as a film critic changing their review from two stars to four: it influences people, but it isn't a guarantee."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    },
+    {
+      "term": "Issue price",
+      "definition": "The price per share at which a company sold its shares to investors in its IPO.",
+      "more": "In most Indian IPOs, the company announces a price band, say ₹30 to ₹32, and investors bid within it. The final price, usually the top of the band, is the issue price. Everyone who gets shares pays that price. On listing day, the share's trading price is compared with the issue price to see whether IPO investors gained or lost. Think of it as the MRP printed on a new product at launch: once it hits the open market, what people are willing to pay can be higher or lower."
+    },
+    {
+      "term": "Offer for sale",
+      "definition": "The part of an IPO where existing shareholders sell some of their own shares to the public. The company itself gets no money from this part.",
+      "more": "An IPO can have two parts. In the 'fresh issue', the company creates new shares and keeps the money to spend on its business. In the 'offer for sale' (OFS), existing owners, such as founders or early investors, sell shares they already hold, and the money goes to them. Investors read this split closely: a large OFS can mean early backers want to cash out. It's like the difference between a shop owner raising money to open a new branch, and a partner selling their stake in the existing shop."
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars in the currency market to steady the rupee.",
+      "more": "The RBI holds large reserves of foreign currency. When the rupee falls too fast, it can sell dollars from these reserves and buy rupees, which supports the rupee. When the rupee rises too fast, it can do the opposite. The RBI says it doesn't target a particular exchange rate; it acts to smooth sharp swings. Traders often say the RBI was 'likely' intervening because it rarely confirms this on the day. Think of a traffic constable at a busy junction: they don't stop the traffic, but they keep it from turning chaotic."
+    },
+    {
+      "term": "Rupee depreciation",
+      "definition": "When the rupee loses value against another currency, so you need more rupees to buy one dollar.",
+      "more": "If the rate moves from ₹95 to ₹96 per dollar, the rupee has depreciated, or weakened. This makes imports such as oil, electronics and foreign education costlier, but helps exporters like IT companies, whose dollar earnings are worth more rupees. Common causes are foreign investors pulling money out, high oil prices and a strong dollar. It's like the price of a foreign holiday going up while you were still saving for it. News reports often describe the move in paise, for example 'the rupee fell 37 paise'."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex snaps 4-day losing run, gains 473 pts; Nifty ends at 22,556; ITC up 5%",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-snapdeal-listing-today-rvnl-share-price-today-ipo-today-126100500057_1.html"
+    },
+    {
+      "title": "BusinessToday: Sensex, Nifty snap 4 session losing run; can markets sustain recovery amid caution?",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sensex-nifty-snap-4-session-losing-run-can-markets-sustain-recovery-amid-caution-559619-2026-10-05"
+    },
+    {
+      "title": "HDFC Sky: Sensex, Nifty end higher as crude eases, Fed hike fears recede",
+      "url": "https://hdfcsky.com/news/market-close-report-today-october-5-2026-nifty-sensex-end-losing-streak-as-fed-fears-recede"
+    },
+    {
+      "title": "HDFC Sky: Top Gainers & Losers, October 5, 2026 at 3:30 PM IST",
+      "url": "https://hdfcsky.com/news/top-gainers-losers-october-5-2026-at-3-30-pm"
+    },
+    {
+      "title": "Upstox: Top gainers and losers, Oct 5: ITC jumps 5%, BSE gains 4%, Tata Motors PV surges over 3%",
+      "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-5-itc-jumps-5-bse-gains-4-tata-motors-pv-surges-over-3-check-full-list/article-201297/"
+    },
+    {
+      "title": "Angel One: Top Gainers and Losers on October 5, 2026",
+      "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-october-5-2026-itc-and-bse-gain-while-hcltech-drops-over-3"
+    },
+    {
+      "title": "Business Standard: ITC jumps 5% as Citi upgrades rating, target",
+      "url": "https://www.business-standard.com/amp/markets/news/itc-share-jumps-3-as-citi-upgrades-rating-target-what-prompted-bullish-view-126100500359_1.html"
+    },
+    {
+      "title": "Business Upturn: Why are HCL Technologies shares falling nearly 3% today?",
+      "url": "https://www.businessupturn.com/finance/stock-market/why-are-hcl-technologies-shares-falling-nearly-3-today-explained"
+    },
+    {
+      "title": "Business Standard: RBI MPC meet from Oct 5-7: Will RBI hike the repo rate this time?",
+      "url": "https://www.business-standard.com/finance/news/rbi-mpc-meeting-october-2026-monetary-policy-repo-rate-hike-retail-inflation-126100200188_1.html"
+    },
+    {
+      "title": "Business Standard: RBI's panel starts monetary policy deliberations, rate hike likely",
+      "url": "https://www.business-standard.com/amp/economy/news/rbi-s-panel-starts-monetary-policy-deliberations-0-25-bps-rate-hike-likely-126100500635_1.html"
+    },
+    {
+      "title": "Yahoo Finance: How major US stock indexes fared Friday 10/2/2026",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201721712.html"
+    },
+    {
+      "title": "Yahoo Finance: Stock market today, Friday October 2, September jobs report",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html"
+    },
+    {
+      "title": "Rio Times: Asia Intelligence Brief, Monday October 5, 2026",
+      "url": "https://www.riotimesonline.com/asia-intelligence-brief-monday-october-5-2026"
+    },
+    {
+      "title": "MarketScreener (Reuters): Rupee ends flat, anchored by RBI intervention in face of global strains",
+      "url": "https://www.marketscreener.com/news/indian-rupee-set-for-mild-relief-from-dip-in-oil-fading-fed-october-hike-bets-ce785ddbdf8bff21"
+    },
+    {
+      "title": "CNBC TV18 via TradingView: Rupee opens stronger at 96.22, October 5, 2026",
+      "url": "https://www.tradingview.com/news/cnbctv:056502e94094b:0/"
+    },
+    {
+      "title": "Gulf News: Oil prices split as Brent tops $102, Murban hits $110 per barrel on Oct. 5, 2026",
+      "url": "https://gulfnews.com/world/americas/oil-prices-split-as-brent-tops-102-murban-hits-110-per-barrel-on-oct-5-2026-1.500698305"
+    },
+    {
+      "title": "Trading Economics: Brent crude oil",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    },
+    {
+      "title": "CNBC TV18 via TradingView: FII and DII data, October 1, 2026",
+      "url": "https://tradingview.com/news/cnbctv:75f4c782b094b:0"
+    },
+    {
+      "title": "CXO Digitalpulse: Snapdeal parent AceVector lists at 11.5% discount to IPO price",
+      "url": "https://www.cxodigitalpulse.com/snapdeal-parent-acevector-lists-at-11-5-discount-to-ipo-price/"
+    },
+    {
+      "title": "Chittorgarh: AceVector (Snapdeal) IPO details",
+      "url": "https://www.chittorgarh.com/ipo/acevector-ipo/2543/"
+    },
+    {
+      "title": "Goodreturns: IPO listing today: Snapdeal, Orient Cables, German Green Steel and Runwal Enterprises",
+      "url": "https://goodreturns.in/news/ipo-listing-today-snapdeal-orient-cables-german-green-steel-runwal-enterprises-make-market-debu-1539129.html"
+    }
+  ]
+}
