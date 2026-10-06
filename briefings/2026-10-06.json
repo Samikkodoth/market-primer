@@ -1,0 +1,605 @@
+{
+  "date": "2026-10-06",
+  "session_label": "Tuesday 6 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "Indian shares rose for a second day as oil slipped below $100 and strong early figures from Trent and Kotak Mahindra Bank lifted the mood; the Sensex gained 685 points a day before the RBI's rate decision.",
+  "mood": "Hopeful",
+  "mood_note": "A broad rise, with far more shares gaining than falling. But foreign investors are still selling and the RBI's decision tomorrow could change the mood quickly.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "Monday's recovery continued, and by more: the Nifty added 220 points today after 134 points on Monday.",
+    "Foreign investors kept selling on Monday: provisional data showed FIIs sold ₹4,699.10 crore and DIIs bought ₹5,181.60 crore.",
+    "Brent crude, around $101–102 on Monday, slipped below $100 today."
+  ],
+  "one_minute": [
+    "The Sensex rose 685.34 points (0.95%) to 73,067.81 and the Nifty 50 rose 220.35 points (0.98%) to 22,776.10, a second day of gains.",
+    "Trent jumped 12.64% after its July–September revenue grew about 23%. Kotak Mahindra Bank rose 3.82% after strong loan and deposit growth.",
+    "Brent crude fell below $100 a barrel after the G7 agreed to release 100 million barrels of oil and fuel from emergency stocks.",
+    "The RBI announces its rate decision on Wednesday; most economists expect the repo rate to rise to 5.50%. The rupee slipped 8 paise to 96.43 per dollar.",
+    "SRIT India listed at ₹148 on the NSE, 13.85% above its IPO price of ₹130."
+  ],
+  "big_picture": "Indian shares had a second good day in a row, and this time the rise was broad: midcaps and smallcaps did even better than the big companies.\n\nThree things helped. Oil slipped below $100 a barrel after rich countries agreed to release emergency stocks. The first company figures for July–September, from Trent and big private banks, looked strong. And traders who had bet on further falls bought shares back.\n\nThe big test comes tomorrow. Most economists expect the RBI to raise the repo rate by 0.25 percentage points to 5.50%, because prices have been rising faster than its target. If it does, loan EMIs could rise in the weeks after, and FD rates could improve. Foreign investors are still selling, and the rupee is near 96.4 per dollar, so the recovery is still fragile.",
+  "chain": [
+    {
+      "label": "G7 agrees to release oil reserves",
+      "note": "On Friday, the G7 agreed to release 100 million barrels of crude and fuel from emergency stocks over four months."
+    },
+    {
+      "label": "Oil slips below $100",
+      "note": "Brent futures fell as much as 2.4% to $97.91 a barrel, according to Upstox, and Kpler said Hormuz flows are above pre-war levels."
+    },
+    {
+      "label": "Strong early company figures",
+      "note": "Trent's revenue grew about 23% and Kotak Mahindra Bank's loans 24.7% from a year earlier."
+    },
+    {
+      "label": "Buyers return, short sellers cover",
+      "note": "On the weekly expiry day, the Nifty rose 0.98% to 22,776.10, and 2,685 shares rose while 1,495 fell."
+    },
+    {
+      "label": "All eyes on the RBI",
+      "note": "The rate decision is due on Wednesday; most economists expect a 25 basis point hike to 5.50%."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "73,067.81",
+      "change": "+685.34 (+0.95%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It rose for a second day."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,776.10",
+      "change": "+220.35 (+0.98%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+1.08%",
+      "direction": "up",
+      "what_it_is": "This tracks medium-sized companies. They rose more than the biggest companies today."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+1.56%",
+      "direction": "up",
+      "what_it_is": "This tracks smaller listed companies, which usually swing more than big ones."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "96.43",
+      "change": "8 paise weaker (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "below $100",
+      "change": "fell as much as 2.4% to $97.91",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "US 10-year bond yield",
+      "value": "about 5.32%",
+      "change": "Monday, 52-week high",
+      "direction": "up",
+      "what_it_is": "The interest the US government pays to borrow for 10 years. High US yields tend to pull global money away from markets like India."
+    },
+    {
+      "name": "S&P 500 (US, Monday)",
+      "value": "7,773.99",
+      "change": "+51.27 (+0.66%)",
+      "direction": "up",
+      "what_it_is": "A main index of 500 large US companies. The tech-heavy Nasdaq hit a record on the same day."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-second-day-gains",
+      "category": "Stock market",
+      "title": "Sensex jumps 685 points and Nifty ends at 22,776 as oil slips and Q2 updates cheer investors",
+      "tldr": "Indian shares rose for a second day, helped by cheaper oil, strong early figures from companies like Trent and Kotak Mahindra Bank, and short covering a day before the RBI's rate decision.",
+      "what_happened": "The Sensex rose 685.34 points, or 0.95%, to close at 73,067.81. The Nifty 50 rose 220.35 points, or 0.98%, to 22,776.10. It was the second day of gains in a row.\n\nSmaller companies did even better. The Nifty Midcap 100 rose 1.08% and the Nifty Smallcap 100 1.56%. Market breadth was strong: 2,685 shares rose and 1,495 fell, according to HDFC Sky.\n\nCapital goods, bank and pharma shares led the gains. IT shares fell as some investors sold to lock in profits. Trent was the best performer in the Nifty 50, jumping 12.64%. Coal India fell 3.27% and Tech Mahindra 2.40%.\n\nThe total value of all BSE-listed companies rose to ₹473.61 lakh crore, according to BusinessToday.",
+      "simple_explanation": "Indian shares had a second good day in a row. Three things helped.\n\nFirst, oil got cheaper. India buys most of its oil from abroad, so cheaper oil is good news for the country.\n\nSecond, some big companies shared early numbers for July to September, and they looked better than expected. Trent, which runs Westside and Zudio, said its sales grew 23%.\n\nThird, some traders who had bet on prices falling rushed to buy shares back, which pushed prices up faster.\n\nThe Nifty is still well below where it was a few weeks ago, and the RBI's decision on Wednesday could change the mood again.",
+      "analogy": "Think of a cricket team that wins two matches in a row after a long slump. The fans feel better, and the players' confidence grows. But the big match, the RBI's decision, is tomorrow, and that will decide whether the comeback continues.",
+      "why": "Ajit Mishra of Religare Broking said markets extended their recovery on the weekly expiry day, helped by easing crude prices and encouraging September-quarter business updates.\n\nUpstox reported that the rise was also driven by short covering, after the market had fallen so much that it had become 'oversold'. Brent crude dropped below $100 a barrel after the G7 group of rich countries agreed to release 100 million barrels of oil and fuel from emergency stocks.\n\nUS markets also rose on Monday, with the Nasdaq hitting a record.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund, it rose about 1% today, roughly ₹1,000 on every ₹1 lakh. Midcap and smallcap funds probably did a little better. Your FD, savings account and EMIs aren't affected by one day's move.",
+        "markets": "Two days of gains have pulled the Nifty back above 22,700. But foreign investors are still selling, and Wednesday's RBI decision could swing prices either way.",
+        "economy": "Strong early sales and loan figures suggest demand held up in July–September. Full company results over the next few weeks will give a clearer picture.",
+        "prices": "No direct effect on everyday prices today. Cheaper oil helps, but only if it lasts."
+      },
+      "watch": "The RBI's rate decision on Wednesday, and whether foreign investors keep selling.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "Profit booking",
+        "Short covering",
+        "Oversold",
+        "Weekly expiry",
+        "Brent crude",
+        "G7"
+      ],
+      "explainers": {
+        "like12": "Imagine the share market as a big mood meter for companies. On Monday it went up a little after four bad days. On Tuesday it climbed again, and by more.\n\nWhy? Oil, which India buys a lot of, got cheaper. A few well-known companies, like the one that runs Zudio clothes shops, said they had sold a lot more in the last three months. And some traders who had bet that prices would fall had to buy shares back quickly, which pushed prices up even more.\n\nThe meter is still lower than it was a few weeks ago. Tomorrow the RBI, India's money manager, makes a big decision, and that could move the meter again.",
+        "real_life": "Think of Meena, a 34-year-old teacher in Lucknow who puts ₹3,000 a month into a Nifty 50 index fund and ₹2,000 into a midcap fund through SIPs.\n\nToday her index fund rose about 1% and her midcap fund a bit more. If her two funds together are worth ₹2 lakh, that's roughly ₹2,000 more than yesterday, on paper.\n\nShe doesn't need to do anything. Her SIPs go in on the same dates each month whatever the market did today. One good day, like one bad day, says little about where her money will be in five or ten years. The decision that could affect her day-to-day finances is the RBI's, due tomorrow, because it could change loan and FD rates."
+      }
+    },
+    {
+      "id": "trent-kotak-q2-business-updates",
+      "category": "Companies",
+      "title": "Trent jumps 12.6% and Kotak Mahindra Bank 3.8% after strong September-quarter updates",
+      "tldr": "Trent, which runs Zudio and Westside, said its standalone revenue grew about 23% from a year earlier. Kotak Mahindra Bank and Axis Bank reported loans and deposits growing by more than 20%.",
+      "what_happened": "Trent said its standalone revenue from operations for July–September was ₹5,788 crore, up about 23% from ₹4,724 crore a year earlier. It also opened its 1,000th Zudio store during the quarter. Trent shares rose 12.64% to ₹2,906 on the NSE, making it the Nifty 50's best performer. Citi noted that the 23% growth was faster than in each of the previous four quarters and ahead of its own estimate of 18%.\n\nKotak Mahindra Bank said its loans, which banks call advances, grew 24.7% from a year earlier to ₹5.77 lakh crore, and its deposits grew 23.2% to ₹6.51 lakh crore. Its shares rose 3.82% to ₹431.90 on the NSE.\n\nAxis Bank said its gross advances rose 22.7% to ₹13.85 lakh crore and deposits rose 20.7% to ₹14.52 lakh crore. Its shares also rose.",
+      "simple_explanation": "Every three months, companies report how they did. The full results, with profits, come a few weeks later. But some companies share a few early numbers within days. These are called business updates.\n\nToday, a few of those early numbers looked good. Trent's shops sold a lot more than a year ago. Two big banks said they lent more money and got more deposits from customers.\n\nWhen a company does better than investors expected, more people want to own its shares, so the price rises. That's why Trent jumped so much in a single day.\n\nThese are early figures, not final results.",
+      "analogy": "It's like a student telling their parents they scored very well in maths and science before the full report card comes out. The parents feel more hopeful, but they'll still want to see the whole report card.",
+      "why": "Investors had been worried that spending was slowing. Trent's 23% growth beat what analysts at Citi had expected and was its fastest in five quarters. BusinessToday reported that HSBC sees further room for Trent's share price to rise.\n\nFor banks, growth in loans and deposits is an early signal of how much they might earn. Strong figures from Kotak and Axis helped bank shares, and HDFC Sky said financial shares were among the main drivers of Tuesday's rise.",
+      "implications": {
+        "you": "If you own shares of these companies, or a fund that holds them, you gained today. Faster deposit growth at banks doesn't directly change the interest you earn on your own savings or FD.",
+        "markets": "September-quarter results season is about to begin. Today showed that early numbers can move individual shares sharply, both up and down.",
+        "economy": "Rising sales at a large clothing retailer and strong bank lending are signs that people and businesses kept spending and borrowing in July–September.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "More quarterly business updates this week, and the start of full results from big IT companies.",
+      "terms": [
+        "Quarterly business update",
+        "Standalone revenue",
+        "Year-on-year",
+        "Advances",
+        "Deposits",
+        "Brokerage",
+        "Nifty 50"
+      ],
+      "explainers": {
+        "like12": "Imagine your favourite clothes shop, the one where a T-shirt doesn't cost much. Its owner tells everyone that in the last three months, the shop sold almost a quarter more than in the same months last year, and it now has 1,000 branches.\n\nPeople who own small pieces of that company, called shares, get excited, because a busier shop usually means more money later. So lots of people want to buy those pieces, and the price jumps.\n\nThat's what happened to Trent, which runs Zudio and Westside. Two big banks also said more people borrowed from them and kept money with them, so their prices went up too.",
+        "real_life": "Think of Arjun, a 27-year-old sales executive in Hyderabad. He often shops at Zudio and has a savings account with a private bank.\n\nToday's news doesn't change what he pays for a T-shirt, or the interest on his savings account. Banks growing their deposits fast doesn't mean they'll pay him more interest.\n\nWhere it might touch him is through his SIP. If his equity mutual fund holds Trent or Kotak Mahindra Bank shares, today's jump helped its value a little. But a fund holds dozens of companies, so one company's big day moves it only slightly. And early updates don't include profits; the full results come in a few weeks."
+      }
+    },
+    {
+      "id": "oil-dips-below-100-g7-release",
+      "category": "Global",
+      "title": "Brent crude slips below $100 after G7 agrees to release 100 million barrels from emergency stocks",
+      "tldr": "Oil prices eased after the G7 group of rich countries agreed to release oil and fuel from emergency reserves, and as shipments through the Strait of Hormuz recovered.",
+      "what_happened": "Brent crude, the global oil benchmark, fell below $100 a barrel on Tuesday. Upstox reported that Brent futures for December delivery fell as much as 2.4% to $97.91 a barrel during the day.\n\nOn Friday, the G7, a group of seven large rich democracies, agreed to release 100 million barrels of crude oil and fuel products from their emergency stocks. The release is expected to take place over four months, with a lot of diesel released in the first 20 days, and the International Energy Agency will coordinate it.\n\nSeparately, a report from the data firm Kpler said oil flows out of the Strait of Hormuz are now above pre-war levels.",
+      "simple_explanation": "Oil has been very expensive for months, partly because of conflict involving Iran and fears about the Strait of Hormuz, a narrow sea route that a lot of the world's oil passes through.\n\nNow two things are pushing prices down a little. Seven rich countries have agreed to take oil out of their emergency stores and sell it, adding to supply. And more oil is moving through Hormuz again.\n\nWhen more oil is available, its price usually falls. That's good for India, because we buy most of our oil from other countries and pay for it in dollars.",
+      "analogy": "Imagine onion prices have shot up because supply trucks were stuck. Then a few big traders open their cold-storage godowns and the trucks start moving again. Prices ease, though they may not fall all the way back.",
+      "why": "Fuel prices have surged this year because of disruptions to energy supplies linked to the war with Iran and an escalation in the Russia–Ukraine war, which hit diesel especially. US President Donald Trump announced the G7 move after pushing European countries to release reserves.\n\nEmergency stocks are limited, though. Over four months, 100 million barrels is meant as a cushion, not a permanent fix, so oil prices still depend on what happens in the Gulf.",
+      "implications": {
+        "you": "Petrol and diesel prices in India don't change instantly with global oil prices. If oil stays below $100 for a while, it could ease pressure for price increases, but there's no announced change today.",
+        "markets": "Cheaper oil helps companies that use a lot of fuel, such as airlines and paint makers, and it helped lift the whole market today.",
+        "economy": "India imports most of its crude. Every fall in oil prices reduces the import bill, helps the rupee and makes inflation easier for the RBI to control.",
+        "prices": "If oil stays lower, it could gradually ease transport and fuel costs that feed into food and other prices. The effect is slow and not certain."
+      },
+      "watch": "Whether Brent stays below $100, and any news on Iran and the Strait of Hormuz.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "G7",
+        "Strategic petroleum reserve",
+        "Strait of Hormuz"
+      ],
+      "explainers": {
+        "like12": "Oil is like the food that keeps cars, buses, trucks and factories running. India buys most of its oil from other countries.\n\nFor months, oil has been very costly, because a fight involving Iran made people worry that oil ships couldn't get through a narrow sea passage called the Strait of Hormuz.\n\nNow, seven rich countries have agreed to open their emergency oil stores, a bit like a family opening its rice store when the shop runs short. And more oil ships are getting through again. With more oil around, the price went down a little.\n\nThat's good news for India, but the emergency stores won't last forever.",
+        "real_life": "Think of Suresh, a 41-year-old who drives a delivery van for a courier company in Chennai. Diesel is his biggest daily cost, and his employer pays for fuel but has been talking about cutting delivery routes to save money.\n\nToday's fall in oil prices doesn't change the price at his petrol pump. In India, pump prices are set by oil companies and taxes, and they don't follow every daily move.\n\nIf oil stays below $100 for weeks, though, it could ease pressure on transport costs. That could help his company's budget and, over time, slow price rises for things that travel by truck, such as vegetables. Whether that happens depends on oil staying lower."
+      }
+    },
+    {
+      "id": "rbi-decision-tomorrow-rupee-slips",
+      "category": "RBI and your money",
+      "title": "RBI decision due tomorrow; rupee slips 8 paise to 96.43 as foreign investors keep selling",
+      "tldr": "Most economists expect the RBI to raise the repo rate to 5.50% on Wednesday. The rupee weakened slightly, and foreign investors sold ₹4,699 crore of Indian shares on Monday.",
+      "what_happened": "The RBI's Monetary Policy Committee is in the second day of its three-day meeting and will announce its decision on Wednesday, October 7. In a Business Standard poll, eight of 10 economists expect a hike of 25 basis points, taking the repo rate from 5.25% to 5.50%. A Reuters poll published on September 28 found 35 of 61 economists expecting the same.\n\nThe rupee fell 8 paise to close at 96.43 per dollar (provisional), according to PTI. It traded between 96.29 and 96.45 during the day.\n\nProvisional NSE data showed foreign institutional investors (FIIs) sold ₹4,699.10 crore of Indian shares on Monday, while domestic institutional investors (DIIs) bought ₹5,181.60 crore.",
+      "simple_explanation": "Tomorrow, the RBI will say whether it is raising its main interest rate, the repo rate. Most experts think it will raise it a little, because prices in India have been rising faster than the RBI wants.\n\nMeanwhile, foreign investors keep taking money out of Indian shares. When they leave, they swap rupees for dollars. More demand for dollars makes the dollar costlier, so the rupee weakens.\n\nIndian institutions like mutual funds are still buying, which is why the share market hasn't fallen as much as it could have.",
+      "analogy": "Think of the repo rate as the wholesale price of money. When it rises, banks usually charge more on loans, just as a kirana shop raises prices after the wholesaler does. The rupee is like a product in a mandi: when more people want to sell it than buy it, its price drops.",
+      "why": "Retail inflation rose to 4.82% in August, above the RBI's 4% target. PTI reported that the expected hike is in line with tighter policy by other central banks, as conflict in West Asia poses risks to inflation in India.\n\nThe rupee weakened because of continued selling by foreign investors and uncertainty over a US–Iran deal, according to PTI. High US bond yields, with the 10-year yield at about 5.3% on Monday, also make US investments more attractive to global investors than markets like India.",
+      "implications": {
+        "you": "If the RBI raises rates tomorrow, floating-rate home, car and personal loan EMIs could rise in the following weeks, and FD rates could improve. A weaker rupee makes foreign travel, overseas fees and imported gadgets a little costlier.",
+        "markets": "A 25 basis point hike is widely expected and, according to analysts quoted on Monday, largely priced in. A bigger hike or no hike could move shares and the rupee sharply.",
+        "economy": "Higher rates can cool price rises but may also slow borrowing, spending and hiring a little. A weaker rupee raises the cost of oil and other imports.",
+        "prices": "A rate hike won't lower prices overnight. A weaker rupee, if it continues, can slowly push up prices of imported goods and fuel."
+      },
+      "watch": "The RBI's announcement on Wednesday morning, and what it says about inflation and the rupee.",
+      "terms": [
+        "MPC",
+        "Repo rate",
+        "Basis point",
+        "Rate hike",
+        "Retail inflation",
+        "EMI",
+        "Priced in",
+        "Exchange rate",
+        "Rupee depreciation",
+        "FII",
+        "DII",
+        "Provisional",
+        "US Treasury yield"
+      ],
+      "explainers": {
+        "like12": "Imagine the RBI as the person who sets the price of borrowing money for the whole country. Right now, prices of things like food and fuel are going up faster than it likes. So tomorrow, it will probably make borrowing a little more expensive, to slow things down.\n\nAt the same time, some investors from other countries are taking their money out of India. To do that, they swap rupees for dollars. When lots of people want dollars, the dollar gets costlier and the rupee gets weaker.\n\nToday the rupee slipped a tiny bit. One dollar now costs about ₹96.43.",
+        "real_life": "Think of Priya and Karan, a couple in Bengaluru with a ₹40 lakh floating-rate home loan and a ₹3 lakh FD.\n\nIf the RBI raises the repo rate by 0.25 percentage points tomorrow and their bank passes it on fully, their loan rate would also rise by about 0.25 points. On a 20-year loan, that could mean a few hundred rupees more in EMI each month, though banks often take weeks to change rates.\n\nOn the other side, banks may raise FD rates, so their next FD could earn a little more.\n\nThe weaker rupee matters if they're planning a trip abroad: every dollar they buy costs a bit more than last week."
+      }
+    },
+    {
+      "id": "srit-india-ipo-listing",
+      "category": "IPOs",
+      "title": "SRIT India lists at a 13.85% premium on the NSE after its IPO was oversubscribed 125 times",
+      "tldr": "Shares of Bengaluru-based IT services firm SRIT India started trading at ₹148 on the NSE, above the IPO price of ₹130.",
+      "what_happened": "SRIT India's shares began trading on Tuesday. They listed at ₹148 on the NSE, 13.85% above the IPO price of ₹130, and at ₹139.80 on the BSE, a 7.54% premium. After listing, the shares traded around ₹155, about 19% above the issue price, according to 5paisa.\n\nThe ₹218.40 crore IPO was open from September 28 to 30. It was entirely a fresh issue of 1.68 crore new shares, with no shares sold by existing owners, and was oversubscribed 125.16 times.\n\nSRIT India provides software development, system integration and automation services to government and business clients in areas like healthcare, e-governance and telecom.",
+      "simple_explanation": "An IPO is when a company sells its shares to the public for the first time. People apply, and if more people want shares than are available, only some get them.\n\nSRIT India's IPO was very popular: people applied for 125 times more shares than were on offer. Those who did get shares paid ₹130 each.\n\nOn Tuesday the shares started trading on the stock exchanges, and the first price on the NSE was ₹148. So people who got shares in the IPO were showing a gain on day one. That gain is only on paper unless they sell.",
+      "analogy": "It's like a very popular concert where 125 people apply for every ticket. The few who get tickets at the normal price find that others are willing to pay more for them on the day of the show.",
+      "why": "Strong demand during the IPO usually signals that many investors expect the shares to be worth more than the issue price, and that often lifts the first trading price. This was a much better debut than Snapdeal parent AceVector's on Monday, which listed 11.5% below its IPO price.\n\nBecause the IPO was a fresh issue, all the money raised goes to SRIT India itself, rather than to existing owners.",
+      "implications": {
+        "you": "If you applied and got shares, you were showing a gain at the listing price. If you didn't, today's jump is not a reason to buy; listing-day prices can swing sharply in both directions.",
+        "markets": "Two IPO listings this week have gone in opposite directions, showing that heavy demand for one IPO doesn't mean every IPO will do well.",
+        "economy": "A successful IPO helps a smaller company raise money for growth, which can mean more projects and jobs.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "How SRIT India's shares trade in the coming days, after the first-day excitement fades.",
+      "terms": [
+        "IPO",
+        "Listing",
+        "Issue price",
+        "Listing gain",
+        "Oversubscribed",
+        "Fresh issue",
+        "IT services"
+      ],
+      "explainers": {
+        "like12": "Imagine a small company that builds computer systems for hospitals and government offices. It wants money to grow, so it offers small pieces of itself, called shares, to the public for ₹130 each.\n\nSo many people wanted these pieces that for every one available, about 125 people asked. Only a lucky few got them.\n\nOn Tuesday, the pieces started being bought and sold freely, and people were happy to pay ₹148 for one. So the lucky few who got them for ₹130 were ahead.\n\nBut prices can go up or down from here, so being ahead on day one doesn't guarantee anything.",
+        "real_life": "Think of Neha, a 30-year-old HR executive in Pune who applied for SRIT India's IPO through her bank's app with about ₹15,000.\n\nBecause the IPO was oversubscribed 125 times, she, like most small applicants, may not have got any shares. If she didn't, her money would have been unblocked in her account after allotment, and she lost nothing.\n\nIf she did get shares at ₹130, she was showing a gain of about 14% at the NSE listing price, but only on paper. Monday's AceVector listing, which opened below its IPO price, is a reminder that IPOs can go either way."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Quarterly business update",
+    "explanation": "Indian listed companies must publish full results every three months, usually a few weeks after the quarter ends. But many banks, retailers and carmakers don't wait. Within days of the quarter closing, they release a short, unaudited update with a few key numbers: sales, loans, deposits or vehicles sold.\n\nThese updates don't include profit, and the numbers can change slightly in the final results. Still, investors treat them as an early look at how the quarter went, and shares can move sharply on them, especially when the figures are well above or below what analysts expected.",
+    "example": "On Tuesday, Trent said its standalone revenue for July–September grew about 23% to ₹5,788 crore. Citi had expected about 18%. The surprise sent Trent's shares up 12.64% in a day, even though its full profit figures haven't been published yet.",
+    "takeaway": "Business updates are early hints, not final results. They move shares because they change what investors expect from the full report."
+  },
+  "quiz": [
+    {
+      "q": "Which of these helped Indian shares rise on Tuesday?",
+      "options": [
+        "The RBI cut interest rates",
+        "Oil fell below $100 a barrel and some companies reported strong early figures",
+        "Foreign investors bought record amounts of Indian shares",
+        "The government cut income tax"
+      ],
+      "answer": 1,
+      "why": "Brent crude slipped below $100 after the G7 agreed to release emergency stocks, and strong updates from Trent and banks such as Kotak Mahindra Bank lifted the mood."
+    },
+    {
+      "q": "Trent's shares rose 12.64% on Tuesday. What was the main reason?",
+      "options": [
+        "It announced a big profit for the full year",
+        "Its July–September revenue grew about 23%, faster than analysts expected",
+        "The government cut taxes on clothing",
+        "It was added to the Sensex"
+      ],
+      "answer": 1,
+      "why": "Trent's standalone revenue grew about 23% from a year earlier to ₹5,788 crore. Citi had expected about 18%."
+    },
+    {
+      "q": "What is a quarterly business update?",
+      "options": [
+        "A company's final audited annual report",
+        "A government report on the economy",
+        "Early, unaudited figures such as sales or loans, released soon after a quarter ends",
+        "A brokerage's advice to buy a share"
+      ],
+      "answer": 2,
+      "why": "Business updates give a quick early look at a quarter. They usually don't include profit, which comes with the full results a few weeks later."
+    },
+    {
+      "q": "Why did oil prices ease?",
+      "options": [
+        "India stopped buying oil",
+        "The G7 agreed to release 100 million barrels from emergency reserves, and Hormuz shipments recovered",
+        "OPEC doubled its production",
+        "Electric cars replaced most petrol cars"
+      ],
+      "answer": 1,
+      "why": "Adding supply from emergency stocks, plus more oil moving through the Strait of Hormuz, usually pushes prices down."
+    },
+    {
+      "q": "SRIT India's IPO price was ₹130 and it listed at ₹148 on the NSE. What does that mean for someone who got shares in the IPO?",
+      "options": [
+        "They were showing a gain at the listing price",
+        "They lost money",
+        "They must sell immediately",
+        "They will get a refund"
+      ],
+      "answer": 0,
+      "why": "The shares listed 13.85% above the IPO price, so allottees were showing a gain on paper. Prices can rise or fall from there."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "MPC",
+      "definition": "The Monetary Policy Committee: the six-member RBI panel that decides the repo rate.",
+      "more": "The MPC includes RBI officials and outside experts, and meets several times a year to decide interest rates, mainly to keep inflation near the government's target. Members vote, and the decision and its reasons are announced publicly. It's like a family meeting that decides the household budget after looking at rising grocery bills. News before a meeting is full of economists' predictions, and afterwards reports focus on the decision, the vote split and hints about the next move."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One hundredth of a percentage point. 25 basis points = 0.25%.",
+      "more": "Interest rates often change by small amounts, so finance people use basis points to be precise. 100 basis points make 1 percentage point. If the RBI raises the repo rate from 5.25% to 5.50%, that's a rise of 25 basis points, often written as '25 bps'. Saying 'a 0.25% rise' can confuse people, because it could also mean a quarter of a percent of 5.25. Think of basis points as the paise of interest rates: a small unit that adds up. On a large home loan, even 25 basis points can change your EMI noticeably."
+    },
+    {
+      "term": "Retail inflation",
+      "definition": "How fast the prices of everyday goods and services bought by households are rising, measured by the Consumer Price Index (CPI).",
+      "more": "Every month the government collects prices of hundreds of items, from vegetables and milk to rent, school fees and bus fares, and works out how much more they cost than a year earlier. That figure is retail inflation. The RBI aims to keep it around 4%, within a band of 2% to 6%. If retail inflation stays above the target, the RBI may raise interest rates to cool demand. When news says 'CPI inflation rose to 4.82% in August', it means a basket of household items cost 4.82% more than in August last year."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Rupee depreciation",
+      "definition": "When the rupee loses value against another currency, so you need more rupees to buy one dollar.",
+      "more": "If the rate moves from ₹95 to ₹96 per dollar, the rupee has depreciated, or weakened. This makes imports such as oil, electronics and foreign education costlier, but helps exporters like IT companies, whose dollar earnings are worth more rupees. Common causes are foreign investors pulling money out, high oil prices and a strong dollar. It's like the price of a foreign holiday going up while you were still saving for it. News reports often describe the move in paise, for example 'the rupee fell 37 paise'."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    },
+    {
+      "term": "Issue price",
+      "definition": "The price per share at which a company sold its shares to investors in its IPO.",
+      "more": "In most Indian IPOs, the company announces a price band, say ₹30 to ₹32, and investors bid within it. The final price, usually the top of the band, is the issue price. Everyone who gets shares pays that price. On listing day, the share's trading price is compared with the issue price to see whether IPO investors gained or lost. Think of it as the MRP printed on a new product at launch: once it hits the open market, what people are willing to pay can be higher or lower."
+    },
+    {
+      "term": "Priced in",
+      "definition": "When investors already expect an event and have adjusted share prices for it before it happens.",
+      "more": "Markets look ahead. If most people expect the RBI to raise rates, many will have sold or bought shares already, so prices reflect the expected hike before it's announced. When the news finally arrives, prices may barely move, because it's no longer a surprise. If the decision differs from expectations, prices can jump or fall sharply. It's like a train ticket price on a festival weekend: everyone knows demand will be high, so the price is already higher when you book. Analysts say 'priced in' to explain why big news sometimes causes little reaction."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that do technology work, such as writing software and running computer systems, for other businesses, often abroad.",
+      "more": "Indian IT services firms like TCS, Infosys, Wipro and HCLTech employ lakhs of people and earn most of their money from clients in the US and Europe. They build software, manage data centres and help companies move to the cloud. Think of them as highly skilled contractors hired for technology projects. Their earnings depend on how much overseas clients spend. The Nifty IT index tracks the biggest listed IT companies. News about them often focuses on 'deal wins', 'client spending' and 'guidance', meaning companies' own forecasts for growth."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "Short covering",
+      "definition": "When traders who bet on a fall buy shares back to close their bets, which can push prices up quickly.",
+      "more": "Some traders 'short' shares: they sell first, hoping to buy back later at a lower price and keep the difference. When prices stop falling or start rising, many rush to buy back at once to limit their losses. That rush of buying is called short covering, and it can make a rise sharper than the news alone would justify. It's like many people who sold their train tickets early all trying to buy them back when they hear the train is running after all. News reports often mention it after a market has fallen for a long time."
+    },
+    {
+      "term": "Oversold",
+      "definition": "A market or share that analysts think has fallen too far, too fast, and may be due for a bounce.",
+      "more": "After a long run of losses, analysts sometimes say a market is 'oversold'. They mean selling has gone further than the news justifies, often because fear spread quickly. It's like a sale where shoppers start thinking prices have dropped so much that things are now a bargain. Being oversold doesn't guarantee a recovery; prices can keep falling. The word mostly comes from technical analysts, who study past price patterns. In the news, you'll see it used to explain sudden bounces after long losing streaks."
+    },
+    {
+      "term": "Weekly expiry",
+      "definition": "The day each week when certain Nifty derivative contracts end, which can make trading busier and swings bigger.",
+      "more": "Derivatives are contracts whose value depends on something else, such as the Nifty 50. Some of these contracts run for just a week and end on a fixed weekday, which is currently Tuesday for Nifty contracts on the NSE. On that day traders close out or settle their positions, so trading volumes rise and prices can jump around more than usual. It's like the last day to return books to a library: there's always a rush at the counter. Most ordinary investors in mutual funds don't need to worry about it."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A count of how many shares rose versus how many fell, showing whether a move was broad or narrow.",
+      "more": "An index like the Nifty can rise because a few giant companies do well, even if most shares fall. Market breadth checks for that by counting gainers and losers across the whole exchange. If many more shares rose than fell, breadth is called 'positive' or 'strong', and the rise is seen as more widespread. Think of a class where the average marks went up: breadth tells you whether most students improved or just a few toppers. News reports quote it as 'advances' and 'declines'."
+    },
+    {
+      "term": "Quarterly business update",
+      "definition": "Early, unaudited figures some companies share right after a quarter ends, before their full results.",
+      "more": "Indian companies publish full results a few weeks after each quarter ends. But many banks, retailers and carmakers release a short update within days, covering things like sales, loans or deposits. These figures are provisional and don't include profit. Investors use them as an early hint of how the full results will look. It's like a student telling parents their marks in two subjects before the full report card arrives. In early October, January, April and July, these updates often move individual shares sharply."
+    },
+    {
+      "term": "Standalone revenue",
+      "definition": "Money a company earned from its own business, not counting its subsidiaries or joint ventures.",
+      "more": "Large companies often own other companies, called subsidiaries, or run businesses jointly with partners. 'Standalone' figures cover only the parent company itself, while 'consolidated' figures add in everything it controls. Revenue is the money coming in from sales, before costs are subtracted. It's like a family business counting only the main shop's sales, not those of the branch run by a cousin. News reports usually say which one they mean, because the two numbers can be quite different."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "Comparing a figure with the same period one year earlier, such as July–September this year versus last year.",
+      "more": "Many businesses are seasonal: shops sell more during festivals, and air-conditioner makers sell more in summer. So comparing one quarter with the quarter just before it can mislead. Comparing it with the same quarter a year earlier removes most of that seasonal effect. It's like comparing this Diwali's sweet sales with last Diwali's, rather than with a quiet month. News reports often write it as 'YoY'. A 23% year-on-year rise means the figure is 23% higher than in the same period last year."
+    },
+    {
+      "term": "Advances",
+      "definition": "The money a bank has lent out as loans to people and businesses.",
+      "more": "For a bank, loans are called advances. They include home loans, car loans, credit card dues, business loans and more. Banks earn most of their income from the interest charged on advances, so faster growth in advances usually means more income later, as long as borrowers repay. It's like a moneylender in a village: the more money lent out safely, the more interest comes back. When banks release quarterly updates, the growth in advances is one of the first numbers analysts look at."
+    },
+    {
+      "term": "Deposits",
+      "definition": "Money that customers keep with a bank, in savings accounts, current accounts and fixed deposits.",
+      "more": "Deposits are the main source of money a bank lends out. When you keep money in a savings account or an FD, you're effectively lending it to the bank, which pays you interest and lends it to others at a higher rate. Banks need deposits to grow roughly as fast as loans, or they have to pay more to raise money elsewhere. It's like a water tank: lending is the tap, deposits are the inflow. In bank updates, deposit growth is reported alongside loan growth."
+    },
+    {
+      "term": "G7",
+      "definition": "A group of seven large, rich democracies: the US, Japan, Germany, the UK, France, Italy and Canada.",
+      "more": "The Group of Seven, or G7, is a club of major economies whose leaders and ministers meet regularly to coordinate on issues such as trade, energy and security. The European Union also takes part. India isn't a member, though it is often invited to G7 summits as a guest. When the G7 acts together, as with releasing oil from emergency stocks, the combined effect on global markets can be large. It's like the biggest buyers in a mandi agreeing to bring their stored stock to market at the same time."
+    },
+    {
+      "term": "Strategic petroleum reserve",
+      "definition": "Emergency stocks of crude oil and fuel that governments keep for supply shocks.",
+      "more": "Many countries store large amounts of oil in tanks or underground caverns, to use if supplies are cut off by war or disaster. Releasing some of it adds supply to the market and can push prices down, at least for a while. India keeps its own strategic reserves in underground caverns in Karnataka and Andhra Pradesh. It's like a family's store of rice and dal kept for emergencies: useful in a crisis, but it runs out if the shortage lasts too long. The International Energy Agency often coordinates joint releases."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route out of the Persian Gulf through which a large share of the world's oil is shipped.",
+      "more": "The Strait of Hormuz lies between Iran and Oman. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait, Qatar and Iran pass through it, so any disruption there quickly pushes up global oil prices. India buys much of its crude from Gulf countries, so news from Hormuz matters directly for Indian fuel prices and the rupee. Think of it as a single narrow gate out of a huge oil market: if the gate is blocked, supply everywhere gets tighter."
+    },
+    {
+      "term": "Listing gain",
+      "definition": "The profit IPO investors see when a newly listed share starts trading above its issue price.",
+      "more": "When a company's shares start trading after an IPO, the first price can be higher or lower than the price IPO investors paid. If it's higher, the difference is called a listing gain. It's only a gain on paper unless the investor sells. Listing gains attract many small investors to IPOs, but they're not guaranteed, and some shares list below the issue price. It's like buying a concert ticket at face value and finding it's worth more on the day of the show, or less."
+    },
+    {
+      "term": "Oversubscribed",
+      "definition": "When investors apply for more shares in an IPO than are on offer.",
+      "more": "In an IPO, a company offers a fixed number of shares. If investors apply for, say, 10 times that number, the issue is 'oversubscribed 10 times'. Not everyone gets what they applied for: shares are shared out, often by lottery for small investors. High oversubscription shows strong demand, and it often leads to a higher first-day price, but not always. It's like 125 people applying for every seat on a popular train: most won't get a ticket."
+    },
+    {
+      "term": "Fresh issue",
+      "definition": "New shares a company creates and sells in an IPO, with the money going to the company itself.",
+      "more": "An IPO can have two parts. In a fresh issue, the company creates new shares and keeps the money raised, usually to repay debt or fund growth. In an offer for sale, existing owners sell some of their shares and keep the money themselves. A 100% fresh issue means all the money goes into the business. It's like a shop owner taking in a new partner who puts cash into the shop, rather than the owner selling part of the shop and pocketing the money."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex rises 685 pts, Nifty ends at 22,776 ahead of RBI MPC meet outcome",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-6-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-srit-india-ipo-listing-126100600087_1.html"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell 6 October 2026, Sensex, Nifty rise as markets extend recovery",
+      "url": "https://www.kotakneo.com/news/market-news/closing-bell-6-october-2026-sensex-nifty-rise-as-markets-extend-recovery/"
+    },
+    {
+      "title": "BusinessToday: Sensex, Nifty close higher ahead of RBI policy outcome; capital goods, banks, pharma stocks lead gains",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sensex-nifty-close-higher-ahead-of-rbi-policy-outcome-capital-goods-banks-pharma-stocks-lead-gains-559891-2026-10-06"
+    },
+    {
+      "title": "HDFC Sky: Sensex Jumps 685 Points; Nifty Closes Above 22,700",
+      "url": "https://hdfcsky.com/news/market-close-report-today-october-6-2026-nifty-sensex-roar-ahead-of-rbi"
+    },
+    {
+      "title": "Upstox: SENSEX, NIFTY50 rise for second straight session as crude oil drops below $100 per barrel",
+      "url": "https://upstox.com/news/market-news/stocks/sensex-nifty-50-rise-for-second-straight-session-as-crude-oil-drops-below-100-per-barrel/article-201376/"
+    },
+    {
+      "title": "Equitymaster: Sensex Today Rallies 685 Points, Nifty Above 22,750",
+      "url": "https://www.equitymaster.com/indian-share-markets/10/06/2026/Sensex-Today-Rallies-685-Points--Nifty-Above-22750--3-Reasons-Why-Indian-Share-Markets-Are-Rising"
+    },
+    {
+      "title": "Angel One: Top Gainers and Losers on October 6, 2026",
+      "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-october-6-2026-trent-and-bse-gain-while-coal-india-drops-over-3"
+    },
+    {
+      "title": "Upstox: Trent shares jump 13% after Q2 revenue beats estimates",
+      "url": "https://upstox.com/news/market-news/stocks/trent-shares-in-focus-after-q2-revenue-jumps-23-yo-y-zudio-crosses-1-000-store-milestone/article-201309/"
+    },
+    {
+      "title": "BusinessToday: Trent shares post Q2 business update, HSBC sees upside",
+      "url": "https://www.businesstoday.in/markets/trending-stocks/story/trent-shares-hit-upper-circuit-post-q2-business-update-hsbc-sees-upside-559714-2026-10-06"
+    },
+    {
+      "title": "TradingView: Kotak, Axis, IndusInd Bank shares, Q2 business updates",
+      "url": "https://www.tradingview.com/news/moodys:55558c4bf483b:0-kotak-axis-indusind-bank-shares-q2-business-updates-trigger-sharp-moves-how-stocks-reacted-key-data-details-to-know/"
+    },
+    {
+      "title": "Washington Post: G-7 agrees to release oil reserves to reduce fuel prices",
+      "url": "https://www.washingtonpost.com/business/2026/10/02/g-7-agrees-release-oil-reserves-counter-fuel-prices-after-us-pressure/"
+    },
+    {
+      "title": "ABC News: G7 countries to release 100 million barrels of diesel and oil",
+      "url": "https://www.abc.net.au/news/2026-10-03/g7-to-release-100m-barrels-oil-in-bid-to-curb-soaring-prices/107224282"
+    },
+    {
+      "title": "OilPrice.com: Oil prices fall as reports say Hormuz crude flows top pre-war levels",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Hormuz-Crude-Flows-Top-Pre-War-Levels.html"
+    },
+    {
+      "title": "DT Next (PTI): Rupee falls 8 paise to close at 96.43 against US dollar",
+      "url": "https://www.dtnext.in/news/business/rupee-falls-8-paise-to-close-at-9643-against-us-dollar"
+    },
+    {
+      "title": "5paisa: FII DII data",
+      "url": "https://www.5paisa.com/share-market-today/fii-dii-data"
+    },
+    {
+      "title": "Business Standard: RBI MPC meet from Oct 5-7: Will RBI hike the repo rate this time?",
+      "url": "https://www.business-standard.com/finance/news/rbi-mpc-meeting-october-2026-monetary-policy-repo-rate-hike-retail-inflation-126100200188_1.html"
+    },
+    {
+      "title": "TheStreet: Stock Market Today (Oct. 5, 2026)",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026"
+    },
+    {
+      "title": "5paisa: SRIT India IPO shares list at 13.85% premium at ₹148 on NSE",
+      "url": "https://www.5paisa.com/blog/srit-india-ipo-listing"
+    },
+    {
+      "title": "Groww: SRIT India IPO to open on September 28, 2026",
+      "url": "https://groww.in/blog/srit-india-ipo-to-open-on-september-28-2026"
+    }
+  ]
+}

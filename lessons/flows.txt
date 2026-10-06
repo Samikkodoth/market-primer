@@ -1,0 +1,39 @@
+## The big idea
+
+Share prices move because people buy and sell. When more money wants to buy a share than sell it, the price rises. So it helps to know **who** is doing the buying and selling.
+
+In India, the news usually splits market players into a few big groups:
+
+- **FIIs** (foreign institutional investors), also called **FPIs**: large investors from abroad, such as global pension funds and investment funds.
+- **DIIs** (domestic institutional investors): large Indian investors, such as mutual funds, insurance companies like LIC, banks and pension funds.
+- **Retail investors**: ordinary people buying shares directly through a broker's app.
+
+Most people who invest through **SIPs** in mutual funds are part of the DII story without realising it. Your monthly SIP money is pooled by the fund and used to buy shares.
+
+## An everyday analogy
+
+Think of a busy vegetable mandi. A few wholesale buyers come with trucks and buy in huge quantities, while hundreds of households buy a kilo or two each. When the wholesale buyers suddenly stop buying, prices drop, even if households keep shopping.
+
+FIIs and DIIs are the trucks. Retail investors are the households. Prices depend a lot on what the trucks do, but when millions of households act together, through SIPs, for example, they become a truck too.
+
+## A real Indian example
+
+In the past, Indian markets often fell sharply whenever foreign investors pulled money out. In recent years, SIP money flowing into mutual funds every month has grown large. So on many days when FIIs sell thousands of crores of shares, DIIs buy a similar amount, cushioning the fall.
+
+FII selling also affects the rupee. When foreign investors sell Indian shares, they usually convert their rupees into dollars to take money home, which can weaken the rupee.
+
+## Common misunderstandings
+
+- **"If FIIs are selling, I should sell too."** Big investors sell for many reasons, such as higher interest rates in the US, that may have little to do with Indian companies. Following them blindly isn't a plan.
+- **"DIIs buying means prices can't fall."** Domestic buying can soften a fall, but it can't always stop one.
+- **"One day's flow data tells the whole story."** Daily figures swing a lot. Trends over weeks and months matter more.
+
+## How it shows up in the news
+
+Every evening, the NSE publishes **provisional** figures, such as "FIIs sold ₹4,699 crore and DIIs bought ₹5,182 crore". Provisional means early and unaudited; final figures can differ slightly. Reports also give monthly totals and link FII selling to things like US bond yields, a strong dollar or oil prices.
+
+## Three things to remember
+
+1. FIIs are big foreign investors; DIIs are big Indian ones, including the mutual funds that receive your SIP money.
+2. When FIIs sell and DIIs buy similar amounts, the market often falls less than it otherwise would.
+3. Flow data explains price moves, but it isn't a signal to buy or sell.
