@@ -1,0 +1,590 @@
+{
+  "date": "2026-10-07",
+  "session_label": "Wednesday 7 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The RBI raised its main interest rate for the first time since 2023, to 5.50%, and said cuts are off the table for now; the Sensex fell 429 points as loan-linked shares slipped and the rupee neared its record low.",
+  "mood": "Cautious",
+  "mood_note": "The rate hike was expected, but the RBI's firm tone, oil back above $100 and a weak rupee took the shine off two days of gains. The fall was moderate, and smaller companies held up.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "The RBI did what most economists expected: it raised the repo rate by 0.25 percentage points to 5.50%.",
+    "The two-day rally ended: the Nifty lost 173 points today after gaining 220 points on Tuesday.",
+    "Brent crude, which slipped below $100 on Tuesday, rose back to about $102. Foreign investors' selling eased to ₹2,961.30 crore on Tuesday from ₹4,699.10 crore on Monday."
+  ],
+  "one_minute": [
+    "The RBI raised the repo rate from 5.25% to 5.50%, its first hike since February 2023, and changed its stance to 'calibrated tightening': next comes a hike or a pause, not a cut.",
+    "The Sensex fell 429.11 points (0.59%) to 72,638.70 and the Nifty 50 fell 173.05 points (0.76%) to 22,603.05. Metal, property and auto shares fell most.",
+    "Floating-rate loan EMIs may rise: on a ₹50 lakh, 25-year home loan, Business Standard estimates about ₹817 more a month. New FDs may pay a little more.",
+    "Titan fell 4.07% after its jewellery sales grew about 21%, less than some analysts expected.",
+    "The rupee fell to about 96.84 per dollar, close to its record low, as Brent crude rose to about $102."
+  ],
+  "big_picture": "The RBI made borrowing a little more expensive today. It raised its main interest rate, the repo rate, from 5.25% to 5.50%, and said it won't cut rates in the near term.\n\nWhy now? Prices have been rising faster than the RBI's 4% target for three months, and it expects inflation to reach about 6% in October–December. Higher oil prices, linked to the conflict in West Asia, and a weak rupee add to the pressure. The economy is growing strongly, at 7.8% in April–June, which gave the RBI room to act.\n\nFor most people, the effect comes slowly. Floating-rate loan EMIs may rise in the coming weeks, and new FDs may pay a little more. The share market slipped less than 1%, led by companies that depend on loans, such as carmakers and property developers.",
+  "chain": [
+    {
+      "label": "Prices rise faster than the target",
+      "note": "Retail inflation was 4.82% in August, above the RBI's 4% target for a third month, and oil-related pressures are building."
+    },
+    {
+      "label": "RBI raises the repo rate",
+      "note": "All six MPC members voted to raise it by 25 basis points to 5.50%, the first hike since February 2023."
+    },
+    {
+      "label": "No cuts in sight",
+      "note": "The stance changed to 'calibrated tightening': the next move can only be a hike or a pause."
+    },
+    {
+      "label": "Loan-linked shares slip",
+      "note": "Realty fell 1.85% and Auto 1.44%. The Nifty lost 0.76% to 22,603.05, ending a two-day rally."
+    },
+    {
+      "label": "Borrowers and savers feel it next",
+      "note": "Floating-rate EMIs may rise over the coming weeks, and new FDs may offer slightly higher rates."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "72,638.70",
+      "change": "-429.11 (-0.59%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It ended a two-day rise."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,603.05",
+      "change": "-173.05 (-0.76%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "-0.63%",
+      "direction": "down",
+      "what_it_is": "This tracks medium-sized companies. They fell slightly less than the biggest companies today."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+0.30%",
+      "direction": "up",
+      "what_it_is": "This tracks smaller listed companies. They rose a little even as the big indices fell."
+    },
+    {
+      "name": "Repo rate",
+      "value": "5.50%",
+      "change": "+0.25 percentage points",
+      "direction": "up",
+      "what_it_is": "The RBI's main interest rate. Many home loans are linked to it, so it affects EMIs."
+    },
+    {
+      "name": "India VIX",
+      "value": "13.88",
+      "change": "+1.98%",
+      "direction": "up",
+      "what_it_is": "A measure of how much traders expect the market to swing. It rose a little but remains fairly calm."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "about 96.84",
+      "change": "near its record low of 96.96",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "about $102",
+      "change": "+1.41%",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "Gold (MCX, December futures)",
+      "value": "₹1,49,351 per 10 g",
+      "change": "-0.51%",
+      "direction": "down",
+      "what_it_is": "The price of gold for delivery in December on India's commodity exchange. It shapes jewellery prices."
+    },
+    {
+      "name": "S&P 500 (US, Tuesday)",
+      "value": "7,818.93",
+      "change": "+0.58%, a record close",
+      "direction": "up",
+      "what_it_is": "A main index of 500 large US companies. US markets rose as bond yields eased and oil slipped."
+    },
+    {
+      "name": "US 10-year bond yield",
+      "value": "5.281%",
+      "change": "-3 basis points (Tuesday)",
+      "direction": "down",
+      "what_it_is": "The interest the US government pays to borrow for 10 years. High US yields tend to pull global money away from markets like India."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-fall-after-rbi-hike",
+      "category": "Stock market",
+      "title": "Sensex falls 429 points and Nifty ends at 22,603 after the RBI raises rates",
+      "tldr": "Indian shares ended a two-day rise after the RBI raised its main interest rate and signalled that cuts are off the table for now. Metal, property and auto shares fell most.",
+      "what_happened": "The Sensex fell 429.11 points, or 0.59%, to close at 72,638.70. The Nifty 50 fell 173.05 points, or 0.76%, to 22,603.05. During the day the Sensex was down as much as 599.09 points.\n\nMedium-sized companies also fell: the Nifty Midcap 100 lost 0.63%. Smaller companies held up, with the Nifty Smallcap 100 up 0.30%. Across the market, 2,251 shares fell and 1,928 rose, according to HDFC Sky.\n\nMetal shares fell most, with the Nifty Metal index down 2.31%. Realty fell 1.85% and Auto 1.44%. PSU bank and media shares rose. Titan was the biggest loser in the Nifty 50, down 4.07%, followed by Adani Enterprises and Hindalco. Kotak Mahindra Bank rose 1.88% and Bharti Airtel 1.51%.\n\nIndia VIX, a measure of expected swings, rose 1.98% to 13.88.",
+      "simple_explanation": "After two good days, Indian shares slipped on Wednesday.\n\nThe main reason was the RBI. It raised its main interest rate, which makes borrowing a little costlier for everyone. It also said it isn't planning any cuts soon.\n\nShares of companies that depend on loans, like carmakers and property developers, fell more, because costlier loans can mean fewer buyers. Some investors also sold to lock in gains after the two-day rise.\n\nThe fall was moderate, less than 1%. Smaller companies' shares actually rose a little.",
+      "analogy": "Think of a market fair where the organiser announces that the entry fee for borrowing stalls will go up. Shoppers don't leave, but some stall owners selling big-ticket items like cars and furniture get worried, and the mood turns a bit quieter.",
+      "why": "The RBI's rate hike, its first since February 2023, was the main driver. Vinod Nair of Geojit Investments said the shift in stance to calibrated tightening signals a turn in the rate cycle, meaning rates are now more likely to go up than down.\n\nVikram Kasat of PL Capital said some of the fall was profit-taking after the sharp rebound of the previous two sessions.\n\nHigher oil prices, with Brent back around $102 a barrel, and continued selling by foreign investors also weighed on the mood. Most Asian markets fell too.",
+      "implications": {
+        "you": "A Nifty 50 index fund fell about 0.76% today, roughly ₹760 on every ₹1 lakh. That is a normal one-day move. Your SIP continues as usual. The bigger change for your money is the rate hike itself, covered in the next stories.",
+        "markets": "The rate hike was widely expected, but the RBI's message that cuts are off the table for now weighed on rate-sensitive shares such as autos and property.",
+        "economy": "One day's market move says little about the economy. The RBI itself raised its growth forecast today, which suggests it sees the economy as strong.",
+        "prices": "No direct effect on everyday prices from today's market fall."
+      },
+      "watch": "Whether foreign investors keep selling, and full July–September results from companies over the coming weeks.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "India VIX",
+        "Rate-sensitive sectors",
+        "Profit booking",
+        "Repo rate",
+        "Calibrated tightening",
+        "Brent crude",
+        "FII"
+      ],
+      "explainers": {
+        "like12": "Think of the share market as a big mood meter for companies. It went up on Monday and Tuesday. On Wednesday it dipped a little.\n\nThe reason was the RBI, the country's money manager. It decided that borrowing money should cost a bit more, to stop prices of everyday things rising too fast. It also hinted it won't make borrowing cheaper any time soon.\n\nCompanies that sell things people usually buy with loans, like cars and flats, were hit most, because some buyers may wait. Some investors also cashed in after two good days. The dip was small, though, less than 1 in every 100 rupees.",
+        "real_life": "Think of Arjun, a 29-year-old software tester in Pune, who puts ₹5,000 a month into a Nifty 50 index fund through an SIP. His fund is worth ₹1.5 lakh.\n\nToday it fell about 0.76%, roughly ₹1,140 on paper. Over the last two days it had gone up by more than that, so he is roughly back where he was on Monday evening.\n\nHe doesn't need to do anything about one day's move. His SIP buys units on the same date every month whatever happened today. What may matter more to Arjun is the RBI's decision itself: if he has a floating-rate loan, his EMI could rise in the coming weeks, and if he is planning a new FD, the rates on offer may improve."
+      }
+    },
+    {
+      "id": "rbi-hikes-repo-rate-to-5-50",
+      "category": "RBI and your money",
+      "title": "RBI raises the repo rate by 0.25 percentage points to 5.50%, its first hike since February 2023",
+      "tldr": "All six members of the RBI's rate-setting panel voted to raise the repo rate to 5.50%. The RBI changed its stance to 'calibrated tightening', meaning the next move will be a hike or a pause, not a cut.",
+      "what_happened": "The RBI's Monetary Policy Committee raised the repo rate by 25 basis points, from 5.25% to 5.50%. All six members voted for the hike. It is the RBI's first rate increase since February 2023.\n\nThe committee also changed its stance from 'neutral' to 'calibrated tightening'. Governor Sanjay Malhotra said the next policy action can only be a hike or a pause, and that rate cuts are off the table in the near term.\n\nThe RBI raised its forecast for retail inflation in 2026–27 to 5.2%, from 5%. It expects inflation of 6% in October–December and 5.7% in January–March. It also raised its growth forecast for 2026–27 to 7.1%, after the economy grew 7.8% in April–June.",
+      "simple_explanation": "The RBI is India's central bank. One of its main jobs is to stop prices rising too fast.\n\nPrices have been rising faster than the RBI wants for three months in a row. So it has made borrowing a little more expensive. When loans cost more, people and businesses borrow and spend a little less, which can slow price rises.\n\nThe RBI also said it is in no hurry to make loans cheaper again. Its next step will be either another increase or no change.\n\nThe RBI could do this partly because the economy is growing strongly, so a small rise in rates is less likely to hurt jobs much.",
+      "analogy": "Imagine a pressure cooker that is getting too hot. The RBI is turning the flame down a notch. It isn't switching the stove off, and it says it may turn the flame down again if the pressure keeps building, but it won't turn it up for now.",
+      "why": "Retail inflation was 4.82% in August, above the RBI's 4% target for three months in a row, according to HDFC Sky. The Governor pointed to the renewed conflict in West Asia in September, volatile oil prices, tighter policy by central banks around the world, and the risk that higher food and fuel prices spread to other goods.\n\nStrong growth gave the RBI room to act. It raised its growth forecast by 0.4 percentage points to 7.1%.\n\nOn the rupee, the Governor said that by several measures, including the REER, the rupee is not overvalued and may even be undervalued.",
+      "implications": {
+        "you": "If you have a floating-rate home, car or personal loan, your EMI or loan tenure could rise in the coming weeks. New FDs may start offering slightly higher rates. Existing FDs keep their rate until they mature.",
+        "markets": "The hike itself was expected. The bigger message is that cuts are off the table for now, which matters for shares of banks, carmakers and property developers.",
+        "economy": "Higher rates aim to cool inflation, but they can also slow borrowing and spending a little. The RBI still expects growth of 7.1% this year.",
+        "prices": "A rate hike doesn't lower prices quickly. The RBI expects inflation to rise to about 6% in October–December before easing to 5.7% in January–March."
+      },
+      "watch": "September's retail inflation figure, due later this month, and how quickly banks raise their loan and deposit rates.",
+      "terms": [
+        "MPC",
+        "Repo rate",
+        "Basis point",
+        "Rate hike",
+        "Policy stance",
+        "Calibrated tightening",
+        "Retail inflation",
+        "GDP",
+        "REER",
+        "EMI",
+        "Fixed deposit"
+      ],
+      "explainers": {
+        "like12": "Imagine the RBI as the person who sets the price of borrowing money for the whole country. Lately, prices of everyday things like food and fuel have been going up faster than it wants.\n\nSo on Wednesday it made borrowing a little more expensive. When borrowing costs more, people buy a bit less on loans, and shops can't raise prices as easily. That helps slow down price rises.\n\nIt also said it won't make borrowing cheaper again soon. It might even make it costlier once more if prices keep jumping. It felt it could do this because the country's economy is growing well right now.",
+        "real_life": "Think of Kavita, a 38-year-old nurse in Kochi. She has a floating-rate home loan and ₹3 lakh in FDs.\n\nHer bank's loan rate is linked to the repo rate, so at the next reset it will probably go up by about 0.25 percentage points. The bank may either raise her EMI a little or add a few months to her loan. She can ask which one it will do.\n\nHer existing FDs keep the rates she booked. But when one matures, she may be offered a slightly higher rate on renewal, if her bank passes on the hike.\n\nThe RBI also expects prices to keep rising faster than usual for a few months, so her household budget may feel a little tighter."
+      }
+    },
+    {
+      "id": "what-the-hike-means-for-emis-and-fds",
+      "category": "Personal finance",
+      "title": "What the hike means for you: a ₹50 lakh home loan EMI could rise by about ₹817 a month",
+      "tldr": "Borrowers with floating-rate loans may soon pay more, through a higher EMI or a longer loan. Savers could get slightly better rates on new FDs. Existing FDs don't change.",
+      "what_happened": "Business Standard worked out what a 25 basis point hike could mean for a typical borrower. On a ₹50 lakh home loan at 7.5% for 25 years, the EMI of about ₹36,950 would go up by roughly ₹817 a month. Over the full loan, that adds about ₹2.45 lakh in interest.\n\nFor savers, a ₹10 lakh FD booked after the hike could earn about ₹2,500 more interest a year, before tax, if the bank passes on the full increase.\n\nBetween February 2025 and September 2026, the RBI cut the repo rate by a total of 125 basis points. Today's hike takes back only a fifth of that, so most of the earlier relief on EMIs remains.",
+      "simple_explanation": "When the RBI raises its rate, banks usually raise the interest they charge on loans, and sometimes the interest they pay on deposits.\n\nIf your loan has a floating rate, your bank will adjust it, usually at the next reset date. It can either raise your monthly payment, or keep the payment the same and make you pay for more months.\n\nIf you have an FD, nothing changes on it. Your rate is locked in. Only new FDs, or ones you renew, may get a slightly better rate.\n\nBanks don't always pass on changes fully or quickly, so the actual effect can be smaller or slower.",
+      "analogy": "It's like the price of petrol going up by a small amount. If you drive every day, you'll notice it over months. But someone who only rides a bicycle, or has a fixed-price auto pass, is barely affected.",
+      "why": "Many floating-rate home loans in India are directly linked to the repo rate, so a change passes through at the next reset. Banks also compete for deposits, so when their own borrowing costs rise, they may offer more on new FDs.\n\nThe RBI's message that cuts are off the table for now means borrowers should not expect EMIs to fall again in the near term.",
+      "implications": {
+        "you": "Check your loan statement over the next month or two. If the bank has extended your loan tenure, you'll pay more interest in total even though your EMI looks the same. If you plan to open an FD, rates may tick up.",
+        "markets": "Higher deposit rates make FDs slightly more attractive compared with other options. Banks' profits depend on how fast they raise loan rates compared with deposit rates.",
+        "economy": "Slightly higher EMIs leave households with a little less to spend each month, which is part of how the RBI hopes to cool inflation.",
+        "prices": "No direct effect on shop prices. The hike works slowly, by cooling borrowing and spending over many months."
+      },
+      "watch": "Announcements from big banks such as SBI, HDFC Bank and ICICI Bank about new loan and FD rates.",
+      "terms": [
+        "Repo rate",
+        "Basis point",
+        "EMI",
+        "Floating rate",
+        "Loan tenure",
+        "Fixed deposit"
+      ],
+      "explainers": {
+        "like12": "Imagine borrowing money from a bank to buy a house. Every month you pay back a fixed amount, called an EMI, which includes a little extra as the bank's fee for lending.\n\nWhen the RBI raises its rate, that fee usually goes up a bit. So people with house loans may have to pay slightly more each month, or keep paying for a few extra months.\n\nOn the other side, people who keep money in the bank for a fixed time might get a little more interest on new deposits. Money already locked in stays at the old rate, like a deal you already signed.",
+        "real_life": "Think of Rohit and Sneha, a couple in Bengaluru with a ₹50 lakh home loan at 7.5% for 25 years. Their EMI is about ₹36,950.\n\nAccording to Business Standard's example, a 25 basis point rise could add about ₹817 a month. That's roughly the cost of a family dinner out. Over the whole loan, it adds about ₹2.45 lakh in interest.\n\nTheir bank might instead keep the EMI the same and add months to the loan. They can check their statement after the next reset.\n\nMeanwhile, Sneha's mother has ₹10 lakh in FDs. Her current deposits don't change, but if she renews one after banks raise rates, she could earn a bit more, about ₹2,500 a year before tax if the full hike is passed on."
+      }
+    },
+    {
+      "id": "titan-falls-after-q2-update",
+      "category": "Companies",
+      "title": "Titan falls 4% after its July–September jewellery sales grew less than some analysts expected",
+      "tldr": "Titan, which owns Tanishq, said its domestic jewellery business grew about 21%. That was below several analysts' expectations, and its shares fell 4.07%, the most in the Nifty 50.",
+      "what_happened": "Titan Company released a quarterly business update for July–September. Its domestic jewellery business grew about 21% from a year earlier. Watches and wearables grew 30%, EyeCare 28% and CaratLane 32%, according to Upstox.\n\nThe number of jewellery buyers grew only in the mid-single digits, while the average amount each buyer spent grew at a double-digit rate.\n\nTitan's shares fell 4.07%, the biggest fall in the Nifty 50, according to HDFC Sky.",
+      "simple_explanation": "Titan owns Tanishq, one of India's biggest jewellery brands. It shared early sales figures for July to September.\n\nSales grew by about a fifth, which is good. But investors had hoped for more, so the share price fell.\n\nA closer look shows that the number of people buying jewellery didn't grow much. Sales grew mainly because each person spent more, partly because gold has become very expensive.\n\nAnalysts said some of the slowdown was because festival shopping moved later this year, into October–December.",
+      "analogy": "Think of a student who usually scores 90 and gets 85. 85 is still a good mark, but the parents expected more, so they're a little disappointed. Share prices react to how results compare with expectations, not just whether they're good.",
+      "why": "Analysts at several brokerages, including Citi, CLSA, Morgan Stanley, JPMorgan and Nomura, linked the softer jewellery growth mainly to festival demand shifting into October–December, high gold prices and fewer purchases of gold coins for investment, rather than a broad weakening in demand, according to Upstox. Citi estimated that, leaving out coins, underlying jewellery growth was 24–25%.",
+      "implications": {
+        "you": "If you own a Nifty 50 index fund, Titan is one of many companies in it, so its fall had only a small effect on your fund. For shoppers, high gold prices mean jewellery costs more per gram than a year ago.",
+        "markets": "Investors will watch whether jewellery sales pick up in the festival season, as analysts expect. Full results, including profit, come later.",
+        "economy": "Fewer buyers but bigger bills suggests high gold prices are making some families buy less or wait.",
+        "prices": "No change in gold prices because of this news. MCX gold futures fell 0.51% today."
+      },
+      "watch": "Titan's full July–September results, and jewellery demand during Navratri and Diwali.",
+      "terms": [
+        "Quarterly business update",
+        "Year-on-year",
+        "Ticket size",
+        "Brokerage",
+        "Nifty 50"
+      ],
+      "explainers": {
+        "like12": "Titan is the company behind Tanishq jewellery shops, and Titan watches and Titan Eye+ glasses too. Every three months, it tells everyone roughly how much it sold.\n\nThis time, its jewellery sales went up by about a fifth compared with last year. That sounds great! But people who follow the company had expected even more, so they were a bit disappointed and the share price dropped.\n\nOne reason: gold is very expensive right now, so fewer new people are buying, even though each buyer spends more. Another: festivals came a little later this year, so some shopping moved into the next three months.",
+        "real_life": "Think of Priya, a 31-year-old bank clerk in Jaipur, who has been saving for gold jewellery for her sister's wedding next year.\n\nTitan's update shows what she has noticed herself: jewellery bills are bigger because gold prices are high, so many families are buying less or waiting.\n\nPriya doesn't own Titan shares directly, but her Nifty 50 index fund holds a small piece of it, along with 49 other companies. So Titan's 4% fall moved her fund by only a tiny amount.\n\nWhat matters more for her is the price of gold. It eased slightly today, but one day's change tells her little about where it will be by the wedding."
+      }
+    },
+    {
+      "id": "rupee-near-record-low-oil-above-100",
+      "category": "Rupee and oil",
+      "title": "Rupee slides close to its record low and oil climbs back above $100",
+      "tldr": "The rupee fell to about 96.84 per dollar, near its record low of 96.96 from May. Brent crude rose to about $102 a barrel, and foreign investors sold ₹2,961 crore of shares on Tuesday.",
+      "what_happened": "The rupee fell to about 96.84 per dollar on Wednesday, within about 12 paise of its record low of 96.96, reached in May, according to BusinessToday. The Tribune reported it at a five-month low.\n\nBrent crude rose 1.41% to about $102 a barrel, according to PTI, back above $100 after slipping below it on Tuesday.\n\nProvisional exchange data showed foreign institutional investors (FIIs) sold ₹2,961.30 crore of Indian shares on Tuesday, less than the ₹4,699 crore they sold on Monday. Domestic institutional investors (DIIs) bought ₹5,088.92 crore.",
+      "simple_explanation": "The rupee got weaker today. That means one US dollar now costs more rupees, close to the most it has ever cost.\n\nTwo things are pushing it down. Oil got more expensive again, and India buys most of its oil from abroad, paying in dollars. And foreign investors keep selling Indian shares and taking dollars home.\n\nIndian mutual funds and insurers are still buying more than foreign investors are selling. That has helped stop the share market from falling further.\n\nThe RBI says the rupee may actually be cheaper than it should be, based on its own measures.",
+      "analogy": "Think of the rupee as a product in a mandi. When many people want to sell rupees to buy dollars, to pay for oil or to take money abroad, the rupee's price falls, just like tomatoes get cheaper when too many sellers arrive.",
+      "why": "Worries about attacks on oil tankers near the Strait of Hormuz kept supply fears alive and pushed oil up, according to Trading Economics. Higher oil means India needs more dollars to pay its import bill, which weakens the rupee.\n\nForeign investors have been selling Indian shares for days. Analysts quoted by BusinessToday said the RBI's hike could give the rupee some support over time, because higher Indian rates make it more attractive to hold rupees. Radhika Rao of DBS Bank said the policy shift was modestly supportive for the rupee.",
+      "implications": {
+        "you": "A weaker rupee makes foreign travel, overseas education fees and imported gadgets a little costlier. If you have family sending money from abroad, each dollar or dirham now buys a few more rupees.",
+        "markets": "Foreign selling has eased compared with Monday but continues. Indian institutions are still buying more than foreigners are selling.",
+        "economy": "Costlier oil and a weaker rupee raise India's import bill, which can push up prices over time. That is one reason the RBI raised rates.",
+        "prices": "Petrol and diesel prices don't change daily with oil, but if oil stays above $100 and the rupee stays weak, fuel and transport costs could rise."
+      },
+      "watch": "Whether the rupee breaks its record low of 96.96, and oil news from the Strait of Hormuz.",
+      "terms": [
+        "Exchange rate",
+        "Rupee depreciation",
+        "Record low",
+        "REER",
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "FII",
+        "DII",
+        "Provisional"
+      ],
+      "explainers": {
+        "like12": "Imagine the rupee and the dollar on a seesaw. Today the dollar side went up and the rupee side went down. Now you need almost 97 rupees to get one dollar, nearly the most ever.\n\nWhy? India buys lots of oil from other countries and pays in dollars. Oil got more expensive today, so India needs more dollars. Also, some foreign investors are selling Indian shares and changing their rupees back into dollars.\n\nIndian funds, which collect money from families' monthly savings, are still buying. That's like a few strong kids sitting on the rupee side so it doesn't drop too far.",
+        "real_life": "Think of Farhan, a 45-year-old accountant in Hyderabad. His daughter is studying in Canada, and he pays part of her fees from India.\n\nWith the rupee near 96.8 per dollar, each dollar's worth of fees costs him more rupees than a few months ago. On a fee of a few thousand dollars, that difference can add up to several thousand rupees.\n\nHis brother works in Dubai and sends money home every month. For him, the weaker rupee is a small bonus: each dirham converts into a few more rupees.\n\nFor most other families, the effect is slower and smaller: it shows up over months in the prices of imported goods and, if oil stays high, in fuel and transport costs."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Policy stance",
+    "explanation": "When the RBI's Monetary Policy Committee meets, it announces two things. The first is the repo rate itself. The second is its stance: a short phrase that tells everyone which way it is leaning for the next few meetings.\n\nA 'neutral' stance means rates could go either up or down, depending on data. An 'accommodative' stance leans towards keeping rates low or cutting them to support growth. A tightening stance leans the other way, towards raising rates or holding them, to control inflation.\n\nThe stance matters because banks, businesses and investors plan ahead. If they know cuts are unlikely, they set loan and deposit rates, and make borrowing plans, with that in mind.",
+    "example": "On Wednesday, the RBI didn't just raise the repo rate to 5.50%. It also changed its stance from 'neutral' to 'calibrated tightening', and the Governor said the next action can only be a hike or a pause. Shares of carmakers and property developers fell more than the market, partly because this signal suggests loans won't get cheaper soon.",
+    "takeaway": "The stance is the RBI's hint about its next move. It can matter as much as the rate decision itself."
+  },
+  "quiz": [
+    {
+      "q": "What did the RBI do to the repo rate on Wednesday?",
+      "options": [
+        "Cut it to 5.00%",
+        "Kept it at 5.25%",
+        "Raised it to 5.50%",
+        "Raised it to 6.50%"
+      ],
+      "answer": 2,
+      "why": "The MPC unanimously raised the repo rate by 25 basis points, from 5.25% to 5.50%, its first hike since February 2023."
+    },
+    {
+      "q": "The RBI changed its stance to 'calibrated tightening'. What does that signal?",
+      "options": [
+        "Rates will be cut at the next meeting",
+        "The next move can only be a hike or a pause",
+        "The RBI will stop meeting for a year",
+        "Banks must lower FD rates"
+      ],
+      "answer": 1,
+      "why": "Governor Sanjay Malhotra said that under this stance, policy action ahead can only be a hike or a pause, and cuts are off the table in the near term."
+    },
+    {
+      "q": "You have an FD booked last year. What happens to its interest rate after the RBI's hike?",
+      "options": [
+        "It rises immediately",
+        "It falls",
+        "It stays the same until the FD matures",
+        "The FD is cancelled"
+      ],
+      "answer": 2,
+      "why": "An existing FD keeps the rate at which it was booked. Higher rates, if banks offer them, apply to new deposits and renewals."
+    },
+    {
+      "q": "Why did Titan's shares fall about 4%?",
+      "options": [
+        "Its jewellery sales fell sharply",
+        "Its jewellery sales grew about 21%, less than some analysts expected",
+        "It closed many Tanishq stores",
+        "The government banned gold imports"
+      ],
+      "answer": 1,
+      "why": "Domestic jewellery grew about 21%, which was below several analysts' expectations. Analysts linked this mainly to festival demand shifting later and high gold prices."
+    },
+    {
+      "q": "Which of these helps explain why the rupee weakened today?",
+      "options": [
+        "Oil prices rose and foreign investors kept selling Indian shares",
+        "India stopped importing oil",
+        "Foreign investors bought record amounts of Indian shares",
+        "The RBI cut interest rates"
+      ],
+      "answer": 0,
+      "why": "India pays for oil in dollars, so costlier oil raises demand for dollars. Foreign investors selling shares and taking money home also adds to dollar demand."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A count of how many shares rose versus how many fell, showing whether a move was broad or narrow.",
+      "more": "An index like the Nifty can rise because a few giant companies do well, even if most shares fall. Market breadth checks for that by counting gainers and losers across the whole exchange. If many more shares rose than fell, breadth is called 'positive' or 'strong', and the rise is seen as more widespread. Think of a class where the average marks went up: breadth tells you whether most students improved or just a few toppers. News reports quote it as 'advances' and 'declines'."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "MPC",
+      "definition": "The Monetary Policy Committee: the six-member RBI panel that decides the repo rate.",
+      "more": "The MPC includes RBI officials and outside experts, and meets several times a year to decide interest rates, mainly to keep inflation near the government's target. Members vote, and the decision and its reasons are announced publicly. It's like a family meeting that decides the household budget after looking at rising grocery bills. News before a meeting is full of economists' predictions, and afterwards reports focus on the decision, the vote split and hints about the next move."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One hundredth of a percentage point. 25 basis points = 0.25%.",
+      "more": "Interest rates often change by small amounts, so finance people use basis points to be precise. 100 basis points make 1 percentage point. If the RBI raises the repo rate from 5.25% to 5.50%, that's a rise of 25 basis points, often written as '25 bps'. Saying 'a 0.25% rise' can confuse people, because it could also mean a quarter of a percent of 5.25. Think of basis points as the paise of interest rates: a small unit that adds up. On a large home loan, even 25 basis points can change your EMI noticeably."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Retail inflation",
+      "definition": "How fast the prices of everyday goods and services bought by households are rising, measured by the Consumer Price Index (CPI).",
+      "more": "Every month the government collects prices of hundreds of items, from vegetables and milk to rent, school fees and bus fares, and works out how much more they cost than a year earlier. That figure is retail inflation. The RBI aims to keep it around 4%, within a band of 2% to 6%. If retail inflation stays above the target, the RBI may raise interest rates to cool demand. When news says 'CPI inflation rose to 4.82% in August', it means a basket of household items cost 4.82% more than in August last year."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Rupee depreciation",
+      "definition": "When the rupee loses value against another currency, so you need more rupees to buy one dollar.",
+      "more": "If the rate moves from ₹95 to ₹96 per dollar, the rupee has depreciated, or weakened. This makes imports such as oil, electronics and foreign education costlier, but helps exporters like IT companies, whose dollar earnings are worth more rupees. Common causes are foreign investors pulling money out, high oil prices and a strong dollar. It's like the price of a foreign holiday going up while you were still saving for it. News reports often describe the move in paise, for example 'the rupee fell 37 paise'."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route out of the Persian Gulf through which a large share of the world's oil is shipped.",
+      "more": "The Strait of Hormuz lies between Iran and Oman. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait, Qatar and Iran pass through it, so any disruption there quickly pushes up global oil prices. India buys much of its crude from Gulf countries, so news from Hormuz matters directly for Indian fuel prices and the rupee. Think of it as a single narrow gate out of a huge oil market: if the gate is blocked, supply everywhere gets tighter."
+    },
+    {
+      "term": "Quarterly business update",
+      "definition": "Early, unaudited figures some companies share right after a quarter ends, before their full results.",
+      "more": "Indian companies publish full results a few weeks after each quarter ends. But many banks, retailers and carmakers release a short update within days, covering things like sales, loans or deposits. These figures are provisional and don't include profit. Investors use them as an early hint of how the full results will look. It's like a student telling parents their marks in two subjects before the full report card arrives. In early October, January, April and July, these updates often move individual shares sharply."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "Comparing a figure with the same period one year earlier, such as July–September this year versus last year.",
+      "more": "Many businesses are seasonal: shops sell more during festivals, and air-conditioner makers sell more in summer. So comparing one quarter with the quarter just before it can mislead. Comparing it with the same quarter a year earlier removes most of that seasonal effect. It's like comparing this Diwali's sweet sales with last Diwali's, rather than with a quiet month. News reports often write it as 'YoY'. A 23% year-on-year rise means the figure is 23% higher than in the same period last year."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Rate-sensitive sectors",
+      "definition": "Industries whose sales or profits depend heavily on interest rates, such as cars, property and banks.",
+      "more": "Many people buy cars and homes with loans. When interest rates rise, EMIs go up, and some buyers delay or cancel their plans. That can hurt carmakers and property developers, so their shares often fall when the RBI raises rates. Banks are also linked to rates, though in more mixed ways. It's like an ice-cream seller watching the weather forecast: the business depends on one outside factor. News reports often say 'rate-sensitive stocks fell' on the day of an RBI decision."
+    },
+    {
+      "term": "Policy stance",
+      "definition": "The RBI's signal about which way it is leaning on interest rates in the coming months.",
+      "more": "Besides deciding the repo rate, the MPC describes its stance, a short phrase that hints at its likely next steps. 'Neutral' means rates could go up or down. 'Accommodative' leans towards cuts or holding rates low. A tightening stance leans towards hikes or pauses. It's like a cricket captain setting an attacking or defensive field: you can guess the plan before the next ball. Markets watch the stance closely, because a change can matter as much as the rate decision itself."
+    },
+    {
+      "term": "Calibrated tightening",
+      "definition": "An RBI stance meaning its next moves on rates will be either a hike or a pause, not a cut.",
+      "more": "'Tightening' means making money costlier to borrow, to cool inflation. 'Calibrated' means doing it carefully, step by step, depending on new data. On October 7, 2026, the RBI's Governor said that under this stance the next action can only be a hike or a pause. It's like a parent who has started cutting pocket money: they may cut it again or leave it as it is, but they won't raise it soon. News reports read this stance as a sign that loan rates are unlikely to fall in the near term."
+    },
+    {
+      "term": "GDP",
+      "definition": "Gross domestic product: the total value of all goods and services produced in a country in a period.",
+      "more": "GDP is the broadest measure of the size of an economy. When news says 'GDP grew 7.8%', it means the economy produced 7.8% more, after adjusting for price rises, than in the same period a year earlier. Faster growth usually means more jobs, profits and tax income. Think of it as a household's total yearly earnings from every member's work. The RBI forecasts GDP growth at each policy meeting, and a strong forecast gives it more room to raise rates without worrying too much about slowing the economy."
+    },
+    {
+      "term": "Floating rate",
+      "definition": "A loan interest rate that changes over time, usually in line with a benchmark such as the RBI's repo rate.",
+      "more": "Most home loans in India have floating rates. Many are linked to the repo rate, so when the RBI raises it, the bank raises your loan rate too, usually at the next reset date. A fixed rate, by contrast, stays the same for an agreed period. It's like a mobile plan whose price can change with the operator's tariffs, versus one locked in for a year. When news says 'EMIs will rise', it mostly means borrowers on floating rates."
+    },
+    {
+      "term": "Fixed deposit",
+      "definition": "A bank deposit where you lock in money for a set period at a fixed interest rate.",
+      "more": "A fixed deposit, or FD, is one of India's most popular ways to save. You choose a period, from a few days to several years, and the bank promises an interest rate for that whole time. If rates rise later, your existing FD keeps its old rate until it matures; only new deposits or renewals get the higher rate. It's like booking a train ticket: the fare you paid stays the same even if fares go up later. News reports on RBI hikes often say 'FD rates may rise'."
+    },
+    {
+      "term": "Loan tenure",
+      "definition": "The length of time over which a loan is repaid, such as 20 or 25 years for a home loan.",
+      "more": "When interest rates rise, banks can do one of two things with a floating-rate loan: raise your EMI, or keep the EMI the same and stretch the number of months you pay. A longer tenure keeps your monthly budget unchanged but means you pay more interest in total. It's like paying for a fridge in more instalments: each payment stays small, but the total cost goes up. Many banks extend tenure by default, so borrowers are often advised to check their loan statements after a rate change."
+    },
+    {
+      "term": "Ticket size",
+      "definition": "The average amount a customer spends in one purchase.",
+      "more": "Businesses track two things to explain their sales: how many customers bought, and how much each spent on average. The second is called the average ticket size, or average bill value. Sales can rise because more people buy, or because each buyer spends more. For a jeweller, ticket size can jump simply because gold has become more expensive, even if people buy the same weight. It's like a sweet shop's bill rising during Diwali because of costlier dry fruits. News reports use it to explain where sales growth came from."
+    },
+    {
+      "term": "Record low",
+      "definition": "The weakest level a price or currency has ever reached.",
+      "more": "For the rupee, a record low means the most rupees ever needed to buy one US dollar. News reports often compare the day's level with the record, saying the rupee is 'near' or 'at' its all-time low. Breaking a record low can grab headlines and sometimes prompts the RBI to step in by selling dollars. It's like a team's lowest-ever score: the number matters mostly because of what it says about the trend. For you, a weaker rupee mainly means imports, foreign travel and overseas fees cost more."
+    },
+    {
+      "term": "REER",
+      "definition": "Real effective exchange rate: a measure of the rupee's value against many currencies at once, adjusted for price rises in each country.",
+      "more": "The rupee–dollar rate shows only one pair. REER compares the rupee with a basket of the currencies of India's main trading partners, and adjusts for how fast prices are rising in each place. If the REER is low, Indian goods are relatively cheap for foreigners, and the rupee may be 'undervalued'. Think of comparing your salary not just with one friend's, but with several friends' after accounting for their cost of living. The RBI uses REER to judge whether the rupee's level is fair, not just how many rupees a dollar costs."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-7-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-rbi-mpc-repo-rate-ipo-today-126100700099_1.html"
+    },
+    {
+      "title": "HDFC Sky: Sensex Falls 429 Points After RBI Rate Hike",
+      "url": "https://hdfcsky.com/news/market-close-report-today-october-7-2026-nifty-sensex-fall-as-rbi-turns-hawkish"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 7 October 2026, Sensex, Nifty End Lower As RBI Raises Rates To 5.5%",
+      "url": "https://www.kotakneo.com/news/market-news/closing-bell-7-october-2026-sensex-nifty-end-in-red/"
+    },
+    {
+      "title": "ThePrint (PTI): Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment",
+      "url": "https://theprint.in/economy/sensex-falls-429-pts-snaps-2-day-rally-as-rbi-policy-stance-high-crude-prices-dent-sentiment/3064452/"
+    },
+    {
+      "title": "The Tribune: Nifty, Sensex end lower amid RBI rate hike, rupee hits 5-month low",
+      "url": "https://www.tribuneindia.com/news/business/nifty-sensex-end-lower-amid-rbi-rate-hike-rupee-hits-5-month-low"
+    },
+    {
+      "title": "Upstox: RBI MPC October Meeting 2026 Live Updates",
+      "url": "https://upstox.com/news/market-news/economy/rbi-mpc-meeting-october-7-2026-live-updates-governor-sanjay-malhotra-speech-repo-rate-hike-key-highlights/liveblog-201398/"
+    },
+    {
+      "title": "ETV Bharat: RBI MPC Meeting, Repo Rate Hiked By 25 BPS, GDP Projected At 7.1% For FY27",
+      "url": "https://www.etvbharat.com/en/business/rbi-mpc-meeting-october-2026-sanjay-malhotra-25-basis-points-repo-rate-hike-inflation-india-gdp-enn26100701116"
+    },
+    {
+      "title": "BusinessToday: RBI MPC, Gov Malhotra revises inflation forecast to 5.2% from 5% for FY27",
+      "url": "https://www.businesstoday.in/latest/economy/story/rbi-mpc-gov-malhotra-revises-inflation-forecast-to-5-2-percent-from-5-percent-for-fy27-560037-2026-10-07"
+    },
+    {
+      "title": "Business Standard: RBI rate hike, ₹50 lakh home loan EMI may rise by ₹817; FDs may offer more",
+      "url": "https://www.business-standard.com/finance/personal-finance/rbi-rate-hike-50-lakh-home-loan-emi-may-rise-by-817-fds-may-offer-more-126100700335_1.html"
+    },
+    {
+      "title": "Upstox: Titan shares slide over 3% after Q2 update; festive shift, high gold prices weigh on jewellery growth",
+      "url": "https://upstox.com/news/market-news/stocks/titan-shares-slide-over-3-after-q2-update-festive-shift-high-gold-prices-weigh-on-jewellery-growth/article-201416/"
+    },
+    {
+      "title": "BusinessToday: Rupee nears record low at 96.84, but RBI Governor says currency may be undervalued",
+      "url": "https://businesstoday.in/latest/economy/story/rupee-nears-record-low-at-96-84-but-rbi-governor-says-currency-may-be-undervalued-560170-2026-10-07"
+    },
+    {
+      "title": "Daily Excelsior (PTI): Rupee falls 22 paise to 96.57 against US dollar post RBI rate increase",
+      "url": "https://www.dailyexcelsior.com/rupee-falls-22-paise-to-96-57-against-us-dollar-post-rbi-rate-increase/amp/"
+    },
+    {
+      "title": "IndiaIPO: FII selling moderates to ₹2,961 crore as market extends gains for 2nd straight day",
+      "url": "https://www.indiaipo.in/news/detail/fii-selling-moderates-to-2961-crore-as-market-extends-gains-for-2nd-straight-day"
+    },
+    {
+      "title": "HDFC Sky: India VIX rises 1.98% to 13.88 as RBI rate hike keeps markets on edge",
+      "url": "https://hdfcsky.com/news/india-vix-rises-1-98percent-to-13-88-as-rbi-rate-hike-keeps-markets-on-edge-october-7-2026"
+    },
+    {
+      "title": "Trading Economics: Brent crude oil",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    },
+    {
+      "title": "TheStreet: Stock Market Today (Oct. 6, 2026), S&P 500 sets new record as oil prices, Treasury yields settle",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026"
+    }
+  ]
+}
