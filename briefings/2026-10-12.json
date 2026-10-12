@@ -1,0 +1,645 @@
+{
+  "date": "2026-10-12",
+  "session_label": "Monday 12 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "Retail inflation jumped to 5.54% in September and government bond yields hit a three-year high; the Sensex fell 548 points even as the rupee had its best day in over six months after RBI curbs on speculation.",
+  "mood": "Uneasy",
+  "mood_note": "A stronger rupee gave the market a good start, but rising bond yields, oil above $105 and foreign selling took over. The fall was under 1%, and smaller companies rose.",
+  "reading_minutes": 13,
+  "since_yesterday": [
+    "The last session was Friday, when the Nifty rose 1.30% to 22,520.45. Today it gave back 157.10 points.",
+    "The rupee, which closed at 96.71 per dollar on Friday, strengthened to about 95.75 after the RBI's weekend measures.",
+    "Foreign investors sold ₹3,568.90 crore of shares on Friday, according to provisional data, while domestic institutions bought about ₹4,743 crore."
+  ],
+  "one_minute": [
+    "Retail inflation rose to 5.54% in September from 4.83% in August, the highest in nearly two years, as food prices jumped. Onion prices more than doubled.",
+    "The Sensex fell 547.65 points (0.76%) to 71,924.68 and the Nifty 50 fell 157.10 points (0.70%) to 22,363.35. Smallcaps rose 1.42%.",
+    "India's 10-year government bond yield rose above 7.37%, its highest since March 2023, as the RBI moved to take spare cash out of banks.",
+    "The rupee jumped 96 paise to about 95.75 per dollar after the RBI made betting against it costlier. Brent crude stayed around $105.70.",
+    "HCLTech's quarterly profit rose 21.2% to ₹5,132 crore, and SIP inflows hit a record ₹32,490 crore in September."
+  ],
+  "big_picture": "Today brought two pieces of news that pull in different directions.\n\nThe good news: the rupee had its best day in more than six months. Over the weekend, the RBI made it costlier to bet against the rupee and started supplying dollars directly to the big oil companies. The rupee strengthened from 96.71 to about 95.75 per dollar.\n\nThe worrying news: prices are rising faster. Retail inflation jumped to 5.54% in September, driven by food, especially onions. Interest rates on government bonds hit their highest in about three years as the RBI drains spare cash from banks. Together with oil above $105 a barrel and continued foreign selling, that pushed shares lower.\n\nFor most people, the message is that borrowing may stay costly for a while, while savings in FDs may earn a little more.",
+  "chain": [
+    {
+      "label": "Oil and the rupee under pressure",
+      "note": "Brent crude stayed above $105 a barrel, and the rupee had been near its record low of about 97 per dollar."
+    },
+    {
+      "label": "RBI steps in",
+      "note": "On Saturday it made bets against the rupee costlier and set up a dollar window for oil companies. It is also draining spare cash from banks."
+    },
+    {
+      "label": "Rupee jumps, bond yields rise",
+      "note": "The rupee gained 96 paise to about 95.75. The 10-year bond yield rose above 7.37%, a three-year high."
+    },
+    {
+      "label": "Shares slip",
+      "note": "Higher yields, oil and foreign selling outweighed the rupee's gain. The Nifty fell 0.70% to 22,363.35."
+    },
+    {
+      "label": "Inflation adds pressure",
+      "note": "Retail inflation rose to 5.54% in September, which some economists say could lead to more RBI rate hikes."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "71,924.68",
+      "change": "-547.65 (-0.76%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It opened higher but closed lower."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,363.35",
+      "change": "-157.10 (-0.70%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+0.08%",
+      "direction": "up",
+      "what_it_is": "This tracks medium-sized companies. They ended almost flat."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+1.42%",
+      "direction": "up",
+      "what_it_is": "This tracks smaller listed companies. They rose even as the big indices fell."
+    },
+    {
+      "name": "India VIX",
+      "value": "15.23",
+      "change": "+6.05%",
+      "direction": "up",
+      "what_it_is": "A measure of how much traders expect the market to swing. It rose, showing more nervousness."
+    },
+    {
+      "name": "Retail inflation (September)",
+      "value": "5.54%",
+      "change": "up from 4.83% in August",
+      "direction": "up",
+      "what_it_is": "How much more everyday goods cost than a year ago. The RBI's target is 4%."
+    },
+    {
+      "name": "India 10-year bond yield",
+      "value": "above 7.37%",
+      "change": "highest since March 2023",
+      "direction": "up",
+      "what_it_is": "The interest the government pays to borrow for 10 years. Many other interest rates follow it."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "about 95.75",
+      "change": "stronger by 96 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "about $105.70",
+      "change": "up about 1% (afternoon)",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "Gold (MCX, December futures)",
+      "value": "₹1,49,855 per 10 g",
+      "change": "-1.09% (afternoon)",
+      "direction": "down",
+      "what_it_is": "The price of gold for delivery in December on India's commodity exchange. It shapes jewellery prices."
+    },
+    {
+      "name": "S&P 500 (US, Friday)",
+      "value": "",
+      "change": "+0.59%",
+      "direction": "up",
+      "what_it_is": "A main index of 500 large US companies. US shares rose in their last session."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-nifty-fall-as-yields-and-oil-weigh",
+      "category": "Stock market",
+      "title": "Sensex falls 548 points and Nifty ends at 22,363 as bond yields and oil weigh",
+      "tldr": "Indian shares started higher but closed lower as government bond yields hit a three-year high, oil stayed above $105 and foreign investors kept selling. Smaller companies rose.",
+      "what_happened": "The Sensex fell 547.65 points, or 0.76%, to close at 71,924.68. The Nifty 50 fell 157.10 points, or 0.70%, to 22,363.35. Both had opened higher before turning lower.\n\nSmaller companies did better. The Nifty Midcap 100 edged up 0.08% and the Nifty Smallcap 100 rose 1.42%.\n\nFMCG and PSU bank shares fell most. The Nifty PSU Bank index lost 1.18%, and on the BSE the FMCG index fell 1.34%. ITC fell 3.23% and Tech Mahindra 3.1%. Apollo Hospitals was among the biggest Nifty losers. Media shares jumped, with the Nifty Media index up 4.60%, and the Nifty Auto index rose 0.90%.\n\nIndia VIX, a measure of expected swings, rose 6.05% to 15.23.",
+      "simple_explanation": "Indian shares had a good start on Monday, then slipped.\n\nThree worries took over. Interest rates on government bonds rose to their highest level in about three years. Oil stayed expensive. And foreign investors kept selling Indian shares.\n\nThe drop in the big indices was less than 1%. Many smaller companies actually rose, as some investors hope their July–September results will be good.",
+      "analogy": "Think of a cricket team that starts its innings well, but the pitch, the weather and a tough bowler all turn against it by the afternoon. The team doesn't collapse, but it ends the day a little behind where it began.",
+      "why": "Vinod Nair of Geojit Investments said rising bond yields and foreign selling wiped out the early gains. Ponmudi R of Enrich Money said bond yields, foreign outflows and crude prices outweighed the good news of a stronger rupee.\n\nHariselvan Radhakrishnan of HST Wealth said worries that the RBI's new rupee rules will reduce spare cash in banks weighed on financial shares.\n\nV K Vijayakumar of Geojit said that, for now, problems from abroad, like costly oil and high US bond yields, are outweighing good news at home. He expects foreign investors to keep selling in the near term, with Indian institutions buying.",
+      "implications": {
+        "you": "A Nifty 50 index fund fell about 0.70% today, roughly ₹700 on every ₹1 lakh. That's an ordinary one-day move. If you invest through a monthly SIP, nothing changes. Smallcap funds may have done better today.",
+        "markets": "Rising bond yields make safer investments more attractive than shares, and foreign investors keep selling. Analysts see these as the main pressures for now.",
+        "economy": "One day's market move says little about the economy. The bigger economic news today was the jump in inflation, covered below.",
+        "prices": "No direct effect on everyday prices from today's market fall."
+      },
+      "watch": "Whether foreign selling continues, how HCLTech's results are received on Tuesday, and more July–September results in the coming days.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "FMCG",
+        "PSU bank",
+        "Sectoral index",
+        "India VIX",
+        "Bond yield",
+        "Brent crude",
+        "FII",
+        "DII"
+      ],
+      "explainers": {
+        "like12": "Imagine the share market as a giant scoreboard for India's biggest companies. On Monday morning, the score went up. By afternoon, it had gone down.\n\nWhy? A few things worried investors. Interest on government loans went up, so some people prefer to lend to the government instead of buying shares. Oil, which India buys a lot of from abroad, stayed costly. And investors from other countries kept selling Indian shares.\n\nThe drop was small, less than 1 rupee in every 100. Shares of smaller companies actually went up, because some people expect them to report good results soon.",
+        "real_life": "Meet Kavya, a 31-year-old bank clerk in Kochi. She has ₹2 lakh in a Nifty 50 index fund, built up through a ₹4,000 monthly SIP.\n\nToday her fund fell about 0.70%, roughly ₹1,400 on paper. She has also had days when it rose by a similar amount.\n\nShe doesn't need to do anything about one day's fall. Her SIP will buy units on its usual date. If she also holds a smallcap fund, it may have gone up today. What matters more for her household this week is the inflation number and the RBI's next steps, which could affect her loan rates and FD returns over the coming months."
+      }
+    },
+    {
+      "id": "retail-inflation-rises-to-5-54",
+      "category": "Economy",
+      "title": "Retail inflation jumps to 5.54% in September as food prices surge",
+      "tldr": "Prices of everyday goods rose 5.54% from a year ago in September, up from 4.83% in August, driven by food. Onion prices more than doubled.",
+      "what_happened": "Government data released on Monday showed retail inflation, measured by the Consumer Price Index, rose to 5.54% in September from 4.83% in August. Reports say it is the highest in nearly two years, and the first time the new index series, with 2024 as its base year, has crossed 5%.\n\nFood was the main driver. Food inflation rose to 7.74% from 5.97% in August. Onion prices were 108.09% higher than a year earlier, while potato and tomato prices were lower.\n\nInflation was 6.08% in villages and 4.88% in cities.\n\nThe figure is still inside the RBI's tolerance band of 2% to 6%, but well above its 4% target and close to the top of the band.",
+      "simple_explanation": "Inflation tells you how much more things cost than a year ago. In September, the average household basket cost 5.54% more than last September.\n\nFood was the big reason. Onions cost more than twice what they did a year ago.\n\nThe RBI wants inflation near 4%. It has now been above that for four months in a row, which is why the RBI raised its interest rate last week.",
+      "analogy": "If your monthly grocery bill was ₹10,000 last September, the same items would now cost about ₹10,554 on average. If your bill is mostly vegetables, the jump may feel bigger, because onion prices have more than doubled.",
+      "why": "Food prices, especially onions, pushed the number up. Costly oil and a weak rupee have also been adding to price pressures in recent months, as the RBI noted last week.\n\nGarima Kapoor, an economist at Elara Capital, said the rising inflation could prompt further rate hikes, and she expects two more RBI hikes this financial year. That is one analyst's view; the RBI's next decision depends on the data.",
+      "implications": {
+        "you": "Your money buys less. If your salary rose less than about 5.5% this year, your spending power has fallen. Prices of vegetables, especially onions, have risen most. Families in villages are feeling it more than those in cities.",
+        "markets": "Higher inflation makes further RBI rate hikes more likely in the eyes of some economists, which can weigh on shares of companies that depend on loans.",
+        "economy": "Inflation near 6% squeezes household budgets and can slow spending. It is the main reason the RBI has started raising rates.",
+        "prices": "Food prices are rising fastest, especially onions. Potatoes and tomatoes are cheaper than a year ago."
+      },
+      "watch": "October's inflation figure, due next month, and whether vegetable prices ease as new crops arrive.",
+      "terms": [
+        "Retail inflation",
+        "Food inflation",
+        "Year-on-year",
+        "Repo rate",
+        "Rate hike"
+      ],
+      "explainers": {
+        "like12": "Imagine a samosa cost ₹20 last year. If prices rose by 5.54%, it would cost about ₹21.10 today. That rise in prices is called inflation.\n\nIn September, prices rose faster than in August. Food was the main reason. Onions, which go into almost every Indian dish, cost more than double what they did a year ago.\n\nThe RBI, the country's money manager, wants prices to rise slowly, around 4% a year. Now they're rising faster, so it may make borrowing costlier again to slow things down. That's like a teacher asking the class to calm down when it gets too noisy.",
+        "real_life": "Meet the Sharmas, a family of four in Lucknow. Their monthly kitchen budget was about ₹12,000 a year ago.\n\nWith food inflation at 7.74%, the same groceries cost roughly ₹930 more a month than a year ago, on average. Onions alone, which they buy every week, cost more than twice as much as last September. Their tomato and potato bills, though, are a little lower.\n\nMr Sharma got a 4% raise this year, so his salary hasn't kept pace with food prices. The family may cut back on some spending. Separately, if inflation stays high, their floating-rate home loan EMI could rise if the RBI raises rates again."
+      }
+    },
+    {
+      "id": "bond-yields-hit-three-year-high",
+      "category": "RBI and your money",
+      "title": "Government bond yields hit a three-year high as the RBI drains cash from banks",
+      "tldr": "India's 10-year government bond yield rose above 7.37%, its highest since March 2023, after the RBI announced steps that will leave banks with less spare cash.",
+      "what_happened": "The yield on India's 10-year government bond rose above 7.37% on Monday, its highest level since March 2023. One report put it as high as 7.40%. It has risen for eight weeks in a row.\n\nThe RBI has announced two steps that take cash out of the banking system. It will sell ₹25,000 crore of government bonds to the market on 13 October through an open market operation. And from 16 October, banks must keep at least 99% of their required cash reserve with the RBI every day, up from 90%. The overall cash reserve ratio itself is unchanged.\n\nThis comes days after the RBI raised its main interest rate, the repo rate, to 5.50% on 7 October.",
+      "simple_explanation": "When the government borrows money, it sells bonds. The yield is the interest rate investors earn on them.\n\nThis interest rate rose to its highest in about three and a half years. One reason: the RBI is taking some spare cash out of banks. With less spare cash, banks buy fewer government bonds, so the government has to offer a higher rate to attract buyers.\n\nGovernment bond rates act like a base rate for the whole economy, so when they rise, other loans can slowly get costlier too.",
+      "analogy": "Picture a busy wholesale market where traders usually carry plenty of cash. If the market committee asks everyone to keep more cash locked in the office safe, there's less money on the floor to buy goods. Sellers have to offer better deals, just as the government must offer higher interest to sell its bonds.",
+      "why": "Analysts say tighter cash in the banking system reduces banks' room to buy government bonds, which pushes bond prices down and yields up. The RBI's bond sale also adds to supply.\n\nThe moves come alongside last week's rate hike and the RBI's efforts to support the rupee. High US bond yields and rising Indian inflation add to the pressure. Analysts are watching whether the 10-year yield moves towards 7.5%.",
+      "implications": {
+        "you": "Over time, higher bond yields can mean slightly costlier new loans and somewhat better rates on new FDs and debt funds. If you hold a debt mutual fund, its value can dip when yields rise, because existing bonds lose value. Effects come gradually, not overnight.",
+        "markets": "Higher yields make bonds more attractive compared with shares and raised worries about banks' finances. Analysts named rising yields as a main reason shares fell today.",
+        "economy": "Costlier borrowing for the government and companies can slow investment a little. The RBI appears willing to accept that to fight inflation and steady the rupee.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "The result of Tuesday's ₹25,000 crore bond sale, and whether the 10-year yield approaches 7.5%.",
+      "terms": [
+        "Bond yield",
+        "Liquidity",
+        "Open market operation",
+        "Cash reserve ratio",
+        "Repo rate",
+        "Debt fund",
+        "Fixed deposit"
+      ],
+      "explainers": {
+        "like12": "When the government needs money for roads and schools, it borrows by selling 'IOUs' called bonds. People who buy them earn interest.\n\nThis week, that interest went up to its highest in about three years. Why? The RBI is asking banks to keep more of their cash locked away safely, so banks have less spare money to lend to the government. When fewer people want to lend, the borrower has to offer more interest.\n\nThis matters because many other interest rates, like on loans and deposits, follow the government's rate over time. So borrowing may slowly get a bit costlier, and saving may pay a bit more.",
+        "real_life": "Meet Rahul, a 35-year-old engineer in Hyderabad. He has ₹3 lakh in a debt mutual fund that he uses as an emergency fund, and is planning a car loan next year.\n\nWhen bond yields rise, the bonds his fund already holds become a little less valuable, so its value may dip slightly for a while. Over time, the fund can earn more as it buys new, higher-yielding bonds.\n\nFor his car loan, rising yields and last week's rate hike suggest rates may be somewhat higher than he hoped. On the bright side, if he puts savings into a new FD, banks may offer slightly better rates in the coming months."
+      }
+    },
+    {
+      "id": "rupee-jumps-after-rbi-curbs-speculation",
+      "category": "Rupee and oil",
+      "title": "Rupee jumps 96 paise to about 95.75 after RBI tightens forex rules; oil stays above $105",
+      "tldr": "The rupee had its biggest one-day gain in more than six months after the RBI made it costlier to bet against it. Brent crude stayed above $105 a barrel on Middle East tensions.",
+      "what_happened": "The rupee closed at about 95.75 per US dollar (provisional), up 96 paise from Friday's 96.71. Reports called it the steepest one-day gain in more than six months. It had been close to its record low near 97.\n\nOn Saturday, the RBI announced several steps. Banks must keep a cash reserve with the RBI equal to 20% of the rupee value of certain forex derivative deals above $2 million in which the customer buys dollars. Banks can no longer rebook cancelled rupee-linked forex derivative contracts. And from 12 October, the RBI is supplying the full daily dollar needs of three state-run oil companies, IOC, BPCL and HPCL, through a special window.\n\nBrent crude was around $105.70 a barrel in the afternoon, up about 1%. Gold futures on MCX fell 1.09% to ₹1,49,855 per 10 grams.",
+      "simple_explanation": "The rupee has been weak for months, partly because India pays for its oil in dollars and oil is expensive.\n\nSome traders were also betting that the rupee would fall further, which itself puts pressure on it. Over the weekend, the RBI made those bets costlier and harder to place.\n\nIt also started selling dollars directly to the big oil companies, so they don't have to buy huge amounts in the open market every day. The result: the rupee rose sharply on Monday.",
+      "analogy": "Imagine a popular train ticket that touts keep booking in bulk, hoping to resell at higher prices. The railways make bulk bookings costlier and give large travel groups their own counter. With less pressure on the main counter, ticket prices calm down. That's roughly what the RBI did for the dollar.",
+      "why": "Experts said the RBI's steps should reduce demand for dollars in the market and discourage speculative bets against the rupee. Currency traders said a lasting recovery will depend on oil prices, foreign investment flows and global markets.\n\nOil stayed high. US President Donald Trump said on Sunday that Russia and Ukraine had agreed to pause attacks on energy facilities, which briefly eased prices. But neither side confirmed it, and Ukraine's President Volodymyr Zelenskyy said Russia had already broken it. Houthi attacks on Saudi Arabia, including on Riyadh's airport, and attacks on tankers near the Strait of Hormuz kept prices above $100.\n\nForeign investors sold ₹3,568.90 crore of Indian shares on Friday, while domestic institutions bought about ₹4,743 crore, according to provisional data.",
+      "implications": {
+        "you": "A stronger rupee helps a little if you pay for things in dollars, such as foreign travel, overseas tuition or imported gadgets. Fuel prices at the pump are set by oil companies and the government, so a one-day move doesn't change them.",
+        "markets": "Some analysts said the RBI's measures could tighten cash in banks and raise costs for importers who protect themselves against currency swings, which weighed on financial shares.",
+        "economy": "A steadier rupee makes oil and other imports less costly, which helps keep inflation in check. But it depends on oil prices and foreign money flows.",
+        "prices": "If the rupee stays stronger, imported goods and fuel costs may ease slightly over time. Oil above $105 still keeps pressure on prices."
+      },
+      "watch": "Whether the rupee holds its gains, and oil prices as Middle East tensions and the unconfirmed Russia–Ukraine energy pause play out.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Record low",
+        "Forex derivatives",
+        "Hedging",
+        "RBI intervention",
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "FII",
+        "DII"
+      ],
+      "explainers": {
+        "like12": "To buy things from other countries, like oil, India needs US dollars. The rupee's 'price' tells you how many rupees you need for one dollar. Lately, you needed almost 97, which is a lot.\n\nSome traders were betting the rupee would get even weaker. So over the weekend, the RBI, India's money manager, made those bets more expensive. It also started handing dollars directly to the big oil companies, so they don't have to rush into the market to buy them.\n\nOn Monday, you needed about 95.75 rupees for a dollar, almost one rupee less than on Friday. That's a big move for one day.",
+        "real_life": "Meet Priya, a 27-year-old marketing executive in Bengaluru, planning a ₹2 lakh family trip to Dubai in December.\n\nShe'll need dirhams, whose value moves closely with the dollar. With the rupee about 1% stronger than on Friday, the same foreign currency costs her roughly ₹2,000 less on a ₹2 lakh budget, if the rupee stays at this level.\n\nThat is not guaranteed: the rupee could weaken again if oil prices rise or foreign investors keep selling. Petrol prices she pays in Bengaluru won't change because of one day's move. What helps her family most is if a steadier rupee and lower oil eventually ease prices and inflation."
+      }
+    },
+    {
+      "id": "hcltech-q2-profit-rises-21",
+      "category": "Companies",
+      "title": "HCLTech's quarterly profit rises 21% to ₹5,132 crore; it keeps its yearly growth forecast",
+      "tldr": "IT company HCLTech reported higher profit and sales for July–September, helped by AI-related work, and kept its forecast for the year. The results came after the market closed.",
+      "what_happened": "HCLTech reported a consolidated net profit of ₹5,132 crore for July–September, up 21.2% from ₹4,235 crore a year earlier. Revenue rose 11.5% to ₹35,620 crore.\n\nIts revenue from AI-related work grew 78% from a year earlier, and it signed new deals worth $3.258 billion in the quarter. The company kept its forecast for revenue growth this financial year at 2.5% to 4%, and declared an interim dividend of ₹12 per share.\n\nThe results were announced after market hours. Earlier in the day, its shares rose about 2% and it was among the Sensex gainers. Reports note the shares had fallen more than 25% this year before today.\n\nEarlier, TCS reported a 15% rise in quarterly profit to ₹13,884 crore.",
+      "simple_explanation": "HCLTech is one of India's biggest IT companies. It does technology work for businesses, mostly abroad.\n\nIn the three months to September, it made more money than a year ago, partly from work related to artificial intelligence. It also told investors it still expects similar growth for the whole year as it said before. It will pay shareholders ₹12 per share.\n\nWe'll see how the share price reacts on Tuesday, when the market opens.",
+      "analogy": "It's like a tailoring shop that reports a busier season than last year, especially for a new style everyone wants, and tells its partners it expects the rest of the year to go about as planned.",
+      "why": "Strong demand for AI-related services and large new deals helped. Brokerages had expected double-digit profit growth and were watching the yearly forecast closely. In the past two quarters, HCLTech's shares fell 10.8% and 4.4% the day after results, so investors pay close attention to these reports.",
+      "implications": {
+        "you": "If you own an IT fund or a Nifty 50 index fund, HCLTech is one of its holdings, but one company's results make a small difference. For people who work in IT, steady results suggest stable demand for now.",
+        "markets": "HCLTech's results, along with TCS's, help set the tone for the IT sector, which is a big part of the Nifty 50.",
+        "economy": "IT firms employ lakhs of Indians and earn dollars from abroad, which helps the rupee. Growth in AI work is a sign of where demand is moving.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "How HCLTech's shares react on Tuesday, and results from other IT companies over the coming days.",
+      "terms": [
+        "IT services",
+        "Quarterly results",
+        "Year-on-year",
+        "Guidance",
+        "Dividend",
+        "Brokerage"
+      ],
+      "explainers": {
+        "like12": "HCLTech is a big Indian company that builds and runs computer systems for businesses around the world, a bit like expert technology helpers for hire.\n\nEvery three months, companies share a report card: how much they sold and how much profit they made. HCLTech's latest one showed profit up by about a fifth compared with last year. A big reason was work on artificial intelligence, the kind of smart computer programmes that are in demand everywhere.\n\nThe company also said it expects the rest of the year to go as it planned. And it will share some profit with its owners: ₹12 for every share they hold.",
+        "real_life": "Meet Sanjay, a 33-year-old software developer in Noida working for an IT company. His friend Neha owns 50 HCLTech shares.\n\nFor Neha, the ₹12 interim dividend means about ₹600 in her bank account, before any tax. What happens to the share price on Tuesday depends on how investors judge the results and the forecast, and that can go either way.\n\nFor Sanjay, the bigger signal is the industry's health. When large IT firms report growing business and new deals, especially in AI, it suggests companies are still hiring for these skills. Learning AI-related tools may help his career, whatever happens to share prices."
+      }
+    },
+    {
+      "id": "sip-inflows-hit-record-in-september",
+      "category": "Personal finance",
+      "title": "Monthly SIP investments hit a record ₹32,490 crore in September",
+      "tldr": "Indians invested a record amount through SIPs in September, even as markets were weak. Total money managed by mutual funds fell, mainly as companies withdrew from debt funds.",
+      "what_happened": "Data from AMFI, the mutual fund industry body, released on Monday showed SIP inflows of ₹32,490 crore in September, an all-time high. That compares with ₹32,297 crore in August and ₹29,361 crore in September last year, a rise of about 11%.\n\nEquity mutual funds took in about ₹38,307 crore, nearly 31% more than in August. Smallcap funds drew the most money among equity categories, ₹9,038.57 crore.\n\nTotal assets managed by mutual funds fell about 5.1% from August to ₹82.64 lakh crore, mainly because of large withdrawals from debt funds. That is still higher than ₹75.61 lakh crore a year earlier.",
+      "simple_explanation": "Millions of Indians put a fixed amount into mutual funds every month through SIPs. In September, the total reached a new record.\n\nThis is notable because markets have been weak and foreign investors have been selling. Indian savers kept investing anyway.\n\nThe overall money in mutual funds dipped, but mainly because companies took money out of short-term debt funds, which often happens near the end of a quarter.",
+      "analogy": "Think of a temple donation box that gets a steady stream of small offerings from regular visitors every week. Even when big donors stay away, the box keeps filling. SIP money is like those regular offerings for the share market.",
+      "why": "SIPs run automatically every month, so they continue even when markets are falling. Rising SIP totals reflect more people starting SIPs and some increasing their amounts.\n\nMoney flowing into equity funds through SIPs is a big reason domestic institutions keep buying Indian shares while foreign investors sell. Debt fund withdrawals often happen around the end of a quarter, when companies need cash for tax payments and other expenses.",
+      "implications": {
+        "you": "If you have an SIP, you're part of a very large group of Indians investing steadily. The record doesn't change what your fund will earn. SIPs work best over many years, and they carry market risk.",
+        "markets": "Steady SIP money gives domestic funds cash to buy shares, which can soften the impact of foreign selling.",
+        "economy": "More households investing through mutual funds means more Indian savings flowing into companies, rather than only into gold, property or bank deposits.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Whether SIP inflows keep rising in October if markets stay weak, and whether foreign selling continues.",
+      "terms": [
+        "SIP",
+        "AMFI",
+        "Assets under management",
+        "Debt fund",
+        "Smallcap",
+        "DII"
+      ],
+      "explainers": {
+        "like12": "Imagine lots of people putting a little money into a piggy bank every month, and someone using that money to buy small pieces of many companies. That's roughly what an SIP in a mutual fund does.\n\nIn September, Indians put in more money this way than ever before: ₹32,490 crore in one month. That's a huge number, made of millions of small amounts like ₹500 or ₹2,000.\n\nWhat's interesting is that people kept doing this even though the share market has been going through a tough patch. They're thinking long-term, like planting trees that take years to grow.",
+        "real_life": "Meet Deepak, a 30-year-old accountant in Jaipur who started a ₹3,000 monthly SIP in a Nifty 50 index fund two years ago.\n\nThe market has fallen this year, so his fund is worth a little less than he hoped. But because his SIP invests the same ₹3,000 each month, it buys more units when prices are lower.\n\nThe record SIP data tells him that millions of others are doing the same thing. That doesn't guarantee good returns: share prices can fall further. But SIPs are designed for money you can leave invested for many years, not for money you need next month. Deepak keeps his emergency savings in a bank account instead."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Hedging",
+    "explanation": "Hedging means protecting yourself against a price moving the wrong way, usually by paying a small cost upfront.\n\nTake an Indian company that imports machines and must pay $1 million in three months. If the rupee weakens in that time, the bill in rupees goes up. To avoid that risk, the company can sign a contract with a bank today that fixes the exchange rate it will pay later. This is a kind of forex derivative.\n\nIf the rupee falls, the company is protected. If the rupee rises, it misses out on a small saving. Either way, it knows its cost in advance, which helps it plan. The same kinds of contracts can also be used purely to bet on the rupee, which is where regulators get worried.",
+    "example": "Over the weekend, the RBI made some forex derivative deals costlier: banks must now keep a 20% cash reserve with the RBI on certain contracts above $2 million in which the customer buys dollars. The aim is to curb bets against the rupee. Analysts noted that the rules also raise hedging costs for genuine importers, showing how one tool can serve both protection and speculation.",
+    "takeaway": "Hedging is insurance against price swings. It costs a little, but it makes future costs predictable."
+  },
+  "quiz": [
+    {
+      "q": "What was India's retail inflation in September?",
+      "options": [
+        "4.83%",
+        "5.54%",
+        "6.21%",
+        "7.74%"
+      ],
+      "answer": 1,
+      "why": "Retail inflation rose to 5.54% in September from 4.83% in August. 7.74% was food inflation."
+    },
+    {
+      "q": "Why did the rupee strengthen sharply on Monday?",
+      "options": [
+        "Oil prices fell below $90",
+        "Foreign investors bought heavily",
+        "The RBI made bets against the rupee costlier and set up a dollar window for oil companies",
+        "The RBI cut interest rates"
+      ],
+      "answer": 2,
+      "why": "On Saturday the RBI tightened forex derivative rules and began supplying oil companies' dollar needs directly. The rupee gained 96 paise to about 95.75."
+    },
+    {
+      "q": "When a bond's yield rises, what usually happens to its price?",
+      "options": [
+        "It rises",
+        "It falls",
+        "It stays the same",
+        "It doubles"
+      ],
+      "answer": 1,
+      "why": "Bond prices and yields move in opposite directions, like a seesaw. That's why debt fund values can dip when yields rise."
+    },
+    {
+      "q": "Which part of the market rose on Monday while the Sensex and Nifty fell?",
+      "options": [
+        "PSU banks",
+        "FMCG",
+        "Smallcaps",
+        "Hospitals"
+      ],
+      "answer": 2,
+      "why": "The Nifty Smallcap 100 rose 1.42%. PSU bank, FMCG and hospital shares were among the biggest losers."
+    },
+    {
+      "q": "What does hedging mean?",
+      "options": [
+        "Betting everything on one share",
+        "Protecting yourself against a price moving the wrong way, usually at a small cost",
+        "Borrowing to buy shares",
+        "Selling all your investments"
+      ],
+      "answer": 1,
+      "why": "Hedging works like insurance against price swings, for example by fixing an exchange rate in advance."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry, such as banks, IT, metals or real estate.",
+      "more": "Besides the Sensex and Nifty 50, the exchanges publish indices for single industries, like Nifty Bank, Nifty IT, Nifty Metal or Nifty Realty. They show which parts of the economy investors are feeling good or bad about on a given day. It's like looking at the results of each section of a class, not just the class average. News reports often say 'all sectoral indices ended in the red', which means every industry group fell, a sign the selling was broad rather than limited to one problem area."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Bond yield",
+      "definition": "The yearly return you'd earn from buying a bond at today's price. Yields rise when bond prices fall, and vice versa.",
+      "more": "A bond is a loan to a government or company that pays fixed interest. If the bond's market price falls, the same interest becomes a bigger percentage of what you pay, so the yield rises. They move like a seesaw. Think of a flat earning ₹20,000 rent a month: buy it cheaper and your rental 'yield' is higher. Government bond yields act as a base rate for the whole economy, so when news says 'the 10-year yield rose', loans and FD rates often follow."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "Retail inflation",
+      "definition": "How fast the prices of everyday goods and services bought by households are rising, measured by the Consumer Price Index (CPI).",
+      "more": "Every month the government collects prices of hundreds of items, from vegetables and milk to rent, school fees and bus fares, and works out how much more they cost than a year earlier. That figure is retail inflation. The RBI aims to keep it around 4%, within a band of 2% to 6%. If retail inflation stays above the target, the RBI may raise interest rates to cool demand. When news says 'CPI inflation rose to 4.82% in August', it means a basket of household items cost 4.82% more than in August last year."
+    },
+    {
+      "term": "Food inflation",
+      "definition": "How fast food prices are rising compared with a year earlier.",
+      "more": "Food is a big part of the inflation basket, especially for poorer households who spend a large share of their income on it. Food prices can jump quickly because of poor rains, floods, heatwaves or supply problems, and fall just as quickly after a good harvest. Vegetables like onions and tomatoes swing the most. When food inflation rises, the overall inflation number usually rises too. In the news it is often measured by the Consumer Food Price Index. A kitchen budget that suddenly needs more money for the same thali is food inflation at home."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "Comparing a figure with the same period one year earlier, such as July–September this year versus last year.",
+      "more": "Many businesses are seasonal: shops sell more during festivals, and air-conditioner makers sell more in summer. So comparing one quarter with the quarter just before it can mislead. Comparing it with the same quarter a year earlier removes most of that seasonal effect. It's like comparing this Diwali's sweet sales with last Diwali's, rather than with a quiet month. News reports often write it as 'YoY'. A 23% year-on-year rise means the figure is 23% higher than in the same period last year."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Liquidity",
+      "definition": "How much money is easily available in the financial system, or how easily something can be bought or sold without moving its price.",
+      "more": "Liquidity has two common meanings in the news. In banking, it means how much spare cash banks have to lend; when liquidity is 'tight', loans can become costlier. In markets, it means how easily you can buy or sell. A big company's shares are liquid because there are always buyers and sellers. Think of a busy vegetable market versus a single stall in a quiet lane: in the busy market you can sell quickly at a fair price. When analysts mention a 'lack of liquidity', they mean less money flowing in to support prices."
+    },
+    {
+      "term": "Open market operation",
+      "definition": "When the RBI buys or sells government bonds in the market to add money to, or take money out of, the banking system.",
+      "more": "An open market operation, or OMO, is one of the RBI's tools for managing how much cash banks have. When the RBI sells government bonds, banks and investors pay for them with cash, so money is drawn out of the system. When it buys bonds, it pays cash in, adding money. An OMO sale also adds to the supply of bonds, which can push bond prices down and yields up. It's a bit like a water tank operator opening or closing a valve to raise or lower the level in a town's pipes."
+    },
+    {
+      "term": "Cash reserve ratio",
+      "definition": "The share of customers' deposits that banks must keep as cash with the RBI, earning no interest. Often called CRR.",
+      "more": "When you put ₹1 lakh in a bank, the bank can't lend all of it. A portion must be parked with the RBI as the cash reserve ratio, or CRR. The rule is checked on average over a period, so on some days a bank may keep a bit less and use the spare cash elsewhere. If the RBI asks banks to keep nearly the full amount every single day, banks lose that flexibility, and spare cash in the system shrinks. Think of a household that must keep a fixed amount in the kitchen tin: if it has to stay full every day, there's less cash for spending."
+    },
+    {
+      "term": "Debt fund",
+      "definition": "A mutual fund that invests mainly in bonds and other loans rather than shares.",
+      "more": "A debt fund lends your money to governments and companies by buying their bonds and short-term loans, and earns interest. It is usually less bumpy than an equity fund, but it isn't risk-free: if interest rates rise, the value of the bonds it holds can fall, and if a borrower fails to repay, the fund can lose money. Companies often use debt funds to park spare cash for a few weeks. Think of it as a step between a fixed deposit and a share fund. When news reports 'debt fund outflows', it often means companies withdrawing cash."
+    },
+    {
+      "term": "Fixed deposit",
+      "definition": "A bank deposit where you lock in money for a set period at a fixed interest rate.",
+      "more": "A fixed deposit, or FD, is one of India's most popular ways to save. You choose a period, from a few days to several years, and the bank promises an interest rate for that whole time. If rates rise later, your existing FD keeps its old rate until it matures; only new deposits or renewals get the higher rate. It's like booking a train ticket: the fare you paid stays the same even if fares go up later. News reports on RBI hikes often say 'FD rates may rise'."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Currency moves are often reported in paise.",
+      "more": "Just as a rupee has 100 paise, exchange rate moves are measured in paise. If the rupee goes from 96.71 per dollar to 95.75, it has strengthened by 96 paise, meaning a dollar now costs 96 paise less. That sounds tiny, but on a $1 million import bill it is a difference of about ₹9.6 lakh. Most days, the rupee moves by a few paise up or down. A move of close to one rupee in a day is large and usually linked to big news or RBI action. It's like noticing petrol go up by 50 paise a litre: small per litre, big for a fleet of trucks."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "Record low",
+      "definition": "The weakest level a price or currency has ever reached.",
+      "more": "For the rupee, a record low means the most rupees ever needed to buy one US dollar. News reports often compare the day's level with the record, saying the rupee is 'near' or 'at' its all-time low. Breaking a record low can grab headlines and sometimes prompts the RBI to step in by selling dollars. It's like a team's lowest-ever score: the number matters mostly because of what it says about the trend. For you, a weaker rupee mainly means imports, foreign travel and overseas fees cost more."
+    },
+    {
+      "term": "Forex derivatives",
+      "definition": "Contracts whose value depends on a future exchange rate, such as an agreement to buy dollars at a fixed rate on a later date.",
+      "more": "Forex is short for foreign exchange. A forex derivative is a deal linked to a currency's future price, such as a 'forward' contract that fixes today the rate at which a company will buy dollars next month. Importers and exporters use them to protect themselves. But traders can also use them to bet that the rupee will fall, and lots of such bets can push it down further. That is why the RBI sometimes tightens the rules, as it did over the weekend. It's like a pre-booked price for a train ticket that can be useful for travellers, or traded by touts."
+    },
+    {
+      "term": "Hedging",
+      "definition": "Taking a step that protects you against a price moving the wrong way, usually at a small cost.",
+      "more": "Hedging is like buying insurance for a price. An Indian company that must pay $1 million to a foreign supplier in three months worries the rupee may weaken, making that bill costlier in rupees. It can sign a contract with a bank today that fixes the exchange rate it will pay. If the rupee falls, the company is protected; if the rupee rises, it gives up a small gain. It's like booking a wedding hall early at a fixed price so a later price rise doesn't hurt. In the news, 'hedging costs' means what companies pay for this protection."
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars in the currency market to steady the rupee.",
+      "more": "The RBI holds large reserves of foreign currency. When the rupee falls too fast, it can sell dollars from these reserves and buy rupees, which supports the rupee. When the rupee rises too fast, it can do the opposite. The RBI says it doesn't target a particular exchange rate; it acts to smooth sharp swings. Traders often say the RBI was 'likely' intervening because it rarely confirms this on the day. Think of a traffic constable at a busy junction: they don't stop the traffic, but they keep it from turning chaotic."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route out of the Persian Gulf through which a large share of the world's oil is shipped.",
+      "more": "The Strait of Hormuz lies between Iran and Oman. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait, Qatar and Iran pass through it, so any disruption there quickly pushes up global oil prices. India buys much of its crude from Gulf countries, so news from Hormuz matters directly for Indian fuel prices and the rupee. Think of it as a single narrow gate out of a huge oil market: if the gate is blocked, supply everywhere gets tighter."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that do technology work, such as writing software and running computer systems, for other businesses, often abroad.",
+      "more": "Indian IT services firms like TCS, Infosys, Wipro and HCLTech employ lakhs of people and earn most of their money from clients in the US and Europe. They build software, manage data centres and help companies move to the cloud. Think of them as highly skilled contractors hired for technology projects. Their earnings depend on how much overseas clients spend. The Nifty IT index tracks the biggest listed IT companies. News about them often focuses on 'deal wins', 'client spending' and 'guidance', meaning companies' own forecasts for growth."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its sales, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish their financial results every quarter, meaning every three months. The July–September quarter is often called Q2, because India's financial year starts in April. Results show how much a company sold, what it spent and how much profit it made, compared with the same period a year earlier. Think of it like a report card that arrives four times a year. Share prices often move sharply on results day if the numbers are better or worse than analysts expected."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "Dividend",
+      "definition": "A share of a company's profit paid out in cash to its shareholders.",
+      "more": "When a company makes a profit, it can keep the money to grow the business or pay part of it to its owners, the shareholders. That payment is a dividend, usually stated as rupees per share. If a company declares ₹12 per share and you own 10 shares, you receive ₹120. An 'interim' dividend is one paid during the year rather than after the full-year results. It's a bit like a family business sharing some of a good season's earnings among the partners. Not all companies pay dividends, and they can change or stop them."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "AMFI",
+      "definition": "The Association of Mutual Funds in India, the industry body that publishes monthly mutual fund data.",
+      "more": "AMFI brings together the companies that run mutual funds in India. Every month it releases data on how much money came into and went out of different types of funds, including the total SIP inflow. The news uses these numbers to judge how ordinary Indians feel about investing. It also runs awareness campaigns and registers mutual fund distributors. Think of it as the residents' association of the mutual fund world: it doesn't manage your money itself, but it keeps the records and speaks for the members. SEBI, not AMFI, is the regulator."
+    },
+    {
+      "term": "Assets under management",
+      "definition": "The total value of all the money a fund house or the whole fund industry is managing. Often shortened to AUM.",
+      "more": "AUM adds up the current value of every investment held by mutual funds. It rises when new money flows in or when markets rise, and falls when investors withdraw money or markets fall. A fall in AUM doesn't always mean people are leaving: a falling market alone can shrink it. Companies and banks often park large sums in short-term debt funds and pull them out near the end of a quarter, which can cause big swings. It's like the total value of all the gold kept in a jeweller's lockers: it changes when people deposit or withdraw, and when the gold price moves."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex sheds 548 pts, Nifty ends at 22,363; FMCG, PSU Bank indices underperform",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-12-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-126101200057_1.html"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 12 October 2026",
+      "url": "https://kotakneo.com/news/market-news/sensex-and-nifty-50-close-lower"
+    },
+    {
+      "title": "National Herald: Rs 14.73 lakh cr wiped out in intraday estimate as Sensex sheds 548 pts",
+      "url": "https://www.nationalheraldindia.com/business/sensex-falls-548-points-investor-wealth-wiped-out-crude-oil-fii-stockmarket-crash"
+    },
+    {
+      "title": "IBTimes India: Sensex drops 548 points, Nifty slips below 22,400 as FMCG, PSU Bank stocks drag",
+      "url": "https://www.ibtimes.co.in/sensex-drops-548-points-nifty-slips-below-22400-fmcg-psu-bank-stocks-drag-907388"
+    },
+    {
+      "title": "HDFC Sky: India VIX Jumps 6% to 15.23",
+      "url": "https://hdfcsky.com/news/india-vix-rises-6-percent-market-volatility-update"
+    },
+    {
+      "title": "Business Standard: Oil prices, yields among key factors behind Sensex's intraday fall",
+      "url": "https://www.business-standard.com/amp/markets/news/oil-prices-yields-among-key-factors-behind-sensex-s-1-200pts-intraday-fall-126101200540_1.html"
+    },
+    {
+      "title": "Free Press Journal: Retail Inflation Rises To 5.54% In September As Food Prices Surge",
+      "url": "https://www.freepressjournal.in/business/india-retail-inflation-rises-to-554-in-september-as-food-prices-surge"
+    },
+    {
+      "title": "Goodreturns: India CPI Inflation September 2026",
+      "url": "https://www.goodreturns.in/news/india-cpi-inflation-september-2026-retail-inflation-rises-to-5-54-as-food-prices-surge-onion-infl-1540859.html"
+    },
+    {
+      "title": "Kotak Neo: India 10-Year Bond Yield Hits 3-Year High Above 7.37%",
+      "url": "https://www.kotakneo.com/news/global-markets/india-10-year-bond-yield-hits-3-year-high-rbi-liquidity-measures/"
+    },
+    {
+      "title": "The Tribune: India's 10-year bond yield hits 7.40%",
+      "url": "https://www.tribuneindia.com/news/business/indias-10-year-bond-yield-hits-7-40-experts-see-pressure-on-credit-growth"
+    },
+    {
+      "title": "Daily Excelsior: Rupee jumps 96 paise to close at 95.75 against US dollar",
+      "url": "https://www.dailyexcelsior.com/rupee-jumps-96-paise-to-close-at-95-75-against-us-dollar/"
+    },
+    {
+      "title": "Business Today: RBI's rupee defence, special dollar window for oil firms, tighter forex derivative rules",
+      "url": "https://www.businesstoday.in/latest/economy/story/rbis-rupee-defence-special-dollar-window-for-oil-firms-tighter-forex-derivative-rules-560793-2026-10-10"
+    },
+    {
+      "title": "Gulf Business: Oil prices slip on Trump's Russian diesel deal, Ukraine energy ceasefire",
+      "url": "https://gulfbusiness.com/en/2026/energy/oil-prices-slip-on-trumps-russian-diesel-deal-ukraine-energy-ceasefire/"
+    },
+    {
+      "title": "Business Standard: HCLTech Q2 net profit rises 21.2% to ₹5,132 cr, revenue climbs 11.5%",
+      "url": "https://www.business-standard.com/amp/companies/quarterly-results/hcltech-q2-net-profit-rises-21-2-to-5-132-cr-revenue-climbs-11-5-126101200772_1.html"
+    },
+    {
+      "title": "Zee Business: HCLTech Q2 Results, Rs 12 dividend declared",
+      "url": "https://www.zeebiz.com/market-news/news-hcltech-q2-results-profit-rises-105-qoq-beats-estimates-rs-12-dividend-declared-403785"
+    },
+    {
+      "title": "Zee Business: AMFI September Data 2026, SIP inflows hit record Rs 32,490 crore",
+      "url": "https://www.zeebiz.com/personal-finance/mutual-fund/news-amfi-september-data-2026-mf-aum-falls-51-mom-to-rs-8264-lakh-crore-sip-inflows-hit-record-rs-32490-crore-403757"
+    },
+    {
+      "title": "Kotak Neo: FII DII Data",
+      "url": "https://www.kotakneo.com/share-market-today/fii-dii-data/"
+    },
+    {
+      "title": "Business Standard: Stocks to watch, HCLTech, DMart, M&M",
+      "url": "https://business-standard.com/amp/markets/news/stocks-to-watch-hcltech-dmart-m-m-adani-green-kec-int-l-icici-pru-126101200059_1.html"
+    }
+  ]
+}

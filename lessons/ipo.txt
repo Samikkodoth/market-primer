@@ -1,0 +1,32 @@
+## The big idea
+
+An **IPO** (initial public offering) is the first time a company sells its shares to the general public. Before an IPO, a company is owned by its founders, early investors and sometimes employees. After it, anyone with a demat account can buy and sell its shares on the NSE and BSE.
+
+Companies go public to raise money for growth, to pay off loans, or to let early owners sell part of their stake. Money raised by issuing new shares goes to the company and is called a **fresh issue**. Shares sold by existing owners are an **offer for sale**, and that money goes to them, not the company.
+
+The company sets a **price band**, say ₹100 to ₹105 per share, and the IPO stays open for a few days. Investors apply for a minimum **lot** of shares. If more shares are requested than are on offer, the IPO is **oversubscribed**, and shares are given out through **allotment**, often by lottery for small investors. A few days later the shares **list** on the exchange.
+
+## An everyday analogy
+
+Think of a popular family-run restaurant that wants to open ten new branches. Instead of borrowing from a bank, the owners invite the public to buy a small share of the business. In return, buyers own a slice of future profits.
+
+## A real Indian example
+
+Suppose Meena, a teacher in Nagpur, applies for one lot of an IPO priced at ₹105 per share, with 140 shares in a lot, so she blocks about ₹14,700 in her bank account through UPI. The IPO is heavily oversubscribed, and she doesn't get any shares in the lottery. The money is simply unblocked. Had she been allotted shares, they could have listed above or below ₹105. A rise on day one is called a **listing gain**; a fall is a listing loss.
+
+## Common misunderstandings
+
+- **"IPOs always go up on listing day."** Many do, but plenty list below their issue price.
+- **"A big, famous company means a safe IPO."** A well-known name doesn't guarantee a good price. What matters is whether the price is reasonable for the company's earnings.
+- **"Heavy oversubscription means the shares are cheap."** It shows strong demand, often driven by excitement. It isn't a guarantee of value.
+- **"The grey market premium is official."** It is an unofficial, unregulated estimate and is often wrong.
+
+## How it shows up in the news
+
+You'll see headlines about a company filing its **DRHP** (draft red herring prospectus) with SEBI, setting a price band, raising money from **anchor investors** a day before opening, and how many times each category of investor subscribed. Rules on lot sizes, application limits and the time between closing and listing change over time, so check the current ones on the exchange or SEBI websites.
+
+## Three things to remember
+
+1. An IPO is a company's first sale of shares to the public; after listing, they trade like any other share.
+2. Oversubscription and buzz show demand, not value; shares can list below the issue price.
+3. Read what the company does, why it's raising money and how it earns profit, not just the hype.
