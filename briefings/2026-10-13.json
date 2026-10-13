@@ -1,0 +1,519 @@
+{
+  "date": "2026-10-13",
+  "session_label": "Tuesday 13 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex jumped 1,109 points as the Finance Minister said she was open to views on taxes on share-market profits and IT shares surged after HCLTech's results; the rupee rose for a third day.",
+  "mood": "Upbeat",
+  "mood_note": "Hopes of tax relief and strong IT results lifted shares across the board, more than reversing Monday's fall. Oil above $100 and foreign selling remain worries.",
+  "reading_minutes": 11,
+  "since_yesterday": [
+    "On Monday the Nifty fell 0.70% to 22,363.35. Today it rose 358.60 points and ended higher than Friday's close.",
+    "The rupee ended Monday at 95.78 per dollar, slightly weaker than the early estimate of about 95.75. Today it gained another 40 paise.",
+    "Foreign investors sold ₹1,708.48 crore of shares on Monday, according to provisional data, while domestic institutions bought ₹3,045.02 crore."
+  ],
+  "one_minute": [
+    "The Sensex rose 1,109.10 points (1.54%) to 73,033.78 and the Nifty 50 rose 358.60 points (1.60%) to 22,721.95.",
+    "Finance Minister Nirmala Sitharaman did not rule out changes to tax on long-term share profits, saying it was not yet the moment to say what the government would do.",
+    "IT shares jumped after HCLTech's results. HCLTech rose about 8.4% and TCS about 6.8%.",
+    "The rupee rose 40 paise to 95.38 per dollar (provisional), its third straight gain. Brent crude eased to around $105.",
+    "India VIX, a measure of expected market swings, fell about 7.4%, a sign of less nervousness."
+  ],
+  "big_picture": "Today was a relief day for Indian shares.\n\nThe biggest boost came from the Finance Minister. Asked about taxes on share-market profits, she said the government is starting to prepare next year's Budget and will listen to views, including calls to remove the tax on long-term gains. She promised nothing, but investors took it as a hopeful sign.\n\nIT companies added to the gains after HCLTech reported strong results, and the rupee strengthened for a third day thanks to the RBI's new rules and slightly cheaper oil.\n\nThe bigger worries haven't gone away. Oil is still above $100, foreign investors are still selling, and interest rates are rising. For most people, nothing changes today: tax rules stay the same until the Budget says otherwise.",
+  "chain": [
+    {
+      "label": "Finance Minister speaks",
+      "note": "At a Bloomberg event in New Delhi, she said the government would listen to views on long-term capital gains tax and STT ahead of the Budget."
+    },
+    {
+      "label": "Hopes of tax relief",
+      "note": "Investors hoped lower taxes on share profits could come in the Budget, though nothing was promised."
+    },
+    {
+      "label": "IT results add fuel",
+      "note": "HCLTech's strong results lifted IT shares; HCLTech rose about 8.4% and TCS about 6.8%."
+    },
+    {
+      "label": "Rupee and oil help",
+      "note": "The rupee rose to 95.38 per dollar and Brent eased to around $105."
+    },
+    {
+      "label": "Shares jump",
+      "note": "The Nifty rose 1.60% to 22,721.95, and the VIX fell about 7.4%."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "73,033.78",
+      "change": "+1,109.10 (+1.54%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It more than made up Monday's fall."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,721.95",
+      "change": "+358.60 (+1.60%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap",
+      "value": "",
+      "change": "+1.06%",
+      "direction": "up",
+      "what_it_is": "This tracks medium-sized companies. They rose with the big ones."
+    },
+    {
+      "name": "Nifty Smallcap",
+      "value": "",
+      "change": "+0.11%",
+      "direction": "up",
+      "what_it_is": "This tracks smaller listed companies. They ended only slightly higher."
+    },
+    {
+      "name": "India VIX",
+      "value": "about 14",
+      "change": "about -7.4%",
+      "direction": "down",
+      "what_it_is": "A measure of how much traders expect the market to swing. It fell, showing less nervousness."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "about +4% to +5.2% (reports differ)",
+      "direction": "up",
+      "what_it_is": "This tracks India's big IT companies. It was the day's best-performing sector."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "95.38",
+      "change": "stronger by 40 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "about $105",
+      "change": "down about 1–2% (afternoon)",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "Gold (MCX)",
+      "value": "₹1,49,517 per 10 g",
+      "change": "lower (afternoon)",
+      "direction": "down",
+      "what_it_is": "The price of gold futures on India's commodity exchange. It shapes jewellery prices."
+    },
+    {
+      "name": "S&P 500 (US, Monday)",
+      "value": "7,807.24",
+      "change": "-0.06%",
+      "direction": "flat",
+      "what_it_is": "A main index of 500 large US companies. US shares ended almost flat in their last session."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-jumps-1109-on-tax-remarks-and-it-rally",
+      "category": "Stock market",
+      "title": "Sensex jumps 1,109 points and Nifty ends at 22,722 on the Finance Minister's tax remarks and an IT rally",
+      "tldr": "Indian shares rose sharply, recovering all of Monday's losses, as the Finance Minister said she was open to views on share-market taxes and IT stocks surged after HCLTech's results.",
+      "what_happened": "The Sensex rose 1,109.10 points, or 1.54%, to close at 73,033.78. The Nifty 50 rose 358.60 points, or 1.60%, to 22,721.95. That more than wiped out Monday's fall.\n\nThe gains were broad. The Nifty Midcap index rose 1.06% and the Nifty Smallcap index 0.11%. IT shares led, and metal, PSU bank, auto, consumer durables and realty indices each rose about 1%. Pharma and energy were the only sectors to close lower.\n\nAmong Nifty 50 companies, HCLTech rose about 8.4%, TCS about 6.8% and Shriram Finance about 6.3%. Kotak Mahindra Bank, Eternal and Maruti Suzuki fell slightly, each by less than 1%.\n\nIndia VIX, a measure of expected swings, fell about 7.4% to around 14.",
+      "simple_explanation": "Indian shares had a strong day on Tuesday.\n\nTwo things lifted the mood. First, Finance Minister Nirmala Sitharaman said the government would listen to views on the taxes people pay on share-market profits and trades. Investors hope that could mean lower taxes in the next Budget, though nothing has been decided.\n\nSecond, IT companies' shares jumped after HCLTech reported good results. The rupee also strengthened again and oil eased a little.\n\nThe drop in the VIX shows traders became less nervous.",
+      "analogy": "Think of a cricket team that collapsed yesterday but came back today with two batsmen scoring quick fifties. The scoreboard jumps, the crowd relaxes, and the team is back ahead of where it started the match.",
+      "why": "Reports linked the rally to the Finance Minister's remarks on long-term capital gains tax and securities transaction tax, made at the Bloomberg New Economy Forum in New Delhi. Shares extended their morning gains after she spoke.\n\nIT stocks rose sharply after HCLTech's results beat expectations, lifting other IT companies too. Some analysts also pointed to value buying in consumer goods shares like Hindustan Unilever and ITC after recent falls, and to the calmer VIX.\n\nAnalysts quoted by IANS said the Nifty faces resistance near 22,800, with 23,000 the next level they are watching, and support around 22,600.",
+      "implications": {
+        "you": "A Nifty 50 index fund rose about 1.6% today, roughly ₹1,600 on every ₹1 lakh, recovering Monday's dip. If you invest through a monthly SIP, nothing changes. One good day doesn't change the long-term picture.",
+        "markets": "Hopes of tax relief and strong IT results gave investors a reason to buy. But foreign investors have been steady sellers, and oil and interest rates remain concerns.",
+        "economy": "One day's market move says little about the economy. Any tax change would only come in the Budget, months away.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "Whether the rally holds, whether foreign investors keep selling, US inflation data on Wednesday, and more July–September company results.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "Sectoral index",
+        "India VIX",
+        "LTCG",
+        "STT",
+        "Value buying",
+        "IT services",
+        "Quarterly results"
+      ],
+      "explainers": {
+        "like12": "Imagine the share market as a big scoreboard for India's biggest companies. On Monday the score went down. On Tuesday it shot back up, even higher than before.\n\nWhy? Two pieces of good news. First, the Finance Minister, who looks after the country's money, said she would listen to people who want lower taxes on profits from shares. Nothing has changed yet, but people felt hopeful.\n\nSecond, a big computer-services company called HCLTech said it had a good few months. So people bought shares in it and in similar companies.\n\nWhen many people buy at once, prices go up. That's what happened today.",
+        "real_life": "Meet Arjun, a 29-year-old sales manager in Pune. He has ₹1.5 lakh in a Nifty 50 index fund, built through a ₹5,000 monthly SIP.\n\nOn Monday his fund fell about 0.70%, roughly ₹1,050. Today it rose about 1.6%, roughly ₹2,400. Over two days, he is a little ahead.\n\nArjun doesn't need to act on either move. His SIP buys units on the same date every month, whatever the market does. The tax news may matter to him in future: if the government lowers tax on long-term share profits in the Budget, he could keep a little more when he eventually sells. But that's only a possibility, not a decision."
+      }
+    },
+    {
+      "id": "fm-open-to-views-on-ltcg-and-stt",
+      "category": "Government and policy",
+      "title": "Finance Minister does not rule out changes to tax on long-term share profits; calls debate on STT healthy",
+      "tldr": "Nirmala Sitharaman said Budget preparations have begun and the government would listen to views on long-term capital gains tax and securities transaction tax, but it was not the right moment to say what it might do.",
+      "what_happened": "Speaking at the Bloomberg New Economy Forum in New Delhi on Tuesday, Finance Minister Nirmala Sitharaman did not rule out changes to the tax on long-term capital gains (LTCG). She said preparations for the next Union Budget have started and this was not the time to say what the government would consider. She said the government would listen keenly to views, including calls to remove the tax.\n\nShe also said a debate on the securities transaction tax (STT) was healthy.\n\nAccording to reports, long-term gains on listed shares and equity mutual funds held for more than a year are currently taxed at 12.5% on gains above ₹1.25 lakh a year. The Budget for 2027-28 is expected on 1 February 2027.\n\nShe also said the rupee had weakened significantly over the past year and a half, and that the RBI would keep working to prevent excessive swings.",
+      "simple_explanation": "When you sell shares at a profit, you pay tax on that profit. If you held the shares for more than a year, it's called long-term capital gains tax. Every time shares are bought or sold, a small tax called STT is also charged.\n\nMany investors, and some Indian and foreign investment groups, have been asking the government to lower or remove these taxes.\n\nThe Finance Minister didn't promise anything. She said only that the government is listening. Markets liked hearing that the door is open.",
+      "analogy": "It's like a school principal telling parents, 'We're starting to plan next year's fees, and we're happy to hear your views.' No fee cut has been announced, but parents leave the meeting feeling a little more hopeful.",
+      "why": "Industry groups and foreign investors have repeatedly argued that India's capital gains tax rules make Indian shares less attractive, and that this affects investment flows. SBI Research has also called for removing LTCG tax on shares, according to reports.\n\nThe last Budget, in February 2026, kept the capital gains structure unchanged despite some market hopes for relief, and it raised STT on futures and options trades.\n\nThe remarks come as foreign investors have been selling Indian shares heavily. Changing taxes also has a cost: the government would collect less revenue, which it would need to make up elsewhere.",
+      "implications": {
+        "you": "Nothing changes today. If you sell shares or equity fund units, the current tax rules still apply. Any change would come in the Budget, and it may not happen at all.",
+        "markets": "Lower taxes on share profits could make Indian shares more attractive to both Indian and foreign investors. Markets reacted to the hope, not to a decision.",
+        "economy": "Capital gains tax and STT bring in revenue for the government. Cutting them could encourage investment but would reduce tax collections, unless the gap is made up elsewhere.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Further comments from the government as Budget preparations continue, and what the Budget on 1 February 2027 actually says.",
+      "terms": [
+        "Capital gains",
+        "LTCG",
+        "STT",
+        "Union Budget",
+        "Futures and options",
+        "FII"
+      ],
+      "explainers": {
+        "like12": "Suppose you buy a cricket bat for ₹1,000, keep it for two years, and sell it for ₹1,500. You made ₹500 profit. With shares, the government takes a small slice of that kind of profit as tax.\n\nThere's also a tiny charge every time someone buys or sells shares, a bit like a ticket fee.\n\nMany investors want the government to make these taxes smaller. On Tuesday, the Finance Minister said she is listening to their views while planning next year's Budget. She didn't promise anything. But just hearing that made investors happier, so share prices rose.",
+        "real_life": "Meet Fatima, a 42-year-old school administrator in Bhopal. She has been investing ₹6,000 a month in an equity mutual fund for eight years.\n\nSuppose she withdraws some money for her daughter's college fees and makes a long-term profit of ₹2 lakh. Under the current rules reported today, the first ₹1.25 lakh of long-term gains in a year is tax-free, so she would pay 12.5% on the remaining ₹75,000, about ₹9,375.\n\nIf the government ever lowered or removed this tax, she would keep more. But nothing has been decided. The Finance Minister only said the government is listening. Fatima's tax today is the same as it was yesterday."
+      }
+    },
+    {
+      "id": "it-stocks-surge-after-hcltech-results",
+      "category": "Companies",
+      "title": "IT shares surge as HCLTech jumps about 8% after its results; TCS, Tech Mahindra and Infosys also gain",
+      "tldr": "Investors cheered HCLTech's higher profit, better margins and firmer yearly forecast, lifting the whole IT sector. The Nifty IT index had one of its best days in well over a year.",
+      "what_happened": "HCLTech's shares rose about 8.4% on Tuesday, a day after it reported July–September results. TCS rose about 6.8%, Tech Mahindra about 4.9% and Infosys about 4.1%, all among the Nifty's biggest gainers.\n\nThe Nifty IT index rose between about 4% and 5.2%, depending on the report. One report called it the index's best single day in more than 17 months.\n\nHCLTech had reported a 21.2% rise in net profit to ₹5,132 crore and an 11.5% rise in revenue to ₹35,620 crore. Its EBIT margin improved to 18.2%. It narrowed its growth forecast for this financial year to 2.5% to 4% in constant currency, from 1% to 4% earlier, which raises the lower end.",
+      "simple_explanation": "HCLTech is one of India's biggest IT companies. On Monday evening it told investors it made more profit than a year ago and kept more of each rupee it earned.\n\nIt also said it was more confident about the rest of the year: the lowest growth it now expects is higher than before.\n\nInvestors liked this and bought its shares. They also bought shares of other IT companies, hoping they will report similar news. IT shares had fallen a lot this year, so some of the buying was a rebound.",
+      "analogy": "Imagine the first student from a class to get exam results scores better than expected. Other parents start feeling hopeful about their own children's marks, even before those results come out. One good report card lifted the mood for the whole class.",
+      "why": "HCLTech's profit came in above what analysts had expected, according to reports, and its margin improved. CEO C Vijayakumar said the revised forecast was backed by strong deal wins, a healthy pipeline of new work and growing demand for AI-related services.\n\nBrokerages were mixed on the outlook, according to Business Standard. Some analysts noted that the forecast still points to fairly slow growth.\n\nIT companies have faced worries about weak demand from clients abroad and about AI reducing the need for some kinds of work. Strong results from HCLTech, and from TCS earlier, eased those worries for now.",
+      "implications": {
+        "you": "If you hold a Nifty 50 index fund, IT companies make up a meaningful part of it, so today's jump helped. If you work in IT, steady results and new deals suggest demand is holding up, especially for AI skills.",
+        "markets": "IT is a large part of the Nifty 50, so a strong IT day lifts the whole index. More IT results in the coming days will test whether the optimism lasts.",
+        "economy": "IT companies employ lakhs of people and bring dollars into India, which supports the rupee.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Results from other IT companies in the coming days, and whether IT shares hold today's gains.",
+      "terms": [
+        "IT services",
+        "Quarterly results",
+        "EBIT margin",
+        "Guidance",
+        "Constant currency",
+        "Brokerage",
+        "Sectoral index"
+      ],
+      "explainers": {
+        "like12": "HCLTech is a big Indian company that builds and runs computer systems for businesses around the world.\n\nEvery three months, companies share a report card. HCLTech's showed that it earned more than last year and kept more of its money as profit. It also said it expects the rest of the year to go at least a little better than it said before.\n\nInvestors liked this so much that its share price jumped about 8% in one day. People also bought shares of other computer-services companies like TCS and Infosys, hoping their report cards will be good too.",
+        "real_life": "Meet Lakshmi, a 34-year-old software tester at a mid-sized IT firm in Chennai. She also invests ₹4,000 a month in a Nifty 50 index fund.\n\nFor her fund, today's IT rally helped, since companies like TCS, Infosys and HCLTech are among its holdings. Her fund rose about 1.6% today.\n\nFor her job, the bigger signal is that large IT companies are winning new deals, especially in AI. That suggests clients abroad are still spending. It doesn't guarantee pay rises or job safety, but learning AI-related testing tools could help her career. Share prices can fall again just as quickly, so she keeps her SIP going as usual."
+      }
+    },
+    {
+      "id": "rupee-gains-for-third-day-oil-eases",
+      "category": "Rupee and oil",
+      "title": "Rupee gains 40 paise to about 95.38 per dollar for a third straight rise; oil eases slightly",
+      "tldr": "The rupee strengthened again as the RBI's new rules continued to curb bets against it and oil prices dipped. The RBI also extended one of its new rules to banks' own currency deals.",
+      "what_happened": "The rupee closed at 95.38 per US dollar (provisional), up 40 paise from Monday's close of 95.78. It was its third straight day of gains. Early in the day it was close to 95.\n\nThe RBI extended its new cash reserve rule on certain rupee-linked forex derivative deals to cover banks' own hedging contracts as well. Banks must keep 20% of the rupee value of such contracts in cash with the RBI. Last week's version applied to customer deals above $2 million.\n\nBrent crude was around $105 a barrel in the afternoon, down about 1% to 2% in different reports. The dollar index, which tracks the dollar against major currencies, was down 0.26% at 102.32.\n\nForeign investors sold ₹1,708.48 crore of Indian shares on Monday, while domestic institutions bought ₹3,045.02 crore, according to provisional data.",
+      "simple_explanation": "The rupee has been weak for months, partly because oil is expensive and India buys most of its oil from abroad.\n\nLast week the RBI made it costlier to bet against the rupee, and started giving dollars directly to the big oil companies. Since then, the rupee has risen for three days in a row.\n\nToday, oil was also a little cheaper, and the dollar was a little weaker worldwide. Both helped the rupee.",
+      "analogy": "Think of a busy railway counter where touts were buying tickets in bulk and pushing up prices. Once the railways made bulk booking costlier and gave large groups their own counter, the queue calmed down. The rupee is like that queue: with less pressure, it has steadied.",
+      "why": "Dilip Parmar of HDFC Securities said the rupee's rise was driven by the RBI's steps to limit swings. He said outside economic pressures are likely to limit further gains.\n\nOil eased slightly, but attacks by Houthi rebels on Saudi Arabia over the weekend and reported attacks on tankers near the Strait of Hormuz kept prices above $100.\n\nForeign investors have been selling Indian shares for many sessions, which keeps pressure on the rupee. Domestic institutions, supported by steady SIP money, have been buying.",
+      "implications": {
+        "you": "A stronger rupee helps a little if you pay for things in dollars, like foreign travel, overseas tuition or imported gadgets. Petrol and diesel prices are set by oil companies and the government, so they don't change with a few days' rupee moves.",
+        "markets": "A steadier rupee makes Indian shares a little more attractive to foreign investors, because their returns are not eaten up by currency losses.",
+        "economy": "A stronger rupee makes oil and other imports cheaper in rupees, which helps keep inflation in check. How long it lasts depends on oil prices and foreign money flows.",
+        "prices": "If the rupee stays stronger and oil eases, import costs may come down a little over time. Oil above $100 still keeps pressure on prices."
+      },
+      "watch": "Whether the rupee holds near 95, oil prices as Middle East tensions continue, and whether foreign investors slow their selling.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Forex derivatives",
+        "Hedging",
+        "RBI intervention",
+        "Cash reserve ratio",
+        "Brent crude",
+        "Barrel",
+        "Dollar index",
+        "FII",
+        "DII"
+      ],
+      "explainers": {
+        "like12": "To buy things from other countries, like oil, India needs US dollars. The rupee's 'price' tells you how many rupees you need for one dollar.\n\nA few days ago you needed almost 97 rupees. Today you needed about 95.38. That means the rupee got stronger.\n\nWhy? The RBI, India's money manager, made it harder for traders to bet that the rupee would fall. It also started giving dollars straight to the big oil companies. Oil also got a little cheaper today.\n\nA stronger rupee is a bit like your pocket money buying more chocolates from a foreign shop.",
+        "real_life": "Meet Rohan, a 38-year-old bank officer in Kolkata. His son is applying to a university in the US, and the first-year fees are $30,000.\n\nAt 96.71 rupees per dollar, as on Friday, that would cost about ₹29 lakh. At today's 95.38, it costs about ₹28.6 lakh, roughly ₹40,000 less.\n\nThat's helpful, but not guaranteed to last. The rupee could weaken again if oil rises or foreign investors keep selling. Rohan can't control that. What he can do is plan for some swing in the rupee cost when he budgets for fees, rather than counting on today's rate."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Capital gains tax",
+    "explanation": "Capital gains tax is the tax you pay on the profit when you sell an investment, such as shares, mutual fund units, gold or property, for more than you paid.\n\nYou pay it only when you sell, not while the value is rising on paper. The rate usually depends on two things: what you sold, and how long you held it. Profits on investments held for a long time are called long-term capital gains (LTCG), and they are usually taxed at a lower rate than short-term gains, to encourage people to invest patiently.\n\nThe government sets these rates and limits, and changes them from time to time, usually in the Union Budget. That's why the market pays close attention whenever the Finance Minister talks about them.",
+    "example": "On Tuesday, Finance Minister Nirmala Sitharaman said the government would listen to views on LTCG tax, including calls to remove it, as it prepares the next Budget. Reports say long-term gains on listed shares and equity funds are currently taxed at 12.5% above ₹1.25 lakh a year. Just the possibility of a change helped the Sensex jump 1,109 points.",
+    "takeaway": "Capital gains tax is the government's share of your investment profit. It applies only when you sell, and the rules can change with each Budget."
+  },
+  "quiz": [
+    {
+      "q": "By how much did the Sensex rise on Tuesday?",
+      "options": [
+        "358.60 points",
+        "547.65 points",
+        "1,109.10 points",
+        "2,000 points"
+      ],
+      "answer": 2,
+      "why": "The Sensex rose 1,109.10 points, or 1.54%, to 73,033.78. 358.60 points was the Nifty 50's gain."
+    },
+    {
+      "q": "What did the Finance Minister say about long-term capital gains tax?",
+      "options": [
+        "It will be removed from next month",
+        "It will be doubled in the Budget",
+        "She did not rule out changes and said the government would listen to views",
+        "She refused to discuss it"
+      ],
+      "answer": 2,
+      "why": "She said Budget preparations have begun and the government would listen keenly to views, but it was not the right moment to say what it would consider."
+    },
+    {
+      "q": "When do you pay capital gains tax on shares?",
+      "options": [
+        "Every month while you hold them",
+        "Only when you sell them at a profit",
+        "Only when their price falls",
+        "When you first buy them"
+      ],
+      "answer": 1,
+      "why": "Capital gains tax applies to the profit you make when you sell. A rise in value on paper isn't taxed until you sell."
+    },
+    {
+      "q": "Which company's results sparked Tuesday's IT rally?",
+      "options": [
+        "HCLTech",
+        "Kotak Mahindra Bank",
+        "Maruti Suzuki",
+        "ITC"
+      ],
+      "answer": 0,
+      "why": "HCLTech's shares rose about 8.4% after it reported higher profit and better margins. Kotak Mahindra Bank and Maruti Suzuki were among the few losers."
+    },
+    {
+      "q": "The rupee moved from 95.78 to 95.38 per dollar. What does that mean?",
+      "options": [
+        "The rupee got weaker",
+        "The rupee got stronger",
+        "Nothing changed",
+        "The dollar became worthless"
+      ],
+      "answer": 1,
+      "why": "Fewer rupees are needed to buy one dollar, so the rupee strengthened, by 40 paise."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex zooms 1,109 pts after FM's comments on LTCG, STT; Nifty ends at 22,722",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-13-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101300081_1.html"
+    },
+    {
+      "title": "The Hans India (IANS): Sensex surges over 1,100 points as FM's remarks on LTCG, STT boost sentiment",
+      "url": "https://www.thehansindia.com/business/sensex-surges-over-1100-points-as-fms-remarks-on-ltcg-stt-boost-sentiment-1132100"
+    },
+    {
+      "title": "HDFC Sky: Sectoral snapshot, 13 October 2026, IT, metal, PSU bank, auto stocks rally",
+      "url": "https://hdfcsky.com/news/sectoral-snapshot-today-october-13-2026-it-metal-psu-bank-auto-stocks-rally-hcltech-tcs-shriram-finance-lead-nifty-gainers"
+    },
+    {
+      "title": "Equitymaster: Sensex today rallies 1,109 points, Nifty above 22,700",
+      "url": "https://equitymaster.com/indian-share-markets/10/13/2026/Sensex-Today-Rallies-1109-Points--Nifty-Above-22700--3-Reasons-Why-Indian-Share-Markets-Are-Rising"
+    },
+    {
+      "title": "BusinessToday: Sensex, Nifty extend gains on FM Sitharaman's LTCG tax, STT remark",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sensex-nifty-extend-gains-on-fm-sitharamans-ltcg-tax-stt-remark-561274-2026-10-13"
+    },
+    {
+      "title": "IBTimes India (IANS): FM Sitharaman says government may consider changes to LTCG tax regime",
+      "url": "https://www.ibtimes.co.in/fm-sitharaman-says-government-may-consider-changes-ltcg-tax-regime-907448"
+    },
+    {
+      "title": "HDFC Sky: HCLTech shares surge over 6% post Q2 earnings",
+      "url": "https://hdfcsky.com/news/hcltech-shares-surge-over-6-pc-post-q2-earnings"
+    },
+    {
+      "title": "Business Standard: HCL Tech shares gain over 4% after Q2 results; brokerages remain mixed",
+      "url": "https://www.business-standard.com/amp/markets/news/hcl-tech-shares-gain-over-4-after-q2-results-brokerages-remain-mixed-126101300164_1.html"
+    },
+    {
+      "title": "Outlook Money: What's behind the 5% rally in Nifty IT index",
+      "url": "https://www.outlookmoney.com/invest/nifty-it-stocks-jumps-5-percent-hcl-technologies-tcs-infosys-share-price"
+    },
+    {
+      "title": "HDFC Sky (PTI): Rupee rises 40 paise to 95.38 as RBI measures support",
+      "url": "https://hdfcsky.com/news/rupee-jumps-40-paise-to-close-at-95-38-against-us-dollar"
+    },
+    {
+      "title": "Free Press Journal: RBI tightens forex derivative rules, extends 20% reserve requirement to banks' own rupee hedges",
+      "url": "https://www.freepressjournal.in/business/rbi-tightens-forex-derivative-rules-extends-20-reserve-requirement-to-banks-own-rupee-hedges"
+    },
+    {
+      "title": "HDFC Sky: Brent crude falls to $105.6, WTI drops to $92.8",
+      "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-october-13-2026-brent-slips-to-105-6-wti-at-92-8-as-russian-diesel-supply-offers-relief"
+    },
+    {
+      "title": "IndiaIPO: FIIs sell ₹1,708 crore worth of shares as Sensex, Nifty fall; DIIs buy ₹3,045 crore",
+      "url": "https://www.indiaipo.in/news/detail/fiis-sell-1708-crore-worth-of-shares-as-sensex-nifty-fall-diis-buy-3045-crore"
+    },
+    {
+      "title": "Yahoo Finance: Stock market today, Monday 12 October",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry, such as banks, IT, metals or real estate.",
+      "more": "Besides the Sensex and Nifty 50, the exchanges publish indices for single industries, like Nifty Bank, Nifty IT, Nifty Metal or Nifty Realty. They show which parts of the economy investors are feeling good or bad about on a given day. It's like looking at the results of each section of a class, not just the class average. News reports often say 'all sectoral indices ended in the red', which means every industry group fell, a sign the selling was broad rather than limited to one problem area."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "LTCG",
+      "definition": "Long-term capital gains: profit from selling an investment you held for a long time. For listed shares and equity funds, that currently means more than a year.",
+      "more": "LTCG tax is the tax on those long-term profits. For listed shares and equity mutual funds, reports say the rate is currently 12.5% on gains above ₹1.25 lakh a year, but the government changes these rules from time to time, usually in the Budget. Think of it as the government taking a small share of the profit from a mango tree you planted and waited years to harvest. Investor groups often ask for lower LTCG tax, saying it would encourage long-term investing; others say the tax is fair because these profits are income too."
+    },
+    {
+      "term": "STT",
+      "definition": "Securities transaction tax: a small tax charged every time shares or derivatives are bought or sold on an exchange.",
+      "more": "STT is collected automatically by the exchange on each trade, whether you make a profit or a loss. The rate is tiny on each trade, but it adds up for people who trade often, especially in futures and options. It's a bit like a toll you pay every time you drive through a booth, no matter where you're going. The government uses it as a simple way to collect tax from market activity. Traders and brokers often argue that a high STT makes trading costlier and reduces activity on Indian exchanges."
+    },
+    {
+      "term": "Value buying",
+      "definition": "Buying shares after they have fallen, because investors think they have become cheap compared with what the company is worth.",
+      "more": "When shares drop sharply, some investors step in, believing the price has fallen too far. That buying can help prices bounce back. It's like shoppers rushing to a store on sale day because prices look lower than usual. Market reports often use 'value buying' or 'bargain hunting' to explain a rise after a fall. It doesn't mean the shares will keep rising; it only describes why some investors chose to buy that day."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that do technology work, such as writing software and running computer systems, for other businesses, often abroad.",
+      "more": "Indian IT services firms like TCS, Infosys, Wipro and HCLTech employ lakhs of people and earn most of their money from clients in the US and Europe. They build software, manage data centres and help companies move to the cloud. Think of them as highly skilled contractors hired for technology projects. Their earnings depend on how much overseas clients spend. The Nifty IT index tracks the biggest listed IT companies. News about them often focuses on 'deal wins', 'client spending' and 'guidance', meaning companies' own forecasts for growth."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its sales, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish their financial results every quarter, meaning every three months. The July–September quarter is often called Q2, because India's financial year starts in April. Results show how much a company sold, what it spent and how much profit it made, compared with the same period a year earlier. Think of it like a report card that arrives four times a year. Share prices often move sharply on results day if the numbers are better or worse than analysts expected."
+    },
+    {
+      "term": "Capital gains",
+      "definition": "The profit you make when you sell something, like shares or a flat, for more than you paid for it.",
+      "more": "If you bought shares for ₹50,000 and sold them for ₹60,000, your capital gain is ₹10,000. You only have a gain once you sell; until then it's just a rise in value on paper. It's like buying a plot of land: if land prices rise, you feel richer, but the money is only in your hands when you sell. The government taxes these profits, and the rate depends on what you sold and how long you held it. News reports often talk about 'short-term' and 'long-term' gains."
+    },
+    {
+      "term": "Union Budget",
+      "definition": "The central government's yearly plan for how it will earn and spend money, presented by the Finance Minister, usually on 1 February.",
+      "more": "The Budget sets out tax rates, spending on things like roads, defence and subsidies, and how much the government will borrow. It's like a family sitting down at the start of the year to decide how much they expect to earn, what they will spend on rent, school fees and festivals, and how much they may need to borrow. Changes to income tax, capital gains tax and STT are usually announced in the Budget, which is why markets watch it closely and why talk about it starts months earlier."
+    },
+    {
+      "term": "Futures and options",
+      "definition": "Contracts whose value depends on the price of a share or index. They are used for hedging and for short-term betting on price moves. Often called F&O.",
+      "more": "A future is an agreement to buy or sell at a fixed price on a later date. An option gives the right, but not the duty, to buy or sell at a set price. Because you only put down a small amount to control a large position, gains and losses can be big and fast. It's like paying a small token amount to book a flat at today's price: if prices rise, the booking becomes valuable; if they fall, you can lose the token. SEBI studies have found that most individual F&O traders lose money."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "EBIT margin",
+      "definition": "The share of a company's revenue left as operating profit, before paying interest and tax. A higher margin means the business is more profitable.",
+      "more": "EBIT stands for earnings before interest and taxes. If a company earns ₹100 in revenue and has ₹18 left after paying staff, rent and other running costs, its EBIT margin is 18%. It's like a tea stall owner checking how much of every ₹100 in sales is left after paying for milk, sugar, gas and the helper's wages. Investors watch margins closely because they show whether a company is controlling costs and charging enough for its work. News reports often mention margin changes in 'basis points', where 100 basis points equal 1 percentage point."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "Constant currency",
+      "definition": "A way of measuring a company's growth that removes the effect of exchange-rate changes, so you see the real change in business.",
+      "more": "Indian IT companies earn in dollars, euros and pounds. If the rupee weakens, their earnings look bigger in rupees even if they did no extra work. Constant-currency growth uses the same exchange rates for both periods, so you see only the change in actual business. It's like comparing a shop's sales by the number of items sold rather than by rupees, when prices have changed. IT firms usually give their yearly growth forecasts in constant currency, which is why news reports on their results mention it."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Currency moves are often reported in paise.",
+      "more": "Just as a rupee has 100 paise, exchange rate moves are measured in paise. If the rupee goes from 96.71 per dollar to 95.75, it has strengthened by 96 paise, meaning a dollar now costs 96 paise less. That sounds tiny, but on a $1 million import bill it is a difference of about ₹9.6 lakh. Most days, the rupee moves by a few paise up or down. A move of close to one rupee in a day is large and usually linked to big news or RBI action. It's like noticing petrol go up by 50 paise a litre: small per litre, big for a fleet of trucks."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "Forex derivatives",
+      "definition": "Contracts whose value depends on a future exchange rate, such as an agreement to buy dollars at a fixed rate on a later date.",
+      "more": "Forex is short for foreign exchange. A forex derivative is a deal linked to a currency's future price, such as a 'forward' contract that fixes today the rate at which a company will buy dollars next month. Importers and exporters use them to protect themselves. But traders can also use them to bet that the rupee will fall, and lots of such bets can push it down further. That is why the RBI sometimes tightens the rules, as it did over the weekend. It's like a pre-booked price for a train ticket that can be useful for travellers, or traded by touts."
+    },
+    {
+      "term": "Hedging",
+      "definition": "Taking a step that protects you against a price moving the wrong way, usually at a small cost.",
+      "more": "Hedging is like buying insurance for a price. An Indian company that must pay $1 million to a foreign supplier in three months worries the rupee may weaken, making that bill costlier in rupees. It can sign a contract with a bank today that fixes the exchange rate it will pay. If the rupee falls, the company is protected; if the rupee rises, it gives up a small gain. It's like booking a wedding hall early at a fixed price so a later price rise doesn't hurt. In the news, 'hedging costs' means what companies pay for this protection."
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars in the currency market to steady the rupee.",
+      "more": "The RBI holds large reserves of foreign currency. When the rupee falls too fast, it can sell dollars from these reserves and buy rupees, which supports the rupee. When the rupee rises too fast, it can do the opposite. The RBI says it doesn't target a particular exchange rate; it acts to smooth sharp swings. Traders often say the RBI was 'likely' intervening because it rarely confirms this on the day. Think of a traffic constable at a busy junction: they don't stop the traffic, but they keep it from turning chaotic."
+    },
+    {
+      "term": "Cash reserve ratio",
+      "definition": "The share of customers' deposits that banks must keep as cash with the RBI, earning no interest. Often called CRR.",
+      "more": "When you put ₹1 lakh in a bank, the bank can't lend all of it. A portion must be parked with the RBI as the cash reserve ratio, or CRR. The rule is checked on average over a period, so on some days a bank may keep a bit less and use the spare cash elsewhere. If the RBI asks banks to keep nearly the full amount every single day, banks lose that flexibility, and spare cash in the system shrinks. Think of a household that must keep a fixed amount in the kitchen tin: if it has to stay full every day, there's less cash for spending."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A number that tracks the US dollar's value against a group of six major currencies, such as the euro and the yen.",
+      "more": "When the dollar index rises, the dollar is getting stronger worldwide; when it falls, the dollar is weakening. A weaker dollar often makes it a little easier for currencies like the rupee to gain. Think of it as a report card for the dollar compared with its main rivals, not against the rupee itself. Currency news in India often mentions it alongside oil prices and foreign investor flows, because these three together explain much of the rupee's daily movement."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    }
+  ]
+}
