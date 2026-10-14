@@ -1,0 +1,608 @@
+{
+  "date": "2026-10-14",
+  "session_label": "Wednesday 14 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "Wholesale inflation jumped to 11.39% in September and the Sensex slipped 252 points as pharma shares fell and investors waited for US inflation data; the rupee rose for a fourth day.",
+  "mood": "Cautious",
+  "mood_note": "A small, choppy fall after Tuesday's big rally. Rising inflation in India and the US, and oil near $106, kept investors careful.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Tuesday the Nifty rose 358.60 points to 22,721.95. Today it gave back 99.25 points, less than a third of that gain.",
+    "The rupee ended Tuesday at 95.36 per dollar, slightly stronger than the early estimate of 95.38. Today it gained another 19 paise.",
+    "Foreign investors sold ₹1,305.13 crore of shares on Tuesday, according to provisional data, while domestic institutions bought ₹2,439.24 crore."
+  ],
+  "one_minute": [
+    "The Sensex fell 251.89 points (0.34%) to 72,781.89 and the Nifty 50 fell 99.25 points (0.44%) to 22,622.70.",
+    "Wholesale inflation rose to 11.39% in September from 9.92% in August, as fuel and power prices rose 25.85% from a year ago.",
+    "Pharma shares fell the most, while IT shares rose for a second day.",
+    "The rupee rose 19 paise to about 95.17 per dollar (provisional), its fourth straight gain. Brent crude rose to around $106 after an attack on a Saudi Aramco building.",
+    "After Indian markets closed, US data showed inflation there at 3.7%, with the core figure slightly above forecasts."
+  ],
+  "big_picture": "Today was a quiet, slightly down day for Indian shares, but the bigger news was about prices.\n\nWholesale inflation, which tracks what businesses pay for goods in bulk, jumped to 11.39% in September. Costly oil is the main reason. That matters because higher costs for businesses often turn into higher shop prices later.\n\nThe share market slipped a little as some investors took profits after Tuesday's rally and waited for US inflation figures. Those came out in the evening and were a little higher than expected.\n\nThe rupee kept strengthening thanks to the RBI's new rules. But oil near $106 a barrel, with fresh attacks in the Gulf, remains the biggest worry for India's prices and the rupee.",
+  "chain": [
+    {
+      "label": "Oil stays high",
+      "note": "Brent crude rose to around $106 after an attack on a Saudi Aramco building in Dhahran."
+    },
+    {
+      "label": "Wholesale prices jump",
+      "note": "WPI inflation rose to 11.39% in September, with fuel and power up 25.85% from a year ago."
+    },
+    {
+      "label": "Investors turn careful",
+      "note": "With inflation rising and US data due in the evening, some investors booked profits after Tuesday's rally."
+    },
+    {
+      "label": "Shares slip",
+      "note": "The Nifty fell 0.44% to 22,622.70, led by pharma, while IT shares rose."
+    },
+    {
+      "label": "US data adds pressure",
+      "note": "After Indian markets closed, US inflation came in at 3.7%, with the core figure slightly above forecasts."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "72,781.89",
+      "change": "-251.89 (-0.34%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It gave back part of Tuesday's big gain."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,622.70",
+      "change": "-99.25 (-0.44%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. An index fund SIP moves roughly with this number."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "-0.08%",
+      "direction": "flat",
+      "what_it_is": "This tracks medium-sized companies. They ended almost unchanged."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "-0.32%",
+      "direction": "down",
+      "what_it_is": "This tracks smaller listed companies. They ended slightly lower."
+    },
+    {
+      "name": "India VIX",
+      "value": "14.64",
+      "change": "+3.4%",
+      "direction": "up",
+      "what_it_is": "A measure of how much traders expect the market to swing. It rose a little, showing slightly more nervousness."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "+1.14%",
+      "direction": "up",
+      "what_it_is": "This tracks India's big IT companies. It rose for a second day."
+    },
+    {
+      "name": "Nifty Pharma",
+      "value": "",
+      "change": "about -1.1% to -1.3% (reports differ)",
+      "direction": "down",
+      "what_it_is": "This tracks medicine makers. It was the weakest sector today."
+    },
+    {
+      "name": "WPI inflation (September)",
+      "value": "11.39%",
+      "change": "up from 9.92% in August",
+      "direction": "up",
+      "what_it_is": "How much more businesses paid for goods in bulk than a year ago."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "95.17",
+      "change": "stronger by 19 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$106.44",
+      "change": "higher (3:35 pm IST)",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "Gold (MCX)",
+      "value": "₹1,47,831 per 10 g",
+      "change": "-0.42% (afternoon)",
+      "direction": "down",
+      "what_it_is": "The price of gold futures on India's commodity exchange. It shapes jewellery prices."
+    },
+    {
+      "name": "S&P 500 (US, Tuesday)",
+      "value": "7,805.45",
+      "change": "-1.79 points (less than 0.1%)",
+      "direction": "flat",
+      "what_it_is": "A main index of 500 large US companies. US shares ended almost flat in their last session."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-falls-252-as-pharma-drags-it-gains",
+      "category": "Stock market",
+      "title": "Sensex falls 252 points and Nifty ends at 22,623 as pharma shares slide; IT shares rise again",
+      "tldr": "Indian shares gave back part of Tuesday's big gain. Pharma, healthcare and finance shares fell, while IT and consumer goods shares rose and limited the damage.",
+      "what_happened": "The Sensex fell 251.89 points, or 0.34%, to close at 72,781.89. The Nifty 50 fell 99.25 points, or 0.44%, to 22,622.70. Trading was choppy: the Nifty slipped to around 22,550 during the day before buyers stepped in.\n\nSmaller companies were mixed. The Nifty Midcap 100 index ended 0.08% lower and the Nifty Smallcap 100 0.32% lower.\n\nPharma was the weakest sector, with the Nifty Pharma index down about 1.1% to 1.3% in different reports. Sun Pharma fell about 2% to a five-month low, and Divi's Labs fell more than 2%. The Nifty IT index rose 1.14%, and consumer goods shares also gained.\n\nAmong Nifty 50 companies, Tata Consumer Products rose 2.91% and Infosys 2.44%. Shriram Finance fell 3.85%, and HDFC Life and Bajaj Finance also fell.\n\nIndia VIX, a measure of expected swings, rose 3.4% to 14.64.",
+      "simple_explanation": "After Tuesday's jump of over 1,100 points, the Sensex slipped back a little on Wednesday.\n\nSome investors sold shares that had just risen, to lock in their gains. Many were also careful before an important US inflation report that was due after Indian markets closed.\n\nMedicine makers' shares fell the most. Shares of IT companies and makers of everyday goods like tea and food rose, so the fall stayed small.\n\nThe VIX went up a bit, a sign traders became slightly more nervous.",
+      "analogy": "Think of a vegetable seller whose tomatoes suddenly fetched a great price yesterday. Today, many sellers rush to sell before the price drops, so it slips a little. Nothing is wrong with the tomatoes. People are just cashing in.",
+      "why": "Analysts quoted by IANS said the fall came from profit booking after recent gains, with investors cautious ahead of US inflation data. Weakness in pharma, healthcare and financial shares outweighed gains in IT.\n\nKotak Securities also pointed to worries about inflation and high oil prices, after India's wholesale inflation rose to 11.39% in September.\n\nOn the other side, analysts said a stronger rupee and hopes of a review of taxes on share profits (LTCG and STT) gave some support. Reports linked the pharma fall to profit-taking and worries about margins and US pricing ahead of results. No single cause was reported.\n\nAnalysts see support for the Nifty around 22,500–22,600 and resistance at 22,800.",
+      "implications": {
+        "you": "A Nifty 50 index fund fell about 0.44% today, roughly ₹440 on every ₹1 lakh. That is less than half of Tuesday's gain. If you invest through a monthly SIP, nothing changes.",
+        "markets": "A small fall after a big rise is normal. Investors are now watching inflation in India and the US, oil prices and company results.",
+        "economy": "One day's market move says little about the economy. The inflation figures released today matter more for the months ahead.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "How markets react on Thursday to the US inflation report, Wipro's results on Thursday, and whether foreign investors keep selling.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "Sectoral index",
+        "India VIX",
+        "Profit booking",
+        "IT services",
+        "FMCG",
+        "LTCG",
+        "STT",
+        "Support and resistance"
+      ],
+      "explainers": {
+        "like12": "Imagine the share market as a big scoreboard for India's biggest companies. On Tuesday the score shot up. On Wednesday it slipped back a little.\n\nWhy? Some people who had bought shares cheaply sold them to keep their profit, like selling your cricket cards when everyone suddenly wants them. Others waited, because big news about prices in America was coming later in the evening.\n\nShares of companies that make medicines fell the most. Shares of computer-services companies and companies that make food and tea went up.\n\nSo the score dipped, but only a little. Most of Tuesday's gain is still there.",
+        "real_life": "Meet Kavya, a 31-year-old nurse in Kochi. She has ₹2 lakh in a Nifty 50 index fund, built through a ₹4,000 monthly SIP.\n\nOn Tuesday her fund rose about 1.6%, roughly ₹3,200. Today it fell about 0.44%, roughly ₹890. Over the two days, she is still ahead by about ₹2,300.\n\nKavya doesn't need to do anything. Her SIP buys units on the same date each month, whether the market is up or down. Daily moves like this are normal. What matters for her is the long stretch of years she plans to stay invested, not one Wednesday."
+      }
+    },
+    {
+      "id": "wholesale-inflation-jumps-to-11-39-percent",
+      "category": "Economy",
+      "title": "Wholesale inflation jumps to 11.39% in September, the highest in the revised series, as fuel and food costs rise",
+      "tldr": "Prices that businesses pay for goods in bulk rose 11.39% from a year ago in September, up from 9.92% in August. Fuel and power prices rose 25.85%.",
+      "what_happened": "Inflation measured by the Wholesale Price Index (WPI) rose to 11.39% in September from 9.92% in August, according to provisional government data released on Wednesday. Reports described it as the highest in the revised WPI series.\n\nPrices in the fuel and power group were 25.85% higher than a year earlier, up from 22.93% in August. Manufactured products rose 9.76%, up from 8.37%, and primary articles, such as farm produce and minerals, rose 8.67%.\n\nThe WPI food index rose 8.66%, up from 7.05% in August.\n\nThe government said the rise came mainly from mineral oils, food items, crude petroleum and natural gas, coal, basic metals, chemicals and textiles.",
+      "simple_explanation": "Inflation means prices rising. There are two main ways India measures it.\n\nRetail inflation tracks what families pay in shops. Wholesale inflation tracks what businesses pay when they buy goods in bulk, like fuel, metals, chemicals and grain.\n\nIn September, wholesale prices were 11.39% higher than a year earlier. That's a big jump. The main reason is costly oil, because of the conflict in the Middle East.\n\nWhen businesses pay more for their raw materials, they often pass some of that on to shoppers later.",
+      "analogy": "Think of a dhaba owner. If the price of cooking gas, oil and vegetables at the wholesale market jumps, the thali may not cost more today. But if it lasts, the menu prices usually go up in a few weeks.",
+      "why": "The biggest driver was fuel and power, up 25.85% from a year ago. Brent crude has stayed above $100 a barrel because of the conflict in West Asia and disruption near the Strait of Hormuz, and some reports linked the rise to that.\n\nFood costs also rose faster, and manufactured goods became costlier as firms paid more for metals, chemicals and energy.\n\nThis comes after retail inflation rose to 5.54% in September, reported on Monday. The RBI raised its repo rate to 5.50% earlier this month to fight rising prices. Higher wholesale inflation adds to the pressure on it.",
+      "implications": {
+        "you": "Wholesale prices don't hit your shopping bill directly, but they often show up in shop prices over the following months. If you have a fixed budget, expect pressure on prices of things made with fuel, metals or plastic.",
+        "markets": "High inflation makes it more likely that interest rates stay high, which can weigh on shares, especially companies with big loans.",
+        "economy": "Businesses face higher costs. Some will raise prices and some will earn smaller profits. Either way, high wholesale inflation for long is a strain on growth.",
+        "prices": "Prices of goods that use a lot of fuel and raw materials, such as packaged goods, transport and building materials, could rise further if this continues."
+      },
+      "watch": "The October wholesale figures on 16 November, oil prices, and what the RBI says about inflation in the coming weeks.",
+      "terms": [
+        "WPI",
+        "Inflation",
+        "Retail inflation",
+        "Food inflation",
+        "Year-on-year",
+        "Provisional",
+        "Repo rate",
+        "Rate hike",
+        "Brent crude",
+        "Strait of Hormuz"
+      ],
+      "explainers": {
+        "like12": "Imagine your school canteen. The canteen owner buys rice, oil, gas and vegetables in big sacks from a wholesale market, then cooks and sells you lunch.\n\nThis month, the sacks cost about 11 rupees more for every 100 rupees compared with last year. That's a lot. Most of it is because fuel became much more expensive, since there's fighting in the Middle East, where a lot of the world's oil comes from.\n\nThe canteen owner may not change prices tomorrow. But if the sacks keep costing more, your samosa will probably cost a little more soon.\n\nThat's why grown-ups watch wholesale prices: they hint at what shop prices will do next.",
+        "real_life": "Meet Suresh, a 42-year-old who runs a small furniture workshop in Jaipur and also draws a salary as a part-time instructor.\n\nHe buys wood, glue, polish and hardware in bulk. Polish and glue are made from oil-based chemicals, and transport costs depend on diesel. Over the past few months, his supplier has raised prices more than once.\n\nSuresh now has a choice: raise the price of his chairs, or earn less on each one. Many businesses face the same choice. That's how today's wholesale inflation figure can turn into higher prices for ordinary buyers later.\n\nFor salaried families, the lesson is simple: when wholesale inflation is high, keep some room in the monthly budget for prices creeping up."
+      }
+    },
+    {
+      "id": "rupee-gains-for-fourth-day",
+      "category": "Rupee",
+      "title": "Rupee rises 19 paise to about 95.17 per dollar, its fourth straight gain, helped by RBI steps",
+      "tldr": "The rupee strengthened for a fourth day in a row, helped by the RBI's new rules and a softer dollar, though high oil prices and foreign selling limited the gain.",
+      "what_happened": "The rupee closed at 95.17 per US dollar (provisional), up 19 paise from Tuesday's close of 95.36, according to PTI. Another report put the close at 95.14. During the day it touched 94.76, its strongest level in about a month.\n\nOver the past four sessions, the rupee has gained 171 paise.\n\nThe dollar index, which tracks the dollar against major currencies, was up 0.05% at 102.23. Foreign investors sold ₹1,305.13 crore of Indian shares on Tuesday, while domestic institutions bought ₹2,439.24 crore, according to provisional data.",
+      "simple_explanation": "The rupee's price tells you how many rupees you need to buy one US dollar. A lower number means a stronger rupee.\n\nLast week, the RBI brought in new rules to make betting against the rupee more costly and to give oil companies dollars through a special window. Since then, the rupee has risen four days in a row.\n\nIt went up again today, but only a little, because oil is still expensive and foreign investors are still selling Indian shares.",
+      "analogy": "Think of a crowded ticket counter where touts were driving up prices. Once the railways set up a separate counter for big groups and made bulk buying costlier, the rush eased and prices calmed down. The rupee has been steadier since the RBI did something similar.",
+      "why": "PTI reported that RBI steps to ease dollar demand and limit speculative bets, along with easing US Treasury yields, supported the rupee. Weak Indian share markets kept gains in check.\n\nAnuj Choudhary of Mirae Asset Sharekhan expects the rupee to stay firm because of RBI support, but said high oil prices, foreign selling and Middle East tensions could limit gains.\n\nOn Tuesday, Finance Minister Nirmala Sitharaman said the rupee has fallen significantly over the past year and a half, mostly because of outside pressures, and that the RBI will keep working to prevent excessive swings.",
+      "implications": {
+        "you": "A stronger rupee helps a little if you pay in dollars, for foreign travel, overseas tuition or imported gadgets. Petrol and diesel prices are set by oil companies and the government, so they don't change with a few days' rupee moves.",
+        "markets": "A steadier rupee makes Indian assets a little more attractive to foreign investors, because currency losses eat less into their returns.",
+        "economy": "A stronger rupee makes imports like oil slightly cheaper in rupees, which helps against inflation. How long it lasts depends on oil and foreign money flows.",
+        "prices": "Small and gradual at best. With oil above $100, import costs remain high."
+      },
+      "watch": "Whether the rupee holds near 95, whether foreign investors slow their selling, and oil prices.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "RBI intervention",
+        "Forex derivatives",
+        "Dollar index",
+        "US Treasury yield",
+        "FII",
+        "DII"
+      ],
+      "explainers": {
+        "like12": "To buy things from other countries, like oil or phones, India needs US dollars. The rupee's 'price' tells you how many rupees you need for one dollar.\n\nLast week, you needed almost 97 rupees. Today you needed about 95.17. So the rupee got stronger, for the fourth day in a row.\n\nWhy? The RBI, which looks after India's money, made new rules that stop people from betting too much that the rupee will fall. That calmed things down.\n\nIt's like the price of a popular toy going down once the shop stops people from buying ten at a time.",
+        "real_life": "Meet Neha, a 27-year-old software tester in Hyderabad. She's planning a trip to Singapore and will need about $1,500 for her stay and shopping.\n\nAt 96.71 rupees per dollar, where the rupee ended last Friday, that would cost her about ₹1,45,100. At today's 95.17, it's about ₹1,42,800, roughly ₹2,300 less.\n\nThat's a small saving, and it may not last: the rupee could weaken again if oil rises or foreign investors keep selling. Neha can't predict that. What she can do is budget with a little extra room, so a swing either way doesn't upset her plans."
+      }
+    },
+    {
+      "id": "oil-near-106-after-attack-on-aramco-building",
+      "category": "Oil and gold",
+      "title": "Oil rises to around $106 after an attack on a Saudi Aramco building; gold slips in India",
+      "tldr": "Brent crude rose a little after an attack hit an administrative building of Saudi oil giant Aramco, adding to worries about Middle East supplies. Gold futures in India fell slightly.",
+      "what_happened": "Saudi Arabia's energy ministry said an attack hit an administrative building of Saudi Aramco in Dhahran, causing a limited fire. Reports linked the strike to Yemen's Houthi rebels. No casualties and no immediate disruption to oil production or exports were reported.\n\nBrent crude futures were at $106.44 a barrel at about 3:35 pm India time, according to Kotak Securities, up from a close of about $105 on Tuesday. US WTI crude was at $95.33.\n\nIn India, gold futures on the MCX fell 0.42% to ₹1,47,831 per 10 grams in the afternoon, and silver fell 0.90% to ₹2,17,252 per kg.",
+      "simple_explanation": "Oil is the most important thing India buys from abroad. When its price rises, it costs India more.\n\nToday, an office building of Saudi Arabia's huge state oil company was attacked. No oil supply was lost, but traders worry because the Middle East is where a lot of the world's oil comes from, and fighting there has been going on for weeks.\n\nSo oil prices went up a little. Gold, which people often buy when worried, actually slipped slightly in India today.",
+      "analogy": "Think of a busy highway where a truck depot near the road catches fire. The trucks are still running, but drivers and shops along the way worry about delays, so prices of goods tick up just in case.",
+      "why": "Oil traders are nervous about supplies from the Gulf. Reports pointed to Houthi attacks on Saudi Arabia and reported attacks on ships near the Strait of Hormuz, a narrow route that carries a large share of the world's oil.\n\nThe Aramco attack did not stop production, so the price rise was modest. But with Brent already above $100 for weeks, any new threat keeps prices high.\n\nGold's small fall came as the rupee strengthened. A stronger rupee makes gold a little cheaper in rupee terms.",
+      "implications": {
+        "you": "Petrol and diesel prices are set by oil companies and the government and did not change today. But high oil keeps pressure on transport, airfares and many other costs.",
+        "markets": "Costly oil hurts companies that use a lot of fuel, like airlines, paint makers and chemical firms, and helps oil producers.",
+        "economy": "India imports most of its oil, so high prices widen its import bill, weaken the rupee and push up inflation, as today's wholesale figures show.",
+        "prices": "Fuel-linked costs stay high. Gold jewellery became slightly cheaper today, but the change is small."
+      },
+      "watch": "Any further attacks in the Gulf, shipping near the Strait of Hormuz, and whether Brent stays above $100.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "MCX"
+      ],
+      "explainers": {
+        "like12": "Oil is like the food that keeps trucks, buses, planes and factories running. India buys most of its oil from other countries, a lot of it from the Middle East.\n\nToday, an office building of Saudi Arabia's big oil company was hit in an attack and caught fire. Luckily, nobody was hurt and the oil kept flowing.\n\nBut people who buy and sell oil got worried that more trouble could stop supplies. When people worry about not getting enough of something, its price goes up. So oil got a bit more expensive.\n\nGold, on the other hand, became a tiny bit cheaper in India today.",
+        "real_life": "Meet Imran, a 35-year-old delivery supervisor in Lucknow who rides a scooter to work every day.\n\nToday's oil rise won't change what he pays at the petrol pump tomorrow. In India, oil companies and the government decide pump prices, and they don't change them with every daily move.\n\nBut oil above $100 for weeks adds up in other ways. His company pays more for diesel for its delivery vans, and cab and bus fares can creep up. Over months, that shows up as higher inflation, which squeezes his salary.\n\nImran can't control oil prices. Keeping an eye on his monthly fuel and transport spending helps him spot the effect early."
+      }
+    },
+    {
+      "id": "us-inflation-rises-to-3-7-percent",
+      "category": "Global",
+      "title": "US inflation rises to 3.7% in September; prices excluding food and fuel rise faster than expected",
+      "tldr": "US consumer prices rose 3.7% from a year ago in September, data released after Indian markets closed showed. The core figure was slightly higher than expected, and US stock futures turned lower.",
+      "what_happened": "US consumer prices rose 0.6% in September from August and 3.7% from a year earlier, CNBC reported. Energy prices jumped 5.2% in the month.\n\nCore inflation, which leaves out food and energy, rose 0.3% in the month and 2.6% over the year. Economists had expected 0.2% and 2.5%.\n\nThe data came out after Indian markets had closed. US stock futures turned negative after the release.\n\nOn Tuesday, US shares had ended slightly lower. The S&P 500 slipped 1.79 points to 7,805.45, and the Dow fell 180.45 points, or 0.35%, to 51,670.10, as chip shares fell.",
+      "simple_explanation": "The US is the world's biggest economy, so what happens there affects markets everywhere, including India.\n\nToday, the US reported that prices there rose 3.7% over the past year. That's high for the US. Much of it came from costly oil, but even prices of other things rose a bit faster than experts expected.\n\nWhen US prices rise fast, the US central bank may keep its interest rates high. That can pull money away from countries like India.",
+      "analogy": "Think of a big neighbour's family budget. If their grocery bills keep rising, they may cut back on what they spend elsewhere, including in your shop. US inflation works a bit like that for the world's money.",
+      "why": "Most of the jump came from energy, which rose 5.2% in the month as oil stayed high. The core figure, which strips out food and fuel, matters more to the US Federal Reserve because it shows whether price rises are spreading.\n\nCore inflation came in a little above forecasts, which can make the Fed less willing to cut rates. The Fed's next meeting is on 27–28 October.\n\nIndian markets were cautious all day ahead of this report, analysts said.",
+      "implications": {
+        "you": "No direct effect on your money today. If US rates stay high for longer, it can mean less foreign money flowing into Indian shares, and some pressure on the rupee.",
+        "markets": "Indian markets will react to this on Thursday. Higher-than-expected US inflation usually makes global investors more careful.",
+        "economy": "High US interest rates make it costlier for the world to borrow in dollars, and can draw money out of countries like India.",
+        "prices": "No direct effect on prices in India."
+      },
+      "watch": "How Indian and Asian markets open on Thursday, US bond yields, and the Fed's meeting on 27–28 October.",
+      "terms": [
+        "Retail inflation",
+        "Core inflation",
+        "Federal Reserve",
+        "Stock futures",
+        "US Treasury yield"
+      ],
+      "explainers": {
+        "like12": "America is the world's biggest shop. When prices there go up, people everywhere notice.\n\nToday, America said its prices went up 3.7% in a year. A lot of that is because oil is expensive. But even things like clothes and services got a bit costlier than experts guessed.\n\nAmerica has its own version of the RBI, called the Fed. When prices rise fast, the Fed keeps interest rates high to slow things down. High American interest rates can tempt big investors to keep their money in America instead of sending it to India.\n\nSo something that happens far away can still affect India's share market tomorrow.",
+        "real_life": "Meet Priya, a 33-year-old HR executive in Gurugram. She has ₹3 lakh in equity mutual funds through SIPs.\n\nUS inflation doesn't affect her salary or grocery bills directly. But it can affect her funds. If the US Fed keeps rates high, foreign investors may keep selling Indian shares, which can make the market wobble, as it has in recent weeks.\n\nPriya might see her fund value dip on some days because of news from the US. That doesn't mean anything is wrong with her fund. Her SIP keeps buying each month, sometimes at lower prices. Knowing why the market moves helps her stay calm instead of reacting to each headline."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks: one student can do badly while the average still rises. When a news report says 'the market fell 1,000 points', it usually means the Sensex. Points matter less than the percentage change, because 1,000 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, used as a quick summary of how India's biggest companies' shares are doing.",
+      "more": "The Nifty 50 is the NSE's headline index and moves very closely with the Sensex, because they contain many of the same companies. Many index funds and ETFs simply copy the Nifty 50, so if you invest in one, your money rises and falls roughly with it. Think of it as a basket of the 50 biggest shops in a market: if most of them have a good day, the basket's value goes up. News reports usually quote its closing level, the points change and the percentage change."
+    },
+    {
+      "term": "Midcap",
+      "definition": "Medium-sized listed companies: bigger than small companies, smaller than the giants in the Sensex and Nifty 50.",
+      "more": "Companies are often grouped by size, measured by the total value of all their shares. Midcaps sit in the middle. They can grow faster than giant companies, but their share prices usually swing more, up and down. Think of a successful local restaurant chain compared with a national chain: more room to grow, but more affected by a bad season. The Nifty Midcap 100 index tracks 100 of them. When news says 'midcaps underperformed', it means they fell more, or rose less, than the big companies."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "Smaller listed companies. Their shares can rise or fall much more sharply than those of big companies.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. Some become tomorrow's giants, while others struggle, so they carry more risk. Their shares also trade less, which means a few big orders can move prices a lot. It's like a new neighbourhood shop: it could become a chain, or close within two years. The Nifty Smallcap 100 index tracks this group. Smallcap mutual funds usually warn investors about higher risk and suggest holding them for many years."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry, such as banks, IT, metals or real estate.",
+      "more": "Besides the Sensex and Nifty 50, the exchanges publish indices for single industries, like Nifty Bank, Nifty IT, Nifty Metal or Nifty Realty. They show which parts of the economy investors are feeling good or bad about on a given day. It's like looking at the results of each section of a class, not just the class average. News reports often say 'all sectoral indices ended in the red', which means every industry group fell, a sign the selling was broad rather than limited to one problem area."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that do technology work, such as writing software and running computer systems, for other businesses, often abroad.",
+      "more": "Indian IT services firms like TCS, Infosys, Wipro and HCLTech employ lakhs of people and earn most of their money from clients in the US and Europe. They build software, manage data centres and help companies move to the cloud. Think of them as highly skilled contractors hired for technology projects. Their earnings depend on how much overseas clients spend. The Nifty IT index tracks the biggest listed IT companies. News about them often focuses on 'deal wins', 'client spending' and 'guidance', meaning companies' own forecasts for growth."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "LTCG",
+      "definition": "Long-term capital gains: profit from selling an investment you held for a long time. For listed shares and equity funds, that currently means more than a year.",
+      "more": "LTCG tax is the tax on those long-term profits. For listed shares and equity mutual funds, reports say the rate is currently 12.5% on gains above ₹1.25 lakh a year, but the government changes these rules from time to time, usually in the Budget. Think of it as the government taking a small share of the profit from a mango tree you planted and waited years to harvest. Investor groups often ask for lower LTCG tax, saying it would encourage long-term investing; others say the tax is fair because these profits are income too."
+    },
+    {
+      "term": "STT",
+      "definition": "Securities transaction tax: a small tax charged every time shares or derivatives are bought or sold on an exchange.",
+      "more": "STT is collected automatically by the exchange on each trade, whether you make a profit or a loss. The rate is tiny on each trade, but it adds up for people who trade often, especially in futures and options. It's a bit like a toll you pay every time you drive through a booth, no matter where you're going. The government uses it as a simple way to collect tax from market activity. Traders and brokers often argue that a high STT makes trading costlier and reduces activity on Indian exchanges."
+    },
+    {
+      "term": "Support and resistance",
+      "definition": "Price levels where analysts expect an index or share to stop falling (support) or stop rising (resistance), based on past trading.",
+      "more": "Analysts look at charts and notice levels where buyers have often stepped in or sellers have often appeared. Support is like a floor and resistance is like a ceiling. Think of a sabzi seller: if customers always start buying tomatoes when they drop to ₹30 a kilo, ₹30 acts as support; if nobody buys above ₹50, that's resistance. In the news you'll read lines like 'Nifty has support at 22,500 and resistance at 22,800'. These are educated guesses, not rules. Prices often break through them."
+    },
+    {
+      "term": "WPI",
+      "definition": "The Wholesale Price Index, which tracks how fast prices that businesses pay for goods in bulk are rising.",
+      "more": "The WPI covers goods bought in bulk by businesses, such as fuel, metals, chemicals, grain and manufactured items. It does not cover services like rent or school fees. Think of it as the price list at a wholesale mandi or a factory gate, before the shopkeeper adds their margin. The government releases it every month, usually mid-month. Because higher costs for businesses often reach shoppers later, a jump in WPI inflation can hint that retail prices may rise in the months ahead. The RBI's main inflation target uses retail inflation (CPI), but it watches WPI too."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Retail inflation",
+      "definition": "How fast the prices of everyday goods and services bought by households are rising, measured by the Consumer Price Index (CPI).",
+      "more": "Every month the government collects prices of hundreds of items, from vegetables and milk to rent, school fees and bus fares, and works out how much more they cost than a year earlier. That figure is retail inflation. The RBI aims to keep it around 4%, within a band of 2% to 6%. If retail inflation stays above the target, the RBI may raise interest rates to cool demand. When news says 'CPI inflation rose to 4.82% in August', it means a basket of household items cost 4.82% more than in August last year."
+    },
+    {
+      "term": "Food inflation",
+      "definition": "How fast food prices are rising compared with a year earlier.",
+      "more": "Food is a big part of the inflation basket, especially for poorer households who spend a large share of their income on it. Food prices can jump quickly because of poor rains, floods, heatwaves or supply problems, and fall just as quickly after a good harvest. Vegetables like onions and tomatoes swing the most. When food inflation rises, the overall inflation number usually rises too. In the news it is often measured by the Consumer Food Price Index. A kitchen budget that suddenly needs more money for the same thali is food inflation at home."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "Comparing a figure with the same period one year earlier, such as July–September this year versus last year.",
+      "more": "Many businesses are seasonal: shops sell more during festivals, and air-conditioner makers sell more in summer. So comparing one quarter with the quarter just before it can mislead. Comparing it with the same quarter a year earlier removes most of that seasonal effect. It's like comparing this Diwali's sweet sales with last Diwali's, rather than with a quiet month. News reports often write it as 'YoY'. A 23% year-on-year rise means the figure is 23% higher than in the same period last year."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data is available.",
+      "more": "Some numbers are reported quickly at the end of the day and then confirmed later. For example, news agencies report the rupee's close as 'provisional' because the final official rate can differ by a few paise. Daily FII and DII figures from the exchanges are also provisional. It's like a cricket scorecard shown right after the match, before the official records are checked. For a beginner, the difference is usually tiny, but it explains why two news sources can give slightly different numbers for the same thing."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "The main international benchmark price for oil, quoted in US dollars per barrel.",
+      "more": "Brent is named after an oil field in the North Sea, and its price is used as the reference for most of the world's oil, including much of what India buys. When Brent rises, India's import bill rises too, since the country imports most of its crude oil. It's like the wholesale rate at the main mandi that sets prices at every local market. News reports quote Brent's price and daily percentage change, and link big moves to wars, supply cuts or global demand."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route out of the Persian Gulf through which a large share of the world's oil is shipped.",
+      "more": "The Strait of Hormuz lies between Iran and Oman. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait, Qatar and Iran pass through it, so any disruption there quickly pushes up global oil prices. India buys much of its crude from Gulf countries, so news from Hormuz matters directly for Indian fuel prices and the rupee. Think of it as a single narrow gate out of a huge oil market: if the gate is blocked, supply everywhere gets tighter."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "How much of one currency you need to buy another, for example how many rupees one US dollar costs.",
+      "more": "The rupee–dollar exchange rate changes every day based on demand and supply. When India needs more dollars, to pay for oil or because foreign investors are taking money out, each dollar costs more rupees, and the rupee is said to 'weaken'. When fewer dollars are needed, the rupee 'strengthens'. It's like onion prices rising when many buyers chase few onions. The RBI sometimes sells dollars from its reserves to slow sharp falls. News reports say things like 'the rupee fell 28 paise to close at 96.03 against the dollar'."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Currency moves are often reported in paise.",
+      "more": "Just as a rupee has 100 paise, exchange rate moves are measured in paise. If the rupee goes from 96.71 per dollar to 95.75, it has strengthened by 96 paise, meaning a dollar now costs 96 paise less. That sounds tiny, but on a $1 million import bill it is a difference of about ₹9.6 lakh. Most days, the rupee moves by a few paise up or down. A move of close to one rupee in a day is large and usually linked to big news or RBI action. It's like noticing petrol go up by 50 paise a litre: small per litre, big for a fleet of trucks."
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars in the currency market to steady the rupee.",
+      "more": "The RBI holds large reserves of foreign currency. When the rupee falls too fast, it can sell dollars from these reserves and buy rupees, which supports the rupee. When the rupee rises too fast, it can do the opposite. The RBI says it doesn't target a particular exchange rate; it acts to smooth sharp swings. Traders often say the RBI was 'likely' intervening because it rarely confirms this on the day. Think of a traffic constable at a busy junction: they don't stop the traffic, but they keep it from turning chaotic."
+    },
+    {
+      "term": "Forex derivatives",
+      "definition": "Contracts whose value depends on a future exchange rate, such as an agreement to buy dollars at a fixed rate on a later date.",
+      "more": "Forex is short for foreign exchange. A forex derivative is a deal linked to a currency's future price, such as a 'forward' contract that fixes today the rate at which a company will buy dollars next month. Importers and exporters use them to protect themselves. But traders can also use them to bet that the rupee will fall, and lots of such bets can push it down further. That is why the RBI sometimes tightens the rules, as it did over the weekend. It's like a pre-booked price for a train ticket that can be useful for travellers, or traded by touts."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A number that tracks the US dollar's value against a group of six major currencies, such as the euro and the yen.",
+      "more": "When the dollar index rises, the dollar is getting stronger worldwide; when it falls, the dollar is weakening. A weaker dollar often makes it a little easier for currencies like the rupee to gain. Think of it as a report card for the dollar compared with its main rivals, not against the rupee itself. Currency news in India often mentions it alongside oil prices and foreign investor flows, because these three together explain much of the rupee's daily movement."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays when it borrows money. The 10-year yield is a key benchmark for global investors.",
+      "more": "US Treasuries are bonds issued by the American government and are seen as one of the safest investments in the world. Their yield is like the 'safe return' that every other investment is compared with. If a safe FD suddenly paid much more, you'd think twice before putting money into a risky business. That's how global investors react when Treasury yields rise. News stories often link a jump in the 10-year US yield to falls in stock markets and emerging-market currencies like the rupee."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund, such as a pension fund or investment firm, that buys and sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), manage huge sums from around the world. Because they move large amounts quickly, their daily buying or selling can push the market noticeably. It's like a big wholesale buyer arriving at a mandi: prices react to what they do. Exchanges publish provisional FII and DII figures every evening, and news reports quote them as 'FIIs sold ₹X crore'. FIIs often sell Indian shares when US interest rates rise or the rupee weakens, which is why analysts watch US bond yields so closely."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurance company or pension fund.",
+      "more": "DIIs are big Indian institutions that invest in shares, and mutual funds are the largest group among them. A big part of their money comes from ordinary people's monthly SIPs and insurance premiums. When foreign investors sell, DIIs often buy, which softens the fall. It's like local buyers stepping into a mandi when out-of-town traders leave. Exchanges publish provisional daily FII and DII figures every evening, and news reports compare the two to show who was buying and who was selling."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil. One barrel is about 159 litres.",
+      "more": "Oil is bought and sold in barrels, even though it's mostly moved in tankers and pipelines now. The unit simply makes prices comparable worldwide. One barrel of crude, about 159 litres, is refined into petrol, diesel, cooking gas, jet fuel and other products. It's like quoting rice prices per quintal at the wholesale market while you buy it by the kilo. When news says oil is '$105 a barrel', that's the wholesale price of raw crude, not what you pay at the petrol pump."
+    },
+    {
+      "term": "MCX",
+      "definition": "The Multi Commodity Exchange, India's main exchange for trading commodities such as gold, silver and crude oil.",
+      "more": "On the MCX, traders buy and sell contracts linked to the future price of commodities like gold, silver, crude oil and natural gas. The prices quoted in the news, such as 'gold at ₹1,47,000 per 10 grams on MCX', usually refer to these futures contracts. They closely track what jewellers charge, though your local jeweller adds making charges and GST. Think of the MCX as a big mandi for commodities, but with contracts on screens instead of sacks. Prices on it move with world prices and the rupee."
+    },
+    {
+      "term": "Core inflation",
+      "definition": "Inflation measured without food and fuel prices, which jump around a lot, to show the underlying trend in prices.",
+      "more": "Food and fuel prices can swing sharply because of weather, wars or oil supply. Core inflation leaves them out to show whether price rises are spreading to everything else, like clothes, rent, haircuts and services. It's like judging a cricketer by their average over many matches rather than one lucky or unlucky innings. Central banks such as the RBI and the US Federal Reserve watch core inflation closely. If core inflation is rising, they worry that high prices are becoming widespread and may keep interest rates high for longer."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Stock futures",
+      "definition": "Contracts that let traders bet on where a share index will be later. Before a market opens, their prices hint at how it may start.",
+      "more": "Futures are agreements to buy or sell something at a set price on a future date. Index futures, such as those on the US S&P 500 or Dow Jones, trade almost round the clock. Because the US stock market opens only in the Indian evening, Indian news often reports 'US futures were down 0.5%' during our trading day. That's an early signal of how American investors are feeling. It's like checking the queue outside a shop before it opens to guess how busy the day will be."
+    }
+  ],
+  "concept": {
+    "term": "Wholesale inflation",
+    "explanation": "Wholesale inflation measures how fast the prices that businesses pay for goods in bulk are rising, compared with a year earlier. In India it is tracked by the Wholesale Price Index (WPI).\n\nThe WPI covers things like fuel, electricity, metals, chemicals, grain, vegetables and factory-made goods, at the price one business pays another. It doesn't include services like rent, school fees or haircuts.\n\nRetail inflation is different: it tracks what households pay in shops. The two are linked, because when a business pays more for its raw materials, it often passes some of that cost on to customers, usually with a delay. That's why a big rise in wholesale inflation is often read as a warning that shop prices may rise later.",
+    "example": "On Wednesday, the government said wholesale inflation rose to 11.39% in September from 9.92% in August. Fuel and power prices were 25.85% higher than a year ago, because oil has stayed above $100 a barrel. Retail inflation, reported on Monday, was much lower at 5.54%, but higher business costs may push it up over time.",
+    "takeaway": "Wholesale inflation shows what businesses pay for their raw materials. When it jumps, shop prices often follow later."
+  },
+  "quiz": [
+    {
+      "q": "By how much did the Sensex fall on Wednesday?",
+      "options": [
+        "99.25 points",
+        "251.89 points",
+        "1,109.10 points",
+        "547.65 points"
+      ],
+      "answer": 1,
+      "why": "The Sensex fell 251.89 points, or 0.34%, to 72,781.89. 99.25 points was the Nifty 50's fall."
+    },
+    {
+      "q": "What does wholesale inflation (WPI) measure?",
+      "options": [
+        "Prices families pay in shops",
+        "Prices businesses pay for goods in bulk",
+        "Interest rates on home loans",
+        "The value of the rupee"
+      ],
+      "answer": 1,
+      "why": "The WPI tracks prices one business pays another for goods in bulk, like fuel, metals and grain. Retail inflation tracks shop prices."
+    },
+    {
+      "q": "What was the main driver of September's jump in wholesale inflation?",
+      "options": [
+        "Cheaper food",
+        "Fuel and power prices, up 25.85% from a year ago",
+        "Lower interest rates",
+        "A weaker dollar"
+      ],
+      "answer": 1,
+      "why": "Fuel and power prices rose 25.85% from a year earlier as oil stayed above $100 a barrel."
+    },
+    {
+      "q": "Which sector fell the most on Wednesday?",
+      "options": [
+        "IT",
+        "Consumer goods (FMCG)",
+        "Pharma",
+        "Power"
+      ],
+      "answer": 2,
+      "why": "The Nifty Pharma index fell the most, about 1.1% to 1.3%. IT shares rose about 1.14%."
+    },
+    {
+      "q": "The rupee moved from 95.36 to about 95.17 per dollar. What does that mean?",
+      "options": [
+        "The rupee got weaker",
+        "The rupee got stronger",
+        "Nothing changed",
+        "Petrol became cheaper today"
+      ],
+      "answer": 1,
+      "why": "Fewer rupees are needed for one dollar, so the rupee strengthened, by 19 paise. Petrol prices did not change."
+    },
+    {
+      "q": "What does 'core inflation' leave out?",
+      "options": [
+        "Rent and services",
+        "Food and energy",
+        "Imported goods",
+        "Taxes"
+      ],
+      "answer": 1,
+      "why": "Core inflation excludes food and energy, whose prices swing a lot, to show the underlying trend."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Business Standard: Stock Market Close, Sensex ends choppy trade 252 pts down, Nifty at 22,623; pharma index drops 1%",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-14-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101400113_1.html"
+    },
+    {
+      "title": "Telangana Today (IANS): Sensex falls 252 points, Nifty slips 99 as pharma, healthcare stocks drag",
+      "url": "https://telanganatoday.com/sensex-falls-252-points-nifty-slips-99-as-pharma-healthcare-stocks-drag"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 14 October 2026, Sensex and Nifty fall as inflation concerns weigh on markets",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-fall-on-inflation-concerns/"
+    },
+    {
+      "title": "Equitymaster: Sensex today ends 252 points lower, Nifty below 22,650",
+      "url": "https://www.equitymaster.com/indian-share-markets/10/14/2026/Sensex-Today-Ends-252-Points-Lower--Nifty-Below-22650--LIC-Housing-Finance-Down-5"
+    },
+    {
+      "title": "Angel One: Top gainers and losers on October 14, 2026",
+      "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-october-14-2026-nestle-and-tata-consumer-gain-while-shriram-finance-drops-over-3"
+    },
+    {
+      "title": "Kotak Neo: Nifty Pharma falls as Divi's Labs, Sun Pharma shares decline",
+      "url": "https://www.kotakneo.com/news/market-news/nifty-pharma-index-today/"
+    },
+    {
+      "title": "Whalesbook: Nifty Pharma slumps, Sun Pharma hits 5-month low",
+      "url": "https://www.whalesbook.com/news/English/bankingfinance/Nifty-Pharma-Slumps-Sun-Pharma-Hits-5-Month-Low-Divis-Declines/6acf50b679a16deaeaf11529"
+    },
+    {
+      "title": "HDFC Sky: India VIX rises 3.4% to 14.64",
+      "url": "https://hdfcsky.com/news/india-vix-rises-3-4percent-to-14-64-as-crude-oil-risks-and-market-uncertainty-weigh-october-14-2026"
+    },
+    {
+      "title": "The Tribune: WPI inflation climbs to 11.39% in September from 9.92% in August",
+      "url": "https://www.tribuneindia.com/news/business/wpi-inflation-climbs-to-11-39-in-september-from-9-92-in-august"
+    },
+    {
+      "title": "Deccan Herald: WPI inflation races to 11.39% in September",
+      "url": "https://www.deccanherald.com/business/wpi-inflation-races-to-1139-in-september-on-rise-in-prices-of-food-fuel-manufactured-items-4182102"
+    },
+    {
+      "title": "HDFC Sky (PTI): Rupee rises 19 paise to close at 95.17 against US dollar",
+      "url": "https://hdfcsky.com/news/rupee-rises-19-paise-to-close-at-95-17-against-us-dollar"
+    },
+    {
+      "title": "Kotak Neo: FII and DII data",
+      "url": "https://www.kotakneo.com/share-market-today/fii-dii-data/"
+    },
+    {
+      "title": "Sunday Guardian: Crude oil prices today, Brent rises as Saudi Aramco attack and Hormuz risks weigh",
+      "url": "https://sundayguardianlive.com/world/crude-oil-prices-today-october-14-why-are-oil-prices-rising-today-brent-crude-hits-10658-as-saudi-aramco-attack-and-strait-of-hormuz-risks-offset-hopes-of-higher-russian-diesel-exports-305338/"
+    },
+    {
+      "title": "IBTimes: Aramco's headquarters hit as clashes with Houthis escalate",
+      "url": "https://www.ibtimes.com/aramcos-headquarters-were-hit-clashes-houthis-escalate-oil-prices-are-edging-again-3808559"
+    },
+    {
+      "title": "CNBC: CPI inflation report September 2026",
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+    },
+    {
+      "title": "10TV (AP): How major US stock indexes fared Tuesday 10/13/2026",
+      "url": "https://www.10tv.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-tuesday-10132026/616-79e921f9-f51b-49be-8ffb-40f942bd73c3"
+    },
+    {
+      "title": "Multibagg: Wipro Q2 FY27 results on October 15, 2026",
+      "url": "https://www.multibagg.ai/market-pulse/articles/wipro-q2-fy27-results-date-cmuy0ka2q00042pl8j86qku19"
+    }
+  ]
+}

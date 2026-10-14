@@ -1,0 +1,32 @@
+## The big idea
+
+Every three months, listed companies in India publish their **quarterly results**: a report card showing how much they sold and how much they earned. Four numbers matter most.
+
+**Revenue** is the total money a company brings in from selling its goods or services. **Profit**, often called **net profit**, is what is left after paying all costs, interest and taxes. The **margin** is profit as a share of revenue: a company with ₹100 of revenue and ₹15 of profit has a 15% margin.
+
+The fourth is the **P/E ratio** (price-to-earnings). It divides the share price by the profit the company earns per share. If a share costs ₹500 and the company earns ₹25 per share in a year, the P/E is 20. Roughly, investors are paying ₹20 for every ₹1 of yearly profit. A high P/E means investors expect strong growth; a low one can mean doubts, or a bargain.
+
+## An everyday analogy
+
+Think of a chai stall. Revenue is all the money in the cash box at the end of the day. Profit is what is left after paying for milk, tea leaves, sugar, gas, rent and the helper's wages. If the owner sells more cups but milk prices rise sharply, revenue goes up while profit can still fall.
+
+## A real Indian example
+
+Suppose an IT company reports that its revenue rose 8% **year-on-year**, meaning compared with the same quarter last year, and its profit rose 10%. That sounds good. But if analysts had expected profit to rise 15%, the share price may fall on the day. Now suppose a bank reports lower profit but says bad loans are falling fast. Its shares may rise, because investors care about where the business is heading, not just the past three months.
+
+## Common misunderstandings
+
+- **"Higher profit always means the share price goes up."** Prices react to results compared with expectations, often called **street estimates**. Good results that fall short of hopes can still send a share down.
+- **"Revenue and profit are the same thing."** A company can sell a lot and still lose money if its costs are too high.
+- **"A low P/E means the share is cheap."** Sometimes it is cheap for a reason, such as falling profits or a troubled industry.
+- **"One quarter tells the full story."** Results can be lifted or hit by one-off items, like selling a property or a big tax charge. Look at the trend over several quarters.
+
+## How it shows up in the news
+
+In India, results season comes four times a year, mostly in the weeks after each quarter ends: April–June results arrive in July and August, July–September results in October and November, and so on. Big IT companies usually report first. Headlines say things like "profit beats estimates", "margins shrink" or "company cuts guidance", where **guidance** is the company's own forecast for the months ahead. You'll also see terms like **Q2 FY27**, meaning the second quarter (July–September) of the financial year that ends in March 2027. Rules on when results must be published are set by SEBI and can change, so check the current ones if you need them.
+
+## Three things to remember
+
+1. Revenue is what a company earns from sales; profit is what is left after all costs.
+2. Share prices react to results compared with expectations, not just whether profit went up.
+3. The P/E ratio tells you how much investors are paying for each rupee of profit, but it's only a starting point.
