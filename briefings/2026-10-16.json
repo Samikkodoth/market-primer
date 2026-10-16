@@ -1,0 +1,599 @@
+{
+  "date": "2026-10-16",
+  "session_label": "Friday 16 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex rose 414 points for a second day of gains as IT shares jumped almost 4% after strong results from Tech Mahindra, which also announced bonus shares; the rupee rose for a sixth day and SEBI finalised new closing-price rules.",
+  "mood": "Steady",
+  "mood_note": "A calmer, positive end to a strong week. IT companies did most of the lifting, and this time more shares rose than fell.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Thursday the Sensex rose 1,533.72 points. Today it added another 413.66 points, a smaller second step up.",
+    "We reported Thursday's rupee close as 95.05 per dollar, an early figure. The final close was 94.99, a gain of 18 paise. Today it rose again.",
+    "Foreign investors sold ₹5,285.37 crore of shares on Thursday, according to provisional exchange data, while domestic institutions bought ₹3,319.39 crore."
+  ],
+  "one_minute": [
+    "The Sensex rose 413.66 points (0.56%) to 74,729.27 and the Nifty 50 rose 148.80 points (0.65%) to 23,146.15, its second straight gain.",
+    "IT shares led: the Nifty IT index rose about 3.9%. Tech Mahindra jumped 8.45% after profit rose 32.7%, a 1:1 bonus issue and a ₹15 dividend. Wipro rose more than 6% during trading.",
+    "The rupee rose 7 paise to 94.92 per dollar (provisional), its sixth gain in a row, helped by RBI measures. Brent crude stayed near $105.6 a barrel.",
+    "SEBI finalised a 10-minute 'closing auction' from 3:30 to 3:40 pm to set closing prices, with most changes starting 7 December.",
+    "Asian markets bounced back after Thursday's crash; South Korea's Kospi rose 2.1%. But Indonesia's main index plunged 11% after an MSCI downgrade warning."
+  ],
+  "big_picture": "After Thursday's big jump, Indian shares rose again on Friday, though by less.\n\nThe main driver was IT. Tech Mahindra reported a sharp rise in profit and rewarded shareholders with bonus shares and a dividend. Wipro, which had reported weak growth the evening before, also rose because its results were not as bad as feared. TCS and Infosys joined in. Together they pushed the Nifty IT index up almost 4%.\n\nThe mood abroad was calmer too. Asian markets recovered part of Thursday's AI-led crash, and US shares had risen overnight while US bond yields fell.\n\nThe rupee strengthened for a sixth day, helped by the RBI's steps to curb dollar demand. Oil stayed above $105, which is still high for India.\n\nFor the week, the Sensex gained more than 3%. Foreign investors, though, kept selling.",
+  "chain": [
+    {
+      "label": "IT results beat fears",
+      "note": "Tech Mahindra's profit rose 32.7% and Wipro's numbers were better than low expectations."
+    },
+    {
+      "label": "IT shares rally",
+      "note": "The Nifty IT index rose about 3.9%; Tech Mahindra, TCS and Infosys gained 4.5% to 8.5%."
+    },
+    {
+      "label": "Calmer world markets",
+      "note": "Asian shares rebounded and US shares rose on Thursday as US bond yields fell."
+    },
+    {
+      "label": "Rupee and oil help a little",
+      "note": "The rupee rose for a sixth day and Brent eased slightly to about $105.6."
+    },
+    {
+      "label": "Indices rise again",
+      "note": "The Sensex gained 413.66 points, and more NSE shares rose than fell."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "74,729.27",
+      "change": "+413.66 (+0.56%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It rose for a second day and gained more than 3% this week."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "23,146.15",
+      "change": "+148.80 (+0.65%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It closed above 23,100."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "about +3.9%",
+      "direction": "up",
+      "what_it_is": "This tracks India's big IT companies. It was by far the best sector today."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "about -0.23%",
+      "direction": "down",
+      "what_it_is": "This tracks medium-sized companies. They slipped slightly."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "roughly flat",
+      "direction": "flat",
+      "what_it_is": "This tracks smaller listed companies. They ended about where they started."
+    },
+    {
+      "name": "Rising vs falling shares (NSE)",
+      "value": "2,131 up / 1,422 down",
+      "change": "more rose than fell",
+      "direction": "up",
+      "what_it_is": "Market breadth: how many shares rose versus fell. Unlike Thursday, most shares rose."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.92",
+      "change": "stronger by 7 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee. It rose for a sixth day."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$105.56",
+      "change": "-0.34% (Indian afternoon)",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "Gold (MCX, December)",
+      "value": "₹1,48,429 per 10 g",
+      "change": "+0.64% (during the day)",
+      "direction": "up",
+      "what_it_is": "The price of gold futures on India's commodity exchange. It shapes jewellery prices."
+    },
+    {
+      "name": "S&P 500 (US, Thursday)",
+      "value": "7,744.06",
+      "change": "+0.33%",
+      "direction": "up",
+      "what_it_is": "A main index of 500 large US companies. It recovered a little after Wednesday's fall."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-rises-414-as-it-shares-lead-second-day-of-gains",
+      "category": "Stock market",
+      "title": "Sensex rises 414 points and Nifty ends above 23,100 as IT shares jump almost 4%; more shares rise than fall",
+      "tldr": "Indian shares rose for a second day, led by IT companies after good quarterly results. Unlike Thursday, the gains were spread more widely, though medium-sized companies slipped a little.",
+      "what_happened": "The Sensex rose 413.66 points, or 0.56%, to close at 74,729.27. The Nifty 50 rose 148.80 points, or 0.65%, to 23,146.15, according to PTI. The market briefly turned negative during the day before recovering; the Sensex's low was 74,012.99 and its high 74,778.78.\n\nIT shares did most of the work. The Nifty IT index rose about 3.9%. Among Sensex companies, Tech Mahindra rose 8.45%, TCS 4.61% and Infosys 4.55%. Bharti Airtel, Mahindra & Mahindra and Bajaj Finance also gained. IndiGo's parent InterGlobe Aviation, Reliance Industries, Asian Paints and Bharat Electronics fell.\n\nMedia, cement and metal indices rose, while FMCG and oil and gas shares slipped. The Nifty Midcap 100 fell about 0.23% and the Nifty Smallcap 100 ended roughly flat. On the NSE, 2,131 shares rose and 1,422 fell.\n\nOver the week, the Sensex gained more than 3%.",
+      "simple_explanation": "Think of Friday as a quieter follow-up to Thursday's big jump.\n\nThe main reason was IT companies. Several of them reported their results for July to September, and investors liked what they saw. Because big IT firms carry a lot of weight in the Sensex and Nifty, their rise lifted the whole index.\n\nThis time the rise was healthier in one way: more shares went up than down across the NSE. On Thursday it had been the opposite.\n\nNot everything rose. Reliance, which jumped on Thursday on Jio IPO excitement, slipped back a little.",
+      "analogy": "It is like a cricket team scoring steadily the day after a big win. The runs are fewer, but more of the batters are contributing this time.",
+      "why": "Vinod Nair of Geojit Investments said Indian shares extended their recovery thanks to steady buying in IT stocks, backed by strong quarterly results and upbeat comments from company managers. He added that softer oil prices and a firmer rupee also helped.\n\nAjit Mishra of Religare Broking said the IT rally after results was the main driver of the rebound. Ponmudi R of Enrich Money also said IT shares led the advance as investors reacted to fresh earnings.\n\nCalmer markets abroad helped too. Asian shares recovered and US shares had risen overnight.",
+      "implications": {
+        "you": "A Nifty 50 index fund rose about 0.65% today, roughly ₹650 on every ₹1 lakh. An IT-focused fund would have risen more. A monthly SIP carries on unchanged.",
+        "markets": "Foreign investors are still selling heavily, while Indian institutions keep buying. Results season continues next week, so individual company numbers will keep moving shares.",
+        "economy": "Better profits at IT firms are partly due to the weaker rupee over the past year, which makes their dollar earnings worth more in rupees. One day's rise says little about the wider economy.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "More company results next week, whether foreign investors keep selling, and the Jio Platforms IPO, which opens for bids on 21 October.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "IT services",
+        "Sectoral index",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "FII",
+        "DII"
+      ],
+      "explainers": {
+        "like12": "Imagine your class has a 'class score' that is the average of everyone's marks, but the toppers count extra.\n\nOn Friday, a few toppers, the big computer-services companies, did really well in their report cards. Tech Mahindra's profit went up by about a third. So their share prices jumped, and the class score went up.\n\nThe nice part is that more than half the class also improved a bit. On Thursday, only the toppers had done well while most others slipped.\n\nSo Friday was a smaller jump than Thursday, but a more even one across the class.",
+        "real_life": "Meet Kavya, a 29-year-old nurse in Kochi. She puts ₹2,500 a month into a Nifty 50 index fund through an SIP, and the fund is now worth about ₹80,000.\n\nToday it rose about 0.65%, roughly ₹520. Over the whole week, with the Nifty up more than 2%, her fund grew by around ₹2,000.\n\nKavya doesn't need to do anything. Her next SIP instalment goes in as usual. Good weeks and bad weeks both happen; an SIP is meant to keep investing through both, so she doesn't have to guess which days are best."
+      }
+    },
+    {
+      "id": "tech-mahindra-profit-jumps-bonus-shares-wipro-rises",
+      "category": "Companies",
+      "title": "Tech Mahindra jumps 8.45% after profit rises 32.7% and it announces a 1:1 bonus issue and ₹15 dividend; Wipro rises despite slower growth",
+      "tldr": "Tech Mahindra reported much higher profit for July to September and said shareholders will get one free share for each share they hold. Wipro's shares also rose because its results were better than the low expectations.",
+      "what_happened": "Tech Mahindra said its net profit for July to September rose 32.7% from a year earlier to ₹1,585.6 crore. Revenue rose about 15.6% to about ₹16,180 crore, and its EBIT margin improved to 14.8%. It won new contracts worth $1.023 billion, the fourth quarter in a row above $1 billion, according to HDFC Sky.\n\nThe board announced a 1:1 bonus issue, meaning one extra share for every share held. It also declared an interim dividend of ₹15 per share, with a record date of 23 October. The shares rose 8.45%, the top gainer on the Sensex.\n\nWipro, which reported on Thursday evening, also gained. Its profit fell 1.9% to ₹3,201 crore and revenue was flat in constant currency compared with the previous quarter, but its shares rose more than 6% during trading. Citi analysts said the results were slightly better than low expectations, though they still expect slow growth.",
+      "simple_explanation": "Every three months, listed companies tell everyone how much they earned. These are called quarterly results.\n\nTech Mahindra's profit rose sharply. Lower costs, more work from clients and a weaker rupee all helped. A weaker rupee helps IT firms because they earn in dollars but pay most staff in rupees.\n\nIt also announced bonus shares. If you own 10 shares, you will get 10 more free. But the share price roughly halves when this happens, so the total value you own stays about the same.\n\nWipro is a different story. Its business barely grew, but investors had feared worse, so the shares rose.",
+      "analogy": "A bonus issue is like cutting a pizza into 16 slices instead of 8. You have twice as many slices, but the same amount of pizza.",
+      "why": "Reports credited Tech Mahindra's better profit to more work from clients, cost savings and the weaker rupee. Vinod Nair of Geojit Investments said strong quarterly results and upbeat management comments supported IT shares.\n\nIn Wipro's case, the operating margin of its IT services business improved to 16.5% and cash flow was strong, according to reports. That outweighed the fall in profit and the sharp drop in large new contracts. Wipro expects revenue in the October–December quarter to range from a 1.5% fall to a 0.5% rise in constant currency.",
+      "implications": {
+        "you": "If you own Tech Mahindra shares on the record date, you get a ₹15 dividend per share, and later one free share for each one you hold. Your total value does not jump because of the bonus. Most large-cap and IT funds own these shares, so their value rose today.",
+        "markets": "IT shares carry a big weight in the indices, so their results can move the whole market. Investors will watch whether other IT firms show similar profit gains.",
+        "economy": "IT firms employ millions of people. Strong deal wins are a good sign for hiring, but Wipro's soft outlook shows growth is uneven across the industry.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "The bonus issue's record date, which the company will announce, and results from other IT and banking companies in the coming week.",
+      "terms": [
+        "Quarterly results",
+        "Net profit",
+        "Year-on-year",
+        "EBIT margin",
+        "Bonus shares",
+        "Dividend",
+        "Record date",
+        "Constant currency"
+      ],
+      "explainers": {
+        "like12": "Imagine a lemonade stand owned by lots of people, each with a few 'pieces' of the stand. Every three months, the stand tells its owners how much money it made.\n\nTech Mahindra is like a stand that made a third more profit than a year ago. That made people want to own a piece, so the price of each piece went up a lot.\n\nIt also said: 'Everyone gets one extra piece for each piece you have.' Sounds great! But each piece now stands for half as much of the stand. So you have more pieces, but the same share of the business.\n\nIt is also giving each owner ₹15 per piece as a small thank-you payment.",
+        "real_life": "Meet Rohan, a 38-year-old sales manager in Pune. Some years ago he bought 20 Tech Mahindra shares.\n\nBecause he will own them on the record date of 23 October, he gets a dividend of ₹15 per share: ₹300 in total, credited to his bank account. Dividends can be taxed as income, so the amount he keeps depends on his tax slab.\n\nLater, after the bonus issue, his 20 shares become 40. The price per share will roughly halve on that date, so his holding's value stays about the same. His demat account will simply show more shares. Rohan doesn't need to apply for anything; the bonus shares are added automatically."
+      }
+    },
+    {
+      "id": "rupee-rises-sixth-day-to-94-92-oil-near-105",
+      "category": "Rupee and oil",
+      "title": "Rupee rises 7 paise to 94.92 for a sixth straight gain, helped by RBI steps; oil stays near $105.6",
+      "tldr": "The rupee strengthened for the sixth day running, helped by the RBI's measures to limit demand for dollars. Oil prices dipped slightly but remain high because of tensions in the Middle East.",
+      "what_happened": "The rupee rose 7 paise to 94.92 per US dollar on Friday, according to provisional figures reported by PTI. It opened at 94.75. On Thursday it had closed at 94.99.\n\nForex traders told PTI the rupee was supported by the Reserve Bank of India's measures to curb demand for dollars in the spot market. PTI said the RBI has reportedly used about $75–80 billion through dollar sales and swaps since special measures began on 8 June. High oil prices and foreign investors' selling limited the rupee's gains.\n\nBrent crude was down 0.34% at $105.56 a barrel. Oil was still heading for a weekly gain, Reuters reported, because of worries about supply from the Middle East. Attacks around the Strait of Hormuz have increased over the past 10 days, and Iran said it was stepping up strikes in response to a US blockade of its ports.\n\nThe dollar index, which measures the dollar against major currencies, was down 0.41% at 101.445.",
+      "simple_explanation": "The exchange rate tells you how many rupees you need to buy one US dollar. Today, about ₹94.92. A smaller number means the rupee got stronger.\n\nThe rupee had weakened a lot this year, partly because oil is very expensive and India buys most of its oil from abroad, paying in dollars.\n\nThe RBI has been selling dollars from its savings and limiting speculation to steady the rupee. That has helped the rupee rise six days in a row.\n\nBut oil is still above $100 a barrel, which keeps pressure on the rupee.",
+      "analogy": "The RBI is like a shopkeeper who brings out extra stock from the back room when a crowd rushes in. More supply of dollars stops their price from shooting up.",
+      "why": "Kaveri More of Choice Broking said high crude prices, rising US bond yields and foreign investors' selling had pushed the RBI to step up its intervention. She said the rupee was nearing an important level around 94, and that its path will depend on the RBI, oil, US bond yields and foreign money flows.\n\nOil remained high mainly because of supply risks in the Middle East, including around the Strait of Hormuz, a key route for oil tankers.",
+      "implications": {
+        "you": "A stronger rupee makes foreign travel, studying abroad and imported gadgets slightly cheaper. The change is small: 7 paise per dollar on a $1,000 payment saves about ₹70.",
+        "markets": "A steadier rupee makes Indian shares and bonds less risky for foreign investors, though they are still selling for now.",
+        "economy": "Oil above $100 is expensive for India. It raises the import bill and can push up inflation. The RBI is spending dollar reserves to steady the rupee.",
+        "prices": "Petrol and diesel prices did not change today. Gold jewellery became slightly costlier as MCX gold futures rose about 0.6% during the day."
+      },
+      "watch": "Oil prices and news from the Middle East, and whether the rupee can hold near 94–95 per dollar.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "RBI intervention",
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "Dollar index",
+        "MCX"
+      ],
+      "explainers": {
+        "like12": "Imagine you want to buy a toy from America. The shop only accepts dollars, so first you swap your rupees for dollars.\n\nRight now, one dollar costs about ₹95. For six days in a row it has been getting a little cheaper, which means the rupee is getting stronger.\n\nWhy? India's central bank, the RBI, has a big savings box full of dollars. When too many people want dollars at once, it sells some from that box so the price doesn't shoot up.\n\nBut oil, which India buys from other countries in dollars, is still very costly. That keeps pulling the rupee the other way.",
+        "real_life": "Meet Sneha, a 41-year-old school teacher in Lucknow. Her son is studying in the US, and she sends him $500 every month for living costs.\n\nAt 94.92 rupees per dollar, that costs her about ₹47,460, before bank charges. Compared with Thursday's close of 94.99, she saves about ₹35. Compared with a week ago, when the rupee was weaker, she saves several hundred rupees.\n\nThese are small amounts, but over a year they add up. Sneha can't control the exchange rate, so she simply sends the money each month instead of trying to time it."
+      }
+    },
+    {
+      "id": "sebi-finalises-closing-auction-session-rules",
+      "category": "Regulation",
+      "title": "SEBI finalises a 10-minute closing auction from 3:30 to 3:40 pm to set share closing prices; most changes start 7 December",
+      "tldr": "The market regulator has set new rules for how each share's closing price is decided at the end of the day. It has also changed course on how expiring futures and options are settled.",
+      "what_happened": "SEBI issued a circular on Thursday evening finalising a 'closing auction session'. It will run for 10 minutes, from 3:30 pm to 3:40 pm, on all trading days. During this window, buyers and sellers place orders, and a single closing price is worked out from them.\n\nTrading in index and stock futures and options will continue until 3:45 pm, with some exceptions for expiring index contracts.\n\nIn a change from its earlier proposal, SEBI said expiring derivatives will be settled using the volume-weighted average price from the last 30 minutes of normal trading, rather than the auction price, according to reports.\n\nMost of the new rules take effect on 7 December, and some order-handling rules from 8 February 2027. SEBI said it acted after public comments, advice from its Secondary Market Advisory Committee and talks with the exchanges. Shares of BSE Ltd fell 1.82% during the day, Goodreturns reported.",
+      "simple_explanation": "Every share has a 'closing price' each day. It is the number you see in the newspaper, and it is used to value mutual funds and settle many trades.\n\nToday that price is worked out from trades in the last half hour. SEBI wants a more reliable method: a short auction at the end of the day, where everyone puts in their orders and one fair price is found.\n\nThe idea is to make closing prices harder to push around with a few last-minute trades.\n\nFor most ordinary investors, nothing changes in how they buy or sell.",
+      "analogy": "It's like an auction at a vegetable mandi at closing time. Instead of the last few sellers setting the price, everyone calls out what they want, and one price is set that matches the most buyers and sellers.",
+      "why": "SEBI has been working on this for some time to make closing prices more accurate and less open to manipulation. Earlier versions of the plan proposed using the auction price to settle expiring derivatives, but SEBI has now kept an average-price method for that, after feedback from the market.\n\nBSE earns money from derivatives trading, which may be why its shares fell, though no analyst explanation was reported.",
+      "implications": {
+        "you": "If you invest through SIPs or buy shares occasionally, you will hardly notice any change. Mutual fund values may be based on slightly more reliable closing prices.",
+        "markets": "Traders and funds that trade at the end of the day will need to adjust. Exchanges and brokers must update their systems before 7 December.",
+        "economy": "No direct effect on the economy. Fairer prices can build trust in the market over time.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Exchange announcements on how the new session will work, and any test runs before 7 December.",
+      "terms": [
+        "SEBI",
+        "Closing price",
+        "Closing auction session",
+        "Derivatives",
+        "Expiry",
+        "VWAP"
+      ],
+      "explainers": {
+        "like12": "At the end of every school day, imagine the teacher writes one 'price' for each item in the class shop on the board. Everyone uses that number until tomorrow.\n\nRight now, that number is worked out from the last few sales. But a couple of kids could buy or sell right at the end to make the number look higher or lower.\n\nSo the head teacher, SEBI, has made a new rule. For the last 10 minutes of the day, everyone writes down what they want to buy or sell and at what price. Then one fair price is picked that suits the most people.\n\nIt's harder to cheat, and everyone gets the same number.",
+        "real_life": "Meet Imran, a 45-year-old accountant in Hyderabad. He has three mutual funds and invests ₹10,000 a month through SIPs.\n\nHis fund's daily value, called its NAV, is worked out from the closing prices of the shares it owns. From December, those closing prices will come from the new 10-minute auction.\n\nFor Imran, this changes almost nothing. His SIP still goes in on the same date, and his app will still show one value per day. The difference is behind the scenes: the prices used to value his funds should be a bit harder for anyone to distort with last-minute trades."
+      }
+    },
+    {
+      "id": "asia-rebounds-indonesia-plunges-us-yields-fall",
+      "category": "Global",
+      "title": "Asian markets bounce back after Thursday's AI-led crash as US yields fall; Indonesia's main index plunges 11% after MSCI warning",
+      "tldr": "After a very bad Thursday, most Asian markets recovered some losses. US shares rose overnight and US bond yields fell. But Indonesia had its worst day since 1998.",
+      "what_happened": "South Korea's Kospi rose 2.1% to 5,668.05, a day after falling 7.6%, AP reported. Japan's Nikkei 225 rose 1.4% to 65,324.29, after a 4.9% drop on Thursday. Hong Kong's Hang Seng and China's Shanghai index also ended higher.\n\nEarly reports linked the rebound to comments by Nvidia's chief Jensen Huang defending CoreWeave, a data-centre company whose shares had fallen sharply.\n\nIndonesia went the other way. The Jakarta Composite index fell 11%, its steepest daily fall since 1998, after index provider MSCI warned it could downgrade Indonesia from 'emerging market' status.\n\nIn the US on Thursday, the S&P 500 rose 0.33% to 7,744.06 and the Nasdaq rose 0.08%. The yield on the 10-year US Treasury bond fell 10.5 basis points to 5.085%, according to Yahoo Finance.",
+      "simple_explanation": "On Thursday, investors around Asia sold shares of chip and AI companies in a panic. On Friday, things calmed down and prices partly bounced back.\n\nIndonesia is a separate story. MSCI makes lists of countries that big global funds use to decide where to invest. If Indonesia is moved down, some funds that follow those lists may have to sell Indonesian shares. Investors rushed to sell first.\n\nIn the US, interest rates on government bonds fell. When those fall, shares in countries like India can look more attractive to global investors.",
+      "analogy": "Thursday was like a sudden thunderstorm that sent everyone running indoors. Friday, people stepped back outside, but they're still watching the sky.",
+      "why": "Thursday's sell-off followed hotter-than-expected US inflation data and worries about the debt AI companies are taking on. Some of those fears eased on Thursday in the US, as investors moved money into bonds and safer shares.\n\nCommentators said the calm looked fragile, and that Friday's rebound did not erase the memory of Thursday's crash in South Korea.\n\nIndonesia's fall was driven by MSCI's warning, not by AI worries.",
+      "implications": {
+        "you": "Most Indian investors are not directly affected. If you own an international fund with Asian or US technology shares, its value may swing a lot from day to day.",
+        "markets": "Calmer Asian markets helped Indian shares on Friday. Indonesia's case is a reminder that a country's place in global index lists can move large amounts of money.",
+        "economy": "Lower US bond yields, if they last, ease pressure on the rupee and on borrowing costs in countries like India.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "Whether Asian markets stay calm next week, more US economic data, and what MSCI decides about Indonesia.",
+      "terms": [
+        "Kospi",
+        "Nikkei 225",
+        "MSCI",
+        "Emerging market",
+        "US Treasury yield",
+        "Basis point"
+      ],
+      "explainers": {
+        "like12": "Imagine a big school fair where a rumour spread on Thursday that the chocolate stalls were overpriced. Everyone rushed to sell their chocolate tokens, and prices crashed.\n\nOn Friday, a famous chocolate maker said, 'Don't worry, things are fine.' People calmed down and token prices rose a bit.\n\nBut at another stall, Indonesia's, the fair organiser said it might move them to a less important corner. Lots of visitors only shop in the main area, so people quickly sold Indonesia's tokens, and their price fell a lot.\n\nMarkets can move on news like this, even when nothing about the stall itself changed.",
+        "real_life": "Meet Priya, a 33-year-old software tester in Bengaluru. Two years ago she started a ₹2,000-a-month SIP in a fund that invests in US technology companies.\n\nThis week, her fund's value may have dropped on Wednesday and Thursday and recovered a little on Friday. Days like this can look scary on her app.\n\nBut her main savings are in Indian funds and a fixed deposit, so these swings affect only a small part of her money. Priya doesn't need to act on one bad or good day. Knowing that international funds can swing a lot helps her stay calm."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that write software, run computer systems and provide tech support for clients, mostly abroad.",
+      "more": "India's IT services firms, such as TCS, Infosys, Wipro, HCLTech and Tech Mahindra, do technology work for banks, shops, airlines and governments around the world. Most of their revenue comes in dollars or euros, while most of their staff are paid in rupees. So a weaker rupee usually helps their profits. It's like a tailor in Tiruppur stitching for foreign buyers: paid in dollars, spending in rupees. IT firms are big parts of the Sensex and Nifty, so their results can move the whole market."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "How many shares rose compared with how many fell on a given day.",
+      "more": "Market breadth shows how widespread a market move is. Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, tells you whether a move is broad or narrow. On Friday, 2,131 NSE shares rose and 1,422 fell, so breadth was positive. It's like checking whether the whole class improved, not just the toppers."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Net profit",
+      "definition": "What a company earns after paying all its costs, interest and taxes.",
+      "more": "Net profit, sometimes called the bottom line, is what is left from a company's income after every expense: salaries, materials, rent, interest on loans and taxes. It is the money that belongs to shareholders, part of which may be paid as dividends. Think of a household: net profit is what remains of the month's salary after rent, groceries, EMIs and bills. News reports often say 'net profit rose 32.7% year-on-year', comparing it with the same quarter last year."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "A comparison with the same period one year earlier.",
+      "more": "Year-on-year, often written YoY, compares a figure with the same period last year, such as July–September 2026 against July–September 2025. This removes seasonal effects: many businesses naturally earn more in festive months, so comparing with the previous quarter can mislead. It's like comparing this Diwali's sweet-shop sales with last Diwali's, not with a quiet month. Company results, inflation and GDP are usually reported year-on-year."
+    },
+    {
+      "term": "EBIT margin",
+      "definition": "The share of revenue left as operating profit, before interest and taxes.",
+      "more": "EBIT stands for earnings before interest and taxes: what a company earns from its main business after running costs, but before paying loan interest and tax. The EBIT margin shows this as a percentage of revenue. A 14.8% margin means about ₹14.80 of operating profit on every ₹100 of sales. It's like a tea stall owner working out how much of each ₹10 cup is left after milk, tea, sugar and wages. Rising margins suggest a company is running more efficiently."
+    },
+    {
+      "term": "Bonus shares",
+      "definition": "Free extra shares a company gives to existing shareholders, in proportion to what they already hold.",
+      "more": "In a bonus issue, a company turns some of its saved-up profits into new shares and hands them out free. In a 1:1 bonus, you get one extra share for every share you own. The share price roughly halves when the bonus takes effect, so your total holding's value stays about the same. It's like changing a ₹500 note for five ₹100 notes. Companies often do this to make each share cheaper and easier to trade. News reports announce the ratio and the record date."
+    },
+    {
+      "term": "Dividend",
+      "definition": "A share of a company's profit paid out in cash to its shareholders.",
+      "more": "A dividend is money a company pays to its shareholders from its profits, usually stated per share. An interim dividend is paid during the year; a final dividend after the year ends. If a company declares ₹15 per share and you own 20 shares, you receive ₹300 in your bank account. Dividends are taxed as income, and the rules can change. It's like the owner of a family shop sharing some of the year's earnings with relatives who helped fund it."
+    },
+    {
+      "term": "Record date",
+      "definition": "The date a company uses to decide which shareholders get a dividend, bonus or other benefit.",
+      "more": "On the record date, the company checks its list of shareholders. Anyone on that list gets the dividend or bonus shares. Because share trades take a day to settle in India, you usually need to buy before the record date to be included. It's like a school setting a cut-off date for a trip: only students enrolled by that day get a seat. News reports say things like 'record date for the dividend is 23 October'."
+    },
+    {
+      "term": "Constant currency",
+      "definition": "Growth measured as if exchange rates had not changed, to show real business growth.",
+      "more": "Indian IT companies earn in dollars, euros and pounds but report in rupees. When the rupee weakens, rupee revenue rises even if business is flat. Constant-currency growth removes this effect. If revenue rose 9% in rupees but 0% in constant currency, the increase came from currency moves, not more work. It's like a shopkeeper whose sales seem higher only because prices rose, not because more customers came. Analysts watch constant-currency figures closely for IT firms."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 95.05 but finally came in at 94.99. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen."
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars to steady the rupee.",
+      "more": "The RBI holds large foreign currency reserves. When the rupee falls too fast, it can sell dollars from these reserves, adding supply and slowing the fall. When the rupee rises too quickly, it may buy dollars. It can also use 'swaps', agreeing to swap currencies now and reverse later. The RBI says it aims to reduce sharp swings, not to fix a level. It's like a dam releasing water to stop a river from flooding or running dry."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. On Friday it fell 0.41% to 101.445, which helped the rupee. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close."
+    },
+    {
+      "term": "MCX",
+      "definition": "The Multi Commodity Exchange of India, where gold, silver, oil and other commodities are traded.",
+      "more": "MCX is India's main exchange for trading commodities such as gold, silver, crude oil, natural gas and metals. Most trading is in futures contracts, which are agreements on a price for a future date. MCX gold prices are a common guide to what jewellers charge, though shop prices also include GST and making charges. It's like a big wholesale mandi for metals and energy. News reports quote MCX gold per 10 grams."
+    },
+    {
+      "term": "SEBI",
+      "definition": "The Securities and Exchange Board of India, the regulator that oversees the stock market.",
+      "more": "SEBI makes and enforces the rules for stock exchanges, brokers, mutual funds, listed companies and IPOs. Its job is to protect investors and keep markets fair. It can fine companies, ban traders and change how trading works, like Friday's new closing-auction rules. Think of it as the umpire in a cricket match: it doesn't play, but it makes sure everyone follows the rules. SEBI announcements usually come as circulars or board-meeting decisions."
+    },
+    {
+      "term": "Closing price",
+      "definition": "The official final price of a share at the end of a trading day.",
+      "more": "Each listed share gets one official closing price every day. It is used to value mutual funds (their daily NAV), work out margins for traders, and settle many contracts. In India, it is currently based on an average of trades in the last half hour. From December, SEBI plans to set it through a short closing auction. It's like the final score shown when the match ends: everyone uses that one number. Newspapers and apps show it as the day's 'close'."
+    },
+    {
+      "term": "Closing auction session",
+      "definition": "A short period at the end of the trading day when orders are collected and one closing price is set.",
+      "more": "In a closing auction session, buyers and sellers place orders during a fixed window, and the exchange then picks the single price at which the most shares can change hands. That becomes the closing price. Many big markets abroad already use this method. SEBI's version will run from 3:30 pm to 3:40 pm, with the end time picked at random in the last two minutes so nobody can game it. It's like a mandi's end-of-day auction setting one fair price."
+    },
+    {
+      "term": "Derivatives",
+      "definition": "Contracts, such as futures and options, whose value depends on the price of something else.",
+      "more": "A derivative is a contract based on an underlying asset, like a share, an index or gold. Futures are agreements to buy or sell at a set price on a future date; options give the right, but not the obligation, to do so. They are used to protect against price swings, and also for speculation. SEBI has warned that most individual traders lose money in futures and options. It's like booking a wedding hall's price today for a date months away."
+    },
+    {
+      "term": "Expiry",
+      "definition": "The last day a futures or options contract is valid, when it is settled.",
+      "more": "Futures and options contracts have an end date called expiry. On that day, any open contract is settled at a price set by the exchange, called the settlement price. Expiry days can be busy and volatile as traders close their positions. SEBI's new rules say expiring contracts will be settled using an average price from the last 30 minutes of trading. It's like the last day of a sale offer: after that, the deal ends and the final bill is worked out."
+    },
+    {
+      "term": "VWAP",
+      "definition": "Volume-weighted average price: the average price of a share over a period, giving more weight to bigger trades.",
+      "more": "VWAP adds up the value of all trades over a time window and divides by the number of shares traded. Large trades count more than small ones. This gives a fairer average than simply taking the last price, because one small trade can't move it much. SEBI will use the VWAP of the last 30 minutes of normal trading to settle expiring derivatives. It's like working out the average price of tomatoes at a mandi by counting how many kilos sold at each price."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "MSCI",
+      "definition": "A company that creates stock market indices used by global funds to decide where to invest.",
+      "more": "MSCI builds widely followed indices that group countries into categories such as 'developed', 'emerging' and 'frontier'. Trillions of dollars in global funds track these indices, so a country's category decides how much of that money flows in automatically. If MSCI moves a country down, funds following it may have to sell that country's shares. It's like a popular travel guide downgrading a town: fewer tourists may come. India is in MSCI's emerging markets index."
+    },
+    {
+      "term": "Emerging market",
+      "definition": "A country whose economy and financial markets are growing but not yet considered fully developed.",
+      "more": "Emerging markets include countries like India, China, Brazil and Indonesia. Their economies often grow faster than rich countries, but their markets can be riskier and swing more. Global funds often have a set amount for 'emerging markets', so being in that group brings steady foreign investment. Losing that status can mean big outflows, as Indonesia feared on Friday. It's like a school being listed among 'top schools' in a guide; parents pay more attention to those."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One-hundredth of one percentage point. 100 basis points equal 1 percentage point.",
+      "more": "Basis points are used to describe small changes in interest rates and bond yields precisely. If a yield falls from 5.19% to 5.085%, that is a drop of 10.5 basis points. Saying '10.5 basis points' avoids confusion between a change in percentage points and a percentage change. It's like measuring medicine in millilitres instead of spoonfuls: more exact for small amounts. News about RBI rate decisions often uses basis points too, as in a '25 basis point' cut or hike."
+    }
+  ],
+  "concept": {
+    "term": "Bonus shares",
+    "explanation": "Bonus shares are free extra shares a company gives to the people who already own its shares. They are handed out in a fixed ratio. In a 1:1 bonus, you get one new share for every share you hold; in a 1:2 bonus, one new share for every two.\n\nThe company doesn't raise any money by doing this. It simply moves some of its saved-up profits, called reserves, into share capital on its books.\n\nThe key thing to understand is that a bonus does not make you richer by itself. When the bonus shares are added, the share price falls by roughly the same proportion. If you had 10 shares at ₹1,000 each, worth ₹10,000, after a 1:1 bonus you would have 20 shares at about ₹500 each: still about ₹10,000.\n\nCompanies often issue bonus shares to make each share cheaper and easier to buy, or to signal confidence in the future.",
+    "example": "On Friday, Tech Mahindra announced a 1:1 bonus issue along with its results. A shareholder with 50 shares will get 50 more, ending up with 100. The share price will roughly halve when the bonus takes effect, so the total value stays about the same.",
+    "takeaway": "Bonus shares give you more pieces of the same pie. Your total value only changes if the share price itself moves."
+  },
+  "quiz": [
+    {
+      "q": "By how much did the Sensex rise on Friday?",
+      "options": [
+        "148.80 points",
+        "413.66 points",
+        "1,533.72 points",
+        "2,131 points"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose 413.66 points, or 0.56%, to 74,729.27. 148.80 points was the Nifty 50's gain, and 2,131 was the number of NSE shares that rose."
+    },
+    {
+      "q": "Which sector led Friday's rise?",
+      "options": [
+        "Oil and gas",
+        "FMCG",
+        "IT",
+        "Housing finance"
+      ],
+      "answer": 2,
+      "why": "The Nifty IT index rose about 3.9%, led by Tech Mahindra, TCS and Infosys after quarterly results. FMCG and oil and gas shares slipped."
+    },
+    {
+      "q": "Tech Mahindra announced a 1:1 bonus issue. If you own 10 shares worth ₹17,000 in total, what happens after the bonus?",
+      "options": [
+        "You get 10 more shares, and your total is worth about ₹34,000",
+        "You get 10 more shares, and your total is still worth about ₹17,000",
+        "You get ₹17,000 in cash",
+        "Nothing changes"
+      ],
+      "answer": 1,
+      "why": "A bonus gives you more shares, but the price per share roughly halves, so your holding's total value stays about the same."
+    },
+    {
+      "q": "What helped the rupee rise for a sixth straight day?",
+      "options": [
+        "Oil prices doubling",
+        "RBI measures to curb demand for dollars",
+        "Foreign investors buying heavily",
+        "A rise in the dollar index"
+      ],
+      "answer": 1,
+      "why": "Traders said the RBI's steps to limit spot dollar demand supported the rupee. High oil prices and foreign selling actually held it back, and the dollar index fell."
+    },
+    {
+      "q": "What is SEBI's new closing auction session for?",
+      "options": [
+        "Selling government land",
+        "Setting each share's closing price through a 10-minute auction",
+        "Allotting IPO shares",
+        "Setting interest rates"
+      ],
+      "answer": 1,
+      "why": "From 3:30 to 3:40 pm, orders will be collected and a single closing price set for each share. Most of the rules take effect on 7 December."
+    },
+    {
+      "q": "Why did Indonesia's main index fall 11% on Friday?",
+      "options": [
+        "Its central bank raised rates",
+        "MSCI warned it could downgrade Indonesia from emerging market status",
+        "A chip company went bankrupt",
+        "Oil prices crashed"
+      ],
+      "answer": 1,
+      "why": "If MSCI moves Indonesia down, global funds that follow its indices may have to sell Indonesian shares, so investors rushed to sell first."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Tribune (PTI): Stock markets end higher for 2nd day, led by strong buying in IT firms",
+      "url": "https://www.tribuneindia.com/news/business/stock-markets-end-higher-for-2nd-day-led-by-strong-buying-in-it-firms/"
+    },
+    {
+      "title": "Free Press Journal: Sensex rises 414 points, Nifty tops 23,100 and Tech Mahindra surges 8.45%",
+      "url": "https://www.freepressjournal.in/business/bulls-dominate-d-street-ahead-of-weekend-as-sensex-rises-414-points-nifty-tops-23100-and-tech-mahindra-surges-845"
+    },
+    {
+      "title": "Kotak Neo: Stock market closing bell, 16 October 2026",
+      "url": "https://www.kotakneo.com/news/market-news/stock-market-closing-bell-16-october-2026-sensex-gains-nifty-above-23100/"
+    },
+    {
+      "title": "Times Now Navbharat: Closing Bell, Sensex up 2,387 points in 5 days",
+      "url": "https://timesnowhindi.com/business/closing-bell-sensex-jumps-2387-points-in-5-days-investorscapital-increases-by-rs7-lakh-crores-article-156350818"
+    },
+    {
+      "title": "Business Standard: Stock Market Close, Sensex gains for 2nd day, rises 414 pts; IT index zooms 4%",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html"
+    },
+    {
+      "title": "HDFC Sky: Tech Mahindra Q2 results, profit rises 32.7%",
+      "url": "https://hdfcsky.com/news/tech-mahindra-q2-results-shares-rise-7-46-percent-as-profit-jumps-32-7-percent"
+    },
+    {
+      "title": "Upstox: Wipro shares gain 6.5% despite a nearly 5% QoQ fall in Q2 net profit",
+      "url": "https://upstox.com/news/market-news/stocks/wipro-shares-gain-6-5-despite-a-nearly-5-qo-q-fall-in-q2-earnings-sluggish-trends-ahead/article-201988/"
+    },
+    {
+      "title": "DT Next (PTI): Rupee rises 7 paise to close at 94.92 against US dollar on RBI intervention",
+      "url": "https://www.dtnext.in/news/business/rupee-rises-7-paise-to-close-at-9492-against-us-dollar-on-rbi-intervention"
+    },
+    {
+      "title": "ThePrint (PTI): Rupee logs 5th straight session of gain; closes 18 paise higher at 94.99",
+      "url": "https://theprint.in/economy/rupee-logs-5th-straight-session-of-gain-closes-18-paise-higher-at-94-99-against-us-dollar/3073104/"
+    },
+    {
+      "title": "RTÉ (Reuters): Oil heads for weekly gain with Mideast supply risks",
+      "url": "https://www.rte.ie/news/business/2026/1016/1595601-world-oil-prices/"
+    },
+    {
+      "title": "Goodreturns: BSE, NSE shares fall after SEBI revises closing auction session rules; new norms from December 7",
+      "url": "https://www.goodreturns.in/news/bse-nse-shares-fall-after-sebi-revises-closing-auction-session-rules-new-norms-from-december-7-1541945.html"
+    },
+    {
+      "title": "Outlook Money: SEBI restores VWAP method for F&O expiry settlement",
+      "url": "https://outlookmoney.com/invest/sebi-cas-vwap-based-fo-expiry-settlement-revised-rules"
+    },
+    {
+      "title": "myMotherLode (AP): Stocks rebound after tech sell-off and Indonesia shares sink on market downgrade warning",
+      "url": "https://mymotherlode.com/news/national/11226256/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning.html"
+    },
+    {
+      "title": "Yahoo Finance: Dow, S&P 500 rise, Nasdaq trims losses as Treasury yields sink",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html"
+    },
+    {
+      "title": "TradingView (CNBC TV18): FII and DII data, 15 October 2026",
+      "url": "https://www.tradingview.com/news/cnbctv:ef162e5d7094b:0/"
+    }
+  ]
+}
