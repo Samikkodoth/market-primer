@@ -1,0 +1,615 @@
+{
+  "date": "2026-10-19",
+  "session_label": "Monday 19 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex fell 876 points as private bank shares slid after HDFC Bank and Axis Bank results showed thinner lending margins; big investors bid for the Jio Platforms IPO ahead of Wednesday's opening, and the rupee ended a six-day winning run.",
+  "mood": "Downbeat",
+  "mood_note": "A clear down day before Tuesday's Dussehra holiday. Big private banks dragged the market lower, and most shares fell, though government-owned banks bucked the trend.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Friday the Sensex rose 413.66 points. Today it gave back more than double that, falling 876.37 points and ending a two-day winning run.",
+    "We reported Friday's rupee close as 94.92 per dollar, an early figure. The final close was 94.89. Today it slipped back to 94.92.",
+    "Foreign investors bought ₹1,165.92 crore of shares on Friday, according to provisional exchange data, after days of heavy selling, while domestic institutions sold ₹3,661.28 crore."
+  ],
+  "one_minute": [
+    "The Sensex fell 876.37 points (1.17%) to 73,852.90 and the Nifty 50 fell 257.20 points (1.11%) to 22,888.95, ending two days of gains.",
+    "Private banks led the fall: Axis Bank dropped 3.85% and HDFC Bank more than 2% after results showed thinner lending margins. Government-owned banks such as SBI and PNB rose.",
+    "The Jio Platforms IPO took bids from big anchor investors today. It opens to the public on 21 October with a price band of ₹1,065 to ₹1,119.",
+    "The rupee fell 3 paise to 94.92 per dollar (provisional), ending a six-day rise. Brent crude was about $108.7 a barrel.",
+    "Markets are closed on Tuesday, 20 October, for Dussehra and reopen on Wednesday."
+  ],
+  "big_picture": "After two good days, Indian shares had a clear down day on Monday.\n\nThe main reason was banks. Over the weekend, HDFC Bank, ICICI Bank and Axis Bank reported their results for July to September. All three grew their profits, but the margin they earn on lending shrank. Investors sold, and because these banks weigh heavily in the Sensex and Nifty, the indices fell.\n\nThe mood abroad didn't help. US technology shares fell sharply on Friday on worries about AI spending, and oil stayed near $108 a barrel.\n\nThere was a bright spot: government-owned banks rose. And big investors lined up to bid for Jio Platforms' share sale, which opens to the public on Wednesday.\n\nThe market is shut on Tuesday for Dussehra.",
+  "chain": [
+    {
+      "label": "Bank results disappoint",
+      "note": "HDFC Bank, ICICI Bank and Axis Bank grew profits, but their lending margins narrowed."
+    },
+    {
+      "label": "Private banks fall",
+      "note": "Axis Bank fell 3.85% and HDFC Bank more than 2%; the Nifty Private Bank index was the weakest sector."
+    },
+    {
+      "label": "Weak global mood",
+      "note": "US tech shares had their worst week since June and Brent crude stayed above $108."
+    },
+    {
+      "label": "Selling spreads",
+      "note": "Infosys, UltraTech and Bajaj Finance also fell, and far more shares fell than rose."
+    },
+    {
+      "label": "Indices drop",
+      "note": "The Sensex lost 876.37 points, ending a two-day winning run, before a holiday."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "73,852.90",
+      "change": "-876.37 (-1.17%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It ended a two-day winning run."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,888.95",
+      "change": "-257.20 (-1.11%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It closed below 22,900."
+    },
+    {
+      "name": "Nifty Bank",
+      "value": "55,488.10",
+      "change": "about -356 points",
+      "direction": "down",
+      "what_it_is": "This tracks the biggest listed banks. Private banks fell, while government-owned banks rose."
+    },
+    {
+      "name": "Nifty 500",
+      "value": "22,041.60",
+      "change": "-228.50 (about -1.0%)",
+      "direction": "down",
+      "what_it_is": "This covers 500 companies of all sizes. It fell about as much as the Nifty 50, showing the selling was widespread."
+    },
+    {
+      "name": "India VIX",
+      "value": "14.8",
+      "change": "about +5.1%",
+      "direction": "up",
+      "what_it_is": "The market's 'fear gauge'. A rise means traders expect bigger swings ahead."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.92",
+      "change": "weaker by 3 paise (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee. Its six-day winning run ended."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$108.7",
+      "change": "-1.07% (as reported by PTI)",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "Nasdaq Composite (US, Friday)",
+      "value": "26,140.03",
+      "change": "about -2.1%",
+      "direction": "down",
+      "what_it_is": "A US index full of technology companies. It had its worst week since June."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-falls-876-as-private-banks-drag",
+      "category": "Stock market",
+      "title": "Sensex falls 876 points and Nifty slips below 22,900 as private bank shares slide after results",
+      "tldr": "Indian shares fell sharply on Monday, ending two days of gains. Big private banks led the fall after their quarterly results disappointed investors, while government-owned banks rose. Markets are shut on Tuesday for Dussehra.",
+      "what_happened": "The Sensex fell 876.37 points, or 1.17%, to close at 73,852.90, according to PTI. At its lowest point during the day it was down more than 1,000 points, at 73,708.54. The Nifty 50 fell 257.20 points, or 1.11%, to 22,888.95.\n\nAxis Bank was the biggest loser among Sensex companies, down 3.85%. HDFC Bank fell more than 2%. UltraTech Cement, Infosys, Bajaj Finance, Trent and NTPC also fell. Adani Ports, State Bank of India, Larsen & Toubro, IndiGo's parent InterGlobe Aviation and Maruti Suzuki rose.\n\nThe Nifty Bank index fell about 356 points to 55,488.10. The Nifty Private Bank index was the weakest sector, while the Nifty PSU Bank index rose. Punjab National Bank and Canara Bank gained between about 3% and 5%.\n\nThe selling was wide. The broader Nifty 500 fell about 1%, far more shares fell than rose, and the India VIX fear gauge rose about 5% to 14.8.",
+      "simple_explanation": "Over the weekend, three of India's biggest private banks, HDFC Bank, ICICI Bank and Axis Bank, reported their results for July to September. Their profits grew, but the part of their business that earns money from lending showed signs of strain.\n\nBecause these banks are among the heaviest companies in the Sensex and Nifty, when their shares fall the indices fall too. IT shares, which had led Friday's rise, also slipped.\n\nInterestingly, government-owned banks such as SBI and PNB went the other way. Investors expect their lending margins and loan quality to hold up better.\n\nTuesday is a market holiday, which often makes traders a little more careful the day before.",
+      "analogy": "It is like a school where the three senior prefects bring home report cards that are good, but not as good as everyone expected. The whole school's average dips, even though a few other students did well.",
+      "why": "Vinod Nair of Geojit Investments said private banks stayed under pressure after their quarterly results and because of worries about their margins. He said public sector banks went against the trend because investors expect their margins and loan quality to hold up.\n\nReports also pointed to weak cues from abroad. US technology shares had fallen sharply on Friday, and Japan's Nikkei closed lower on Monday. Brent crude above $108 a barrel kept investors cautious, since India imports most of its oil.",
+      "implications": {
+        "you": "A Nifty 50 index fund fell about 1.1% today, roughly ₹1,100 on every ₹1 lakh. That is more than Friday's gain. A monthly SIP carries on as usual.",
+        "markets": "Results season is in full swing, so individual company numbers will keep moving shares. Markets reopen on Wednesday after the Dussehra holiday, the same day the Jio Platforms IPO opens.",
+        "economy": "One day's fall says little about the economy. Bank profits are still growing; the worry is about how fast.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "Whether bank shares steady when trading resumes on Wednesday, more quarterly results, and demand for the Jio Platforms IPO.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "Private bank",
+        "PSU bank",
+        "Sectoral index",
+        "Nifty 500",
+        "Market breadth",
+        "India VIX",
+        "Trading holiday"
+      ],
+      "explainers": {
+        "like12": "Imagine your class has a 'class score' that is the average of everyone's marks, but the toppers count extra.\n\nThis weekend, three toppers, big banks called HDFC Bank, ICICI Bank and Axis Bank, got their report cards. They passed, and their marks even went up, but some teachers had expected more. So people sold their shares, and the class score dropped.\n\nA few other students, the government-owned banks, actually did better today. But they don't count as much as the toppers.\n\nOn Tuesday the school is closed for Dussehra, so everyone gets a day off before the next test.",
+        "real_life": "Meet Rohit, a 34-year-old bank clerk in Indore. He has ₹1.5 lakh in a Nifty 50 index fund through a ₹5,000 monthly SIP.\n\nToday the Nifty fell about 1.1%, so his fund dropped by roughly ₹1,650. That is more than Friday's gain, though less than the rise over Thursday and Friday together.\n\nRohit doesn't need to do anything. His SIP will buy units as usual on its next date, and if prices are lower then, the same ₹5,000 buys a few more units. Because Tuesday is a holiday, any SIP instalment due that day will usually be processed on the next working day."
+      }
+    },
+    {
+      "id": "hdfc-icici-axis-bank-results-margins-squeezed",
+      "category": "Companies",
+      "title": "HDFC Bank, ICICI Bank and Axis Bank grow profits, but lending margins shrink",
+      "tldr": "India's three biggest private banks reported higher profits for July to September. But the gap between what they earn on loans and pay on deposits narrowed, and HDFC Bank and Axis Bank fell short of some expectations, so their shares fell.",
+      "what_happened": "HDFC Bank said its net profit rose 4.7% from a year earlier to ₹19,510 crore. Its net interest income, the money it makes from lending after paying depositors, rose 9.7% to about ₹34,620 crore, below the ₹34,992 crore analysts expected, according to a Bloomberg survey cited by Business Standard. Gains from trading bonds fell to about ₹780 crore from ₹2,390 crore a year earlier; leaving those out, profit rose 12.6%. Its net interest margin was 3.16% of total assets. Bad loans improved to 1.11%.\n\nICICI Bank's standalone profit rose 20.1% to ₹14,843 crore, and its net interest income rose 17.7% to ₹25,339 crore. But its net interest margin fell to 4.18%, from 4.36% in April to June. Bad loans improved to 1.20%.\n\nAxis Bank's group profit rose 39.4% to ₹7,704.67 crore. Its standalone profit of ₹7,003.28 crore was below the ₹7,124 crore analysts expected, according to LSEG data cited by Reuters. Its margin was 3.36%.\n\nAxis Bank shares closed 3.85% lower and HDFC Bank fell more than 2%. ICICI Bank rose about 1% early in the day but later slipped with other private banks.",
+      "simple_explanation": "A bank's main business is simple: it takes deposits and pays interest on them, then lends that money out at a higher interest rate. The difference is its margin.\n\nAll three banks grew their profits, which sounds like good news. But investors care about where profit comes from and where it is heading. The margins on lending got thinner at all three, which means each rupee lent earned a little less.\n\nAt HDFC Bank, profit was also held back because it made much less from trading bonds than a year ago. At Axis Bank, profit missed what analysts had pencilled in.\n\nSo the shares fell even though profits rose, because the results were weaker than hoped.",
+      "analogy": "Think of a kirana shop owner who sells more than last year, but whose wholesale costs went up faster than her selling prices. Her total earnings still rise, but the profit on each packet of rice is smaller, and that worries her.",
+      "why": "Margins matter because lending is the core of a bank's business. Reports said weaker treasury income and higher operating costs offset Axis Bank's loan growth. Centrum Broking and Dolat Capital lowered their target prices for the shares, while Jefferies stayed positive.\n\nOn HDFC Bank's earnings call, management said the July to September quarter was likely the low point for its margins, according to a summary of the call. Some analysts quoted in reports expect Axis Bank's margins to recover from December. Investors will be watching whether that happens.",
+      "implications": {
+        "you": "Nothing changes for your bank account, FD or loan because of these results. Thinner margins don't by themselves mean your bank will raise loan rates or cut FD rates. If you own shares or funds holding these banks, their value dipped today.",
+        "markets": "Banks make up a big share of the Sensex and Nifty, so their results can move the whole market. More bank results are due in the coming weeks.",
+        "economy": "At HDFC Bank, average deposits grew 16.8% and loans 14.1% from a year earlier, and bad loans are low at all three banks. That suggests borrowers are mostly repaying, which is a healthy sign.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "Whether bank margins start recovering in the October to December quarter, as some managers and analysts expect.",
+      "terms": [
+        "Quarterly results",
+        "Net profit",
+        "Year-on-year",
+        "Net interest income",
+        "Net interest margin",
+        "Treasury income",
+        "Gross NPA",
+        "Consolidated profit",
+        "Street estimates"
+      ],
+      "explainers": {
+        "like12": "Imagine you borrow ₹100 from your elder brother and promise to give him ₹105 back. Then you lend that ₹100 to a friend, who promises you ₹110. You keep ₹5. That ₹5 is your margin.\n\nBanks do the same with huge amounts. This weekend, three big banks told everyone how they did from July to September. They all made more money than last year. But their 'keep-it' part on each loan got a little smaller, like if your friend now only paid you ₹109.\n\nGrown-ups who own bank shares worried about that, so they sold some shares, and the prices fell.",
+        "real_life": "Meet Ananya, a 31-year-old software tester in Pune. She has a home loan with HDFC Bank, an FD with ICICI Bank and a salary account with Axis Bank.\n\nDoes today's news change anything for her? No. Her home loan rate depends on the RBI's repo rate and her loan terms, not on one quarter's results. Her FD rate is fixed until it matures.\n\nWhat bank margins do tell her is the bigger picture: banks are lending a lot, and bad loans are low, so the banking system looks healthy. If she owns a large-cap fund, it probably holds these banks, and it dipped a little today."
+      }
+    },
+    {
+      "id": "jio-platforms-ipo-anchor-bids-opens-october-21",
+      "category": "IPOs",
+      "title": "Jio Platforms IPO takes bids from big investors ahead of public opening on 21 October",
+      "tldr": "Jio Platforms, Reliance's telecom and digital business, collected bids from large investors on Monday before its public share sale opens on Wednesday. The price band is ₹1,065 to ₹1,119 a share, and the issue could raise up to about ₹30,213 crore.",
+      "what_happened": "The Jio Platforms IPO opens to the public on Wednesday, 21 October, and closes on Friday, 23 October. The price band is ₹1,065 to ₹1,119 per share. The company is selling up to 27 crore new shares, which would raise about ₹28,755 crore at the lower end and about ₹30,213 crore at the upper end.\n\nOn Monday, the portion reserved for anchor investors, large funds that commit before the public, opened for bids. India TV News reported that this anchor portion, of about ₹8,110 crore, drew bids of nearly ₹2.5 lakh crore. We could not find an official exchange filing confirming the final anchor allotment, so treat that figure as a press report.\n\nShares are expected to be allotted on 26 October, and the tentative listing date on the NSE and BSE is 28 October.\n\nSeveral other IPOs closed for bids on Monday, including Zetwerk, Tonbo Imaging and Sahajanand Medical.",
+      "simple_explanation": "An IPO is when a company sells shares to the public for the first time. After that, anyone can buy or sell them on the stock exchange.\n\nJio Platforms runs Reliance Jio, the mobile network many Indians use, along with other digital businesses.\n\nBefore the public can bid, big investors like mutual funds and insurers get a chance to commit money. Strong interest from them is often seen as a good signal, though it doesn't guarantee how the shares will trade after listing.\n\nThe price band tells you the range within which you can bid. The final price is usually set at the top end if demand is strong.",
+      "analogy": "It is like a new housing society opening bookings. A few large buyers sign up before the public launch, and their interest gets everyone else talking, but no one knows for sure what the flats will be worth once people move in.",
+      "why": "Jio is a household name, so its IPO has drawn huge attention. Because the issue is so big, it could pull a lot of money from investors this week, and analysts often watch whether large IPOs draw cash away from other shares.\n\nReliance shares had jumped on Thursday on excitement about the Jio IPO. Because all the shares on offer are new, the money raised goes to Jio itself rather than to existing owners.",
+      "implications": {
+        "you": "Applying is entirely optional. If you do, you would need a demat account, and you might get few or no shares if demand is very high, because shares are allotted by lottery among small investors when the issue is oversubscribed. Any IPO can list below its price.",
+        "markets": "A very large IPO can soak up money that might otherwise go into other shares for a few days. Its listing on 28 October will be closely watched.",
+        "economy": "Large IPOs show that companies can raise money for expansion from Indian and foreign investors. The money raised goes to Jio for its business.",
+        "prices": "No direct effect on mobile tariffs or other everyday prices."
+      },
+      "watch": "How many times the Jio IPO is subscribed by Friday, especially by small investors, and the listing on 28 October.",
+      "terms": [
+        "IPO",
+        "Anchor investor",
+        "Price band",
+        "Fresh issue",
+        "Allotment",
+        "Listing",
+        "Subscription"
+      ],
+      "explainers": {
+        "like12": "Imagine a very popular ice-cream shop in your town decides to let people own a tiny piece of it. Anyone can buy a piece, but only during three days next week.\n\nBefore those three days, the shop lets a few rich families sign up first. Lots of them wanted pieces, much more than were available. That makes everyone else excited.\n\nThe shop has said each piece will cost between ₹1,065 and ₹1,119. If too many people want pieces, they'll draw names, like a lottery.\n\nOwning a piece means sharing in the shop's success, but if people later think it's worth less, your piece's price can fall too.",
+        "real_life": "Meet Suresh, a 40-year-old accountant in Chennai who has a demat account but has never applied for an IPO. Colleagues at lunch are talking about Jio.\n\nIf Suresh applies, he bids for a fixed bundle of shares, called a lot, through his banking or broking app. The money is blocked in his account, not taken, until shares are allotted on 26 October. If he gets none, the money is unblocked.\n\nHe should know that with a very popular IPO, many small applicants get nothing. And shares can list above or below the issue price. It's his choice; nothing in his salary, SIP or loans changes either way."
+      }
+    },
+    {
+      "id": "rupee-ends-six-day-rise-oil-near-108",
+      "category": "Rupee and oil",
+      "title": "Rupee slips 3 paise to 94.92, ending a six-day winning run, as oil stays near $108",
+      "tldr": "The rupee weakened slightly against the dollar after rising for six straight days. Falling share prices and high oil prices weighed on it. Foreign investors had bought Indian shares on Friday for a change.",
+      "what_happened": "The rupee fell 3 paise to close at 94.92 per US dollar (provisional), according to PTI. It traded between about 94.75 and 94.97 during the day. On Friday it had closed at 94.89.\n\nTraders linked the fall to the sharp drop in Indian shares and higher crude oil prices.\n\nBrent crude, the international oil benchmark, fell 1.07% to about $108.7 a barrel, PTI reported. It had been close to $110 on Friday. Reports linked the high prices to worries about supplies from Russia and the Middle East.\n\nOn Friday, foreign institutional investors bought Indian shares worth ₹1,165.92 crore, according to provisional exchange data, after days of heavy selling. Domestic institutions sold ₹3,661.28 crore.",
+      "simple_explanation": "The rupee's value against the dollar is set by how many people want rupees versus dollars.\n\nLast week the rupee strengthened six days in a row, helped by RBI steps to reduce speculation and demand for dollars. On Monday that run ended. When share prices fall, some foreign investors pull money out, which means selling rupees for dollars. And India pays for oil in dollars, so expensive oil keeps demand for dollars high.\n\nA 3-paise move is very small. The bigger point is that oil is still well above $100 a barrel, which keeps pressure on the rupee over time.",
+      "analogy": "Think of a cricket team on a six-match winning streak losing narrowly. One small loss doesn't undo the run, but the tough conditions, here expensive oil, haven't gone away.",
+      "why": "India imports most of the oil it uses, so when oil is expensive, the country needs more dollars to pay for it. That tends to weaken the rupee.\n\nFlows from foreign investors also matter. When they buy Indian shares they bring in dollars and convert them to rupees; when they sell, the reverse happens. Friday's buying was a welcome change after weeks of selling, but one day doesn't make a trend.",
+      "implications": {
+        "you": "A 3-paise move makes no difference to most household budgets. If you pay for things in dollars, such as foreign education fees or online subscriptions, a weaker rupee makes them slightly costlier over time.",
+        "markets": "A steadier rupee helps keep foreign investors calmer. Oil prices remain the biggest risk for the rupee.",
+        "economy": "High oil prices raise India's import bill and can push up inflation, because fuel costs feed into transport and the price of almost everything.",
+        "prices": "Petrol and diesel prices at the pump haven't changed because of today's move. Sustained oil above $100 a barrel does put pressure on fuel and transport costs."
+      },
+      "watch": "Oil prices and whether foreign investors keep buying Indian shares when markets reopen on Wednesday.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Brent crude",
+        "Barrel",
+        "FII",
+        "DII"
+      ],
+      "explainers": {
+        "like12": "Imagine the rupee and the dollar are two kinds of trading cards. Each day, people decide how many rupee cards one dollar card is worth.\n\nToday one dollar card cost 94.92 rupee cards, slightly more than on Friday. So the rupee got a tiny bit weaker.\n\nWhy? India buys a lot of oil from other countries and has to pay in dollar cards. Oil is very expensive right now, so India needs lots of dollar cards, and that makes them pricier.\n\nThe change today was tiny, just 3 paise, like a few grains of sugar in a big bag.",
+        "real_life": "Meet Priya, a 27-year-old marketing executive in Hyderabad. Her younger brother is applying to a master's course in the US, and the family is saving for fees of about $30,000 a year.\n\nAt 94.92 rupees per dollar, that is about ₹28.48 lakh. Today's 3-paise move adds only about ₹900 to that bill.\n\nWhat matters more for Priya's family is the trend over months. If the rupee weakens by a rupee or two, the bill rises by ₹30,000 to ₹60,000. Families saving for foreign costs often keep a little extra cushion for exchange-rate swings."
+      }
+    },
+    {
+      "id": "us-tech-shares-slide-asia-weak",
+      "category": "Global",
+      "title": "US tech shares post their worst week since June as AI spending worries return; Asia mostly weaker",
+      "tldr": "On Friday, the tech-heavy Nasdaq index in the US fell 2.1%, worried about how long huge spending on artificial intelligence can last. That mood carried into Asia on Monday, where Japan's Nikkei fell.",
+      "what_happened": "The Nasdaq Composite fell 2.1% on Friday to 26,140.03, ending its worst week since June, according to AP. The S&P 500 fell 1.1% to 7,659.44 and the Dow Jones fell 0.3%.\n\nChip makers led the decline: Micron fell 5.6% and Intel 5.8%, amid worries about how long companies can keep spending heavily on AI.\n\nThe latest US consumer inflation figure came in at 3.7%, slightly above the 3.6% forecast. The 10-year US Treasury yield eased to about 5.1%. Federal Reserve Chair Kevin Warsh declined to say what the Fed would do at its next meeting.\n\nIn Asia on Monday, Japan's Nikkei 225 closed lower, while South Korea's Kospi and China's Shanghai Composite ended higher, according to PTI. European shares were trading lower.",
+      "simple_explanation": "Many big US companies are spending enormous sums on AI, building data centres and buying computer chips. Investors have started asking whether this spending will pay off, and whether it will slow down.\n\nWhen those doubts grow, chip makers and tech companies fall, and the Nasdaq, which is full of them, falls hardest.\n\nIndia isn't a big chip maker, but global moods spread. When US shares fall sharply, investors everywhere become more careful, and Indian IT companies, which earn much of their money from US clients, often feel it too. Infosys was among the Sensex losers on Monday.",
+      "analogy": "Imagine a town where everyone is building new shops because a big fair is coming. If people start wondering whether the fair will draw enough crowds, the builders and brick sellers are the first to feel nervous.",
+      "why": "US inflation came in slightly above forecasts, but bond yields still eased, and the odds of a US rate hike in October fell to roughly 15%, according to Yahoo Finance. That helped limit the damage outside tech.\n\nOil also matters. Brent crude near $110 on Friday added to worries about inflation worldwide.",
+      "implications": {
+        "you": "If you own a US-focused or international fund, it probably fell on Friday. For most Indian savers, the effect is indirect.",
+        "markets": "Indian IT shares are sensitive to the US tech mood. A steadier Nasdaq would help them.",
+        "economy": "US interest rates affect how much money flows into countries like India. High US yields make US bonds attractive and can pull money away from Indian markets.",
+        "prices": "No direct effect on everyday prices in India."
+      },
+      "watch": "Whether the US tech sell-off deepens, and US bond yields, which influence foreign investors' appetite for Indian shares.",
+      "terms": [
+        "Nasdaq",
+        "Semiconductor",
+        "Inflation",
+        "US Treasury yield",
+        "Federal Reserve",
+        "Nikkei 225"
+      ],
+      "explainers": {
+        "like12": "Imagine all the big companies in America are racing to build super-smart computer brains, called AI. To do that, they buy lots of special chips and build giant buildings full of computers.\n\nOn Friday, some people started wondering: is all that spending really going to be worth it? So they sold shares of the chip companies, and those prices fell a lot.\n\nWhen grown-ups in America get nervous, grown-ups in Japan and India often get a little nervous too, a bit like how one yawn in class makes others yawn. That's partly why markets in Japan and India fell on Monday.",
+        "real_life": "Meet Farhan, a 38-year-old engineer in Bengaluru. Two years ago he started a ₹3,000 monthly SIP in an international fund that invests in US tech companies, alongside his Indian index fund.\n\nOn Friday, the Nasdaq fell 2.1%, so his international fund probably dropped by around that much too. On a holding of ₹1.2 lakh, that's roughly ₹2,500.\n\nFarhan's Indian fund also dipped on Monday, partly because of this global mood. Neither fall changes his salary or loans. Spreading money across countries means some days both fall, and other days one cushions the other."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "Private bank",
+      "definition": "A bank owned mainly by private shareholders rather than the government, such as HDFC Bank, ICICI Bank or Axis Bank.",
+      "more": "India's banks fall into two broad groups. Public sector banks, like SBI, are majority-owned by the government. Private banks, like HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank, are owned mostly by ordinary and institutional shareholders. The big private banks are among the heaviest companies in the Sensex and Nifty, so when they fall together the whole index usually falls too. Think of them as the senior players in a team: when they have an off day, the team score suffers. News reports often track them through the Nifty Private Bank index."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Nifty 500",
+      "definition": "An NSE index covering 500 companies of all sizes, giving a broad view of the whole market.",
+      "more": "The Nifty 50 covers only the 50 biggest companies. The Nifty 500 goes much wider, including large, medium-sized and smaller companies, and covers most of the value of shares traded on the NSE. If the Nifty 50 is like checking the marks of the top 50 students, the Nifty 500 checks almost the whole school. When both fall by a similar amount, as on Monday, it shows that the selling was widespread rather than limited to a few big names. Some mutual funds and ETFs track it."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "How many shares rose compared with how many fell on a given day.",
+      "more": "Market breadth shows how widespread a market move is. Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, tells you whether a move is broad or narrow. On Friday, 2,131 NSE shares rose and 1,422 fell, so breadth was positive. It's like checking whether the whole class improved, not just the toppers."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Trading holiday",
+      "definition": "A weekday on which the stock exchanges are closed, usually for a festival or national holiday.",
+      "more": "NSE and BSE publish a list of trading holidays at the start of each year. On these days no shares are bought or sold, and many related markets such as currency and commodity trading also shut, at least for part of the day. Tuesday 20 October 2026 is a holiday for Dussehra. A holiday can make investors cautious the day before, since news can pile up while the market is shut. It is like a shop closing for a festival: orders wait until it reopens. SIP instalments due on a holiday are usually processed on the next working day."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Net profit",
+      "definition": "What a company earns after paying all its costs, interest and taxes.",
+      "more": "Net profit, sometimes called the bottom line, is what is left from a company's income after every expense: salaries, materials, rent, interest on loans and taxes. It is the money that belongs to shareholders, part of which may be paid as dividends. Think of a household: net profit is what remains of the month's salary after rent, groceries, EMIs and bills. News reports often say 'net profit rose 32.7% year-on-year', comparing it with the same quarter last year."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "A comparison with the same period one year earlier.",
+      "more": "Year-on-year, often written YoY, compares a figure with the same period last year, such as July–September 2026 against July–September 2025. This removes seasonal effects: many businesses naturally earn more in festive months, so comparing with the previous quarter can mislead. It's like comparing this Diwali's sweet-shop sales with last Diwali's, not with a quiet month. Company results, inflation and GDP are usually reported year-on-year."
+    },
+    {
+      "term": "Net interest income",
+      "definition": "The interest a bank earns on loans minus the interest it pays on deposits, in rupees.",
+      "more": "Net interest income, or NII, is the rupee amount a bank makes from its core business of borrowing and lending. If a bank earns ₹100 crore in interest from borrowers and pays ₹60 crore to depositors, its NII is ₹40 crore. It is the bank's equivalent of a shop's gross earnings before rent and salaries. NII grows when a bank lends more or when its margin widens. In results news, NII is usually reported next to net profit and NIM, and a miss on NII often worries investors more than a miss on profit, because it reflects the main business."
+    },
+    {
+      "term": "Net interest margin",
+      "definition": "How much a bank earns from lending, after paying interest to depositors, as a percentage of its loans and other earning assets.",
+      "more": "A bank borrows money cheaply from depositors and lends it out at a higher rate. The gap is its main source of profit. Net interest margin, or NIM, expresses that gap as a percentage. A NIM of 4% means that, for every ₹100 of loans and similar assets, the bank earns about ₹4 a year more in interest than it pays out. It is like a vegetable seller's markup over the wholesale price. When NIM shrinks, the bank earns less on each rupee it lends. Reports on bank results almost always quote it, and investors watch even small changes closely."
+    },
+    {
+      "term": "Treasury income",
+      "definition": "Money a bank makes by trading bonds and other investments, rather than from lending.",
+      "more": "Banks hold large amounts of government bonds. When bond prices rise, which happens when interest rates fall, banks can sell some bonds at a profit. This is called treasury income or treasury gains. When rates rise, bond prices fall and these gains shrink or turn into losses. It is a bit like a family's side income from selling gold when its price is high: welcome, but not dependable. Analysts often look at profit 'excluding treasury gains' to judge how the main banking business is really doing."
+    },
+    {
+      "term": "Gross NPA",
+      "definition": "Loans that borrowers have stopped repaying for 90 days or more, shown as a percentage of all loans.",
+      "more": "NPA stands for non-performing asset: a loan that has gone bad because the borrower has stopped paying interest or instalments for at least 90 days. Gross NPA is the total of such loans, usually expressed as a share of all the bank's loans. A gross NPA of 1.2% means about ₹1.20 of every ₹100 lent is not being repaid. It is like a lender at a chit fund tracking how many members have stopped paying. A falling NPA ratio is a sign of healthier lending, and banks with low bad loans need to set aside less money for losses."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Street estimates",
+      "definition": "What analysts, taken together, expected a company or economic figure to be before it was announced.",
+      "more": "'The Street' is market slang for professional investors and analysts, after Wall Street in New York. Before sales or profit numbers come out, brokerages publish their forecasts. Share prices usually already reflect these expectations. So when the actual number arrives, investors compare it with the forecast, not with zero. A company can report growth and still see its shares fall if the growth is smaller than expected. It's like a student who usually scores 90 getting 80: still a good mark, but parents react to the drop."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Anchor investor",
+      "definition": "A large investor, such as a mutual fund or insurer, that commits to buy shares in an IPO a day before it opens to the public.",
+      "more": "Anchor investors are big institutions that agree to buy part of an IPO at a fixed price before ordinary investors can bid. They must hold the shares for a set period before selling. Their participation is meant to show confidence and give the IPO a steady start. It's like a few well-known guests confirming for a wedding early, which reassures others that the event will be good. News reports mention how much a company raised from anchors, but anchor interest doesn't guarantee a good listing."
+    },
+    {
+      "term": "Price band",
+      "definition": "The range of prices, from lowest to highest, within which investors can bid for shares in an IPO.",
+      "more": "Before an IPO opens, the company announces a price band, such as ₹290–305 per share. Investors bid for shares at a price inside that range. Once bidding closes, the company fixes the final issue price, usually at the top of the band if demand is strong. It's like a seller saying a used bike will go for somewhere between ₹29,000 and ₹30,500 depending on interest. Most small investors simply bid at the top price (called the 'cut-off') to improve their chance of getting shares."
+    },
+    {
+      "term": "Fresh issue",
+      "definition": "New shares a company creates and sells in an IPO, with the money going to the company itself.",
+      "more": "An IPO can have two parts. In a fresh issue, the company creates new shares and keeps the money raised, usually to repay debt or fund growth. In an offer for sale, existing owners sell some of their shares and keep the money themselves. A 100% fresh issue means all the money goes into the business. It's like a shop owner taking in a new partner who puts cash into the shop, rather than the owner selling part of the shop and pocketing the money."
+    },
+    {
+      "term": "Allotment",
+      "definition": "The step after an IPO closes, when the company decides who gets shares and how many.",
+      "more": "If an IPO receives more bids than shares, not everyone gets what they asked for. Retail investors are usually given shares by a computerised lottery, with each lucky applicant getting at least one lot. If an IPO is not fully subscribed, everyone who applied gets shares. Money for unsuccessful bids, which was only blocked, is released back to the bank account. It's like a housing lottery for flats: you apply, wait for the draw and then learn if you got one. News reports give the allotment date so applicants know when to check."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    },
+    {
+      "term": "Subscription",
+      "definition": "How much of an IPO investors have applied for. '0.48 times' means bids came in for about half of the shares on offer.",
+      "more": "During an IPO, the exchanges publish how many shares investors have bid for compared with how many are available, called the subscription figure. '1 times' means demand exactly matches supply; '5 times' means five shares were sought for each one offered; '0.48 times' means only about half were sought so far. Many investors bid on the last day, so early figures often rise sharply at the end. It's like counting RSVPs for a wedding: many replies arrive only on the last day."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 95.05 but finally came in at 94.99. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    }
+  ],
+  "concept": {
+    "term": "Net interest margin",
+    "explanation": "Net interest margin, or NIM, is the single most watched number in a bank's results.\n\nA bank's main business is to take deposits, paying interest to savers, and lend that money out at a higher interest rate. The gap between the two is what the bank earns. NIM shows that gap as a percentage of the bank's loans and other interest-earning assets.\n\nIf a bank has a NIM of 4%, it means that for every ₹100 it has lent out or invested, it earns about ₹4 a year more in interest than it pays depositors. Out of that, it still has to pay salaries, rent and set money aside for bad loans.\n\nNIM can shrink when the bank has to pay depositors more, or when the rates it charges borrowers fall faster than its deposit costs. Even a small change, such as from 4.36% to 4.18%, can mean hundreds of crores of rupees on a large bank's books.",
+    "example": "ICICI Bank's net interest margin fell to 4.18% in July to September, from 4.36% in April to June. Even though its profit rose 20.1%, that narrower margin was the weak spot investors focused on.",
+    "takeaway": "Profit tells you how much a bank made; net interest margin tells you how well its main business of lending is doing."
+  },
+  "quiz": [
+    {
+      "q": "By how much did the Sensex fall on Monday?",
+      "options": [
+        "257.20 points",
+        "413.66 points",
+        "876.37 points",
+        "1,020.73 points"
+      ],
+      "answer": 2,
+      "why": "The Sensex fell 876.37 points, or 1.17%, to 73,852.90. 257.20 points was the Nifty 50's fall, and the Sensex was briefly down more than 1,000 points during the day."
+    },
+    {
+      "q": "Which group of shares led Monday's fall?",
+      "options": [
+        "Government-owned banks",
+        "Private banks",
+        "Oil companies",
+        "Carmakers"
+      ],
+      "answer": 1,
+      "why": "Private banks such as Axis Bank and HDFC Bank fell after their results. Government-owned banks like SBI and PNB actually rose."
+    },
+    {
+      "q": "ICICI Bank's net interest margin fell from 4.36% to 4.18%. What does that mean?",
+      "options": [
+        "It lent less money",
+        "It earned a slightly smaller gap between loan interest and deposit interest",
+        "Its profit fell",
+        "More borrowers stopped repaying"
+      ],
+      "answer": 1,
+      "why": "NIM measures the gap between what a bank earns on loans and pays on deposits. ICICI's profit still rose 20.1% and its bad loans improved."
+    },
+    {
+      "q": "Why did HDFC Bank's profit grow more slowly than its main business?",
+      "options": [
+        "It paid a big fine",
+        "It earned much less from trading bonds than a year earlier",
+        "It closed many branches",
+        "Its bad loans jumped"
+      ],
+      "answer": 1,
+      "why": "Treasury gains fell to about ₹780 crore from ₹2,390 crore. Leaving them out, profit rose 12.6% rather than 4.7%."
+    },
+    {
+      "q": "When does the Jio Platforms IPO open to the public?",
+      "options": [
+        "Monday, 19 October",
+        "Tuesday, 20 October",
+        "Wednesday, 21 October",
+        "Wednesday, 28 October"
+      ],
+      "answer": 2,
+      "why": "Monday was the anchor-investor day. The public issue runs from 21 to 23 October; Tuesday is a market holiday and 28 October is the tentative listing date."
+    },
+    {
+      "q": "Why are Indian markets closed on Tuesday, 20 October?",
+      "options": [
+        "A power outage",
+        "Dussehra",
+        "Diwali",
+        "An RBI meeting"
+      ],
+      "answer": 1,
+      "why": "Tuesday is a trading holiday for Dussehra. Trading resumes on Wednesday."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DT Next (PTI): Sensex tumbles 876 points; Nifty drops below 22,900 dragged by private banks",
+      "url": "https://www.dtnext.in/news/business/sensex-tumbles-876-points-nifty-drops-below-22900-dragged-by-private-banks"
+    },
+    {
+      "title": "Business Standard: Market Close, Sensex snaps 2-day winning streak, down 876 pts; Nifty at 22,889",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html"
+    },
+    {
+      "title": "Trendlyne: Market closes lower amid banking sector weakness",
+      "url": "https://trendlyne.com/posts/5902145/market-closes-lower-amid-banking-sector-weakness"
+    },
+    {
+      "title": "Upstox: Sensex, Nifty 50 snap two-day winning streak dragged by HDFC Bank, Axis Bank",
+      "url": "https://upstox.com/news/market-news/stocks/sensex-nifty-50-snap-two-day-winning-streak-dragged-by-hdfc-bank-axis-bank/article-202093/"
+    },
+    {
+      "title": "Business Upturn: PSU stocks today, October 19, 2026",
+      "url": "https://businessupturn.com/finance/stock-market/psu-stocks-today-october-19-2026-punjab-national-bank-jumps-5-19-canara-bank-up-3-20-rites-down-2-28"
+    },
+    {
+      "title": "Business Standard: HDFC Bank Q2 net profit rises 4.7% to ₹19,510 crore as NII grows",
+      "url": "https://www.business-standard.com/companies/quarterly-results/hdfc-bank-q2fy27-result-net-profit-rises-4-7-to-19-510-cr-nii-up-9-7-126101700465_1.html"
+    },
+    {
+      "title": "Business Today: HDFC Bank Q2 results, net profit rises 4.7%",
+      "url": "https://www.businesstoday.in/markets/stocks/story/hdfc-bank-q2-results-net-profit-rises-4-7-to-rs-19510-crore-key-highlights-562243-2026-10-17"
+    },
+    {
+      "title": "Business Standard: ICICI Bank Q2 FY27 result, net profit rises",
+      "url": "https://www.business-standard.com/companies/quarterly-results/icici-bank-q2-fy27-result-net-profit-rises-22-3-to-16-333-crore-126101700550_1.html"
+    },
+    {
+      "title": "Business Standard: ICICI Bank gains 1% post Q2 results",
+      "url": "https://www.business-standard.com/amp/markets/news/icici-bank-shares-gain-1-after-q2-results-brokerages-remain-bullish-126101900131_1.html"
+    },
+    {
+      "title": "Business Standard: Axis Bank shares fall 5% despite 39% rise in Q2 net profit",
+      "url": "https://www.business-standard.com/markets/news/axis-bank-shares-fall-5-despite-39-rise-in-q2-net-profit-here-s-why-126101900187_1.html"
+    },
+    {
+      "title": "BW Businessworld: Axis Bank shares fall 5% as Q2 profit misses estimates",
+      "url": "https://www.businessworld.in/article/axis-bank-shares-fall-5-as-q2-profit-misses-estimates-629321"
+    },
+    {
+      "title": "India TV News: Jio Platforms IPO anchor book sees oversubscription",
+      "url": "https://www.indiatvnews.com/business/news/jio-platforms-ipo-gains-momentum-as-anchor-book-sees-oversubscription-institutional-bids-hit-rs-2-5-lakh-crore-2026-10-19-1057361"
+    },
+    {
+      "title": "IPO Watch: Jio Platforms IPO dates and details",
+      "url": "https://ipowatch.in/jio-platforms-ipo/"
+    },
+    {
+      "title": "Kotak Neo: Upcoming IPOs this week, October 2026",
+      "url": "https://www.kotakneo.com/news/ipos/upcoming-ipos-this-week-and-companies-raising-10506-crore-in-october-2026/"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee falls 3 paise to close at 94.92 against US dollar",
+      "url": "https://www.deccanherald.com/business/markets/rupee-falls-3-paise-to-close-at-9492-against-us-dollar-4188085"
+    },
+    {
+      "title": "Telangana Today (PTI): Rupee falls 3 paise to 94.92, ends six-session rally",
+      "url": "https://telanganatoday.com/rupee-falls-3-paise-to-94-92-against-us-dollar-ends-six-session-rally"
+    },
+    {
+      "title": "Tapetide: FII DII data, 16 October 2026",
+      "url": "https://tapetide.com/fii-dii-data"
+    },
+    {
+      "title": "ABC News (AP): How major US stock indexes fared Friday 10/16/2026",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
+    },
+    {
+      "title": "Yahoo Finance: Dow, S&P 500, Nasdaq sink as tech sell-off caps volatile week",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
+    },
+    {
+      "title": "Nasdaq: Chartstopper, October 16, 2026",
+      "url": "https://www.nasdaq.com/economic-institute/chartstopper-101626"
+    },
+    {
+      "title": "Fyers: Stock market holidays 2026",
+      "url": "https://fyers.in/holiday-calendar.php"
+    }
+  ]
+}
