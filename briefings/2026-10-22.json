@@ -1,0 +1,656 @@
+{
+  "date": "2026-10-22",
+  "session_label": "Thursday 22 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex fell 460 points for a third day of losses as oil rose above $110 after a drone attack near a Saudi oilfield and Asian markets slid; the Jio IPO's retail portion was fully booked and the rupee fell 44 paise.",
+  "mood": "Cautious",
+  "mood_note": "Oil, a sell-off across Asia and a weaker rupee kept investors on edge for a third day. Demand for the Jio IPO was a bright spot.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "The Sensex has now fallen three sessions in a row: 876.37 points on Monday, 143.21 on Wednesday and 460.30 today.",
+    "We reported Wednesday's rupee close as 94.43, an early figure. The final close was 94.38, a 53-paise gain. Today it gave back most of that, falling 44 paise to 94.82.",
+    "We wrote that analysts said foreign investors kept selling. Exchange data released later showed they were net buyers of ₹1,022.32 crore on Wednesday, and Indian institutions bought ₹1,614.32 crore, according to PTI."
+  ],
+  "one_minute": [
+    "The Sensex fell 460.30 points (0.62%) to 73,249.39 and the Nifty 50 fell 123.70 points (0.54%) to 22,687.65, a third straight day of losses.",
+    "Brent crude rose above $110 a barrel after a Houthi drone attack near Saudi Arabia's Shaybah oilfield; Saudi authorities said output was not disrupted.",
+    "Asian markets slid on worries about AI spending: South Korea's Kospi fell 3.10% and Hong Kong's Hang Seng nearly 3%.",
+    "The Jio Platforms IPO was subscribed about 4.4 times by 3 pm on day two, and the retail portion was fully booked. It closes on Friday.",
+    "The rupee fell 44 paise to 94.82 per dollar (provisional), and RBI minutes showed members open to more rate hikes if inflation spreads."
+  ],
+  "big_picture": "Indian shares fell for a third session in a row today, and the reasons are familiar: oil and nerves.\n\nOil rose above $110 a barrel again after a drone attack near a big Saudi oilfield. Nothing actually stopped flowing, but traders are paying extra out of fear that it might. At the same time, markets across Asia fell sharply as investors questioned whether the huge sums companies are spending on artificial intelligence will pay off.\n\nThe rupee, which had a good day on Wednesday, gave most of that gain back.\n\nIn the background, minutes from the RBI's October meeting showed its members worried that rising prices are spreading. Costly oil makes that worse, and raises the chance of another rate hike in December.\n\nThe bright spot was the Jio Platforms IPO, where ordinary investors joined big institutions in bidding for shares.",
+  "chain": [
+    {
+      "label": "Drone attack near Saudi oilfield",
+      "note": "A Houthi drone struck near Saudi Aramco's Shaybah field; Saudi authorities said output was not disrupted."
+    },
+    {
+      "label": "Oil rises above $110",
+      "note": "Brent crude rose to about $110 to $112 a barrel as traders paid a risk premium."
+    },
+    {
+      "label": "Asia slides on AI worries",
+      "note": "The Kospi fell 3.10% and the Hang Seng nearly 3% on doubts about returns from AI spending."
+    },
+    {
+      "label": "Rupee weakens",
+      "note": "Costlier oil and falling shares pushed the rupee down 44 paise to 94.82 per dollar."
+    },
+    {
+      "label": "Sensex falls a third day",
+      "note": "The Sensex fell 460.30 points; about two shares fell for every one that rose on the NSE."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "73,249.39",
+      "change": "-460.30 (-0.62%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It fell for a third straight session."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,687.65",
+      "change": "-123.70 (-0.54%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It closed below 22,700."
+    },
+    {
+      "name": "Nifty Bank",
+      "value": "54,832.35",
+      "change": "-0.26%",
+      "direction": "down",
+      "what_it_is": "This tracks the biggest listed banks. It fell much less than the wider market."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "31,996.80",
+      "change": "-1.31%",
+      "direction": "down",
+      "what_it_is": "This tracks the biggest IT companies. It fell a day after jumping to an eight-month high."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "-0.87%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies. It fell more than the big indices."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "about -1.1%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller companies. They had the worst day of the three size groups."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.82",
+      "change": "weaker by 44 paise (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$112.33",
+      "change": "+3.23% (futures, late in Indian trading)",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-falls-460-third-day-oil-asia",
+      "category": "Stock market",
+      "title": "Sensex falls 460 points for a third day of losses as oil rises and Asian markets slide",
+      "tldr": "The Sensex and Nifty fell for a third session in a row on Thursday. Oil rose again after a drone attack near a Saudi oilfield, and shares across Asia fell sharply on worries about heavy spending on artificial intelligence. About two shares fell for every one that rose in India.",
+      "what_happened": "The Sensex fell 460.30 points, or 0.62%, to close at 73,249.39. The Nifty 50 fell 123.70 points, or 0.54%, to 22,687.65. During the day the Sensex had been down more than 700 points, touching a low of 73,005.11, according to The Week.\n\nSmaller shares fell more: the Nifty Midcap 100 lost 0.87% and the Nifty Smallcap 100 a little over 1.1%. On the NSE, 2,670 shares fell and 1,323 rose, according to IIFL.\n\nThirteen of 16 major sector indices ended lower, according to HDFC Sky. Media fell 2.34%, FMCG 1.74% and IT 1.31%, a day after IT had jumped. Banks held up better: the Nifty Bank fell just 0.26% to 54,832.35.\n\nNestle India was among the biggest Nifty losers, down about 3%, along with Tata Motors Passenger Vehicles, HDFC Life and Reliance Industries. Bajaj Finance, Cipla, ICICI Bank and Bajaj Auto were among the few gainers.",
+      "simple_explanation": "Three things pulled the market down together.\n\nFirst, oil. A drone attack near a big Saudi oilfield pushed oil prices higher again. India buys most of its oil from abroad, so costly oil is bad news for prices, the rupee and many companies.\n\nSecond, Asia. Markets in South Korea, Hong Kong and Japan fell 2% to 3% as investors worried that companies are spending huge sums on artificial intelligence without being sure of the profits.\n\nThird, the rupee weakened, which made foreign investors more cautious.\n\nSome food companies also fell after the food regulator questioned their advertising claims.",
+      "analogy": "It is like a cricket team losing its third match in a row: no single disaster, but bad weather, a tough opponent and a few dropped catches all at once.",
+      "why": "Vinod Nair of Geojit Investments said renewed escalation in West Asia pushed crude higher and the rupee weakened, and a brief recovery led by bank shares did not hold, according to PTI.\n\nIIFL pointed to oil and a sell-off across Asian markets, where South Korea's Kospi fell 3.10%, Hong Kong's Hang Seng nearly 3% and Japan's Nikkei 225 2.05%, as worries resurfaced about returns from big AI investments. HDFC Sky said some of the fall may also be profit-taking after strong gains the previous week.\n\nNestle India fell after the food regulator FSSAI sent notices to Nestle, Abbott, Zydus Wellness and others asking them to prove certain advertising claims for infant formula and nutrition drinks, according to reports.",
+      "implications": {
+        "you": "A Nifty 50 index fund fell about 0.5% today, roughly ₹540 on every ₹1 lakh. Over three sessions, the Sensex has lost about 2%. A monthly SIP carries on as usual and buys a little more when prices are lower.",
+        "markets": "Three losing days in a row, with oil above $110, has made investors cautious. Analysts say oil and the West Asia conflict are the main things to watch.",
+        "economy": "One day's fall says little about the economy. The bigger worry is that costly oil, if it lasts, raises inflation and could keep interest rates high.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "Oil prices and West Asia news, Asian markets, foreign investor flows and more quarterly results.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Day's low",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "Sectoral index",
+        "FMCG",
+        "Nifty Bank",
+        "Profit booking",
+        "Hang Seng",
+        "Kospi",
+        "Nikkei 225",
+        "FSSAI",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine your class has a group mood score. Today, three pieces of bad news arrived at once.\n\nFirst, the price of petrol for the school bus went up, because there was trouble near an oil field far away. Second, the class next door had a terrible day, and that made everyone in your class nervous too. Third, your pocket money in rupees could buy slightly fewer foreign stickers.\n\nNobody did anything really wrong, but the mood score dropped for the third day in a row.\n\nThe Sensex is like that mood score for big Indian companies. It fell a bit today. It's not a disaster, but people are feeling careful.",
+        "real_life": "Meet Rohit, a 34-year-old bank clerk in Lucknow. He has about ₹2 lakh in a Nifty 50 index fund, built through a ₹5,000 monthly SIP.\n\nToday his fund fell about 0.5%, roughly ₹1,100. Over the last three sessions the Sensex has lost about 2%, so a fund like his would be down roughly ₹4,000.\n\nThat feels bad, but it is a small move for shares, which can swing far more over a year. Rohit's SIP date is next week. If prices are still lower then, his ₹5,000 will simply buy a few more units than usual.\n\nHe doesn't need to do anything today. Checking his fund every day would mostly add worry."
+      }
+    },
+    {
+      "id": "brent-crude-tops-110-after-shaybah-drone-attack",
+      "category": "Global",
+      "title": "Brent crude rises above $110 a barrel after a drone attack near a Saudi Aramco oilfield",
+      "tldr": "Oil prices rose again on Thursday after Yemen's Houthis struck near Saudi Arabia's Shaybah oilfield. Saudi authorities said oil production was not disrupted, and analysts say much of the price rise reflects fear of future supply problems rather than actual shortages.",
+      "what_happened": "Brent crude, the global benchmark, rose $1.29 to $110.11 a barrel, according to IIFL. Later in the day, PTI reported it was 3.23% higher at $112.33 in futures trade.\n\nA Houthi drone struck near Saudi Aramco's Shaybah oilfield. The Saudi Energy Ministry said debris hit a contractor's vehicle outside the plant and caused a fire, and Saudi authorities said operations at the oilfield were not disrupted, according to reports. The Houthis also claimed other strikes in Saudi Arabia, including on the Defence Ministry building in Riyadh.\n\nShaybah matters because a pipeline carries Saudi oil to ports on the Red Sea, letting shipments avoid the Strait of Hormuz, where Iran has threatened tankers.\n\nIn India, gold futures on the MCX fell 0.84% to ₹1,44,850 per 10 grams by mid-afternoon, according to Kotak Neo.",
+      "simple_explanation": "Oil is like a giant shop that the whole world buys from. If people fear the shop might shut, prices jump, even if the shelves are still full.\n\nThat is what is happening now. The attack did not stop Saudi oil from flowing. But traders worry that if attacks continue, the route that lets Saudi oil avoid the dangerous Strait of Hormuz could be hit.\n\nIndia buys most of its crude oil from abroad. When oil costs more, India has to pay more dollars for the same amount, which can weaken the rupee and push up costs for fuel, transport and factories.",
+      "analogy": "It is like hearing rumours of a truckers' strike: onion prices at your local market go up the same day, even though onions are still arriving.",
+      "why": "Analysts say much of today's price is a risk premium, meaning extra paid out of fear that supplies may be disrupted later, rather than because oil has actually stopped flowing.\n\nThe Shaybah pipeline is important because it lets Saudi oil skip the Strait of Hormuz. An attack near it raises worries that even this back-up route is not safe.\n\nSome of the most alarming claims, such as reports of mines near Hormuz, come from Iranian forces and have not been independently confirmed, according to reports.",
+      "implications": {
+        "you": "Petrol and diesel prices in India do not change daily with world oil prices, so there is no immediate change at the pump. But if oil stays above $110 for long, fuel, transport and some product prices could rise over time.",
+        "markets": "Oil-hungry sectors such as paints, airlines and some manufacturers tend to be hurt by costly oil. Oil above $110 is now the market's main worry.",
+        "economy": "A higher import bill can weaken the rupee and add to inflation, which the RBI is already worried about.",
+        "prices": "No immediate change in everyday prices, but costly oil can feed into prices of transport and goods over weeks and months."
+      },
+      "watch": "Further attacks in Saudi Arabia, any disruption to tankers near Hormuz, and whether oil holds above $110.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Houthis",
+        "Strait of Hormuz",
+        "Risk premium",
+        "Import bill",
+        "MCX",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Imagine there is one giant shop that sells petrol to the whole world. Today, someone threw something at the shop's back gate. Luckily, the shop is still open and selling normally.\n\nBut everyone got scared that next time the shop might really close. So people started paying extra to be sure they get their petrol. That extra money, paid because of fear, is called a 'risk premium'.\n\nIndia buys most of its petrol from shops far away. So when the price goes up, India has to pay more, and that can make lots of things a bit more expensive at home, like bus tickets.",
+        "real_life": "Meet Kavya, a 27-year-old sales executive in Bengaluru who rides a scooter about 40 km a day.\n\nToday's oil jump won't change her petrol bill tomorrow. In India, fuel prices are set by oil companies and the government and don't move daily with world prices.\n\nBut if oil stays this high for months, she could see effects elsewhere: cab fares, delivery charges and some groceries could creep up as transport costs rise. Higher inflation could also keep loan EMIs from falling.\n\nKavya can't control oil prices. What she can do is keep a little extra room in her monthly budget in case everyday costs rise."
+      }
+    },
+    {
+      "id": "jio-ipo-retail-portion-fully-subscribed-day-two",
+      "category": "IPO",
+      "title": "Jio Platforms IPO is subscribed about 4.4 times by day two, with the retail portion now fully booked",
+      "tldr": "On its second day, the Jio Platforms IPO drew bids for about 4.4 times the shares on offer by 3 pm. Ordinary investors, who had been slower on day one, have now bid for all the shares reserved for them. Bidding closes on Friday, 23 October.",
+      "what_happened": "By about 3 pm on Thursday, the ₹30,213 crore Jio Platforms IPO had received bids for about 86.46 crore shares against 19.75 crore on offer, or 4.38 times, according to HDFC Sky. It had ended the first day at about 3.04 times.\n\nBy category, qualified institutional buyers had bid 10.07 times their quota, non-institutional investors 4.60 times, and retail investors 1.40 times. The portion reserved for Reliance Industries shareholders was subscribed 3.36 times and the employee portion 1.93 times.\n\nThe price band is ₹1,065 to ₹1,119 per share. Bidding closes on 23 October. Allotment is expected on 26 October, and the shares are set to list on the BSE and NSE on 28 October, according to the tentative schedule.",
+      "simple_explanation": "When a company sells shares to the public for the first time, it splits them into queues: one for big institutions, one for wealthier individuals, one for ordinary small investors, and here one for Reliance shareholders and one for employees.\n\nOn day one, big institutions rushed in, but small investors were slow. Today, small investors caught up and bid for all the shares in their queue, and a bit more.\n\nWhen a queue gets more bids than shares, not everyone gets what they asked for. Shares are then given out by a set process, which for small investors usually works like a lottery.",
+      "analogy": "It is like a popular new housing project. Big buyers book their blocks on day one. By day two, ordinary families have filled their quota too, so some won't get a flat.",
+      "why": "Jio is one of India's best-known companies, and demand from big investors was expected. Day two shows that ordinary investors are also interested, despite a falling stock market.\n\nForex traders said dollars flowing in for the IPO have improved the supply of dollars in the near term, according to PTI. HDFC Sky also noted that Vodafone Idea shares fell for a third day as investors weighed competition from Jio.",
+      "implications": {
+        "you": "If you are thinking of applying, it is your choice. Strong demand does not guarantee a gain on listing day, and with heavy bidding, most small investors may not get shares. Money for your bid is blocked in your account until allotment. This briefing doesn't recommend applying or not.",
+        "markets": "Final subscription numbers on Friday and the listing on 28 October will be watched as a test of investor appetite during a shaky market.",
+        "economy": "Strong demand for a very large IPO suggests both Indian and foreign investors still want to put money into Indian companies.",
+        "prices": "No effect on everyday prices, including mobile tariffs."
+      },
+      "watch": "Final subscription figures on Friday, 23 October, the allotment on 26 October, and the listing on 28 October.",
+      "terms": [
+        "IPO",
+        "Subscription",
+        "QIB",
+        "Non-institutional investor",
+        "Retail investor",
+        "Reservation portion",
+        "Oversubscribed",
+        "Price band",
+        "Allotment",
+        "Listing"
+      ],
+      "explainers": {
+        "like12": "Imagine a famous toy store lets people buy tiny pieces of it. There are different queues: one for big companies, one for rich people, one for ordinary families, and one for people who already own pieces of the toy store's parent company.\n\nOn the first day, the big companies' queue filled up fast. The families' queue was slow.\n\nToday, the families' queue filled up too. In fact, more families asked for pieces than there are pieces available. So now some families will get pieces and some won't. It will be decided fairly, a bit like a lucky draw.\n\nThe queues close on Friday.",
+        "real_life": "Meet Sneha, a 30-year-old school teacher in Nagpur. She has heard about the Jio IPO from colleagues.\n\nThe smallest bid is one lot of 12 shares. At the top of the price band, ₹1,119, that comes to ₹13,428, which would be blocked in her bank account until allotment on 26 October.\n\nBecause the retail queue is already oversubscribed, she may not get any shares. If she doesn't, her money is simply unblocked. If she does, the shares could list higher or lower than she paid on 28 October; nobody knows in advance.\n\nWhether to apply is Sneha's decision, ideally with money she won't need soon."
+      }
+    },
+    {
+      "id": "rupee-falls-44-paise-to-94-82",
+      "category": "Rupee",
+      "title": "Rupee falls 44 paise to 94.82 per dollar, giving back Wednesday's gain, as oil jumps",
+      "tldr": "A day after its best close in six weeks, the rupee weakened 44 paise to 94.82 against the US dollar. Higher oil prices and falling shares weighed on it, even though dollars coming in for the Jio IPO offered some support.",
+      "what_happened": "The rupee closed at 94.82 per dollar (provisional), down 44 paise, according to PTI. It opened at 94.47 and fell as far as 94.94 during the day.\n\nOn Wednesday it had gained 53 paise to close at 94.38.\n\nThe dollar index, which compares the dollar with six major currencies, was 0.17% lower at 101.60, so the rupee's fall was not caused by a stronger dollar.",
+      "simple_explanation": "The rupee's value depends on how many people want rupees versus how many want dollars.\n\nToday, more people wanted dollars. Oil rose sharply, and since India pays for oil in dollars, importers need more of them. Indian shares also fell, which made investors less keen on rupee assets.\n\nDollars coming in for the Jio IPO helped a bit, but not enough to stop the fall. The rupee gave back most of Wednesday's gain.",
+      "analogy": "It is like a see-saw: on Wednesday, IPO money pushed the rupee's side up; today, heavier oil bills pushed it back down.",
+      "why": "PTI said the rupee was weighed down by weak Indian shares and surging oil prices.\n\nForex traders said the Jio IPO has improved the supply of dollars in the near term, and hopes for a US trade deal could support the rupee. But they flagged risks: renewed selling by foreign investors, or oil rising towards $120 a barrel, according to PTI.",
+      "implications": {
+        "you": "A weaker rupee makes foreign travel, overseas tuition, and imported phones and gadgets slightly costlier. A 44-paise move is less than 0.5%, about ₹440 on a $1,000 expense.",
+        "markets": "The rupee is moving with oil. If oil stays high, analysts see pressure on the rupee continuing once IPO inflows end.",
+        "economy": "A weaker rupee raises the cost of imports, especially oil, which can add to inflation.",
+        "prices": "Too small a move on its own to change prices in shops."
+      },
+      "watch": "Oil prices, foreign investor flows, and whether the rupee holds below 95 after the Jio IPO closes.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Dollar index",
+        "IPO",
+        "Trade deal",
+        "FII"
+      ],
+      "explainers": {
+        "like12": "Imagine you have rupees and want to buy a toy from America that costs one dollar. Today, one dollar costs about 94 rupees and 82 paise. Yesterday it cost a little less.\n\nWhy? India needs lots of dollars to buy oil from other countries. Today oil got more expensive, so India needed even more dollars. When everyone wants dollars, dollars get more expensive, and the rupee looks weaker.\n\nYesterday, some foreigners brought in dollars to buy Jio shares, which helped the rupee. Today the oil problem was bigger. It's a small change, but it shows how oil and the rupee are linked.",
+        "real_life": "Meet Farhan, a 32-year-old accountant in Hyderabad, whose younger sister is studying in the US. He sends her $500 every month.\n\nAt 94.38, that cost about ₹47,190. At today's 94.82, it costs about ₹47,410, roughly ₹220 more.\n\nOne day's move won't hurt much. But over a year, small changes can add up, in either direction. Some families who send money abroad regularly keep a small buffer in their budget for this.\n\nFarhan doesn't need to rush or wait for a 'better' rate; nobody can reliably predict currency moves day to day."
+      }
+    },
+    {
+      "id": "rbi-mpc-minutes-open-to-more-rate-hikes",
+      "category": "Economy",
+      "title": "RBI minutes show members open to more rate hikes if inflation keeps spreading",
+      "tldr": "Minutes of the RBI's October policy meeting, released on Wednesday evening, show members worried that rising prices are spreading to more goods and services. Several said further rate increases could be needed, though the panel did not back aggressive tightening because of growth concerns.",
+      "what_happened": "The RBI published the minutes of its 7 October Monetary Policy Committee (MPC) meeting on Wednesday, 21 October. At that meeting, all six members voted to raise the repo rate by 25 basis points to 5.50%, the first hike since February 2023.\n\nGovernor Sanjay Malhotra said inflation was spreading across more items: 37% of items in the consumer price basket had inflation above 4% in August, up from 20% in March. Deputy Governor Poonam Gupta warned that businesses could pass on more of their higher costs to customers and said policymakers could not wait for price pressures to spread further.\n\nMember Saugata Bhattacharya said real interest rates might not be high enough to keep prices stable. The RBI expects retail inflation of 6% in October to December and 5.7% in January to March. The next meeting is on 2 to 4 December.",
+      "simple_explanation": "The RBI raises interest rates when prices rise too fast. Higher rates make loans costlier, which cools spending and, in time, slows price rises.\n\nThe minutes are the detailed notes of why members voted for the October hike. They show that members are worried inflation is not just about a few items like oil or vegetables anymore, but is spreading into restaurant meals and many other things.\n\nThat makes another hike in December possible. But reports say members also didn't want to raise rates too fast, because that could hurt growth and jobs.",
+      "analogy": "It is like a doctor who has given a first dose of medicine for a fever. The notes say: if the fever spreads, a second dose may be needed, but not so much that it weakens the patient.",
+      "why": "Oil above $110 a barrel and higher food prices are pushing costs up across the economy. The RBI's inflation target is 4%, and it now expects inflation to be well above that for the next few months.\n\nThe minutes matter because they show what might sway the December decision. According to reports, members said future moves will depend on how inflation and growth develop.",
+      "implications": {
+        "you": "If you have a floating-rate home or car loan, the October hike may already be raising your EMI or loan tenure. Another hike in December is possible but not certain. Fixed deposit rates could edge up if rates keep rising.",
+        "markets": "The chance of more rate hikes weighs on shares of banks, lenders, real estate and car makers, whose businesses depend on cheap loans.",
+        "economy": "Higher rates aim to cool inflation, but they can also slow borrowing, spending and hiring.",
+        "prices": "Inflation is expected to stay around 6% in the coming months, meaning everyday prices are likely to keep rising faster than the RBI wants."
+      },
+      "watch": "October inflation data, due in mid-November, oil prices, and the RBI's next decision on 4 December.",
+      "terms": [
+        "MPC",
+        "MPC minutes",
+        "Repo rate",
+        "Basis point",
+        "Rate hike",
+        "Retail inflation",
+        "Real interest rate",
+        "Floating rate",
+        "EMI",
+        "Fixed deposit"
+      ],
+      "explainers": {
+        "like12": "Imagine prices in your local market are going up too fast. The RBI is like the referee whose job is to slow that down.\n\nIts main tool is interest rates, the cost of borrowing money. Earlier this month, it raised that cost a little, so people and companies borrow and spend a bit less, which can calm prices.\n\nToday we got to read the referee's notes from that meeting. They say prices are rising for more and more things, not just petrol and vegetables. So the referee might raise the cost of borrowing again in December.\n\nBut the referee is also careful not to slow things down so much that shops and factories struggle.",
+        "real_life": "Meet Ankit, a 36-year-old engineer in Ahmedabad with a ₹30 lakh floating-rate home loan.\n\nAfter the RBI's October hike, his bank may raise his interest rate by about 0.25 percentage points. Banks pass on changes in different ways: some raise the EMI, others extend the loan tenure. On a loan like Ankit's, 0.25 points can mean several hundred rupees more a month, depending on the bank and the years left.\n\nThe minutes suggest another hike in December is possible. Ankit could check his bank's message about the new rate, and see whether a small prepayment from his bonus would help. His fixed deposits, meanwhile, may earn slightly more."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Day's low",
+      "definition": "The lowest level a share or index touched at any point during the trading session.",
+      "more": "Prices move all day, so a session has an opening level, a high, a low and a close. The day's low shows how far things fell at the worst moment. If an index closes well above its low, buyers stepped in later, which traders read as a small sign of support. It is like a cricket team that was 50 for 5 but finished at 180: the low point tells you about the scare, the final score about the recovery. Reports often quote both."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "How many shares rose compared with how many fell on a given day.",
+      "more": "Market breadth shows how widespread a market move is. Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, tells you whether a move is broad or narrow. On Friday, 2,131 NSE shares rose and 1,422 fell, so breadth was positive. It's like checking whether the whole class improved, not just the toppers."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "Nifty Bank",
+      "definition": "An index of the biggest banks listed on the NSE. People also call it Bank Nifty.",
+      "more": "The Nifty Bank index tracks around a dozen of India's largest listed banks, both private and government-owned, weighted by size. Because banks such as HDFC Bank and ICICI Bank are huge, this index is closely watched as a reading of how investors feel about lending and the economy. Think of it as the 'banking class' report card inside the wider school. News reports often quote it next to the Sensex and Nifty, for example 'Bank Nifty fell below 55,000', because banks make up a large slice of both headline indices."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Hang Seng",
+      "definition": "Hong Kong's main stock market index, which tracks large companies listed there, including many big Chinese firms.",
+      "more": "The Hang Seng is to Hong Kong what the Sensex is to India. Because it includes many large Chinese technology and property companies, it is often read as a gauge of investor mood about China. Indian market reports list it with Japan's Nikkei and South Korea's Kospi under 'Asian cues', since a big fall across Asia in the morning often makes Indian investors cautious too. Like any index, its percentage change matters more than its points."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "FSSAI",
+      "definition": "The Food Safety and Standards Authority of India, the government body that sets and enforces rules for food safety and food advertising.",
+      "more": "FSSAI decides what can go into packaged food, how labels must read, and what claims companies may make in ads, such as 'boosts immunity' or 'easy to digest'. If a claim isn't backed by evidence, it can send a notice asking the company to prove it or explain why action shouldn't be taken. Think of it as the food world's referee. In market news, an FSSAI notice can weigh on a food company's shares because it may lead to fines, ad changes or product changes, even before anything is decided."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Houthis",
+      "definition": "An armed group that controls much of Yemen and has attacked ships and Saudi targets.",
+      "more": "The Houthis are an armed movement that controls large parts of Yemen, including its capital. They are opposed to Saudi Arabia and are widely reported to be backed by Iran. Over the years they have fired missiles and drones at Saudi oil sites and at ships in the Red Sea. Because Saudi Arabia is one of the world's largest oil exporters, any attack on its facilities can push oil prices up, even if supply is not actually cut. For India, which imports most of its oil, such news matters for fuel prices and the rupee."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Risk premium",
+      "definition": "The extra amount buyers pay, or sellers demand, because of the fear that something bad might happen, even before it actually does.",
+      "more": "A risk premium is the part of a price that comes from worry rather than from today's facts. In oil, if attacks threaten supply, traders bid prices up in case barrels go missing later, even when every barrel is still flowing. It is like vegetable prices rising in a market when people hear a truckers' strike might start: nothing has run out yet, but buyers pay extra to be safe. News reports say the premium 'eases' when the fear fades, and prices can then drop quickly."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "MCX",
+      "definition": "The Multi Commodity Exchange of India, where gold, silver, oil and other commodities are traded.",
+      "more": "MCX is India's main exchange for trading commodities such as gold, silver, crude oil, natural gas and metals. Most trading is in futures contracts, which are agreements on a price for a future date. MCX gold prices are a common guide to what jewellers charge, though shop prices also include GST and making charges. It's like a big wholesale mandi for metals and energy. News reports quote MCX gold per 10 grams."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Subscription",
+      "definition": "How much of an IPO investors have applied for. '0.48 times' means bids came in for about half of the shares on offer.",
+      "more": "During an IPO, the exchanges publish how many shares investors have bid for compared with how many are available, called the subscription figure. '1 times' means demand exactly matches supply; '5 times' means five shares were sought for each one offered; '0.48 times' means only about half were sought so far. Many investors bid on the last day, so early figures often rise sharply at the end. It's like counting RSVPs for a wedding: many replies arrive only on the last day."
+    },
+    {
+      "term": "QIB",
+      "definition": "Qualified institutional buyer: a large professional investor, such as a mutual fund, bank or insurer, that gets a separate share of an IPO.",
+      "more": "In an Indian IPO, the shares on offer are divided into portions for different kinds of investors. QIBs are big, regulated institutions like mutual funds, insurance companies, banks and foreign funds. Retail investors, who apply for smaller amounts, get their own portion, and wealthy individuals (NIIs or HNIs) get another. Reports on IPO demand usually break down subscription by category. It's like a cinema holding separate queues for bulk bookings, families and single tickets. Strong QIB demand is often read as a sign that professionals like the issue."
+    },
+    {
+      "term": "Non-institutional investor",
+      "definition": "In an IPO, wealthier individuals and companies who apply for shares worth more than ₹2 lakh. Also called NIIs or HNIs.",
+      "more": "When a company sells shares in an IPO, it splits them into separate quotas for different kinds of buyers. The non-institutional investor (NII) quota is for individuals, family trusts and companies who apply for more than ₹2 lakh worth of shares but are not big institutions such as mutual funds. They are often called high-net-worth individuals, or HNIs. Think of it as the 'bulk buyer' queue at a sale, separate from both the shopkeepers (institutions) and ordinary shoppers (retail). News reports give subscription figures for each queue, for example 'the NII portion was booked 1.32 times'."
+    },
+    {
+      "term": "Retail investor",
+      "definition": "An ordinary individual who buys shares with their own money, in small amounts.",
+      "more": "A retail investor is an everyday person, like a salaried employee or a shopkeeper, who invests their own savings. In an IPO, retail investors are those who apply for shares worth up to ₹2 lakh, and they get their own reserved quota so big investors cannot crowd them out. Retail investors also invest indirectly through mutual funds and SIPs. News reports often compare 'retail demand' with 'institutional demand'. A low retail subscription on the first day of an IPO is common, because many individuals apply on the last day."
+    },
+    {
+      "term": "Reservation portion",
+      "definition": "A slice of an IPO set aside for a particular group, such as employees or shareholders of the parent company.",
+      "more": "In some IPOs, part of the shares on offer is kept aside for specific investors so they don't have to compete with everyone else. For Jio Platforms, up to ₹2,500 crore is reserved for eligible Reliance Industries shareholders and up to ₹500 crore for eligible employees. Think of a wedding where a few rows are kept for family before the general seating opens. Eligibility depends on rules such as holding the parent's shares on a set record date. A reserved portion improves the chance of getting shares for that group, but does not guarantee it."
+    },
+    {
+      "term": "Oversubscribed",
+      "definition": "When investors apply for more shares in an IPO than are on offer.",
+      "more": "In an IPO, a company offers a fixed number of shares. If investors apply for, say, 10 times that number, the issue is 'oversubscribed 10 times'. Not everyone gets what they applied for: shares are shared out, often by lottery for small investors. High oversubscription shows strong demand, and it often leads to a higher first-day price, but not always. It's like 125 people applying for every seat on a popular train: most won't get a ticket."
+    },
+    {
+      "term": "Price band",
+      "definition": "The range of prices, from lowest to highest, within which investors can bid for shares in an IPO.",
+      "more": "Before an IPO opens, the company announces a price band, such as ₹290–305 per share. Investors bid for shares at a price inside that range. Once bidding closes, the company fixes the final issue price, usually at the top of the band if demand is strong. It's like a seller saying a used bike will go for somewhere between ₹29,000 and ₹30,500 depending on interest. Most small investors simply bid at the top price (called the 'cut-off') to improve their chance of getting shares."
+    },
+    {
+      "term": "Allotment",
+      "definition": "The step after an IPO closes, when the company decides who gets shares and how many.",
+      "more": "If an IPO receives more bids than shares, not everyone gets what they asked for. Retail investors are usually given shares by a computerised lottery, with each lucky applicant getting at least one lot. If an IPO is not fully subscribed, everyone who applied gets shares. Money for unsuccessful bids, which was only blocked, is released back to the bank account. It's like a housing lottery for flats: you apply, wait for the draw and then learn if you got one. News reports give the allotment date so applicants know when to check."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 95.05 but finally came in at 94.99. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. On Friday it fell 0.41% to 101.445, which helped the rupee. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close."
+    },
+    {
+      "term": "Trade deal",
+      "definition": "An agreement between two countries on the taxes and rules for goods and services they sell to each other.",
+      "more": "A trade deal sets the import taxes (tariffs) and rules that two or more countries apply to each other's goods and services. Lower tariffs make it cheaper to sell abroad, which can help exporters and their workers. For India, a deal with the US matters because the US is one of its biggest customers, especially for IT services, medicines, textiles and gems. It is like two neighbouring shopkeepers agreeing not to charge each other an entry fee. News about trade talks often moves exporters' shares even before anything is signed."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "MPC",
+      "definition": "The Monetary Policy Committee: the six-member RBI panel that decides the repo rate.",
+      "more": "The MPC includes RBI officials and outside experts, and meets several times a year to decide interest rates, mainly to keep inflation near the government's target. Members vote, and the decision and its reasons are announced publicly. It's like a family meeting that decides the household budget after looking at rising grocery bills. News before a meeting is full of economists' predictions, and afterwards reports focus on the decision, the vote split and hints about the next move."
+    },
+    {
+      "term": "MPC minutes",
+      "definition": "The official record, published about two weeks after an RBI rate decision, of what each member of its Monetary Policy Committee said and why they voted as they did.",
+      "more": "On decision day, the RBI announces only the outcome and a statement. The minutes come out about two weeks later and show each of the six members' reasoning in their own words. Investors read them closely for hints about what comes next, for example whether members worry more about inflation or about growth. It is like reading the judges' detailed notes after a competition result is announced: the result doesn't change, but you learn how close the call was and what might sway them next time."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One-hundredth of one percentage point. 100 basis points equal 1 percentage point.",
+      "more": "Basis points are used to describe small changes in interest rates and bond yields precisely. If a yield falls from 5.19% to 5.085%, that is a drop of 10.5 basis points. Saying '10.5 basis points' avoids confusion between a change in percentage points and a percentage change. It's like measuring medicine in millilitres instead of spoonfuls: more exact for small amounts. News about RBI rate decisions often uses basis points too, as in a '25 basis point' cut or hike."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Retail inflation",
+      "definition": "How fast the prices of everyday goods and services bought by households are rising, measured by the Consumer Price Index (CPI).",
+      "more": "Every month the government collects prices of hundreds of items, from vegetables and milk to rent, school fees and bus fares, and works out how much more they cost than a year earlier. That figure is retail inflation. The RBI aims to keep it around 4%, within a band of 2% to 6%. If retail inflation stays above the target, the RBI may raise interest rates to cool demand. When news says 'CPI inflation rose to 4.82% in August', it means a basket of household items cost 4.82% more than in August last year."
+    },
+    {
+      "term": "Real interest rate",
+      "definition": "The interest rate after subtracting inflation; it shows how much a saver or lender really gains in buying power.",
+      "more": "If your fixed deposit pays 7% a year but prices rise 6%, your money grows in buying power by only about 1%: that is the real interest rate. Central banks watch it closely. If the real rate is very low or negative, borrowing is cheap in real terms, which can keep demand and prices rising. If it is high, borrowing is costly and spending cools. When an RBI member says real rates 'might not be high enough', it means the RBI may need to raise its repo rate further to cool inflation."
+    },
+    {
+      "term": "Floating rate",
+      "definition": "A loan interest rate that changes over time, usually in line with a benchmark such as the RBI's repo rate.",
+      "more": "Most home loans in India have floating rates. Many are linked to the repo rate, so when the RBI raises it, the bank raises your loan rate too, usually at the next reset date. A fixed rate, by contrast, stays the same for an agreed period. It's like a mobile plan whose price can change with the operator's tariffs, versus one locked in for a year. When news says 'EMIs will rise', it mostly means borrowers on floating rates."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    },
+    {
+      "term": "Fixed deposit",
+      "definition": "A bank deposit where you lock in money for a set period at a fixed interest rate.",
+      "more": "A fixed deposit, or FD, is one of India's most popular ways to save. You choose a period, from a few days to several years, and the bank promises an interest rate for that whole time. If rates rise later, your existing FD keeps its old rate until it matures; only new deposits or renewals get the higher rate. It's like booking a train ticket: the fare you paid stays the same even if fares go up later. News reports on RBI hikes often say 'FD rates may rise'."
+    }
+  ],
+  "concept": {
+    "term": "Risk premium",
+    "explanation": "A risk premium is the extra amount people pay, or demand, because they fear something bad might happen, even if it hasn't happened yet.\n\nPrices in markets are set by what buyers and sellers expect, not only by what is true today. If traders think oil supplies might be cut in future, they buy oil now and are willing to pay more for it, just to be safe. That extra slice of the price is the risk premium.\n\nThe idea shows up everywhere. A company seen as risky must pay higher interest to borrow. Shares of a business facing an uncertain court case may trade lower than its profits alone would suggest, because investors want compensation for the uncertainty.\n\nA risk premium can disappear fast. If the threat fades, for example if attacks stop or a ceasefire is agreed, prices can drop sharply even though nothing physical has changed.",
+    "example": "On Thursday, Brent crude rose above $110 a barrel after a Houthi drone attack near Saudi Arabia's Shaybah oilfield, even though Saudi authorities said output was not disrupted. Analysts said much of the price reflects a risk premium: fear that supplies might be hit later.",
+    "takeaway": "Part of a price can be pure worry; when the worry goes away, that part of the price can vanish quickly."
+  },
+  "quiz": [
+    {
+      "q": "By how much did the Sensex fall on Thursday?",
+      "options": [
+        "123.70 points",
+        "143.21 points",
+        "460.30 points",
+        "876.37 points"
+      ],
+      "answer": 2,
+      "why": "The Sensex fell 460.30 points, or 0.62%, to 73,249.39. 123.70 points was the Nifty 50's fall, 143.21 was Wednesday's Sensex fall and 876.37 was Monday's."
+    },
+    {
+      "q": "Saudi authorities said the drone attack did not disrupt oil output. Why did oil prices still rise?",
+      "options": [
+        "Because Saudi Arabia cut production",
+        "Because traders paid extra out of fear that supplies could be hit later",
+        "Because India bought more oil",
+        "Because the rupee got stronger"
+      ],
+      "answer": 1,
+      "why": "Analysts said much of the rise is a risk premium: extra paid because of fear of future disruption, not because oil actually stopped flowing."
+    },
+    {
+      "q": "What worried investors in Asian markets today, besides oil?",
+      "options": [
+        "A rate cut in Japan",
+        "Whether huge spending on artificial intelligence will pay off",
+        "A cricket tournament",
+        "A new tax in Korea"
+      ],
+      "answer": 1,
+      "why": "Reports said worries about returns from big AI investments resurfaced, pushing down the Kospi, Hang Seng and Nikkei."
+    },
+    {
+      "q": "By 3 pm on day two, roughly how many times was the Jio Platforms IPO subscribed?",
+      "options": [
+        "About 1.4 times",
+        "About 3 times",
+        "About 4.4 times",
+        "About 10 times"
+      ],
+      "answer": 2,
+      "why": "It was subscribed 4.38 times overall. 1.40 times was the retail portion, about 3.04 was the first-day total, and about 10 was the institutional portion."
+    },
+    {
+      "q": "If the rupee goes from 94.38 to 94.82 per dollar, what has happened?",
+      "options": [
+        "The rupee got stronger",
+        "The rupee got weaker",
+        "Nothing changed",
+        "The dollar got weaker against all currencies"
+      ],
+      "answer": 1,
+      "why": "It now takes more rupees to buy one dollar, so the rupee is weaker. It fell 44 paise today."
+    },
+    {
+      "q": "What did the RBI's MPC minutes suggest?",
+      "options": [
+        "Rate cuts are coming soon",
+        "More rate hikes are possible if inflation keeps spreading",
+        "The RBI will stop meeting",
+        "Inflation has fallen below 4%"
+      ],
+      "answer": 1,
+      "why": "Members said inflation was spreading across more items and that further hikes could be needed, though they did not back aggressive tightening."
+    }
+  ],
+  "sources": [
+    {
+      "title": "IIFL: Sensex falls 460 points, Nifty closes below 22,700; media, FMCG and IT stocks drag",
+      "url": "https://www.indiainfoline.com/news/markets/stock-market-today-sensex-falls-460-points-nifty-closes-below-22700-media-fmcg-and-it-stocks-drag"
+    },
+    {
+      "title": "Business Standard: Stock Market Close, Sensex falls 460 pts, Nifty ends at 22,688",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html"
+    },
+    {
+      "title": "Kotak Neo: Sensex, Nifty 50 close lower as Saudi oilfield attack fuels supply fears",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-fall-for-second-day/"
+    },
+    {
+      "title": "HDFC Sky: Market close, Nifty and Sensex fall for third straight session as oil tops $110",
+      "url": "https://hdfcsky.com/news/market-close-report-today-nifty-sensex-fall-for-third-straight-session-as-oil-tops-110"
+    },
+    {
+      "title": "The Sen Times (PTI): Markets extend losses for 3rd day; Sensex tanks 460 pts",
+      "url": "https://thesentimes.com/markets-extend-losses-for-3rd-day-sensex-tanks-460-pts-amid-surging-oil-prices-weak-global-cues/"
+    },
+    {
+      "title": "Zee Business: Why is the stock market falling today?",
+      "url": "https://www.zeebiz.com/market-news/news-why-is-the-stock-market-falling-today-4-factors-dragging-nifty-sensex-404338"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee slumps 44 paise to close at 94.82 against US dollar",
+      "url": "https://www.deccanherald.com/business/markets/rupee-slumps-44-paise-to-close-at-9482-against-us-dollar-4191308"
+    },
+    {
+      "title": "ETV Bharat (PTI): Rupee declines 12 paise to 94.50 in early trade",
+      "url": "https://www.etvbharat.com/en/business/rupee-declines-12-paise-to-94-dot-50-against-us-dollar-enn26102201144"
+    },
+    {
+      "title": "HDFC Sky: Jio Platforms IPO subscription hits 4.38x by 3 pm on day 2",
+      "url": "https://hdfcsky.com/news/jio-platforms-ipo-subscription-hits-4-38x-by-3-pm-ist-on-day-2"
+    },
+    {
+      "title": "The Week: Retail portion of Jio IPO fully subscribed on day 2",
+      "url": "https://www.theweek.in/news/biz-tech/2026/10/22/jio-ipo-retail-portion-fully-subscribed.html"
+    },
+    {
+      "title": "The National: Oil tops $110 as Houthi drone strike near Saudi Shaybah field rattles markets",
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/22/oil-tops-110-as-houthi-drone-strike-near-saudi-shaybah-field-rattles-markets/"
+    },
+    {
+      "title": "OilPrice.com: Oil prices surge above $111 as Houthis strike Saudi targets",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html"
+    },
+    {
+      "title": "Invezz: Why KOSPI and Nikkei 225 are falling on Oct. 22",
+      "url": "https://invezz.com/news/2026/10/22/heres-why-kospi-and-nikkei-225-are-crashing-on-oct-22/"
+    },
+    {
+      "title": "Outlook Money: RBI open to further rate hike if inflation spreads, MPC minutes",
+      "url": "https://www.outlookmoney.com/banking/the-central-bank-is-open-to-further-rate-hike-if-inflation-spreads-rbi-mpc-minutes"
+    },
+    {
+      "title": "IndexBox: RBI MPC minutes signal more rate hikes possible, panel split on pace",
+      "url": "https://www.indexbox.io/blog/rbi-mpc-minutes-signal-more-rate-hikes-possible-but-panel-split-on-tightening-pace/"
+    },
+    {
+      "title": "afaqs: Nestle, Abbott and Zydus face FSSAI notices over product claims",
+      "url": "https://www.afaqs.com/news/advertising/nestle-abbott-and-zydus-face-fssai-notices-over-product-claims-12718650"
+    }
+  ]
+}
