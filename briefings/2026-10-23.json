@@ -1,0 +1,617 @@
+{
+  "date": "2026-10-23",
+  "session_label": "Friday 23 October 2026",
+  "prepared_for": "Read tonight or over the weekend",
+  "headline": "The Sensex slipped 126 points for a fourth day of losses, but smaller shares fell about 2% to 3% as oil climbed above $114; the Jio IPO drew heavy bids on its last day and Infosys cut its growth forecast.",
+  "mood": "Bruised",
+  "mood_note": "The headline indices fell only a little, but the selling underneath was heavy: midcaps, smallcaps and every sector index ended lower, and the market's 'fear gauge' rose about 6%.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "The Sensex has now fallen four sessions in a row: 876.37 points on Monday, 143.21 on Wednesday, 460.30 on Thursday and 125.56 today.",
+    "We reported Thursday's rupee close as 94.82, an early figure. The final close was 94.81, a 43-paise fall. Today it weakened another 12 paise to 94.93 (provisional).",
+    "Exchange data showed foreign institutional investors sold Indian shares worth a net ₹3,458.70 crore on Thursday, according to PTI. Indian institutions were net buyers of about ₹2,891 crore, according to market data trackers."
+  ],
+  "one_minute": [
+    "The Sensex fell 125.56 points (0.17%) to 73,123.83 and the Nifty 50 fell 87.65 points (0.39%) to exactly 22,600, a fourth straight day of losses.",
+    "Smaller shares were hit much harder: midcap indices fell more than 2% and smallcaps about 3%, and every sector index ended lower.",
+    "Brent crude rose to about $114 a barrel, a five-month high, as Houthi attacks on Saudi Arabia kept supply fears alive. The rupee fell 12 paise to 94.93 per dollar (provisional).",
+    "The Jio Platforms IPO was subscribed about 12.55 times by 3 pm on its last day, with retail investors bidding about 2.5 times their quota. Shares are due to list on 28 October.",
+    "Infosys reported a 6% rise in quarterly profit but cut its forecast for revenue growth this year; its US-listed shares fell about 6% in early US trading."
+  ],
+  "big_picture": "On the surface, today looked calm: the Sensex fell less than 0.2%. Underneath, it was a rough day.\n\nThe headline indices are dominated by a few giant companies, and some of them, including the IT firms TCS and Infosys, rose today. That hid heavy selling everywhere else. Midcap and smallcap shares fell 2% to 3%, every sector index ended in the red, and India VIX, the market's 'fear gauge', jumped about 6%.\n\nThe main worry is still oil. Attacks by Yemen's Houthis on Saudi Arabia pushed Brent crude above $114 a barrel. For India, which imports most of its oil, that means a bigger import bill, a weaker rupee and the risk of higher inflation and interest rates.\n\nThere was also news to digest from outside India. On Wall Street, technology shares tumbled on Thursday over fears about the cost of artificial intelligence, though the selling eased somewhat in Asia today.\n\nTwo big company stories closed the week: strong demand for the giant Jio Platforms IPO, and Infosys lowering its growth forecast for the year.",
+  "chain": [
+    {
+      "label": "Houthi attacks on Saudi Arabia",
+      "note": "Continued strikes on Saudi targets kept fears about Gulf oil supply high."
+    },
+    {
+      "label": "Oil above $114",
+      "note": "Brent crude rose about 1% to $114.31 a barrel in futures trade, a five-month high."
+    },
+    {
+      "label": "Rupee weakens again",
+      "note": "Costlier oil and weak shares pushed the rupee 12 paise lower to 94.93 per dollar."
+    },
+    {
+      "label": "Broad selling in smaller shares",
+      "note": "Midcaps fell more than 2%, smallcaps about 3%, and every sector index ended lower."
+    },
+    {
+      "label": "Giants cushion the indices",
+      "note": "Gains in heavyweights such as TCS and Infosys kept the Sensex's fall to 0.17%."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "73,123.83",
+      "change": "-125.56 (-0.17%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It fell for a fourth straight session."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,600.00",
+      "change": "-87.65 (-0.39%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It closed exactly at 22,600."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "about -2.2% to -2.6% (sources differ)",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies. It fell far more than the big indices."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "about -3%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller companies. It had the worst day of the three size groups."
+    },
+    {
+      "name": "India VIX",
+      "value": "16.76",
+      "change": "+6.34%",
+      "direction": "up",
+      "what_it_is": "The market's 'fear gauge'. A rise means traders expect bigger swings ahead."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.93",
+      "change": "weaker by 12 paise (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$114.31",
+      "change": "+1.01% (futures, late in Indian trading)",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "MCX gold (Dec futures)",
+      "value": "₹1,42,734 per 10 g",
+      "change": "-0.40%",
+      "direction": "down",
+      "what_it_is": "The price of gold futures on India's commodity exchange, a common guide to jewellers' rates."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-falls-fourth-day-smallcaps-slump",
+      "category": "Stock market",
+      "title": "Sensex dips 126 points for a fourth day of losses, but midcap and smallcap shares fall 2% to 3%",
+      "tldr": "The Sensex and Nifty fell only slightly on Friday, but that hid a much bigger sell-off in smaller companies. Midcap and smallcap indices fell 2% to 3%, every sector index ended lower, and the India VIX fear gauge rose about 6%. Gains in a few giants, including IT companies, kept the headline numbers steady.",
+      "what_happened": "The Sensex fell 125.56 points, or 0.17%, to close at 73,123.83. The Nifty 50 fell 87.65 points, or 0.39%, to 22,600. The market had started the day higher, helped by IT shares, before slipping into the red, according to early reports.\n\nSmaller shares fell much more. Kotak Neo reported the Nifty Midcap 100 down 2.21% and the Nifty Smallcap 100 down 2.94%; ChiniMandi put the falls at 2.6% and 3%. India VIX rose 6.34% to 16.76.\n\nAll sector indices ended lower, according to ChiniMandi. Metal shares fell 2.71% and realty 2.38%, according to Kotak Neo. Consumer durables fell about 3%, and energy and PSU bank shares about 2%, according to ChiniMandi.\n\nShriram Finance, Adani Enterprises, Adani Ports and Jio Financial were among the biggest Nifty losers. Eternal, Apollo Hospitals and TCS were among the few gainers.",
+      "simple_explanation": "Imagine the Sensex as a scale where a few very heavy companies sit on one side. If those heavy ones go up a little, they can almost balance out lots of smaller ones going down a lot.\n\nThat is what happened today. Some big IT companies rose, so the Sensex fell only a little. But most shares, especially those of medium and small companies, had a bad day.\n\nThe reasons are the same worries as all week: oil prices rising because of attacks on Saudi Arabia, a weaker rupee, and nervous markets around the world. When investors get nervous, they often sell smaller, riskier shares first.",
+      "analogy": "It is like a class average that barely moves because the two toppers scored well, even though most of the class did badly in the test.",
+      "why": "Reports blamed rising crude oil prices, tension in the Middle East and weak global cues. Oil hit a five-month high as Houthi attacks on Saudi Arabia fed supply fears.\n\nOverseas, the Nasdaq Composite fell 2.6% to 26,008.86 on Thursday, its worst session since June, according to CNBC, as worries grew about how much big technology companies are spending on artificial intelligence. Meta shares fell nearly 8% after the company reported its first cash outflow in more than a decade because of AI spending, according to Reuters. The tech sell-off lost some steam in Asia on Friday: South Korea's Kospi fell as much as 4% early in the day before recovering much of the loss.\n\nSmaller companies tend to fall harder in such moods, because investors see them as riskier and they can be harder to sell quickly.",
+      "implications": {
+        "you": "A Nifty 50 index fund fell about 0.4% today, roughly ₹390 on every ₹1 lakh. A smallcap fund could have fallen around 3%, roughly ₹3,000 per ₹1 lakh. A monthly SIP carries on as usual and buys more units when prices are lower.",
+        "markets": "Four losing days, a rising VIX and broad selling in smaller shares show investors are cautious. Analysts and reports point to oil and the Middle East as the main things to watch.",
+        "economy": "One week's fall says little about the economy itself. The bigger risk is that oil prices this high, if they last, push up inflation and keep interest rates high.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "Oil prices and Middle East news over the weekend, how Infosys shares react on Monday, foreign investor flows and more quarterly results.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "India VIX",
+        "Index weight",
+        "Sectoral index",
+        "Realty",
+        "Consumer durables",
+        "PSU bank",
+        "Nasdaq",
+        "Kospi",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine your class takes a test, and the teacher announces only the class average. Today the average dropped just a tiny bit. Sounds fine, right?\n\nBut look closer. The two toppers did a bit better than usual. Almost everyone else did quite badly. The toppers' good marks hid the bad news in the average.\n\nThe Sensex works a bit like that, except big companies count much more than small ones. Today a few giant companies rose, so the Sensex barely moved. But lots of medium and small companies fell a lot.\n\nWhy? People are worried about expensive oil and trouble far away, and when people worry, they sell the riskier, smaller companies first.",
+        "real_life": "Meet Priya, a 29-year-old HR executive in Pune. She invests ₹3,000 a month through an SIP in a Nifty 50 index fund and ₹2,000 a month in a smallcap fund.\n\nTonight, the news says the Sensex fell only 0.17%. But when she opens her app, her smallcap fund is down about 3% today, while her index fund is down less than half a percent. That is because the headline indices hid the heavy selling in smaller companies.\n\nThis is normal behaviour for smallcap funds: they swing much more, in both directions. Priya's SIPs continue as usual. If prices stay lower, her next ₹2,000 simply buys more units. There's nothing she needs to do today."
+      }
+    },
+    {
+      "id": "infosys-q2-profit-rises-cuts-revenue-guidance",
+      "category": "Company results",
+      "title": "Infosys profit rises 6% in the July–September quarter, but the company cuts its revenue growth forecast for the year",
+      "tldr": "Infosys, India's second-biggest IT services company, said quarterly profit rose about 6% and revenue about 11% from a year earlier. But it lowered its forecast for revenue growth this financial year, and its US-listed shares fell about 6% in early US trading.",
+      "what_happened": "Infosys reported net profit of ₹7,823 crore for the July–September quarter, up about 6% from ₹7,364 crore a year earlier. Revenue rose 11% year on year to ₹49,244 crore, according to reports.\n\nThe company lowered its forecast for revenue growth this financial year (FY27) to 1% to 2% in constant currency, from 1.5% to 3% earlier. It reported large deal wins of $5.2 billion.\n\nBefore the results, analysts polled by Bloomberg had expected net profit of ₹7,904 crore, so profit came in a little below expectations. Infosys's American Depositary Receipts, which trade in the US, fell around 6% in early US trading after the results, according to reports.\n\nInfosys was among the gainers on the Indian market on Friday, according to ChiniMandi.",
+      "simple_explanation": "Infosys does technology work for big companies around the world. Every three months, it tells investors how much it earned.\n\nThis time, it earned more than a year ago. But investors care even more about the future. Infosys said it now expects its business to grow a bit more slowly this year than it had said before.\n\nThat is why its shares fell in the US after the news. When a company says 'we'll grow less than we thought', investors usually lower the price they are willing to pay for its shares, even if today's numbers look fine.",
+      "analogy": "It is like a shopkeeper who had a good month but tells the family, 'The festival season looks slower than I expected.' The family worries more about the warning than the good month.",
+      "why": "Indian IT firms earn most of their money from clients in the US and Europe. When those clients cut back or delay technology spending, growth slows. Reports described investors focusing on the reduced outlook and on profit that was slightly below analysts' expectations.\n\nThe results come at a nervous time for technology shares worldwide, after a sharp fall on Wall Street on Thursday driven by worries about spending on artificial intelligence.\n\nInfosys is one of the biggest companies in the Sensex and Nifty, so a large move in its shares can shift the whole index.",
+      "implications": {
+        "you": "If you own a Nifty or Sensex index fund, Infosys is one of the bigger holdings, so a fall in its shares on Monday would pull your fund down a little. If you work in IT, a lower growth forecast can mean companies stay careful about hiring and pay rises; one forecast alone does not tell you what your own employer will do.",
+        "markets": "IT shares had held up well this week. Investors will watch whether Infosys's cut weighs on other IT companies on Monday.",
+        "economy": "IT services are one of India's biggest sources of foreign earnings and white-collar jobs, so slower growth in the sector matters for hiring and the rupee over time.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "How Infosys shares trade in India on Monday, and results from other IT companies in the coming days.",
+      "terms": [
+        "IT services",
+        "Net profit",
+        "Year on year",
+        "Guidance",
+        "Constant currency",
+        "Large deal wins",
+        "Street estimates",
+        "ADR"
+      ],
+      "explainers": {
+        "like12": "Imagine a big tuition centre that teaches students from all over the world. Every three months it tells everyone how much money it made.\n\nThis time it made more money than the same time last year. Good news! But then the owner said, 'For the rest of the year, I think fewer new students will join than I first expected.'\n\nPeople who own a small piece of the tuition centre got a bit worried. They care about the future, not just the past three months. So some of them started selling their pieces for less.\n\nThat's what happened to Infosys today: good results, but a less hopeful forecast.",
+        "real_life": "Meet Arjun, a 31-year-old software engineer in Bengaluru who works at a mid-sized IT company.\n\nHe doesn't own Infosys shares directly, but his ₹4,000 monthly SIP goes into a Nifty 50 index fund, where Infosys is one of the larger holdings. If Infosys shares fall on Monday, his fund may dip a little more than usual.\n\nThe bigger question for Arjun is his job. When a leading IT company says growth will be slower, it hints that clients abroad are spending carefully, which can mean fewer new projects, slower hiring and smaller pay rises across the industry.\n\nOne forecast doesn't decide what his company will do, but keeping an emergency fund of a few months' expenses gives him a cushion either way."
+      }
+    },
+    {
+      "id": "jio-ipo-subscribed-over-12-times-final-day",
+      "category": "IPO",
+      "title": "Jio Platforms IPO subscribed about 12.55 times by 3 pm on its final day, with over 1 crore applications",
+      "tldr": "Bidding for the ₹30,213 crore Jio Platforms IPO closed on Friday. By 3 pm, investors had bid for about 12.55 times the shares on offer, led by big institutions. Retail investors bid for about 2.5 times their quota, so most small applicants are unlikely to get shares.",
+      "what_happened": "By 3 pm on Friday, the last day of bidding, the Jio Platforms IPO had been subscribed 12.55 times overall, according to HDFC Sky, citing NSE data. That is up from 5.40 times at the end of Thursday.\n\nBy category, qualified institutional buyers had bid 32.77 times their quota, non-institutional investors 13.38 times and retail investors 2.51 times. The issue received over 1 crore applications, according to Kotak Neo. Final figures, including the last hour of bidding, were not yet available when this briefing was written.\n\nThe price band is ₹1,065 to ₹1,119 per share, and the minimum bid is one lot of 12 shares, or ₹13,428 at the top of the band. Allotment is expected on 26 October, refunds and share credits on 27 October, and listing on the BSE and NSE on 28 October.",
+      "simple_explanation": "Jio sold shares to the public for the first time, and the shares were split into queues for different kinds of investors.\n\nBy the last afternoon, every queue had far more bids than shares. Big institutions asked for about 33 times their share. Ordinary investors asked for about two and a half times theirs.\n\nWhen a queue is oversubscribed, shares are shared out by a set process. For small investors, it usually works like a lottery: each lucky applicant gets one lot of 12 shares, and many get nothing. Those who don't get shares have their blocked money released.",
+      "analogy": "It is like tickets for a big cricket final: far more people apply than there are seats, so a lucky draw decides who gets in.",
+      "why": "Jio is one of India's best-known companies, with hundreds of millions of mobile users, and this is one of the largest IPOs in Indian history. Big investors had already shown strong interest through the anchor book before the issue opened.\n\nThe strong demand came even as the wider market fell for four days in a row, which suggests investors still have appetite for large, well-known companies.",
+      "implications": {
+        "you": "If you applied, check the allotment status around 26 October on the registrar's or exchange's website. With retail bids at about 2.5 times the quota by 3 pm, many applicants will not get shares, and their blocked money will be released. Strong demand does not guarantee a gain on listing day.",
+        "markets": "The listing on 28 October will be watched as a test of investor appetite in a shaky market. Money for unsuccessful bids returns to investors after allotment.",
+        "economy": "Heavy demand for such a large issue shows that both Indian and foreign investors are still willing to put large sums into Indian companies.",
+        "prices": "No effect on everyday prices, including mobile tariffs."
+      },
+      "watch": "Final subscription figures, the allotment on 26 October and the listing on 28 October.",
+      "terms": [
+        "IPO",
+        "Subscription",
+        "QIB",
+        "Non-institutional investor",
+        "Retail investor",
+        "Oversubscribed",
+        "Price band",
+        "Lot size",
+        "Allotment",
+        "Listing"
+      ],
+      "explainers": {
+        "like12": "Imagine a hugely popular theme park lets people buy tiny pieces of it for the first time. There are separate queues: one for big companies, one for rich people, and one for ordinary families.\n\nBy the last day, every queue was much longer than the number of pieces available. The big companies' queue was about 33 times too long! The families' queue was about two and a half times too long.\n\nSo not everyone can get a piece. For families, it's decided by a lucky draw. If you don't win, you simply get your money back.\n\nThe pieces start being bought and sold by everyone on 28 October.",
+        "real_life": "Meet Deepa, a 38-year-old nurse in Kochi. She applied for one lot of 12 Jio shares at ₹1,119, so ₹13,428 was blocked in her bank account.\n\nWith the retail queue oversubscribed about 2.5 times by Friday afternoon, she has a fair chance of not getting any shares. If so, the ₹13,428 is simply unblocked around 27 October.\n\nIf she does get shares, they will appear in her demat account, and on 28 October she will see whether they trade above or below ₹1,119. Nobody knows in advance.\n\nEither way, Deepa's main savings in her PF and fixed deposits are unaffected. It's a small, separate bet she chose to make."
+      }
+    },
+    {
+      "id": "brent-crude-tops-114-houthi-attacks",
+      "category": "Global",
+      "title": "Brent crude rises above $114 a barrel, a five-month high, as Houthi attacks on Saudi Arabia continue",
+      "tldr": "Oil prices kept rising on Friday after a 4% jump on Thursday, as attacks by Yemen's Houthis on Saudi Arabia fed fears about Gulf oil supply. Brent crude traded around $114 a barrel. In India, gold and silver futures fell.",
+      "what_happened": "Brent crude futures rose 1.01% to $114.31 a barrel late in Indian trading, according to PTI. Kotak Neo reported Brent December futures at $114.29 and US WTI crude at $101.03 around 3:37 pm.\n\nOil had jumped about 4% in the previous session to reach a five-month high, with Houthi attacks on Saudi Arabia adding to supply concerns, according to Kotak Neo.\n\nIn India, MCX gold December futures were at ₹1,42,734 per 10 grams, down 0.40%, and silver December futures at ₹1,95,600 per kg, down 2%, according to Kotak Neo.",
+      "simple_explanation": "Saudi Arabia is one of the world's biggest oil sellers. The Houthis, an armed group in neighbouring Yemen, have been attacking targets in Saudi Arabia.\n\nEven when oil keeps flowing, these attacks make traders nervous that supplies could be cut. So they pay more for oil now, just in case. That extra is called a risk premium.\n\nIndia buys most of its crude oil from abroad and pays in dollars. When oil costs more, India needs more dollars for the same amount, which weakens the rupee and can make fuel, transport and many goods costlier over time.",
+      "analogy": "It is like hearing that the main road to your town's vegetable market might be blocked: prices go up at the market before a single truck is actually stopped.",
+      "why": "The main driver is fear about Saudi supply after repeated Houthi strikes. Analysts have said much of the recent rise reflects worry about future disruption rather than an actual shortage.\n\nGold and silver futures in India fell even as oil rose. Reports did not give a single clear reason for the fall.",
+      "implications": {
+        "you": "Petrol and diesel prices in India don't change daily with world oil prices, so there's no immediate change at the pump. If oil stays this high for weeks, transport fares, delivery charges and some goods could get costlier.",
+        "markets": "Oil above $110 is weighing on Indian shares, especially companies that use a lot of fuel or oil-based materials, such as airlines and paint makers.",
+        "economy": "A bigger oil import bill puts pressure on the rupee and adds to inflation, which the RBI is already worried about ahead of its December meeting.",
+        "prices": "No immediate change in shop prices, but costly oil feeds into transport and goods prices over weeks and months."
+      },
+      "watch": "Weekend news from Saudi Arabia and Yemen, and whether Brent stays above $110 when markets reopen.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "WTI",
+        "Houthis",
+        "Risk premium",
+        "Import bill",
+        "MCX",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Imagine one giant petrol shop that sells to the whole world. Some people nearby keep throwing things at it. The shop is still open, but everyone is scared it might close one day.\n\nSo people start paying extra for petrol now, just to be safe. That pushes the price up.\n\nIndia buys most of its petrol from shops far away, and pays in dollars. When the price goes up, India has to pay more. Over time, that can make bus tickets, deliveries and lots of other things cost a bit more.\n\nToday, the price of oil went up again, to its highest in about five months.",
+        "real_life": "Meet Ramesh, a 42-year-old who drives his own cab in Jaipur and fills about 25 litres of diesel a week.\n\nToday's oil rise won't change what he pays at the pump tomorrow. In India, fuel prices are set by oil companies and the government and don't follow world prices day to day.\n\nBut if oil stays above $110 for a long time, there's a chance fuel prices are raised later, and his costs could rise. Higher oil can also push up inflation, which could keep loan EMIs from falling, including the one on his car.\n\nRamesh can't control oil prices. Keeping a small buffer for fuel costs in his monthly budget is one simple way to be prepared."
+      }
+    },
+    {
+      "id": "rupee-falls-12-paise-to-94-93",
+      "category": "Rupee",
+      "title": "Rupee falls 12 paise to 94.93 per dollar as oil climbs and shares slide",
+      "tldr": "The rupee weakened for a second day, closing at 94.93 against the US dollar (provisional), down 12 paise. High oil prices and falling Indian shares weighed on it.",
+      "what_happened": "The rupee closed at 94.93 per dollar (provisional), down 12 paise, according to PTI. It opened at 94.78 and fell as far as 94.98 during the day. On Thursday it had fallen 43 paise to 94.81.\n\nThe dollar index, which compares the dollar with six major currencies, was 0.12% higher at 101.73.\n\nForeign institutional investors sold Indian shares worth a net ₹3,458.70 crore on Thursday, according to exchange data cited by PTI.",
+      "simple_explanation": "The rupee's value depends on how many people want rupees versus dollars.\n\nToday, more people wanted dollars. India pays for oil in dollars, and oil got more expensive, so importers needed more of them. Foreign investors also sold Indian shares on Thursday, and when they take money out, they swap rupees for dollars.\n\nThe dollar itself was a little stronger worldwide too. Together, these pushed the rupee down slightly.",
+      "analogy": "It is like the price of onions at a mandi: when more buyers want them, the price goes up. Today more people wanted dollars, so dollars cost more rupees.",
+      "why": "PTI said the rupee was weighed down by elevated crude prices and weak Indian shares.\n\nAnuj Choudhary of Mirae Asset Sharekhan said he expects the rupee to trade with a slight negative bias because of high oil prices, tension in the Middle East and weak domestic markets, and expects the dollar to trade between 94.65 and 95.25 rupees in the near term, according to PTI.",
+      "implications": {
+        "you": "A weaker rupee makes foreign travel, studies abroad and imported gadgets slightly costlier. A 12-paise move is about 0.13%, roughly ₹120 on a $1,000 expense.",
+        "markets": "The rupee is moving closely with oil. Analysts see more pressure if oil keeps rising.",
+        "economy": "A weaker rupee makes imports, especially oil, more expensive, which can add to inflation.",
+        "prices": "Too small a move on its own to change prices in shops."
+      },
+      "watch": "Oil prices, foreign investor flows, and whether the rupee moves past 95 per dollar.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Dollar index",
+        "FII"
+      ],
+      "explainers": {
+        "like12": "Imagine you want to buy a toy from America that costs one dollar. Today you'd need about 94 rupees and 93 paise. Yesterday it was a tiny bit less.\n\nWhy did the dollar get more expensive? India needs lots of dollars to buy oil from other countries, and oil got pricier, so India needed more dollars. Also, some foreign investors sold their Indian shares and swapped their rupees back into dollars.\n\nWhen lots of people want dollars, dollars cost more. That's what people mean when they say the rupee got weaker. Today's change was small, like a few paise on a big price tag.",
+        "real_life": "Meet Neha, a 33-year-old marketing manager in Delhi who is planning a family trip to Dubai in December. The package is priced at about $2,000.\n\nAt Thursday's 94.81, that was about ₹1,89,620. At today's 94.93, it's about ₹1,89,860, roughly ₹240 more.\n\nOne day's move hardly matters. Over two months, the rupee could move more, in either direction, and nobody can reliably predict which way. Some families who have a big foreign expense coming up keep a small cushion in their budget for currency changes rather than trying to time the rate."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Index weight",
+    "explanation": "An index like the Sensex or Nifty is not a simple average of its companies. Each company gets a weight, based mainly on how much its shares are worth in total (counting only the shares freely available to trade).\n\nSo a giant like HDFC Bank, Reliance or Infosys counts for much more than a smaller member. If a heavyweight rises 2%, it can cancel out several smaller companies falling 2%.\n\nThis matters because the index number in the news can give a misleading picture. On some days, a handful of giants rise while most shares fall, and the index barely moves. On other days, the reverse happens.\n\nThat's why market reports also mention the midcap and smallcap indices, sector indices and market breadth, the count of rising versus falling shares. Together they tell you whether a move was broad or driven by a few big names.",
+    "example": "On Friday, the Sensex fell just 0.17%, helped by gains in heavyweights such as TCS. But the Nifty Midcap 100 fell more than 2%, the Nifty Smallcap 100 about 3%, and every sector index ended lower.",
+    "takeaway": "A calm-looking Sensex can hide a rough day for most shares; check the midcap and smallcap numbers too."
+  },
+  "quiz": [
+    {
+      "q": "By how much did the Sensex fall on Friday?",
+      "options": [
+        "87.65 points",
+        "125.56 points",
+        "460.30 points",
+        "876.37 points"
+      ],
+      "answer": 1,
+      "why": "The Sensex fell 125.56 points, or 0.17%, to 73,123.83. 87.65 points was the Nifty 50's fall, 460.30 was Thursday's Sensex fall and 876.37 was Monday's."
+    },
+    {
+      "q": "The Sensex fell only 0.17%, but smallcaps fell about 3%. What best explains the gap?",
+      "options": [
+        "The Sensex is calculated only once a week",
+        "A few giant companies with big index weights rose, cushioning the Sensex",
+        "Smallcap shares are not traded on Fridays",
+        "The rupee got stronger"
+      ],
+      "answer": 1,
+      "why": "Big companies count much more in the Sensex. Gains in heavyweights such as TCS offset some of the falls, while smaller companies, which aren't in the Sensex, fell sharply."
+    },
+    {
+      "q": "What did Infosys change in its results announcement?",
+      "options": [
+        "It raised its dividend to ₹100 a share",
+        "It lowered its forecast for revenue growth this financial year",
+        "It announced it would leave the stock market",
+        "It said profit had halved"
+      ],
+      "answer": 1,
+      "why": "Infosys cut its FY27 revenue growth forecast to 1% to 2% in constant currency, from 1.5% to 3%, even though quarterly profit rose about 6%."
+    },
+    {
+      "q": "By 3 pm on the final day, retail investors had bid for about how many times their quota in the Jio IPO?",
+      "options": [
+        "About 0.5 times",
+        "About 2.5 times",
+        "About 13 times",
+        "About 33 times"
+      ],
+      "answer": 1,
+      "why": "The retail portion was subscribed 2.51 times. About 13 times was the non-institutional portion and about 33 times the institutional (QIB) portion."
+    },
+    {
+      "q": "What does a rise in India VIX usually signal?",
+      "options": [
+        "Traders expect calmer markets",
+        "Traders expect bigger price swings ahead",
+        "The rupee has become stronger",
+        "Oil prices have fallen"
+      ],
+      "answer": 1,
+      "why": "India VIX is often called the fear gauge. It rose 6.34% to 16.76 on Friday, showing traders expect more volatility."
+    },
+    {
+      "q": "Why can attacks that don't actually stop oil supply still push oil prices up?",
+      "options": [
+        "Because India buys less oil",
+        "Because traders pay extra out of fear that supplies could be cut later",
+        "Because the rupee gets stronger",
+        "Because gold prices rise"
+      ],
+      "answer": 1,
+      "why": "This extra, paid because of fear rather than an actual shortage, is called a risk premium."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ChiniMandi: Sensex down 125 points, Nifty at 22,600",
+      "url": "https://www.chinimandi.com/sensex-down-125-points-nifty-at-22600/"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 23 October 2026: Sensex and Nifty slide as rising crude oil prices weigh on markets",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-close-lower-amid-oil-price-surge/"
+    },
+    {
+      "title": "Business Standard: Stock Market Close, Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6%",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-q2-results-today-126102300078_1.html"
+    },
+    {
+      "title": "India TV: 23 October 2026 stock market updates, Sensex opens higher as IT stocks rally",
+      "url": "https://www.indiatvnews.com/business/news/23-october-2026-stock-market-updates-sensex-nifty-today-amid-weak-global-cues-brent-crude-oil-surge-gold-silver-fall-infosys-tcs-gains-2026-10-23-1057697"
+    },
+    {
+      "title": "The Federal (PTI): Rupee slips to 94.93 against dollar as crude price surges",
+      "url": "https://thefederal.com/category/business/rupee-falls-9493-against-dollar-crude-oil-price-surges-260469"
+    },
+    {
+      "title": "DT Next (PTI): Rupee falls 12 paise to close at 94.93 against US dollar",
+      "url": "https://www.dtnext.in/news/business/rupee-falls-12-paise-to-close-at-9493-against-us-dollar"
+    },
+    {
+      "title": "HDFC Sky: Jio IPO subscribed 12.55x by 3:00 PM IST on Day 3",
+      "url": "https://hdfcsky.com/news/jio-ipo-subscribed-12-55x-by-3-pm-ist-on-day-3"
+    },
+    {
+      "title": "MarketScreener: India's biggest IPO, Jio Platforms offering seven times oversubscribed",
+      "url": "https://www.marketscreener.com/news/india-s-biggest-ipo-jio-platforms-offering-seven-times-oversubscribed-ce785cdfd988f123"
+    },
+    {
+      "title": "inkl: Infosys Q2 results, profit rises 6% YoY to Rs 7,823 crore; co lowers revenue guidance",
+      "url": "https://www.inkl.com/news/infosys-q2-results-profit-rises-6-yoy-to-rs-7-823-crore-co-lowers-revenue-guidance"
+    },
+    {
+      "title": "Lapaas Voice: Infosys Q2 results, ADR falls 6% after IT major cuts FY27 revenue growth guidance",
+      "url": "https://lapaasvoice.com/infosys-q2-results-adr-falls-6-after-it-major-cuts-fy27-revenue-growth-guidance"
+    },
+    {
+      "title": "Business Standard: Q2 results today, Infosys, Tata Motors, Adani Power among 75 firms on Oct 23",
+      "url": "https://www.business-standard.com/companies/quarterly-results/q2-results-infosys-tata-motors-adani-power-among-75-firms-on-oct-23-126102300433_1.html"
+    },
+    {
+      "title": "OilPrice.com: Brent hits $114 as Houthi attacks threaten Saudi energy infrastructure",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.html"
+    },
+    {
+      "title": "CNBC: Stock market news for Oct. 22, 2026",
+      "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "Investing.com (Reuters): Asia stocks slide as AI doubts deepen, Korean chips fall",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-jitters-hit-korean-chipmakers-4964599"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Index weight",
+      "definition": "How much influence one company has on an index such as the Sensex or Nifty, based mostly on its size.",
+      "more": "The Sensex and Nifty don't treat all their companies equally. Bigger companies, measured by the value of shares freely available to trade, get a bigger weight, so a 1% move in a giant like HDFC Bank or Infosys shifts the index far more than a 1% move in a smaller member. That is why the Nifty can barely move while thousands of smaller shares fall sharply. It's like a family's average monthly spending being driven mostly by rent, not by the newspaper bill. News reports say 'heavyweights' when they mean high-weight shares."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Realty",
+      "definition": "Short for real estate: companies that build and sell homes, offices and malls.",
+      "more": "Realty companies such as DLF, Godrej Properties and Lodha build housing and commercial property. The Nifty Realty index tracks the listed ones. Their shares are very sensitive to interest rates, because most homebuyers take loans: when EMIs rise, fewer people buy flats. They also swing a lot because their profits arrive in lumps as projects are completed. It's like a mango seller whose income depends on one season. News reports often say 'realty stocks led the fall' on days when worries about rates or inflation rise."
+    },
+    {
+      "term": "Consumer durables",
+      "definition": "Long-lasting goods people buy for the home or themselves, such as appliances, electronics, watches and jewellery.",
+      "more": "Consumer durables are things you don't buy every week: fridges, TVs, air conditioners, watches and jewellery. Because they cost more and can be postponed, sales depend heavily on how confident families feel about their money. Think of a household that delays buying a new washing machine when petrol and school fees go up. The Nifty Consumer Durables index tracks listed makers of such goods, like Titan. When news says 'consumer durables led the fall', it usually means investors fear people will cut back on these purchases."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that write software, run computer systems and provide tech support for clients, mostly abroad.",
+      "more": "India's IT services firms, such as TCS, Infosys, Wipro, HCLTech and Tech Mahindra, do technology work for banks, shops, airlines and governments around the world. Most of their revenue comes in dollars or euros, while most of their staff are paid in rupees. So a weaker rupee usually helps their profits. It's like a tailor in Tiruppur stitching for foreign buyers: paid in dollars, spending in rupees. IT firms are big parts of the Sensex and Nifty, so their results can move the whole market."
+    },
+    {
+      "term": "Net profit",
+      "definition": "What a company earns after paying all its costs, interest and taxes.",
+      "more": "Net profit, sometimes called the bottom line, is what is left from a company's income after every expense: salaries, materials, rent, interest on loans and taxes. It is the money that belongs to shareholders, part of which may be paid as dividends. Think of a household: net profit is what remains of the month's salary after rent, groceries, EMIs and bills. News reports often say 'net profit rose 32.7% year-on-year', comparing it with the same quarter last year."
+    },
+    {
+      "term": "Year on year",
+      "definition": "A comparison with the same period a year earlier, such as July–September this year versus July–September last year.",
+      "more": "Companies and governments usually compare a quarter's numbers with the same quarter of the previous year, called year on year or YoY. This avoids being misled by seasons: a sweet shop always sells more around Diwali, so comparing October with July would be unfair, but comparing this October with last October is fair. When a report says 'profit rose 6% year on year', it means profit was 6% higher than in the same quarter last year. You may also see 'quarter on quarter', which compares with the previous three months."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "Constant currency",
+      "definition": "Growth measured as if exchange rates had not changed, to show real business growth.",
+      "more": "Indian IT companies earn in dollars, euros and pounds but report in rupees. When the rupee weakens, rupee revenue rises even if business is flat. Constant-currency growth removes this effect. If revenue rose 9% in rupees but 0% in constant currency, the increase came from currency moves, not more work. It's like a shopkeeper whose sales seem higher only because prices rose, not because more customers came. Analysts watch constant-currency figures closely for IT firms."
+    },
+    {
+      "term": "Large deal wins",
+      "definition": "The total value of big new contracts an IT company signed with clients during a quarter.",
+      "more": "Indian IT firms win multi-year contracts to run technology for banks, retailers and other companies. Each firm defines a 'large deal' by its own size threshold, and reports the total value of such deals signed in the quarter. This number matters because the work, and the revenue, arrive over several years. It's like a caterer's bookings for next wedding season: they tell you about future income even before the cooking starts. News reports compare deal wins with earlier quarters to judge whether business is picking up."
+    },
+    {
+      "term": "Street estimates",
+      "definition": "What analysts, taken together, expected a company or economic figure to be before it was announced.",
+      "more": "'The Street' is market slang for professional investors and analysts, after Wall Street in New York. Before sales or profit numbers come out, brokerages publish their forecasts. Share prices usually already reflect these expectations. So when the actual number arrives, investors compare it with the forecast, not with zero. A company can report growth and still see its shares fall if the growth is smaller than expected. It's like a student who usually scores 90 getting 80: still a good mark, but parents react to the drop."
+    },
+    {
+      "term": "ADR",
+      "definition": "American Depositary Receipt: a certificate that lets investors in the US trade shares of a foreign company, such as Infosys, on a US exchange.",
+      "more": "Some big Indian companies, including Infosys, Wipro and ICICI Bank, also have their shares traded in New York through ADRs. Each ADR stands for a set number of the company's Indian shares. Because US markets open after Indian markets close, the ADR price is often the first sign of how investors react to news released in the evening India time. It's like a cricket score from an overseas match that tells you what to expect when the highlights air at home. News reports say things like 'Infosys ADR fell 6%' to hint at how the Indian shares may open."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Subscription",
+      "definition": "How much of an IPO investors have applied for. '0.48 times' means bids came in for about half of the shares on offer.",
+      "more": "During an IPO, the exchanges publish how many shares investors have bid for compared with how many are available, called the subscription figure. '1 times' means demand exactly matches supply; '5 times' means five shares were sought for each one offered; '0.48 times' means only about half were sought so far. Many investors bid on the last day, so early figures often rise sharply at the end. It's like counting RSVPs for a wedding: many replies arrive only on the last day."
+    },
+    {
+      "term": "QIB",
+      "definition": "Qualified institutional buyer: a large professional investor, such as a mutual fund, bank or insurer, that gets a separate share of an IPO.",
+      "more": "In an Indian IPO, the shares on offer are divided into portions for different kinds of investors. QIBs are big, regulated institutions like mutual funds, insurance companies, banks and foreign funds. Retail investors, who apply for smaller amounts, get their own portion, and wealthy individuals (NIIs or HNIs) get another. Reports on IPO demand usually break down subscription by category. It's like a cinema holding separate queues for bulk bookings, families and single tickets. Strong QIB demand is often read as a sign that professionals like the issue."
+    },
+    {
+      "term": "Non-institutional investor",
+      "definition": "In an IPO, wealthier individuals and companies who apply for shares worth more than ₹2 lakh. Also called NIIs or HNIs.",
+      "more": "When a company sells shares in an IPO, it splits them into separate quotas for different kinds of buyers. The non-institutional investor (NII) quota is for individuals, family trusts and companies who apply for more than ₹2 lakh worth of shares but are not big institutions such as mutual funds. They are often called high-net-worth individuals, or HNIs. Think of it as the 'bulk buyer' queue at a sale, separate from both the shopkeepers (institutions) and ordinary shoppers (retail). News reports give subscription figures for each queue, for example 'the NII portion was booked 1.32 times'."
+    },
+    {
+      "term": "Retail investor",
+      "definition": "An ordinary individual who buys shares with their own money, in small amounts.",
+      "more": "A retail investor is an everyday person, like a salaried employee or a shopkeeper, who invests their own savings. In an IPO, retail investors are those who apply for shares worth up to ₹2 lakh, and they get their own reserved quota so big investors cannot crowd them out. Retail investors also invest indirectly through mutual funds and SIPs. News reports often compare 'retail demand' with 'institutional demand'. A low retail subscription on the first day of an IPO is common, because many individuals apply on the last day."
+    },
+    {
+      "term": "Oversubscribed",
+      "definition": "When investors apply for more shares in an IPO than are on offer.",
+      "more": "In an IPO, a company offers a fixed number of shares. If investors apply for, say, 10 times that number, the issue is 'oversubscribed 10 times'. Not everyone gets what they applied for: shares are shared out, often by lottery for small investors. High oversubscription shows strong demand, and it often leads to a higher first-day price, but not always. It's like 125 people applying for every seat on a popular train: most won't get a ticket."
+    },
+    {
+      "term": "Price band",
+      "definition": "The range of prices, from lowest to highest, within which investors can bid for shares in an IPO.",
+      "more": "Before an IPO opens, the company announces a price band, such as ₹290–305 per share. Investors bid for shares at a price inside that range. Once bidding closes, the company fixes the final issue price, usually at the top of the band if demand is strong. It's like a seller saying a used bike will go for somewhere between ₹29,000 and ₹30,500 depending on interest. Most small investors simply bid at the top price (called the 'cut-off') to improve their chance of getting shares."
+    },
+    {
+      "term": "Lot size",
+      "definition": "The minimum number of shares you must apply for in an IPO. You can apply only in multiples of it.",
+      "more": "IPO shares are sold in fixed bundles called lots. If the lot size is 49 shares, you must apply for 49, 98, 147 and so on, not 10 or 60. The smallest application therefore costs the lot size multiplied by the price: at ₹305, one lot of 49 shares costs ₹14,945. It's like a shop selling eggs only by the tray, not singly. News reports mention the lot size so readers know the minimum amount needed to apply."
+    },
+    {
+      "term": "Allotment",
+      "definition": "The step after an IPO closes, when the company decides who gets shares and how many.",
+      "more": "If an IPO receives more bids than shares, not everyone gets what they asked for. Retail investors are usually given shares by a computerised lottery, with each lucky applicant getting at least one lot. If an IPO is not fully subscribed, everyone who applied gets shares. Money for unsuccessful bids, which was only blocked, is released back to the bank account. It's like a housing lottery for flats: you apply, wait for the draw and then learn if you got one. News reports give the allotment date so applicants know when to check."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "WTI",
+      "definition": "West Texas Intermediate: the main benchmark price for crude oil produced in the United States.",
+      "more": "WTI is a type of light crude oil produced in the US, and its price is the main reference for American oil. It usually trades a few dollars below Brent, the international benchmark India watches most closely. When both rise together, it tells you the price jump is global, not a local problem. It's like comparing the price of rice in two big wholesale mandis: if both go up, the shortage is widespread. News reports often quote both, as in 'Brent at $114, WTI at $101'."
+    },
+    {
+      "term": "Houthis",
+      "definition": "An armed group that controls much of Yemen and has attacked ships and Saudi targets.",
+      "more": "The Houthis are an armed movement that controls large parts of Yemen, including its capital. They are opposed to Saudi Arabia and are widely reported to be backed by Iran. Over the years they have fired missiles and drones at Saudi oil sites and at ships in the Red Sea. Because Saudi Arabia is one of the world's largest oil exporters, any attack on its facilities can push oil prices up, even if supply is not actually cut. For India, which imports most of its oil, such news matters for fuel prices and the rupee."
+    },
+    {
+      "term": "Risk premium",
+      "definition": "The extra amount buyers pay, or sellers demand, because of the fear that something bad might happen, even before it actually does.",
+      "more": "A risk premium is the part of a price that comes from worry rather than from today's facts. In oil, if attacks threaten supply, traders bid prices up in case barrels go missing later, even when every barrel is still flowing. It is like vegetable prices rising in a market when people hear a truckers' strike might start: nothing has run out yet, but buyers pay extra to be safe. News reports say the premium 'eases' when the fear fades, and prices can then drop quickly."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "MCX",
+      "definition": "The Multi Commodity Exchange of India, where gold, silver, oil and other commodities are traded.",
+      "more": "MCX is India's main exchange for trading commodities such as gold, silver, crude oil, natural gas and metals. Most trading is in futures contracts, which are agreements on a price for a future date. MCX gold prices are a common guide to what jewellers charge, though shop prices also include GST and making charges. It's like a big wholesale mandi for metals and energy. News reports quote MCX gold per 10 grams."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the daily FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 94.82 but finally came in at 94.81. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen, which is why reports often add '(provisional)' after a number."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    }
+  ]
+}
