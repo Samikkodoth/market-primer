@@ -1,0 +1,731 @@
+{
+  "date": "2026-10-28",
+  "session_label": "Wednesday 28 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex fell 353 points as Infosys, Reliance and oil companies slid with Brent near $115, but Jio Platforms closed about 27% above its IPO price on its first day and L&T jumped after a 33% profit rise; the rupee fell to 95.28.",
+  "mood": "Mixed",
+  "mood_note": "A big day with two faces: Jio Platforms had a strong stock market debut, while IT shares, Reliance and oil companies pulled the Sensex down. Smaller shares and car makers rose, so the picture beneath the index was less gloomy than the headline number.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Tuesday we reported the rupee at 95.12 per dollar (provisional), up 3 paise. The final figure was 95.07, up 8 paise, according to PTI.",
+    "Exchange data showed foreign institutional investors were net buyers of ₹4,240.39 crore on Tuesday, after selling on Monday. Domestic institutions were net sellers of about ₹1,250 crore.",
+    "Jio Platforms, whose listing we previewed yesterday, started trading today. Its first-day result is our second story."
+  ],
+  "one_minute": [
+    "The Sensex fell 352.64 points (0.48%) to 73,246.03 and the Nifty 50 fell 50.90 points (0.22%) to 22,698.85, dragged down by IT and oil and gas shares.",
+    "Smaller shares held up: the Nifty Midcap 100 rose 0.43% and the Nifty Smallcap 100 rose 0.90%, while auto shares gained about 1.5%.",
+    "Jio Platforms listed at ₹1,358, 21.36% above its ₹1,119 IPO price, and closed at ₹1,419 on the NSE, making it India's second most valuable company. Parent Reliance fell about 3%.",
+    "L&T rose 3.72% after its quarterly profit rose about 33% to ₹5,202 crore and it won a record ₹1,47,665 crore of new orders.",
+    "The rupee fell 21 paise to 95.28 per dollar (provisional) as Brent crude rose about 1% to around $115. The US Federal Reserve announces its rate decision late tonight, India time."
+  ],
+  "big_picture": "Today had one happy story and one worrying one.\n\nThe happy one was Jio Platforms. India's biggest-ever IPO started trading at ₹1,358, well above the ₹1,119 people paid, and ended the day even higher at ₹1,419. Overnight it became India's second most valuable listed company, behind its own parent, Reliance Industries.\n\nThe worrying one was oil. Brent crude rose about 1% to around $115 a barrel after fresh reports of attacks on Saudi energy facilities and worries about a wider conflict with Iran. That hit oil companies and weighed on the rupee, which fell to 95.28 per dollar.\n\nIT shares also fell sharply, and Reliance itself slipped about 3% on Jio's big day. Together with Infosys, that was enough to pull the Sensex down 353 points.\n\nBut it wasn't a bad day everywhere. L&T jumped after strong results, car makers rose, and midcaps and smallcaps ended higher. Tonight, the US Federal Reserve announces its interest rate decision.",
+  "chain": [
+    {
+      "label": "Oil climbs again",
+      "note": "Brent rose about 1% to around $115, with a high above $116, on fresh worries about attacks on Saudi Arabia and tension with Iran."
+    },
+    {
+      "label": "Oil and IT shares sold",
+      "note": "Nifty Oil & Gas fell 2.27% and Nifty IT 1.98%; Infosys, Reliance and ONGC were the Nifty's biggest losers."
+    },
+    {
+      "label": "Jio's strong debut",
+      "note": "Jio Platforms closed about 27% above its IPO price, but parent Reliance fell about 3%."
+    },
+    {
+      "label": "Pockets of strength",
+      "note": "L&T, autos, midcaps and smallcaps rose, limiting the damage."
+    },
+    {
+      "label": "Sensex down 353",
+      "note": "The Sensex ended 0.48% lower and the Nifty 0.22% lower, ahead of tonight's Fed decision."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "73,246.03",
+      "change": "-352.64 (-0.48%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. Reliance and Infosys pulled it lower today."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,698.85",
+      "change": "-50.90 (-0.22%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. 26 of its 50 shares rose today."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+0.43%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies. It rose for a third day."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+0.90%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller companies. It rose despite the fall in the big indices."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "-1.98%",
+      "direction": "down",
+      "what_it_is": "This tracks India's big software services companies, such as Infosys and TCS."
+    },
+    {
+      "name": "Nifty Auto",
+      "value": "",
+      "change": "+1.45%",
+      "direction": "up",
+      "what_it_is": "This tracks car, bike and truck makers. It was one of the best sectors today."
+    },
+    {
+      "name": "Jio Platforms",
+      "value": "₹1,419",
+      "change": "+26.8% vs IPO price of ₹1,119",
+      "direction": "up",
+      "what_it_is": "Jio's closing price on the NSE on its first day of trading. It listed at ₹1,358."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "95.28",
+      "change": "weaker by 21 paise (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$115.08",
+      "change": "+1.06% (during Indian trading)",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-falls-353-it-oil-shares-slide",
+      "category": "Stock market",
+      "title": "Sensex falls 353 points as Infosys, Reliance and oil companies slide, while autos and smaller shares rise",
+      "tldr": "The Sensex fell 353 points and the Nifty 51 points on Wednesday. IT companies and oil and gas companies were sold heavily, as crude oil rose again and investors waited for the US Federal Reserve's decision. But it wasn't a fall across the board: car makers, consumer durables companies and smaller shares ended higher.",
+      "what_happened": "The Sensex fell 352.64 points, or 0.48%, to 73,246.03. The Nifty 50 fell 50.90 points, or 0.22%, to 22,698.85, according to Upstox and Kotak Neo. On the Nifty, 26 shares rose and 24 fell.\n\nSmaller companies did better. The Nifty Midcap 100 rose 0.43% and the Nifty Smallcap 100 rose 0.90%, according to Kotak Neo. Nifty Oil & Gas was the worst sector, down 2.27%, followed by Nifty IT, down 1.98%. Nifty FMCG fell 0.56%. Nifty Auto rose 1.45%, and consumer durables and media shares rose about 1.4%.\n\nInfosys fell 3.43% and Reliance Industries 3.19%, the Nifty's two biggest losers, according to Upstox. ONGC, Tech Mahindra and Bharti Airtel also fell. Apollo Hospitals rose 4.43%, L&T 3.72% and Trent 3.31%, followed by SBI Life Insurance and IndiGo's owner InterGlobe Aviation.",
+      "simple_explanation": "The market fell today, mainly because of two groups of companies.\n\nThe first was IT companies like Infosys and Tech Mahindra, which sell software services to clients abroad. Their shares have been weak for a while, and they fell again today.\n\nThe second was oil and gas companies, including Reliance and ONGC. Oil prices rose again, and Reliance had its own reasons to slip on the day its telecom business, Jio, started trading separately.\n\nBecause Reliance and Infosys are among the heaviest companies in the Sensex, their falls pulled the whole index down. But more than half of the Nifty's 50 shares actually rose, and smaller companies did well. So it was a weaker day for the giants than for the market as a whole.",
+      "analogy": "It is like a cricket team losing because two star batsmen got out cheaply, even though most of the other players scored decently.",
+      "why": "Reports linked the fall to crude oil rising above $116 a barrel at one point, heavy selling in IT shares and other heavyweights, and caution before the US Federal Reserve's decision, according to Upstox. A Wall Street Journal report that the US had told West Asian countries to prepare for a possible military escalation after the US midterm elections added to worries about oil supplies, Upstox said.\n\nReports did not point to a single reason for today's selling in IT shares. The sector has been under pressure since Infosys cut its growth forecast last week.\n\nOn the brighter side, L&T rose after strong results, and auto, consumer durables and media shares gained.",
+      "implications": {
+        "you": "A Nifty 50 index fund lost about 0.2% today, and a Sensex fund about 0.5%. Midcap and smallcap funds may have gained a little. IT-focused funds had a harder day. For a long-term SIP, a single day like this makes very little difference.",
+        "markets": "A falling index with more Nifty shares up than down suggests the selling was concentrated in a few big names, not a broad rush for the exit.",
+        "economy": "No direct effect on the economy. The bigger concern is oil: if it stays this high, it can raise India's import bill and inflation.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "The US Federal Reserve's decision late tonight India time, oil prices, and Reliance's results on Friday, 30 October.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "Sectoral index",
+        "Nifty IT",
+        "FMCG",
+        "Consumer durables",
+        "Heavyweight stock",
+        "IT services",
+        "Brent crude",
+        "Federal Reserve",
+        "Guidance",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine your school's sports day, where the score of the whole school is mostly decided by a few star athletes. If two of the stars trip and fall, the school's total drops, even if lots of other kids run well.\n\nThat's what happened in the stock market today. The Sensex, a number that follows 30 big companies, fell. That was mostly because two very big companies, Reliance and Infosys, dropped about 3% each. Oil companies and computer-services companies had a bad day.\n\nBut many other companies, like car makers and smaller firms, actually went up. So the market wasn't sad everywhere. Just a few big players stumbled, and they count extra in the total.",
+        "real_life": "Meet Kavya, a 31-year-old HR executive in Hyderabad. She has a ₹4,000 monthly SIP in a Nifty 50 index fund and holds a few Infosys shares her father gave her.\n\nTonight she sees 'Sensex falls 353 points' and checks her app. Her index fund is down only slightly, about 0.2%, because most Nifty companies actually rose. Her Infosys shares are down more than 3%.\n\nThis shows why one company can swing a lot more than a fund that holds 50. Kavya's SIP buys a little more of the index each month, whatever happens on a single day. A one-day fall like this doesn't change much over the years she plans to invest."
+      }
+    },
+    {
+      "id": "jio-platforms-closes-27-percent-above-ipo-price",
+      "category": "IPO",
+      "title": "Jio Platforms lists at a 21% premium and closes about 27% above its IPO price, becoming India's second most valuable company",
+      "tldr": "Jio Platforms, the company behind the Jio mobile network, started trading on Wednesday at ₹1,358 a share, 21.36% above the ₹1,119 IPO price. It closed at ₹1,419 on the NSE, about 26.8% above the IPO price, giving it a market value of about ₹13 lakh crore. Its parent, Reliance Industries, fell about 3%.",
+      "what_happened": "Jio Platforms listed at ₹1,358 on both the NSE and BSE, a premium of 21.36% over its issue price of ₹1,119, according to The Tribune and Upstox. It closed at ₹1,419 on the NSE, 4.49% above its listing price and 26.81% above the issue price, according to YourStory and Upstox.\n\nAt that price, the company's market capitalisation was about ₹13.05 lakh crore, according to Upstox. That made it India's second most valuable listed company, behind Reliance Industries and ahead of Bharti Airtel, according to YourStory.\n\nThe IPO raised ₹30,213 crore through 27 crore new shares, with no existing shareholders selling. It was subscribed 22.19 times. One lot of 12 shares cost ₹13,428 at the issue price.\n\nReliance Industries shares fell 3.19%, according to Upstox. Jio Financial Services, a separate listed company, also fell. Jio Platforms will report its September-quarter results on 30 October.",
+      "simple_explanation": "Jio Platforms sold shares to the public for the first time this month. Today, those shares started trading on the stock exchanges, so anyone could buy or sell them.\n\nThe first price was ₹1,358, much higher than the ₹1,119 that IPO investors paid. By the end of the day, it had risen further, to ₹1,419. Someone who got one lot of 12 shares at ₹13,428 saw it valued at about ₹17,000 by the close, before costs and taxes. That's only a gain on paper until the shares are sold.\n\nOddly, Reliance, which owns most of Jio, fell. One reason analysts give is that investors who wanted a piece of Jio no longer need to buy Reliance to get it: they can now buy Jio directly.",
+      "analogy": "It is like a popular restaurant's dessert counter opening as its own shop: the new shop draws crowds, but some customers who used to visit the restaurant only for the desserts now go straight to the counter.",
+      "why": "The IPO was heavily oversubscribed, so many investors who did not get shares tried to buy them on the exchange, which pushed the price up. It was described as the biggest IPO in Indian history.\n\nReports did not establish one reason for Reliance's fall. Analysts mentioned profit booking, the wider fall in oil and gas shares, and an earlier worry that Reliance could trade at a 'holding company discount' once Jio was directly available to investors.\n\nJio's Akash Ambani described the listing as 'a new beginning', according to Upstox.",
+      "implications": {
+        "you": "If you were allotted Jio shares, your holding showed a paper gain of about ₹3,600 a lot at the closing price, before costs and taxes. If you didn't apply, buying now means paying the market price, not the IPO price. This briefing doesn't recommend buying, selling or holding any share.",
+        "markets": "A strong debut for such a large IPO may encourage more big companies to list, and it gives the market a new benchmark for valuing telecom and digital businesses.",
+        "economy": "It shows Indian markets can absorb a very large share sale, but there's no direct effect on the wider economy.",
+        "prices": "No effect on mobile tariffs or everyday prices."
+      },
+      "watch": "Jio Platforms' and Reliance's quarterly results on 30 October, and how Jio's shares trade in the coming days.",
+      "terms": [
+        "IPO",
+        "Listing",
+        "Issue price",
+        "Premium",
+        "Listing gain",
+        "Market capitalisation",
+        "Subscription",
+        "Fresh issue",
+        "Offer for sale",
+        "Lot size",
+        "Subsidiary",
+        "Holding company discount",
+        "Profit booking",
+        "Quarterly results"
+      ],
+      "explainers": {
+        "like12": "Imagine a famous ice-cream shop that has always been part of a big supermarket. One day, it becomes its own shop, and people can buy a small piece of it. So many people want a piece that most don't get one.\n\nToday, people could finally trade those pieces with each other. Lots of people who missed out wanted one, so the price shot up. Someone who paid ₹1,119 for a piece saw it worth ₹1,419 by the evening.\n\nFunny thing: the big supermarket's own price fell. Some people used to buy a piece of the supermarket only because it owned the ice-cream shop. Now they can buy the ice-cream shop directly, so they don't need the supermarket as much.",
+        "real_life": "Meet Rohit, a 34-year-old accountant in Lucknow. He applied for one lot of Jio Platforms shares, 12 shares for ₹13,428, and got it.\n\nThis evening, his demat account shows those shares worth about ₹17,028 at the closing price. That's about ₹3,600 more than he paid, but it's a paper gain: it becomes real only if he sells, and then brokerage charges and tax on short-term gains would come out of it.\n\nHis neighbour, who didn't get shares, is wondering whether to buy now. Today's buyers pay the market price of around ₹1,419, not ₹1,119. Whether that's a good price depends on how Jio's business does over many years, not on its first day."
+      }
+    },
+    {
+      "id": "lt-jumps-after-record-orders-maruti-results",
+      "category": "Company results",
+      "title": "L&T rises 3.7% after a 33% jump in quarterly profit and record new orders; Maruti Suzuki steadies after a profit fall",
+      "tldr": "Larsen & Toubro, India's biggest engineering and construction company, said its quarterly profit rose about 33% to ₹5,202 crore and it won a record ₹1,47,665 crore of new orders. Its shares rose 3.72%. Maruti Suzuki, whose profit fell about 26% because of higher costs, ended little changed as brokerages trimmed their targets but most stayed positive.",
+      "what_happened": "L&T's consolidated net profit for July to September rose 32.5% from a year earlier to ₹5,202.10 crore, from ₹3,926 crore, according to Upstox and Zee Business. Revenue rose 16% to ₹78,750 crore. New orders reached a record ₹1,47,665 crore, up 28%, with international orders making up 63% of the total. Its order book stood at ₹8,53,514 crore on 30 September. L&T shares rose 3.72%, the Nifty's second-biggest gain.\n\nMaruti Suzuki, which reported on Tuesday, said its consolidated net profit fell 26.36% from a year earlier to ₹2,466.1 crore, according to Business Standard. Its standalone revenue rose 26% to ₹53,340.2 crore. The company blamed higher input costs linked to the West Asia conflict, and raised its full-year sales volume growth forecast.\n\nJefferies kept a buy rating on Maruti but cut its target price to ₹13,500, and Nomura cut its target to ₹13,046, according to reports. Maruti's shares ended little changed.",
+      "simple_explanation": "L&T builds big things: metro lines, power plants, bridges and factories, in India and abroad. Today it said it earned much more profit than a year ago.\n\nEven more important for investors, it won a record amount of new work in just three months. L&T gets paid as it completes projects, so a big pile of new contracts suggests steady income for years.\n\nMaruti Suzuki, India's biggest car maker, had a different story. It sold more cars and earned more revenue, but its profit fell, because the materials it uses to build cars got more expensive. Investors seemed to focus on the strong demand for cars and Maruti's higher sales forecast, rather than the profit fall.",
+      "analogy": "L&T is like a caterer who has just been booked for a record number of weddings over the next two years: the money comes later, but the bookings are already in the diary.",
+      "why": "L&T's profit was higher than analysts had expected, according to Zee Business, and the record order inflow suggests strong demand for infrastructure, especially from abroad.\n\nFor Maruti, the profit fall was blamed on higher costs, while sales were strong. Brokerages lowered their profit estimates and target prices, but most kept positive ratings, according to reports. Maruti shares have fallen about 31% so far in 2026, according to Business Standard, so some of the bad news may already have been reflected in the price.",
+      "implications": {
+        "you": "If you work in construction, engineering or a company that supplies L&T, a strong order book is a good sign for work in coming years. For car buyers, higher input costs can eventually feed into car prices, though reports on the results didn't mention a price rise.",
+        "markets": "Strong results from big companies like L&T can support the index even on days when oil and IT pull it down.",
+        "economy": "A record order inflow suggests companies and governments are still spending on infrastructure, which supports jobs.",
+        "prices": "Rising material costs for car makers can lead to price increases over time, though nothing has been announced."
+      },
+      "watch": "More September-quarter results this week, including Reliance and Jio Platforms on 30 October.",
+      "terms": [
+        "Consolidated profit",
+        "Net profit",
+        "Year on year",
+        "Revenue",
+        "Order inflow",
+        "Order book",
+        "Street estimates",
+        "Brokerage",
+        "Target price",
+        "Guidance"
+      ],
+      "explainers": {
+        "like12": "Imagine a company that builds giant things, like bridges and train lines. It doesn't get paid all at once. It gets paid bit by bit as it builds.\n\nToday, that company, L&T, said it earned a lot more money than last year. It also said it had signed up for a record amount of new building work in just three months. That's like a builder whose calendar is filled up for the next few years. People liked that, so its shares went up.\n\nMaruti, the car maker, sold more cars, but the metal and parts it needs became more expensive. So it kept less money as profit. Its shares didn't move much.",
+        "real_life": "Meet Sandeep, a 38-year-old site engineer in Chennai who works for a company that supplies steel structures to big builders.\n\nWhen he hears that L&T won a record ₹1,47,665 crore of new orders in three months, it matters to him. More big projects usually mean more work for suppliers like his employer, which can mean steadier jobs and overtime.\n\nHis wife is planning to buy a small car next year. Maruti's results show that car makers are paying more for materials. Reports on the results didn't mention a price rise, but if costs stay high, car prices may creep up. That's worth keeping in mind when they plan their car loan EMI."
+      }
+    },
+    {
+      "id": "rupee-falls-21-paise-to-95-28",
+      "category": "Rupee",
+      "title": "Rupee falls 21 paise to 95.28 per dollar as oil rises and the dollar firms before the Fed decision",
+      "tldr": "The rupee weakened by 21 paise to 95.28 against the US dollar, according to provisional figures reported by PTI. Higher oil prices and a slightly stronger dollar weighed on it. Foreign investors bought ₹4,240.39 crore of Indian shares on Tuesday, which offered some support.",
+      "what_happened": "The rupee opened at 95.01 per dollar, fell to a low of 95.29 and settled at 95.28 (provisional), 21 paise weaker than Tuesday's close of 95.07, according to PTI.\n\nThe dollar index, which measures the dollar against six major currencies, was up 0.08% at 102.40. Brent crude futures were up 1.06% at $115.08 a barrel.\n\nExchange data showed foreign institutional investors bought Indian shares worth ₹4,240.39 crore, net, on Tuesday. Domestic institutional investors were net sellers of about ₹1,250 crore, according to Trendlyne.",
+      "simple_explanation": "The rupee got a little weaker today. One dollar now costs about ₹95.28, up from about ₹95.07 yesterday.\n\nThe main reason is oil. India buys most of its oil from abroad and pays in dollars. When oil gets more expensive, Indian companies need more dollars, and that pushes the rupee down.\n\nThe dollar was also slightly stronger around the world, as investors waited for the US central bank's decision tonight.\n\nThere was one helpful factor: foreign investors put a large amount of money into Indian shares on Tuesday. When they do that, they bring in dollars and swap them for rupees, which supports the rupee.",
+      "analogy": "It is like a family that buys most of its groceries from a shop that only takes dollars: when grocery prices rise, it needs more dollars, and each rupee buys less.",
+      "why": "Forex traders said a stronger dollar and higher crude oil prices weighed on the rupee, according to PTI. Anindya Banerjee of Kotak NEO said high oil prices were a source of underlying demand for dollars. He said the Fed is the immediate trigger, and a firmer-than-expected message could support the dollar.\n\nTraders said any intervention by the Reserve Bank of India might support the rupee at weaker levels, PTI reported.",
+      "implications": {
+        "you": "A weaker rupee makes foreign travel, foreign education fees and imported gadgets a little more expensive. If you send money abroad, you pay slightly more; if a family member sends money home from abroad, it's worth slightly more in rupees. A 21-paise move is small for most people.",
+        "markets": "Foreign buying of ₹4,240 crore on Tuesday was a positive sign, but a weak rupee can discourage foreign investors, because it reduces their returns in dollars.",
+        "economy": "A weaker rupee makes oil and other imports more expensive, which can feed into inflation.",
+        "prices": "Imported goods such as electronics and fuel inputs can cost a little more over time if the rupee stays weak."
+      },
+      "watch": "The Fed's decision tonight, oil prices, and any signs of RBI action in the currency market.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Dollar index",
+        "Brent crude",
+        "Rupee depreciation",
+        "FII",
+        "DII",
+        "RBI intervention",
+        "Import bill",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Think of the rupee and the dollar as two kinds of trading cards. Today, you needed a few more rupee cards to get one dollar card than yesterday. That means the rupee got a little weaker.\n\nWhy? India buys a lot of oil from other countries, and has to pay in dollars. Oil got more expensive today, so Indian companies needed more dollars. When lots of people want dollar cards, each one costs more rupee cards.\n\nThe good news was that some foreign investors brought in lots of dollars to buy Indian shares. That helped a bit. Overall, though, the rupee slipped by 21 paise, which is a small change.",
+        "real_life": "Meet Ananya, a 26-year-old software tester in Bengaluru. She's saving for a trip to Dubai next year and has budgeted about ₹1 lakh.\n\nWith the rupee at 95.28 per dollar instead of 95.07, things priced in dollars cost her slightly more. On a $1,000 spend, the difference is about ₹210: small, but it adds up if the rupee keeps weakening.\n\nHer cousin, who works in the US, sends money home every month. For him, each dollar now converts into slightly more rupees. For Ananya, a sensible step is simply to keep an eye on the rate as her trip nears, rather than worrying about one day's move."
+      }
+    },
+    {
+      "id": "oil-rises-to-115-fed-decision-tonight",
+      "category": "Global",
+      "title": "Oil rises to about $115 on fears of wider conflict in West Asia, as the US Federal Reserve decides on rates tonight",
+      "tldr": "Brent crude rose about 1% to around $115 a barrel after fresh attacks on Saudi Arabia and reports that the US could escalate with Iran. Asian markets rallied, led by South Korea's Kospi, which jumped 6.8%. The US Federal Reserve announces its rate decision late tonight India time, and is widely expected to keep rates unchanged.",
+      "what_happened": "Brent crude futures rose 1.06% to $115.08 a barrel during Indian trading, according to PTI, and touched a high of $116.35, according to Upstox. Brent had fallen on each of the previous two days.\n\nThe National reported that Houthi attacks on Saudi Arabia and the possibility of renewed US military action against Iran kept supply worries high. Talks involving Iran, Saudi Arabia, Pakistan and Turkey are continuing, according to reports.\n\nOn Tuesday in the US, the S&P 500 rose 0.6% and the Nasdaq rose 1.2%, led by big tech companies, according to AP. On Wednesday, South Korea's Kospi jumped 6.8% to 6,023.73 and Japan's Nikkei 225 rose 1.1%, led by chip and AI-linked shares. The US 10-year Treasury yield was about 4.98%.\n\nThe Fed announces its decision at 2 pm US Eastern time, about 11:30 pm in India. Its target range is 3.75% to 4%, and it is widely expected to keep it unchanged.",
+      "simple_explanation": "Oil got more expensive again today. A barrel of Brent, the world's main oil benchmark, now costs about $115.\n\nThe reason is worry, rather than an actual shortage. There have been attacks on oil facilities in Saudi Arabia, and reports suggest the US could take stronger military action against Iran. If oil can't move freely through the region, there could be less of it for the world.\n\nAt the same time, all eyes are on the US central bank, the Federal Reserve, which announces its interest rate decision tonight. Most people expect no change. What matters most is what it says about the future, because that can move the dollar and money flows into countries like India.",
+      "analogy": "It is like onion prices rising in the market just on rumours of a bad harvest: the shortage hasn't happened yet, but the fear is enough to push prices up.",
+      "why": "Analysts at ING said a large risk premium is still built into oil prices while traders wait to see how the US approaches Iran after the midterm elections, according to Tradingpedia. They said that if no new military action happens, that premium could fade.\n\nIn Asia, chip makers such as SK Hynix and AI-linked shares led the gains, according to AP. Investors are also watching the Fed because a firmer-than-expected message could lift the dollar and US bond yields, which can pull money away from markets like India.",
+      "implications": {
+        "you": "Petrol and diesel prices in India are set by state-run oil companies and don't change daily with world prices. But oil around $115 keeps pressure on fuel, airfares and transport costs. The Fed's decision won't change your EMI directly; the RBI's decisions matter far more for Indian loan rates.",
+        "markets": "Oil and the Fed are the two big outside forces for Indian shares and the rupee. Oil and gas companies and the rupee are most exposed to oil prices.",
+        "economy": "Costly oil raises India's import bill and can push up inflation, which makes it harder for the RBI to cut interest rates.",
+        "prices": "If oil stays high for a long time, transport, airfares and cooking gas costs can slowly rise."
+      },
+      "watch": "The Fed's decision and comments tonight, oil prices on Thursday, and any news from West Asia.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Houthis",
+        "Federal Reserve",
+        "FOMC",
+        "Fed funds rate",
+        "S&P 500",
+        "Nasdaq",
+        "Kospi",
+        "Nikkei 225",
+        "Semiconductor",
+        "US Treasury yield",
+        "Risk premium",
+        "EMI",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Imagine your town gets most of its water from one big tank on a hill, and there have been fights near that tank. Even if water is still flowing, people start worrying, and the price of bottled water goes up.\n\nOil is a bit like that. A lot of the world's oil comes from countries in West Asia, and there's fighting and tension there. So oil got more expensive today, even though it's still being sold.\n\nAlso tonight, the US central bank, a bit like the head teacher of money in America, will announce whether it's changing its interest rate. Most people think it won't. But everyone will listen carefully to what it says, because its words can affect money all over the world.",
+        "real_life": "Meet Farhan, a 40-year-old delivery fleet supervisor in Mumbai. His company runs 30 vans, and fuel is its biggest cost after salaries.\n\nWhen oil stays around $115 a barrel, he knows there's pressure on fuel prices, even though petrol and diesel prices at the pump haven't changed today. If prices do rise later, his company may raise delivery charges or cut costs elsewhere.\n\nHe also has a home loan, and he's heard that the US Federal Reserve is deciding on rates tonight. That won't change his EMI directly. His loan rate depends on the RBI and his bank, so the RBI's decisions matter much more for his monthly payments."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Listing gains",
+    "explanation": "A listing gain is the profit an IPO investor makes when a share starts trading at a higher price than the IPO price.\n\nWhen a company sells shares in an IPO, investors apply at a fixed price. If they get shares, they wait a few days until the shares start trading on the stock exchange. On that first day, the price is set by buyers and sellers, and it can be higher or lower than the IPO price.\n\nIf it's higher, IPO investors have a listing gain. If it's lower, they have a listing loss. Either way, it's only a paper gain or loss until they sell.\n\nListing gains are often biggest when an IPO is heavily oversubscribed, because many people who didn't get shares try to buy them on the exchange. But a big first day says little about how the company will do over many years.",
+    "example": "Jio Platforms' IPO price was ₹1,119. It listed at ₹1,358, a listing gain of 21.36%, and closed its first day at ₹1,419. For one lot of 12 shares, that was a paper gain of about ₹3,600 by the close, before costs and taxes.",
+    "takeaway": "A listing gain is a first-day result, not a verdict on the company: it becomes real money only if you sell, and taxes and charges come out of it."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Wednesday?",
+      "options": [
+        "Up 352.64 points",
+        "Down 8.08 points",
+        "Down 352.64 points, or 0.48%",
+        "Down 2.27%"
+      ],
+      "answer": 2,
+      "why": "The Sensex fell 352.64 points, or 0.48%, to 73,246.03. 8.08 points was Tuesday's fall, and 2.27% was the fall in the Nifty Oil & Gas index."
+    },
+    {
+      "q": "Jio Platforms' IPO price was ₹1,119 and it listed at ₹1,358. What is the 21.36% difference called?",
+      "options": [
+        "A dividend",
+        "A listing gain",
+        "A rate hike",
+        "An order book"
+      ],
+      "answer": 1,
+      "why": "A listing gain is the rise from the IPO price to the first trading price. It's only a paper gain until the shares are sold."
+    },
+    {
+      "q": "Why might Reliance shares have fallen on the day Jio Platforms listed?",
+      "options": [
+        "Reliance was removed from the Sensex",
+        "Investors can now buy Jio directly, so some may need Reliance less",
+        "The RBI raised interest rates",
+        "Reliance's shares stopped trading"
+      ],
+      "answer": 1,
+      "why": "Analysts mentioned the worry of a 'holding company discount', along with profit booking and weakness in oil and gas shares. Reports did not settle on one reason."
+    },
+    {
+      "q": "L&T won a record ₹1,47,665 crore of new orders. Why do investors care?",
+      "options": [
+        "It is money L&T has already spent",
+        "It is a tax L&T must pay",
+        "It points to work, and revenue, in the years ahead",
+        "It is the price of one L&T share"
+      ],
+      "answer": 2,
+      "why": "Order inflow is the value of new contracts. L&T earns the money as it completes the work, so strong orders suggest steady future revenue."
+    },
+    {
+      "q": "Why does a rise in oil prices tend to weaken the rupee?",
+      "options": [
+        "Because India exports most of its oil",
+        "Because India imports most of its oil and pays in dollars",
+        "Because oil companies are not allowed to use rupees",
+        "It has no effect on the rupee"
+      ],
+      "answer": 1,
+      "why": "When oil costs more, Indian importers need more dollars, which increases demand for dollars and pushes the rupee down."
+    },
+    {
+      "q": "The US Federal Reserve announces its decision tonight. Which has a bigger direct effect on an Indian home loan EMI?",
+      "options": [
+        "The Fed's decision",
+        "The RBI's decisions and your bank's rates",
+        "The Kospi index",
+        "The price of Jio shares"
+      ],
+      "answer": 1,
+      "why": "Indian loan rates follow the RBI's repo rate and banks' own rates. The Fed matters for global money flows and the rupee, but not directly for your EMI."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Upstox: Market wrap today, Sensex ends 350 pts lower, Nifty 50 closes at 22,698; IT stocks, Reliance among top losers",
+      "url": "https://upstox.com/news/market-news/stocks/market-wrap-today-sensex-ends-350-pts-lower-nifty-50-closes-at-22-698-it-stocks-reliance-among-top-losers/article-202564/"
+    },
+    {
+      "title": "Upstox: Top gainers and losers, Oct 28, Infosys, RIL shares fall 3%; Apollo Hospitals, L&T gain 4%",
+      "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-28-infosys-ril-shares-fall-3-apollo-hospitals-l-and-t-gain-4/article-202567/"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell Today, Markets fall as IT stocks weaken and crude oil prices rise",
+      "url": "https://www.kotakneo.com/news/market-news/stock-market-closes-lower-amid-it-weakness-as-oil-price-rise/"
+    },
+    {
+      "title": "Business Standard: Stock Market Close, Sensex slips 353 pts, Nifty ends near 22,700; FMCG, IT, energy shares decline",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-oct-28-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-iran-strikes-brent-crude-ipos-jio-listing-jio-share-price-it-stocks-maruti-share-price-q1-result-today-share-market-today-126102800114_1.html"
+    },
+    {
+      "title": "The Tribune: Jio Platforms shares list at Rs 1,358 on BSE, NSE, 21.36% above issue price",
+      "url": "https://www.tribuneindia.com/news/business/jio-platforms-shares-list-at-rs-1358-on-bse-nse-21-36-above-issue-price/"
+    },
+    {
+      "title": "Upstox: Jio Platforms IPO listing, share price highlights",
+      "url": "https://upstox.com/news/market-news/ipo/jio-platforms-ipo-listing-live-updates-share-price-nse-bse-reliance-industries-subsidiary-october-28-2026/liveblog-202492/"
+    },
+    {
+      "title": "YourStory: Jio Platforms gains 27% on day one of listing, becomes second most valued company in India",
+      "url": "https://yourstory.com/2026/10/jio-platforms-nse-strong-stock-market-debut"
+    },
+    {
+      "title": "BusinessToday: RIL, JFSL shares slip after Jio Platforms listing",
+      "url": "https://www.businesstoday.in/markets/stocks/story/ril-jfsl-shares-slip-experts-see-buying-opportunities-after-jio-platforms-listing-564311-2026-10-28"
+    },
+    {
+      "title": "Upstox: L&T Q2 FY27 results, net profit surges 33% to ₹5,202 crore; order intake increases 28%",
+      "url": "https://upstox.com/news/market-news/earnings/l-and-t-q2-fy-27-results-net-profit-surges-33-to-5-202-crore-yo-y-order-intake-increases-28/article-202484/"
+    },
+    {
+      "title": "Zee Business: L&T Q2 FY27 results, net profit rises 33% YoY to Rs 5,202 crore, revenue up 16%; beats estimates",
+      "url": "https://www.zeebiz.com/companies/news-lt-q2-fy27-results-net-profit-rises-33-yoy-to-rs-5202-crore-revenue-up-16-beats-estimates-404637"
+    },
+    {
+      "title": "Business Standard: Maruti Q2FY27 results, net profit declines 26.36% to ₹2,466.1 crore",
+      "url": "https://www.business-standard.com/companies/quarterly-results/maruti-q2fy27-results-net-profit-declines-26-36-to-2-466-1-crore-126102700965_1.html"
+    },
+    {
+      "title": "Business Standard: Maruti dips marginally post Q2 amid cost pressures; analysts remain bullish",
+      "url": "https://www.business-standard.com/amp/markets/news/maruti-suzuki-share-price-dips-marginally-post-q2-amid-cost-pressures-analysts-remain-bullish-126102800247_1.html"
+    },
+    {
+      "title": "DT Next (PTI): Rupee falls 21 paise to close at 95.28 against US dollar",
+      "url": "https://www.dtnext.in/news/business/rupee-falls-21-paise-to-close-at-9528-against-us-dollar"
+    },
+    {
+      "title": "Trendlyne: FII DII data",
+      "url": "https://trendlyne.com/macro-data/fii-dii/latest/"
+    },
+    {
+      "title": "The National: Oil prices up due to Houthi strikes and US threat to renew Iran war",
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/"
+    },
+    {
+      "title": "Tradingpedia: Brent crude holds premium as markets await Iran policy",
+      "url": "https://www.tradingpedia.com/2026/10/28/brent-crude-holds-premium-as-markets-await-iran-policy/"
+    },
+    {
+      "title": "Yahoo Finance (AP): Shares in Asia rise after a rally on Wall Street, and oil prices gain more than 1%",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-rally-wall-035813504.html"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Nifty IT",
+      "definition": "An index of the biggest information technology companies listed on the NSE, such as TCS and Infosys.",
+      "more": "The Nifty IT index tracks India's largest software and IT services companies, including TCS, Infosys, HCLTech, Wipro and Tech Mahindra. These companies earn most of their money from clients in the US and Europe, so the index often moves on news from abroad, the dollar-rupee rate and quarterly results, rather than on Indian events. It is like a team of exporters inside the market: when foreign customers are spending, they do well. News reports mention it as one of the 'sectoral indices', for example 'Nifty IT rose 2.88%, the only sector in the green'."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "Consumer durables",
+      "definition": "Long-lasting goods people buy for the home or themselves, such as appliances, electronics, watches and jewellery.",
+      "more": "Consumer durables are things you don't buy every week: fridges, TVs, air conditioners, watches and jewellery. Because they cost more and can be postponed, sales depend heavily on how confident families feel about their money. Think of a household that delays buying a new washing machine when petrol and school fees go up. The Nifty Consumer Durables index tracks listed makers of such goods, like Titan. When news says 'consumer durables led the fall', it usually means investors fear people will cut back on these purchases."
+    },
+    {
+      "term": "Heavyweight stock",
+      "definition": "A very large company whose share price has a big influence on an index like the Sensex or Nifty.",
+      "more": "Indices like the Nifty give bigger companies more weight. So a 4% rise in a giant like Reliance Industries or ICICI Bank moves the index far more than a 4% rise in a smaller member. It's like a class average where a few students' marks count several times over. That is why news reports often say a few heavyweights 'led' or 'dragged' the market. When only heavyweights rise and most other shares fall, the index can look strong even though the typical share had a bad day. Checking market breadth helps you spot this."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that write software, run computer systems and provide tech support for clients, mostly abroad.",
+      "more": "India's IT services firms, such as TCS, Infosys, Wipro, HCLTech and Tech Mahindra, do technology work for banks, shops, airlines and governments around the world. Most of their revenue comes in dollars or euros, while most of their staff are paid in rupees. So a weaker rupee usually helps their profits. It's like a tailor in Tiruppur stitching for foreign buyers: paid in dollars, spending in rupees. IT firms are big parts of the Sensex and Nifty, so their results can move the whole market."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    },
+    {
+      "term": "Issue price",
+      "definition": "The price per share at which a company sold its shares to investors in its IPO.",
+      "more": "In most Indian IPOs, the company announces a price band, say ₹30 to ₹32, and investors bid within it. The final price, usually the top of the band, is the issue price. Everyone who gets shares pays that price. On listing day, the share's trading price is compared with the issue price to see whether IPO investors gained or lost. Think of it as the MRP printed on a new product at launch: once it hits the open market, what people are willing to pay can be higher or lower."
+    },
+    {
+      "term": "Premium",
+      "definition": "The amount you pay, usually every year or month, to keep an insurance policy active.",
+      "more": "An insurance premium is the price of your cover. For life insurance you might pay it every year for 10 or 20 years. If you stop paying, the policy may lapse and you can lose much of what you've put in, especially in the early years. It's like a gym membership that only works while you keep paying the fee. In news about insurance, 'premium income' means the total money an insurer collects from customers. The word 'premium' is also used differently elsewhere, for example when a share lists above its IPO price."
+    },
+    {
+      "term": "Listing gain",
+      "definition": "The profit IPO investors see when a newly listed share starts trading above its issue price.",
+      "more": "When a company's shares start trading after an IPO, the first price can be higher or lower than the price IPO investors paid. If it's higher, the difference is called a listing gain. It's only a gain on paper unless the investor sells. Listing gains attract many small investors to IPOs, but they're not guaranteed, and some shares list below the issue price. It's like buying a concert ticket at face value and finding it's worth more on the day of the show, or less."
+    },
+    {
+      "term": "Market capitalisation",
+      "definition": "The total value of all of a company's shares at today's price. Added up across companies, it shows the value of the whole market.",
+      "more": "Market capitalisation, or market cap, is the share price multiplied by the number of shares a company has issued. Add up the market cap of every company on the BSE and you get the value of the whole exchange. When headlines say 'investors lost ₹6 lakh crore', they mean this total fell by that much during the day. It's like the estimated value of every house in your colony falling because prices nearby dropped: nobody paid anyone, and the loss is only on paper unless people sell."
+    },
+    {
+      "term": "Subscription",
+      "definition": "How much of an IPO investors have applied for. '0.48 times' means bids came in for about half of the shares on offer.",
+      "more": "During an IPO, the exchanges publish how many shares investors have bid for compared with how many are available, called the subscription figure. '1 times' means demand exactly matches supply; '5 times' means five shares were sought for each one offered; '0.48 times' means only about half were sought so far. Many investors bid on the last day, so early figures often rise sharply at the end. It's like counting RSVPs for a wedding: many replies arrive only on the last day."
+    },
+    {
+      "term": "Fresh issue",
+      "definition": "New shares a company creates and sells in an IPO, with the money going to the company itself.",
+      "more": "An IPO can have two parts. In a fresh issue, the company creates new shares and keeps the money raised, usually to repay debt or fund growth. In an offer for sale, existing owners sell some of their shares and keep the money themselves. A 100% fresh issue means all the money goes into the business. It's like a shop owner taking in a new partner who puts cash into the shop, rather than the owner selling part of the shop and pocketing the money."
+    },
+    {
+      "term": "Offer for sale",
+      "definition": "The part of an IPO where existing shareholders sell some of their own shares to the public. The company itself gets no money from this part.",
+      "more": "An IPO can have two parts. In the 'fresh issue', the company creates new shares and keeps the money to spend on its business. In the 'offer for sale' (OFS), existing owners, such as founders or early investors, sell shares they already hold, and the money goes to them. Investors read this split closely: a large OFS can mean early backers want to cash out. It's like the difference between a shop owner raising money to open a new branch, and a partner selling their stake in the existing shop."
+    },
+    {
+      "term": "Lot size",
+      "definition": "The minimum number of shares you must apply for in an IPO. You can apply only in multiples of it.",
+      "more": "IPO shares are sold in fixed bundles called lots. If the lot size is 49 shares, you must apply for 49, 98, 147 and so on, not 10 or 60. The smallest application therefore costs the lot size multiplied by the price: at ₹305, one lot of 49 shares costs ₹14,945. It's like a shop selling eggs only by the tray, not singly. News reports mention the lot size so readers know the minimum amount needed to apply."
+    },
+    {
+      "term": "Subsidiary",
+      "definition": "A company that is owned or controlled by another company, called its parent.",
+      "more": "Big Indian groups often run different businesses through separate companies. Jio Platforms is a subsidiary of Reliance Industries, and Reliance Jio Infocomm, the telecom company, is in turn a subsidiary of Jio Platforms. It's like a joint family where each son runs his own shop, but the head of the family still has the final say. When a subsidiary is listed through an IPO, outsiders can buy a piece of it directly, while the parent usually keeps control. News reports often discuss whether listing a subsidiary 'unlocks value' for the parent's shareholders."
+    },
+    {
+      "term": "Holding company discount",
+      "definition": "When a parent company's share price is worth less than the combined value of the businesses it owns.",
+      "more": "A holding company owns stakes in other companies. Investors often value it below the sum of its parts, because they can't control how the parent uses its money and may prefer to own the businesses directly. Think of a combo thali that costs less than ordering each dish separately: the bundle gets a discount. When a subsidiary lists on its own, as Jio Platforms did, some investors worry the parent will get this kind of discount, since anyone can now buy the subsidiary's shares directly. News reports mention it whenever a big group lists a unit."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Net profit",
+      "definition": "What a company earns after paying all its costs, interest and taxes.",
+      "more": "Net profit, sometimes called the bottom line, is what is left from a company's income after every expense: salaries, materials, rent, interest on loans and taxes. It is the money that belongs to shareholders, part of which may be paid as dividends. Think of a household: net profit is what remains of the month's salary after rent, groceries, EMIs and bills. News reports often say 'net profit rose 32.7% year-on-year', comparing it with the same quarter last year."
+    },
+    {
+      "term": "Year on year",
+      "definition": "A comparison with the same period a year earlier, such as July–September this year versus July–September last year.",
+      "more": "Companies and governments usually compare a quarter's numbers with the same quarter of the previous year, called year on year or YoY. This avoids being misled by seasons: a sweet shop always sells more around Diwali, so comparing October with July would be unfair, but comparing this October with last October is fair. When a report says 'profit rose 6% year on year', it means profit was 6% higher than in the same quarter last year. You may also see 'quarter on quarter', which compares with the previous three months."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "Order inflow",
+      "definition": "The value of new contracts a company wins in a period, such as a quarter.",
+      "more": "For engineering and construction companies like L&T, order inflow is the value of new projects signed in a period: metro lines, power plants, factories and so on. It's like a tailor counting how many new stitching orders came into the shop this month. The money is earned later, as the work is done, so strong order inflow today usually points to more revenue in future years. Results reports for such companies often lead with order inflow alongside profit, and a record figure is treated as a sign of strong demand."
+    },
+    {
+      "term": "Order book",
+      "definition": "The total value of work a company has signed contracts for but not yet completed.",
+      "more": "An order book is the pile of pending work a company has already won. New orders add to it; finished work moves out of it and becomes revenue. A tailor with 200 unstitched orders waiting has a bigger order book than one with 20, and can be surer of income in coming months. For companies like L&T, the order book is often several times a year's revenue, which gives investors visibility into future earnings. News reports quote it as a figure in crore or lakh crore at the end of a quarter."
+    },
+    {
+      "term": "Street estimates",
+      "definition": "What analysts, taken together, expected a company or economic figure to be before it was announced.",
+      "more": "'The Street' is market slang for professional investors and analysts, after Wall Street in New York. Before sales or profit numbers come out, brokerages publish their forecasts. Share prices usually already reflect these expectations. So when the actual number arrives, investors compare it with the forecast, not with zero. A company can report growth and still see its shares fall if the growth is smaller than expected. It's like a student who usually scores 90 getting 80: still a good mark, but parents react to the drop."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "Target price",
+      "definition": "The price an analyst expects a share to reach, usually within about a year.",
+      "more": "Brokerage firms study companies and publish a target price along with a rating like 'buy', 'outperform' or 'sell'. A target is an educated guess, not a promise, and analysts often change targets as news changes. Different firms can have very different targets for the same share. It's like a weather forecast: useful to know, but it can be wrong. News reports quote target prices often, for example 'Macquarie sees the stock reaching ₹1,965'. Market Primer reports these views but never recommends buying or selling."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the daily FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 94.82 but finally came in at 94.81. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen, which is why reports often add '(provisional)' after a number."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "Rupee depreciation",
+      "definition": "When the rupee loses value against another currency, so you need more rupees to buy one dollar.",
+      "more": "If the rate moves from ₹95 to ₹96 per dollar, the rupee has depreciated, or weakened. This makes imports such as oil, electronics and foreign education costlier, but helps exporters like IT companies, whose dollar earnings are worth more rupees. Common causes are foreign investors pulling money out, high oil prices and a strong dollar. It's like the price of a foreign holiday going up while you were still saving for it. News reports often describe the move in paise, for example 'the rupee fell 37 paise'."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars to steady the rupee.",
+      "more": "The RBI holds large foreign currency reserves. When the rupee falls too fast, it can sell dollars from these reserves, adding supply and slowing the fall. When the rupee rises too quickly, it may buy dollars. It can also use 'swaps', agreeing to swap currencies now and reverse later. The RBI says it aims to reduce sharp swings, not to fix a level. It's like a dam releasing water to stop a river from flooding or running dry."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Houthis",
+      "definition": "An armed group that controls much of Yemen and has attacked ships and Saudi targets.",
+      "more": "The Houthis are an armed movement that controls large parts of Yemen, including its capital. They are opposed to Saudi Arabia and are widely reported to be backed by Iran. Over the years they have fired missiles and drones at Saudi oil sites and at ships in the Red Sea. Because Saudi Arabia is one of the world's largest oil exporters, any attack on its facilities can push oil prices up, even if supply is not actually cut. For India, which imports most of its oil, such news matters for fuel prices and the rupee."
+    },
+    {
+      "term": "FOMC",
+      "definition": "The Federal Open Market Committee, the group within the US Federal Reserve that sets US interest rates.",
+      "more": "The FOMC is the US Federal Reserve's rate-setting committee, a bit like India's Monetary Policy Committee at the RBI. It meets about eight times a year and announces whether it will raise, cut or hold its target range for the Fed funds rate. Its decisions are watched worldwide because they affect the dollar, global interest rates and where big investors send their money. Indian news reports often say 'ahead of the FOMC outcome' when markets are cautious before a decision. The announcement usually comes late at night or early morning in India."
+    },
+    {
+      "term": "Fed funds rate",
+      "definition": "The main interest rate set by the US Federal Reserve, which affects borrowing costs around the world.",
+      "more": "The fed funds rate is the rate at which US banks lend to each other overnight, and the Federal Reserve sets a target range for it, such as 3.75% to 4%. It's America's version of the RBI's repo rate. When it goes up, money in the US becomes costlier to borrow, and global investors may pull money from places like India to earn more in the US, which can weaken the rupee. When it falls, the reverse can happen. News reports talk about the Fed 'holding', 'hiking' or 'cutting' rates, meaning this target."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Risk premium",
+      "definition": "The extra amount buyers pay, or sellers demand, because of the fear that something bad might happen, even before it actually does.",
+      "more": "A risk premium is the part of a price that comes from worry rather than from today's facts. In oil, if attacks threaten supply, traders bid prices up in case barrels go missing later, even when every barrel is still flowing. It is like vegetable prices rising in a market when people hear a truckers' strike might start: nothing has run out yet, but buyers pay extra to be safe. News reports say the premium 'eases' when the fear fades, and prices can then drop quickly."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    }
+  ]
+}
