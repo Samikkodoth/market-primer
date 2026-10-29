@@ -1,0 +1,723 @@
+{
+  "date": "2026-10-29",
+  "session_label": "Thursday 29 October 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex jumped 905 points to 74,151 after the US Fed held rates, oil slipped to about $114 and hopes of a capital gains tax cut lifted banks, realty and FMCG shares; the rupee edged up 3 paise to 95.25.",
+  "mood": "Upbeat",
+  "mood_note": "After two weak days, nearly everything went right at once: a steady Fed, cheaper oil, foreign buying and talk of a tax cut. More than 2,000 shares rose on the NSE. Car makers were the only weak sector, and oil is still expensive, so it's a better day rather than a new trend.",
+  "reading_minutes": 11,
+  "since_yesterday": [
+    "On Wednesday we reported the rupee at 95.28 per dollar (provisional). The final figure was the same, 95.28, down 21 paise, according to PTI.",
+    "Exchange data showed foreign institutional investors were net buyers of ₹871.83 crore on Wednesday, a second day of buying. Domestic institutions were also net buyers, of about ₹643 crore.",
+    "The US Federal Reserve decision we previewed yesterday came late on Wednesday night, India time: it held rates steady. It's our second story."
+  ],
+  "one_minute": [
+    "The Sensex rose 905.01 points (1.24%) to 74,151.04 and the Nifty 50 rose 237.90 points (1.05%) to 22,936.75, ending a two-day losing streak.",
+    "The rise was broad: 2,196 NSE shares rose and 1,387 fell. Realty, FMCG and PSU banks led, and Kotak Mahindra Bank rose 4.32%. Auto was the only sector in the red.",
+    "The US Federal Reserve kept rates at 3.75%–4% in a 10–2 vote, but said inflation is still high, leaving a December hike possible.",
+    "Brent crude fell about 1% to around $114 on hopes of renewed US-Iran talks, and the rupee rose 3 paise to 95.25 per dollar (provisional).",
+    "Reports that the government is considering a cut in long-term capital gains tax lifted the mood, though nothing has been decided. Reliance reports results on Friday."
+  ],
+  "big_picture": "Today the market got several pieces of good news at once, and it showed.\n\nOvernight, the US Federal Reserve left interest rates unchanged. That was expected, but it still removed a worry. Oil slipped about 1% to around $114 a barrel on a report that the US was reaching out to Iran about peace talks. Foreign investors had bought Indian shares for a second day. And talk that the government may cut the tax on long-term profits from shares added to the cheer.\n\nThe result: the Sensex rose 905 points. More than 2,000 shares rose on the NSE. Property developers, makers of everyday goods and government-owned banks did best. Kotak Mahindra Bank and Adani Ports rose after strong results.\n\nBut a few cautions remain. The Fed hinted it could still raise rates in December. Oil is still very expensive for India. And the tax cut is only talk so far. The rupee barely moved, rising just 3 paise.",
+  "chain": [
+    {
+      "label": "Fed holds rates",
+      "note": "The US central bank kept rates at 3.75%–4% overnight, removing a near-term worry, though two members wanted a hike."
+    },
+    {
+      "label": "Oil eases",
+      "note": "Brent fell about 1% to around $114 on a report of US outreach to Iran about peace talks."
+    },
+    {
+      "label": "Tax-cut hopes and foreign buying",
+      "note": "Talk of a lower capital gains tax and two days of foreign buying lifted sentiment."
+    },
+    {
+      "label": "Broad buying",
+      "note": "Realty, FMCG and bank shares led; 2,196 NSE shares rose and 1,387 fell. Only autos slipped."
+    },
+    {
+      "label": "Sensex up 905",
+      "note": "The Sensex closed 1.24% higher at 74,151.04 and the Nifty 1.05% higher at 22,936.75."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "74,151.04",
+      "change": "+905.01 (+1.24%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It ended a two-day losing streak today."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "22,936.75",
+      "change": "+237.90 (+1.05%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Kotak Mahindra Bank added the most points today."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+0.99%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+0.95%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller companies."
+    },
+    {
+      "name": "Nifty Realty",
+      "value": "",
+      "change": "+2.75%",
+      "direction": "up",
+      "what_it_is": "This tracks property developers. It was the best sector today."
+    },
+    {
+      "name": "Nifty FMCG",
+      "value": "",
+      "change": "+2.34%",
+      "direction": "up",
+      "what_it_is": "This tracks makers of everyday goods like soap, tea and biscuits."
+    },
+    {
+      "name": "Nifty Auto",
+      "value": "",
+      "change": "-0.24%",
+      "direction": "down",
+      "what_it_is": "This tracks car, bike and truck makers. It was the only sector to fall today."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "95.25",
+      "change": "stronger by 3 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$114.13",
+      "change": "-1.03% (during Indian trading)",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-jumps-905-after-fed-hold-oil-eases",
+      "category": "Stock market",
+      "title": "Sensex jumps 905 points as the Fed holds rates, oil eases and banks, realty and FMCG shares rise",
+      "tldr": "The Sensex rose 905 points, or 1.24%, and the Nifty 238 points, or 1.05%, ending a two-day losing streak. The US Federal Reserve left rates unchanged overnight, oil slipped about 1%, foreign investors kept buying, and hopes of a cut in capital gains tax lifted the mood. Realty, FMCG and bank shares led; car makers were the only weak sector.",
+      "what_happened": "The Sensex rose 905.01 points, or 1.24%, to 74,151.04. The Nifty 50 rose 237.90 points, or 1.05%, to 22,936.75, according to 5paisa and PTI. At one point the Sensex was up about 920 points, and the Nifty touched 22,962, Upstox reported. It was also monthly expiry day for Sensex futures and options.\n\nThe rise was broad. On the NSE, 2,196 shares rose and 1,387 fell, according to 5paisa. The Nifty Midcap 100 rose 0.99% and the Nifty Smallcap 100 0.95%. Nifty Realty was the best sector, up 2.75%, followed by Nifty FMCG, up 2.34%, and Nifty PSU Bank, up 2.20%, according to Kotak Neo. Nifty Auto was the only sector to fall, down 0.24%.\n\nKotak Mahindra Bank rose 4.32% and added the most points to the Nifty, according to 5paisa. Adani Ports, Adani Enterprises, Eternal and Power Grid were also among the top gainers. Trent, Maruti Suzuki, Bajaj Auto, SBI Life Insurance and Eicher Motors were among the biggest losers.",
+      "simple_explanation": "After two down days, the market had a strong day. The Sensex rose about 1.2%, and many more shares went up than down.\n\nThere were several pieces of good news at once. The US central bank didn't raise interest rates. Oil got a little cheaper. Foreign investors have been buying Indian shares. And there is talk that the government may cut the tax people pay on profits from shares.\n\nBanks, property developers and makers of everyday goods like soap and biscuits did best. Car makers were the exception: their shares slipped, partly because higher costs are squeezing their profits.\n\nOne strong day doesn't change the bigger picture. The Sensex is still well below where it started the year, and oil remains expensive.",
+      "analogy": "It is like a shopkeeper who gets three bits of good news in one morning: the landlord isn't raising rent, the wholesale price of stock dips, and a big customer returns. The mood lifts, even if the overall business hasn't changed yet.",
+      "why": "Kotak Neo linked the rise to the Fed leaving rates unchanged, growing hopes of a cut in long-term capital gains tax, buying by foreign investors, and a fall in oil prices on reports of new diplomatic efforts in West Asia. Upstox also said the mood improved as crude prices fell.\n\nKotak Mahindra Bank rose after its September-quarter results and touched a 52-week high, according to BusinessToday. Adani Ports rose after a strong quarterly result and a raised forecast, covered in our fifth story.\n\nCar makers fell as investors focused on rising costs. Maruti Suzuki said on Tuesday that higher input costs had hurt its profit.",
+      "implications": {
+        "you": "A Nifty 50 index fund gained about 1% today, and midcap and smallcap funds about the same. For someone with a monthly SIP, this recovers some recent losses, but a single day matters little over years of investing.",
+        "markets": "More than 2,000 shares rising against about 1,400 falling suggests the buying was spread widely, not just in a few heavyweights.",
+        "economy": "No direct effect on the economy. Cheaper oil, if it lasts, would ease pressure on India's import bill and inflation.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "Reliance Industries and Jio Platforms report their quarterly results on Friday, 30 October. Oil prices and any news from West Asia also matter.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Monthly expiry",
+        "Derivatives",
+        "Market breadth",
+        "Midcap",
+        "Smallcap",
+        "Sectoral index",
+        "Realty",
+        "FMCG",
+        "PSU bank",
+        "Federal Reserve",
+        "LTCG",
+        "FII",
+        "52-week high",
+        "SIP",
+        "Heavyweight stock"
+      ],
+      "explainers": {
+        "like12": "Imagine your class has had two bad test days in a row. Then on the third day, the teacher says the exam won't be harder, the canteen lowers its prices, and there's a rumour of extra holidays. Suddenly everyone feels cheerful.\n\nThat's a bit like the stock market today. The Sensex, a number that follows 30 big companies, went up a lot. The US's money boss didn't make loans more expensive, oil got slightly cheaper, and people are hoping the government will take less tax on share profits.\n\nMost companies' shares went up, especially banks and companies that build homes. Car makers had a weaker day because making cars has become costlier.",
+        "real_life": "Meet Pooja, a 29-year-old bank clerk in Indore. She puts ₹3,000 a month into a Nifty 50 index fund through an SIP.\n\nOver the last two days, she saw her fund slip. Tonight it's up about 1%. On her total investment of about ₹1.2 lakh, that's roughly ₹1,200 in a single day, though only on paper.\n\nHer colleague asks whether this means the bad times are over. The honest answer is that nobody knows. Oil is still expensive and the Sensex is lower than at the start of the year. Pooja's SIP keeps buying every month regardless, so one good or bad day doesn't change her plan."
+      }
+    },
+    {
+      "id": "fed-holds-rates-hike-still-possible",
+      "category": "Global",
+      "title": "US Federal Reserve holds rates at 3.75%–4%, but two members wanted a hike and a December increase is still possible",
+      "tldr": "The US Federal Reserve kept its key interest rate unchanged at 3.75% to 4% late on Wednesday, India time, as expected. Two of its 12 voting members wanted a hike, and it said inflation is still too high. Wall Street ended slightly higher, but US 10-year bond yields climbed to about 5%.",
+      "what_happened": "The Federal Reserve's rate-setting committee voted 10 to 2 to keep its target range at 3.75% to 4%, according to reports. The two members who disagreed, Lisa Cook and Beth Hammack, wanted a quarter-point hike.\n\nThe Fed said inflation remains elevated, above its 2% goal, and that more information would guide its next decision. Its next meeting is on 8–9 December.\n\nOn Wednesday in the US, the S&P 500 rose 0.28% to 7,743.98, its third straight gain. The Nasdaq rose 0.27% and the Dow 0.19%. The US 10-year Treasury yield rose to about 5.04%, according to reports.\n\nIn Asia on Thursday, markets were mixed. Japan's Nikkei edged higher, while South Korea's Kospi fell after Samsung's results disappointed investors, according to Malay Mail.",
+      "simple_explanation": "The Federal Reserve is America's central bank, like our RBI. It decides how expensive it is to borrow money in the US.\n\nOn Wednesday night, it decided not to change its interest rate. That was what most people expected, so it caused relief rather than surprise.\n\nBut the message wasn't fully relaxed. Two members wanted to raise rates, and the Fed said prices in the US are still rising too fast. That keeps open the chance of a rate rise in December.\n\nWhy does India care? When US interest rates are high, some global investors prefer to keep money in the US, where it's safe and earns well, rather than in markets like India. That can affect Indian shares and the rupee.",
+      "analogy": "It is like a strict school principal who decides not to extend school hours this term, but warns that if the marks don't improve, longer hours could come next term.",
+      "why": "The Fed is trying to bring US inflation back down to its 2% goal. This time it chose to wait for more information before acting, according to reports.\n\nForex traders described the Fed's message as slightly hawkish, according to PTI. Anuj Choudhary of Mirae Asset Sharekhan said expectations of a Fed rate hike in December could strengthen the dollar further.\n\nRising long-term US bond yields matter because they offer investors a high return with little risk, which competes with shares around the world.",
+      "implications": {
+        "you": "The Fed's decision doesn't change your home loan or car loan EMI directly. Indian loan rates follow the RBI and your bank. If you have money in US-focused mutual funds, Fed decisions matter more for you.",
+        "markets": "A steady Fed removed one worry for now, but the chance of a December hike, and US bond yields near 5%, may keep foreign investors cautious about emerging markets like India.",
+        "economy": "Higher US rates tend to strengthen the dollar, which can weaken the rupee and make imports such as oil more expensive for India.",
+        "prices": "No direct effect on prices in India. A stronger dollar, if it lasts, can make imported goods slightly costlier."
+      },
+      "watch": "US inflation and jobs data in the coming weeks, and the Fed's December meeting.",
+      "terms": [
+        "Federal Reserve",
+        "FOMC",
+        "Fed funds rate",
+        "Rate hike",
+        "Inflation",
+        "Hawkish",
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "US Treasury yield",
+        "Kospi",
+        "Nikkei 225",
+        "EMI",
+        "Emerging market"
+      ],
+      "explainers": {
+        "like12": "Every country has a 'money boss' that decides how expensive it is to borrow money. In India, it's the RBI. In America, it's called the Federal Reserve.\n\nOn Wednesday night, America's money boss said, 'We're not changing anything for now.' People were relieved, because they were worried it might make borrowing more expensive.\n\nBut two members of its team wanted to make borrowing costlier right away, and the boss said prices in America are still rising too fast. So it might still do that in December.\n\nThis matters for India because when American savings pay a lot, some big investors move their money there instead of buying Indian shares.",
+        "real_life": "Meet Vikram, a 36-year-old marketing manager in Pune with a ₹40 lakh home loan.\n\nHe reads that the US Federal Reserve held rates and wonders if his EMI will change. It won't, at least not directly. His floating-rate loan follows the RBI's repo rate and his bank's own rates, not the Fed's.\n\nBut the Fed does affect him indirectly. If US rates stay high, the dollar can stay strong and the rupee weak. That makes imported things, from fuel to phones, a bit more expensive, and can make it harder for the RBI to cut rates in India. So Vikram keeps an eye on the RBI's next decision, which matters far more for his EMI."
+      }
+    },
+    {
+      "id": "oil-eases-to-114-rupee-edges-up-to-95-25",
+      "category": "Rupee and oil",
+      "title": "Oil slips about 1% to around $114 on hopes of US-Iran talks; the rupee edges up 3 paise to 95.25",
+      "tldr": "Brent crude fell about 1% to around $114 a barrel after a report that the US Vice President had written to an Iranian official to revive peace talks. The rupee gained 3 paise to 95.25 per dollar (provisional), helped by cheaper oil, though a firm dollar limited the rise.",
+      "what_happened": "Brent crude futures were down 1.03% at $114.13 a barrel during Indian trading, according to PTI. Brent had settled at $115.32 on Wednesday, The National reported.\n\nThe fall followed a Wall Street Journal report that US Vice President JD Vance had sent a letter to Iranian security official Mohsen Rezaei to revive peace talks. President Donald Trump played down the outreach, saying Mr Vance had acted on his own, according to The National. UBS expects Brent to stay near $110 a barrel by the end of the year.\n\nThe rupee opened at 95.20 per dollar, fell as low as 95.38 during the day, and settled at 95.25 (provisional), 3 paise stronger than Wednesday's close of 95.28, according to PTI. The dollar index was up 0.07% at 102.26.\n\nExchange data showed foreign institutional investors bought Indian shares worth ₹871.83 crore, net, on Wednesday, PTI reported.",
+      "simple_explanation": "Oil got a little cheaper today, and the rupee got a little stronger. The two are linked.\n\nIndia buys most of its oil from other countries and pays in dollars. When oil is cheaper, Indian companies need fewer dollars, which helps the rupee.\n\nOil fell because of a report that the US might be trying to restart peace talks with Iran. Less fighting in that region would mean less risk to oil supplies. But the US President played down the report, so it's far from settled.\n\nThe rupee's gain was tiny, just 3 paise. The dollar itself was strong around the world after the US central bank's message, and that held the rupee back.",
+      "analogy": "It is like vegetable prices easing a little on news that a blocked highway might reopen soon: the road isn't open yet, but the hope alone takes some pressure off.",
+      "why": "Oil fell on hopes of renewed diplomacy between the US and Iran, which would reduce the risk to supplies from West Asia, according to The National. A large risk premium remains in the price because the conflict is unresolved.\n\nForex traders said softer crude prices and optimism about the talks supported the rupee, while a strong dollar and a slightly hawkish Fed weighed on it, according to PTI. Anuj Choudhary of Mirae Asset Sharekhan said he expects the rupee to trade between 94.50 and 95.50 per dollar in the near term.",
+      "implications": {
+        "you": "A 3-paise move makes almost no difference to foreign travel, fees abroad or imported gadgets. Petrol and diesel prices are set by state-run oil companies and don't change daily with world oil prices.",
+        "markets": "Cheaper oil helps companies that use a lot of fuel, like airlines and paint makers, and eases pressure on the rupee.",
+        "economy": "Oil around $114 is still very expensive for India. A lasting fall would lower the import bill and ease inflation, but one day's dip doesn't change much.",
+        "prices": "No change in fuel prices today. If oil stays high for months, transport costs and prices of many goods can creep up."
+      },
+      "watch": "Whether US-Iran talks actually restart, oil prices, and any RBI action in the currency market.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Risk premium",
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Dollar index",
+        "FII",
+        "Hawkish",
+        "Import bill",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Imagine India has to buy a lot of fuel from a shop far away, and that shop only accepts dollars. When fuel gets cheaper, India needs fewer dollars, so the rupee doesn't have to work as hard.\n\nToday, fuel got a little cheaper. Why? There was news that America might try to make peace with Iran. Iran is near some of the world's biggest oil fields, and peace there would make oil supplies safer.\n\nBut America's President said it wasn't a big deal, so nobody is sure yet. The rupee got just a tiny bit stronger, 3 paise, which is like finding three small coins on the road: nice, but it doesn't change much.",
+        "real_life": "Meet Suresh, a 45-year-old tempo driver in Nashik who delivers vegetables to Mumbai markets. Diesel is his biggest expense after his loan EMI.\n\nHe hears that oil prices fell today and hopes diesel will get cheaper. It won't change overnight: pump prices in India are set by state-run oil companies and don't move daily with world prices. Oil at around $114 a barrel is still very high.\n\nIf peace talks really happen and oil falls a lot for weeks, fuel costs may eventually ease. Until then, Suresh is right not to count on any saving and to keep budgeting for today's diesel price."
+      }
+    },
+    {
+      "id": "hopes-of-capital-gains-tax-cut-lift-mood",
+      "category": "Government and tax",
+      "title": "Talk of a possible cut in the tax on share profits lifts investors' mood, but nothing has been decided",
+      "tldr": "Reports that the government is considering cutting the long-term capital gains tax on shares were cited as one reason for today's rally. The current rate is 12.5%. The government has made no decision, and the Finance Minister has said it is too early to say. Separately, SEBI's chairman said the regulator will review compliance rules for foreign investors.",
+      "what_happened": "On Tuesday, the news agency ANI reported, citing unnamed sources, that the government was considering restructuring the long-term capital gains (LTCG) tax on shares, including a possible cut from the current 12.5%, ahead of the Budget for 2027-28. Kotak Neo listed rising hopes of an LTCG tax cut as one of the reasons for today's rise.\n\nEarlier this month, Finance Minister Nirmala Sitharaman said she was open to views on the tax, but did not promise a change, according to reports.\n\nIn a note reported by BusinessToday, brokerage Jefferies set out three options it said were being discussed: cutting long-term and short-term capital gains tax for everyone, cutting the rate only for foreign portfolio investors, or letting foreign investors calculate gains in dollars. Jefferies said a change could come outside the Budget through an ordinance. It noted that equity LTCG brought in about ₹1.3 lakh crore in 2024-25, so the government may need to make up for any lost revenue.\n\nOn Wednesday, SEBI chairman Tuhin Kanta Pandey said the regulator will review compliance rules for foreign portfolio investors and issue a consultation paper, according to reports. No date was given.",
+      "simple_explanation": "When you sell shares or equity mutual funds you've held for more than a year at a profit, you pay a tax on that profit, called long-term capital gains tax. Right now it's 12.5% on gains above a yearly limit.\n\nThere are reports that the government is thinking about lowering this tax. The idea is to make Indian shares more attractive, especially to foreign investors, who have been pulling money out of India.\n\nInvestors liked the sound of that, and it was one reason for today's rise. But it's only talk for now. The government hasn't announced anything, and tax is an important source of money for it, so any cut would have a cost.",
+      "analogy": "It is like hearing a rumour that the toll on your daily highway might be reduced: you feel happier about the drive, but your FASTag is charged the old rate until the change is actually announced.",
+      "why": "Indian shares have done poorly this year and foreign investors have been big sellers. Jefferies said financials had the largest foreign outflows since October 2024, about $16 billion, followed by IT and consumer staples at about $10 billion each, BusinessToday reported. A lower tax could encourage some of that money to return.\n\nThe government must weigh this against lost revenue. Jefferies said equity LTCG and the securities transaction tax together made up about 8% of direct tax collections in 2024-25.\n\nSEBI's review is separate, but has a similar aim: Mr Pandey acknowledged that some of India's compliance requirements for foreign investors are heavier than in other major markets, according to reports.",
+      "implications": {
+        "you": "Nothing changes for now. If you sell equity investments held for over a year, today's rules still apply. If the rate is cut in future, long-term investors would keep a little more of their profits. Don't change plans based on a rumour.",
+        "markets": "Hopes of a tax cut can lift shares quickly, but if the government doesn't act, some of today's gains could fade.",
+        "economy": "A tax cut could attract foreign money, which would support the rupee, but it would reduce government revenue at a time when finances are under pressure.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Any official statement from the Finance Ministry, the run-up to the Union Budget, and SEBI's consultation paper on foreign investor rules.",
+      "terms": [
+        "LTCG",
+        "Capital gains",
+        "Union Budget",
+        "FPI",
+        "Ordinance",
+        "Indexation",
+        "STT",
+        "SEBI",
+        "Consultation paper",
+        "Brokerage"
+      ],
+      "explainers": {
+        "like12": "Imagine you grow mangoes and sell them. Each time you make a profit, you have to give a small part of it to the village council as a fee.\n\nWhen grown-ups sell shares they've kept for more than a year and make a profit, they pay a similar fee to the government. It's called a tax. Right now it's 12.5% of the profit, above a certain amount.\n\nThere's talk that the government might lower this fee. People who own shares got excited, and that's one reason prices went up today. But it's only talk. The government needs that money for roads and schools, so it hasn't decided anything yet.",
+        "real_life": "Meet Neha, a 33-year-old teacher in Jaipur. She has been investing in an equity mutual fund for six years and wants to use part of it for her daughter's school admission next year.\n\nShe hears that the tax on long-term share profits might be cut. If she sells after more than a year, she pays 12.5% tax on gains above the yearly exempt limit under today's rules. A cut would let her keep a bit more.\n\nBut nothing has been announced. Planning her daughter's fees around a rumour would be risky. Neha keeps her plan as it is and will check the rules at the time she actually sells."
+      }
+    },
+    {
+      "id": "adani-ports-kotak-hyundai-results",
+      "category": "Company results",
+      "title": "Adani Ports and Kotak Mahindra Bank rise after strong results; Hyundai Motor India gains despite a 24% profit fall",
+      "tldr": "Adani Ports reported a 17–18% rise in quarterly profit and raised its forecasts for the year, and its shares were among the Nifty's top gainers. Kotak Mahindra Bank rose 4.32% to a 52-week high after its results. Hyundai Motor India's profit fell about 24% on higher costs, but record sales lifted its shares.",
+      "what_happened": "Adani Ports and SEZ said its consolidated net profit for July to September rose about 17–18% from a year earlier. Reports differ slightly: Business Standard put it at ₹3,682 crore, and Upstox at ₹3,622 crore. Revenue from operations grew 24% to ₹11,340 crore and EBITDA rose 23% to ₹6,806 crore, according to Upstox. The company raised its 2026-27 revenue forecast to ₹44,000–46,000 crore and its capex plan to ₹15,000–17,000 crore.\n\nKotak Mahindra Bank rose 4.32%, according to 5paisa, and hit a 52-week high, BusinessToday reported. Its consolidated profit for the quarter rose about 26% to ₹5,645 crore, according to reports.\n\nHyundai Motor India said its consolidated profit fell 23.9% to ₹1,196.16 crore, even as revenue rose 18.5% to ₹20,696.06 crore. It sold 219,072 vehicles, its best quarter, according to reports. Its shares rose nearly 6% during the day, according to Upstox. Morgan Stanley kept a positive rating, while Jefferies kept a negative one and cut its target price.",
+      "simple_explanation": "Companies are reporting how they did between July and September. Three caught attention today.\n\nAdani Ports runs ports where ships load and unload goods. It earned more profit than a year ago and said it expects to earn and invest more this year than it had planned. Investors liked that.\n\nKotak Mahindra Bank, a large private bank, reported higher profit for the quarter, and its shares rose to their highest level in a year.\n\nHyundai, the car maker, sold more cars than ever in a quarter, but made less profit, because metal and parts cost more. Its shares still rose, as investors focused on strong sales and hoped costs would ease. Brokerages disagree on what comes next.",
+      "analogy": "Hyundai's quarter is like a busy wedding caterer who served a record number of guests, but earned less per plate because vegetable and gas prices shot up.",
+      "why": "Adani Ports' CEO Ashwani Gupta said international ports, logistics and marine services were becoming strong growth engines, according to Upstox, and the company raised its forecasts after a strong first half.\n\nFor Kotak, brokerages remained positive after its results; HDFC Securities said the numbers were in line with expectations, BusinessToday reported.\n\nHyundai blamed higher commodity and raw material costs for the profit fall, according to reports. Brokerages were split: some pointed to new model launches, export growth and a possible recovery in margins, while Jefferies saw downside.",
+      "implications": {
+        "you": "If you're buying a car, makers are facing higher costs, which can lead to price increases over time, though none was mentioned in these reports. If you hold these shares through mutual funds, today's moves are small parts of a diversified fund.",
+        "markets": "Strong results from heavyweights like Kotak and Adani Ports can help the index on good days. Car makers face pressure on profits from costs.",
+        "economy": "Adani Ports raising its spending plan and record car sales suggest trade and consumer demand are holding up.",
+        "prices": "Rising material costs for car makers could feed into car prices later. Nothing has been announced."
+      },
+      "watch": "Reliance Industries' and Jio Platforms' results on Friday, 30 October, and more September-quarter results next week.",
+      "terms": [
+        "Quarterly results",
+        "Consolidated profit",
+        "Year on year",
+        "Revenue",
+        "EBITDA",
+        "Guidance",
+        "Capex",
+        "52-week high",
+        "Private bank",
+        "Brokerage",
+        "Target price"
+      ],
+      "explainers": {
+        "like12": "Every three months, companies share their report card. It shows how much money they made and how much they kept as profit.\n\nAdani Ports, which runs places where big ships drop off and pick up goods, had a good report card and said it expects an even better year. People liked that, so its share price went up.\n\nHyundai, the car company, sold more cars than ever before. But the steel and parts it needs got more expensive, so it kept less money as profit. Still, people were happy that so many families are buying its cars, so its share price went up too.",
+        "real_life": "Meet Arjun, a 28-year-old software developer in Chennai who's saving for his first car, a Hyundai, next year.\n\nHe reads that Hyundai sold a record number of cars but made less profit because materials cost more. For him, that's a hint that car prices could rise if costs stay high, though nothing has been announced.\n\nArjun also has a flexi-cap mutual fund through an SIP, which may hold shares of banks like Kotak and companies like Adani Ports. Their gains today help his fund a little, but they're a small part of it. He decides to keep saving for his down payment and compare on-road prices closer to the time he buys."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Hawkish and dovish",
+    "explanation": "Market reports often describe central banks, like the RBI or the US Federal Reserve, as 'hawkish' or 'dovish'.\n\nA hawkish central bank worries most about prices rising too fast. It prefers to keep interest rates high, or raise them, even if that slows the economy a little. A dovish central bank worries more about growth and jobs, and leans towards cutting rates.\n\nThe words describe not just what a central bank does, but what it hints at. A bank can leave rates unchanged and still sound hawkish, if it warns that a hike may come. That's called a 'hawkish hold'.\n\nThe tone matters because markets look ahead. A hawkish message can strengthen a country's currency and push up bond yields, while a dovish one can lift shares.",
+    "example": "On Wednesday, the US Federal Reserve kept rates unchanged at 3.75%–4%. But two members voted for a hike and the Fed said inflation was still elevated. Forex traders called the message slightly hawkish, and an analyst said a possible December hike could strengthen the dollar.",
+    "takeaway": "Listen to the tone, not just the decision: a central bank that holds rates but sounds hawkish is warning that borrowing could get costlier."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Thursday?",
+      "options": [
+        "Down 352.64 points",
+        "Up 905.01 points, or 1.24%",
+        "Up 237.90 points, or 2.75%",
+        "Unchanged"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose 905.01 points, or 1.24%, to 74,151.04. 237.90 points was the Nifty's rise, and 352.64 points was Wednesday's fall."
+    },
+    {
+      "q": "The Fed kept rates unchanged but warned inflation is still high and two members wanted a hike. How would you describe that message?",
+      "options": [
+        "Dovish",
+        "Hawkish",
+        "Neutral with a rate cut",
+        "A listing gain"
+      ],
+      "answer": 1,
+      "why": "A hawkish message leans towards higher rates to fight inflation. Holding rates while hinting at a possible hike is often called a 'hawkish hold'."
+    },
+    {
+      "q": "Why did oil prices fall about 1% on Thursday?",
+      "options": [
+        "Saudi Arabia raised production",
+        "A report that the US was reaching out to Iran to revive peace talks",
+        "India stopped buying oil",
+        "The rupee became much stronger"
+      ],
+      "answer": 1,
+      "why": "A report said US Vice President JD Vance had written to an Iranian official to revive talks, raising hopes of less risk to supplies. President Trump played it down."
+    },
+    {
+      "q": "What is long-term capital gains (LTCG) tax on shares?",
+      "options": [
+        "A tax on your salary",
+        "A tax on profits from selling shares held for more than a year",
+        "A tax charged on every bank deposit",
+        "A tax on imported oil"
+      ],
+      "answer": 1,
+      "why": "LTCG tax applies to profits from selling listed shares or equity funds held for more than a year. The current rate is 12.5% above a yearly limit, and reports say the government is considering a cut, though nothing is decided."
+    },
+    {
+      "q": "Hyundai Motor India sold a record number of cars, but its profit fell about 24%. Why?",
+      "options": [
+        "It sold fewer cars",
+        "Higher costs for materials and parts",
+        "It stopped exporting",
+        "It paid a big fine"
+      ],
+      "answer": 1,
+      "why": "Revenue rose 18.5%, but rising commodity and raw material costs squeezed its profit margin."
+    },
+    {
+      "q": "2,196 NSE shares rose and 1,387 fell. What does that tell you?",
+      "options": [
+        "Only a few big companies rose",
+        "The rise was spread widely across the market",
+        "The market fell overall",
+        "Nothing at all"
+      ],
+      "answer": 1,
+      "why": "This is market breadth. When far more shares rise than fall, the buying is broad, not limited to a few heavyweights."
+    }
+  ],
+  "sources": [
+    {
+      "title": "5paisa: Post market update, Sensex jumps 905 points, Nifty closes above 22,900",
+      "url": "https://www.5paisa.com/blog/post-market-update-sensex-jumps-905-points-nifty-above-22900-october-29-2026"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 29 October 2026, Sensex and Nifty 50 rise as bulls stage a strong market comeback",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-50-close-higher-on-positive-developments/"
+    },
+    {
+      "title": "Upstox: Sensex, Nifty 50 snap two-day losing streak led by gains in banking shares",
+      "url": "https://upstox.com/news/market-news/stocks/sensex-nifty-50-snap-two-day-losing-streak-led-by-gains-in-banking-shares/article-202643/"
+    },
+    {
+      "title": "Business Standard: Stock Market Close, Sensex ends 905 pts higher, Nifty 50 at 22,936; Realty top sectoral gainer",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-oct-29-nse-bse-sensex-today-nifty-gift-nifty-jpl-share-price-ipo-today-126102900090_1.html"
+    },
+    {
+      "title": "DT Next (PTI): Rupee rises 3 paise to close at 95.25 against US dollar",
+      "url": "https://www.dtnext.in/news/business/biz-rupee-close-133"
+    },
+    {
+      "title": "Kotak Neo: FII DII data",
+      "url": "https://www.kotakneo.com/share-market-today/fii-dii-data/"
+    },
+    {
+      "title": "The National: Oil prices decline after diplomatic push in Iran war",
+      "url": "https://thenationalnews.com/business/energy/2026/10/29/oil-prices-decline-after-diplomatic-push-in-iran-war"
+    },
+    {
+      "title": "CNBC: Fed interest rate decision October 2026, Fed holds rates steady",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+    },
+    {
+      "title": "Raisin: Live Fed statement breakdown, interest rates held at 3.75%–4.00%",
+      "url": "https://www.raisin.com/en-us/news/live-breakdown-fed-policy-statement-october-2026/"
+    },
+    {
+      "title": "BBN Times: S&P 500 rises to 7,743.98 as the Fed holds rates in a split 10-2 vote",
+      "url": "https://www.bbntimes.com/global-economy/s-p-500-rises-to-7-743-98-for-a-third-straight-gain-as-the-fed-holds-rates-in-a-split-10-2-vote-and-oracle-surges-11"
+    },
+    {
+      "title": "Malay Mail: Asian stock markets fluctuate as Samsung, Alphabet results temper AI optimism",
+      "url": "https://www.malaymail.com/news/money/2026/10/29/asian-stock-markets-fluctuate-as-samsung-alphabet-results-temper-ai-optimism/241099"
+    },
+    {
+      "title": "ANI: Govt mulls cutting LTCG tax on equities ahead of Budget 2027-28, sources",
+      "url": "https://aninews.in/news/business/govt-mulls-cutting-ltcg-tax-on-equities-ahead-of-budget-2027-28-sources20261027183453/"
+    },
+    {
+      "title": "BusinessToday: LTCG tax cut ahead? History, India China Korea comparison and Jefferies' top stock picks",
+      "url": "https://www.businesstoday.in/markets/stocks/story/ltcg-tax-cut-ahead-history-india-china-korea-comparison-and-jefferies-top-stock-picks-564457-2026-10-29"
+    },
+    {
+      "title": "Angel One: SEBI to review compliance rules for foreign portfolio investors",
+      "url": "https://www.angelone.in/news/market-updates/sebi-to-review-compliance-rules-for-foreign-portfolio-investors-sebi-chairman-tuhin-kanta-pandey"
+    },
+    {
+      "title": "Upstox: Adani Ports Q2 result, net profit jumps 17% YoY; firm raises revenue, EBITDA guidance for FY27",
+      "url": "https://upstox.com/news/market-news/earnings/adani-ports-q2-result-net-profit-jumps-17-yo-y-firm-raises-revenue-ebitda-guidance-for-fy-27/article-202540/"
+    },
+    {
+      "title": "Business Standard: Adani Ports Q2 profit rises 18% to ₹3,682 crore, raises FY27 guidance",
+      "url": "https://www.business-standard.com/companies/quarterly-results/adani-ports-q2-profit-rises-18-to-3-682-crore-raises-fy27-guidance-126102801519_1.html"
+    },
+    {
+      "title": "BusinessToday: Kotak Mahindra Bank shares hit 52-week high; what's behind the rise?",
+      "url": "https://www.businesstoday.in/markets/stocks/story/kotak-mahindra-bank-shares-hit-52-week-high-whats-behind-the-rise-564546-2026-10-29"
+    },
+    {
+      "title": "Angel One: Hyundai Motor India share price rises after Q2 FY27 revenue tops ₹20,000 crore",
+      "url": "https://www.angelone.in/news/stocks/hyundai-motor-india-share-price-rises-nearly-4-after-q2-fy27-revenue-tops-20-000-crore"
+    },
+    {
+      "title": "TradingView (Moneycontrol): Hyundai Motor India shares surge after Q2 results; Morgan Stanley bullish, Jefferies warns of downside",
+      "url": "https://www.tradingview.com/news/moneycontrol:7bfe47e57094b:0-hyundai-motor-india-shares-surge-5-after-q2-results-morgan-stanley-bullish-but-jefferies-warns-of-downside/"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Monthly expiry",
+      "definition": "The last trading day of the month for a batch of futures and options contracts, when they are settled.",
+      "more": "Futures and options are contracts that let traders bet on where an index or share will be on a set date. Each month's main batch of contracts ends on a fixed day, called monthly expiry. On that day, traders close their bets or move them to next month's contracts. That can mean lots of buying and selling, and sudden swings in prices, especially in the last hour. It's like the last day of a sale, when everyone rushes to settle up. News reports often say 'volatile trade on expiry day' to explain jumpy moves that may not reflect any real news."
+    },
+    {
+      "term": "Derivatives",
+      "definition": "Contracts, such as futures and options, whose value depends on the price of something else.",
+      "more": "A derivative is a contract based on an underlying asset, like a share, an index or gold. Futures are agreements to buy or sell at a set price on a future date; options give the right, but not the obligation, to do so. They are used to protect against price swings, and also for speculation. SEBI has warned that most individual traders lose money in futures and options. It's like booking a wedding hall's price today for a date months away."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "How many shares rose compared with how many fell on a given day.",
+      "more": "Market breadth shows how widespread a market move is. Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, tells you whether a move is broad or narrow. On Friday, 2,131 NSE shares rose and 1,422 fell, so breadth was positive. It's like checking whether the whole class improved, not just the toppers."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Realty",
+      "definition": "Short for real estate: companies that build and sell homes, offices and malls.",
+      "more": "Realty companies such as DLF, Godrej Properties and Lodha build housing and commercial property. The Nifty Realty index tracks the listed ones. Their shares are very sensitive to interest rates, because most homebuyers take loans: when EMIs rise, fewer people buy flats. They also swing a lot because their profits arrive in lumps as projects are completed. It's like a mango seller whose income depends on one season. News reports often say 'realty stocks led the fall' on days when worries about rates or inflation rise."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "LTCG",
+      "definition": "Long-term capital gains: profit from selling an investment you held for a long time. For listed shares and equity funds, that currently means more than a year.",
+      "more": "LTCG tax is the tax on those long-term profits. For listed shares and equity mutual funds, reports say the rate is currently 12.5% on gains above ₹1.25 lakh a year, but the government changes these rules from time to time, usually in the Budget. Think of it as the government taking a small share of the profit from a mango tree you planted and waited years to harvest. Investor groups often ask for lower LTCG tax, saying it would encourage long-term investing; others say the tax is fair because these profits are income too."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "52-week high",
+      "definition": "The highest price a share or index has reached in the past year.",
+      "more": "Market reports often say a share 'hit a 52-week high', meaning it's trading at its highest price in the last 12 months. It shows strong recent demand, though it doesn't say whether the share is cheap or expensive. Its opposite is the 52-week low. It's like the best score a batsman has made this season: impressive, but no promise about the next innings. Exchanges publish daily counts of how many shares touched 52-week highs and lows, which gives a rough sense of the market's mood."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Heavyweight stock",
+      "definition": "A very large company whose share price has a big influence on an index like the Sensex or Nifty.",
+      "more": "Indices like the Nifty give bigger companies more weight. So a 4% rise in a giant like Reliance Industries or ICICI Bank moves the index far more than a 4% rise in a smaller member. It's like a class average where a few students' marks count several times over. That is why news reports often say a few heavyweights 'led' or 'dragged' the market. When only heavyweights rise and most other shares fall, the index can look strong even though the typical share had a bad day. Checking market breadth helps you spot this."
+    },
+    {
+      "term": "FOMC",
+      "definition": "The Federal Open Market Committee, the group within the US Federal Reserve that sets US interest rates.",
+      "more": "The FOMC is the US Federal Reserve's rate-setting committee, a bit like India's Monetary Policy Committee at the RBI. It meets about eight times a year and announces whether it will raise, cut or hold its target range for the Fed funds rate. Its decisions are watched worldwide because they affect the dollar, global interest rates and where big investors send their money. Indian news reports often say 'ahead of the FOMC outcome' when markets are cautious before a decision. The announcement usually comes late at night or early morning in India."
+    },
+    {
+      "term": "Fed funds rate",
+      "definition": "The main interest rate set by the US Federal Reserve, which affects borrowing costs around the world.",
+      "more": "The fed funds rate is the rate at which US banks lend to each other overnight, and the Federal Reserve sets a target range for it, such as 3.75% to 4%. It's America's version of the RBI's repo rate. When it goes up, money in the US becomes costlier to borrow, and global investors may pull money from places like India to earn more in the US, which can weaken the rupee. When it falls, the reverse can happen. News reports talk about the Fed 'holding', 'hiking' or 'cutting' rates, meaning this target."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Hawkish",
+      "definition": "Describes a central bank, or its message, that leans towards keeping interest rates high or raising them to fight inflation.",
+      "more": "Markets borrow two bird names to describe central banks. A 'hawk' worries most about rising prices and prefers higher interest rates. A 'dove' worries more about jobs and growth and prefers lower rates. So a 'hawkish' message hints that rates may stay high or rise; a 'dovish' one hints at cuts. It's like a strict parent who keeps pocket money tight because prices keep rising, versus a relaxed one who loosens it. News reports often say a decision was a 'hawkish hold': rates unchanged, but with a warning that a hike could come."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    },
+    {
+      "term": "Emerging market",
+      "definition": "A country whose economy and financial markets are growing but not yet considered fully developed.",
+      "more": "Emerging markets include countries like India, China, Brazil and Indonesia. Their economies often grow faster than rich countries, but their markets can be riskier and swing more. Global funds often have a set amount for 'emerging markets', so being in that group brings steady foreign investment. Losing that status can mean big outflows, as Indonesia feared on Friday. It's like a school being listed among 'top schools' in a guide; parents pay more attention to those."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Risk premium",
+      "definition": "The extra amount buyers pay, or sellers demand, because of the fear that something bad might happen, even before it actually does.",
+      "more": "A risk premium is the part of a price that comes from worry rather than from today's facts. In oil, if attacks threaten supply, traders bid prices up in case barrels go missing later, even when every barrel is still flowing. It is like vegetable prices rising in a market when people hear a truckers' strike might start: nothing has run out yet, but buyers pay extra to be safe. News reports say the premium 'eases' when the fear fades, and prices can then drop quickly."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the daily FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 94.82 but finally came in at 94.81. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen, which is why reports often add '(provisional)' after a number."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "Capital gains",
+      "definition": "The profit you make when you sell something, like shares or a flat, for more than you paid for it.",
+      "more": "If you bought shares for ₹50,000 and sold them for ₹60,000, your capital gain is ₹10,000. You only have a gain once you sell; until then it's just a rise in value on paper. It's like buying a plot of land: if land prices rise, you feel richer, but the money is only in your hands when you sell. The government taxes these profits, and the rate depends on what you sold and how long you held it. News reports often talk about 'short-term' and 'long-term' gains."
+    },
+    {
+      "term": "Union Budget",
+      "definition": "The central government's yearly plan for how it will earn and spend money, presented by the Finance Minister, usually on 1 February.",
+      "more": "The Budget sets out tax rates, spending on things like roads, defence and subsidies, and how much the government will borrow. It's like a family sitting down at the start of the year to decide how much they expect to earn, what they will spend on rent, school fees and festivals, and how much they may need to borrow. Changes to income tax, capital gains tax and STT are usually announced in the Budget, which is why markets watch it closely and why talk about it starts months earlier."
+    },
+    {
+      "term": "FPI",
+      "definition": "Foreign portfolio investor: a foreign fund or investor that buys Indian shares, bonds or similar investments, registered with SEBI.",
+      "more": "FPI is the official term SEBI uses for foreign investors who buy financial investments in India, such as shares and bonds, without taking control of a company. In everyday market news, 'FII' and 'FPI' are often used to mean the same group. Before they can invest, FPIs must register and complete checks, which can take time and paperwork. Think of it as the entry process at a big exhibition: the quicker and simpler the gate, the easier it is for visitors to come in. Their buying and selling can move the Sensex and the rupee."
+    },
+    {
+      "term": "Ordinance",
+      "definition": "A temporary law the government can issue, through the President, when Parliament is not in session.",
+      "more": "In India, laws are normally passed by Parliament. But when Parliament is not sitting and the government says action is urgent, the President can issue an ordinance on the government's advice. It works like a law straight away, but Parliament must approve it within about six weeks of its next session, or it lapses. It's like a housing society secretary taking an urgent decision between meetings, which the full committee must then approve. News reports mention ordinances when a change, such as a tax tweak, might come before the next Budget."
+    },
+    {
+      "term": "Indexation",
+      "definition": "Adjusting what you paid for an investment upwards for inflation, so you are taxed only on the 'real' gain.",
+      "more": "If you bought something for ₹1 lakh years ago and sold it for ₹1.5 lakh, part of that rise is just inflation: money lost value over time. Indexation raises your purchase price in line with an official inflation index, so the taxable gain shrinks. It's like saying 'a samosa cost ₹5 then and ₹20 now; I didn't really get richer just because prices rose'. Indian rules on which investments get indexation have changed over the years, so news reports discuss it whenever capital gains tax is debated."
+    },
+    {
+      "term": "STT",
+      "definition": "Securities transaction tax: a small tax charged every time shares or derivatives are bought or sold on an exchange.",
+      "more": "STT is collected automatically by the exchange on each trade, whether you make a profit or a loss. The rate is tiny on each trade, but it adds up for people who trade often, especially in futures and options. It's a bit like a toll you pay every time you drive through a booth, no matter where you're going. The government uses it as a simple way to collect tax from market activity. Traders and brokers often argue that a high STT makes trading costlier and reduces activity on Indian exchanges."
+    },
+    {
+      "term": "SEBI",
+      "definition": "The Securities and Exchange Board of India, the regulator that oversees the stock market.",
+      "more": "SEBI makes and enforces the rules for stock exchanges, brokers, mutual funds, listed companies and IPOs. Its job is to protect investors and keep markets fair. It can fine companies, ban traders and change how trading works, like Friday's new closing-auction rules. Think of it as the umpire in a cricket match: it doesn't play, but it makes sure everyone follows the rules. SEBI announcements usually come as circulars or board-meeting decisions."
+    },
+    {
+      "term": "Consultation paper",
+      "definition": "A draft proposal a regulator publishes to collect comments from the public and industry before making a final rule.",
+      "more": "Before changing rules, regulators like IRDAI, SEBI and the RBI often publish a consultation paper explaining what they want to change and why, then invite feedback by a deadline. It's like a housing society circulating a draft of new parking rules before the committee votes on them. The final rule can differ from the draft. In the news, markets often react strongly to consultation papers anyway, because investors try to guess the final impact early. Always check the comment deadline and whether rules phase in over time."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Year on year",
+      "definition": "A comparison with the same period a year earlier, such as July–September this year versus July–September last year.",
+      "more": "Companies and governments usually compare a quarter's numbers with the same quarter of the previous year, called year on year or YoY. This avoids being misled by seasons: a sweet shop always sells more around Diwali, so comparing October with July would be unfair, but comparing this October with last October is fair. When a report says 'profit rose 6% year on year', it means profit was 6% higher than in the same quarter last year. You may also see 'quarter on quarter', which compares with the previous three months."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "EBITDA",
+      "definition": "A company's earnings before interest, taxes, depreciation and amortisation: roughly, the profit from its day-to-day business.",
+      "more": "EBITDA strips out costs that depend on how a company is funded or taxed, like interest on loans and wear and tear on machines, to show how much the core business earns. The EBITDA margin is EBITDA as a share of revenue. If a tea company sells ₹100 worth of goods and keeps ₹14 after paying for tea leaves, salaries, transport and advertising, its EBITDA margin is 14%. Investors watch margins closely, because a company can sell more and still earn less if its costs rise faster. Results reports often say margins 'expanded' or 'contracted' by some basis points."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "Capex",
+      "definition": "Capital expenditure: money a company spends on long-lasting things like factories, machines, ports or buildings.",
+      "more": "Capex is spending meant to earn money over many years, unlike day-to-day costs such as salaries and electricity. When a port company buys new cranes or builds a new terminal, that is capex. It's like a family buying a sewing machine to start a tailoring business at home, rather than spending on groceries. A company raising its capex plan usually signals that it expects demand to grow. Governments also announce capex for roads and railways, which creates work for construction and engineering firms."
+    },
+    {
+      "term": "Private bank",
+      "definition": "A bank owned mainly by private shareholders rather than the government, such as HDFC Bank, ICICI Bank or Axis Bank.",
+      "more": "India's banks fall into two broad groups. Public sector banks, like SBI, are majority-owned by the government. Private banks, like HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank, are owned mostly by ordinary and institutional shareholders. The big private banks are among the heaviest companies in the Sensex and Nifty, so when they fall together the whole index usually falls too. Think of them as the senior players in a team: when they have an off day, the team score suffers. News reports often track them through the Nifty Private Bank index."
+    },
+    {
+      "term": "Target price",
+      "definition": "The price an analyst expects a share to reach, usually within about a year.",
+      "more": "Brokerage firms study companies and publish a target price along with a rating like 'buy', 'outperform' or 'sell'. A target is an educated guess, not a promise, and analysts often change targets as news changes. Different firms can have very different targets for the same share. It's like a weather forecast: useful to know, but it can be wrong. News reports quote target prices often, for example 'Macquarie sees the stock reaching ₹1,965'. Market Primer reports these views but never recommends buying or selling."
+    }
+  ]
+}
