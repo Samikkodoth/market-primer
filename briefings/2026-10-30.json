@@ -1,0 +1,693 @@
+{
+  "date": "2026-10-30",
+  "session_label": "Friday 30 October 2026",
+  "prepared_for": "Read tonight or over the weekend",
+  "headline": "The Sensex rose 308 points to 74,459 as IT and pharma shares and strong results from Trent and IndiGo offset falls in smaller shares; the rupee jumped 33 paise to 94.93 while oil rose on fears of new US strikes on Iran.",
+  "mood": "Mixed",
+  "mood_note": "The headline indices rose for a second day, but only a few sectors gained. Smallcaps fell almost 2%, most sectors slipped, oil rose again and Asian markets fell sharply. A stronger rupee was the brightest spot.",
+  "reading_minutes": 11,
+  "since_yesterday": [
+    "On Thursday we reported the rupee at 95.25 per dollar (provisional). The final figure was 95.26, up 2 paise, according to PTI.",
+    "Exchange data showed foreign institutional investors were net sellers of ₹943.60 crore on Thursday, after two days of buying, PTI reported.",
+    "Oil, which dipped on Thursday on hopes of US-Iran talks, rose again today on reports of possible new US strikes. It's our third story."
+  ],
+  "one_minute": [
+    "The Sensex rose 308.49 points (0.42%) to 74,459.53 and the Nifty 50 rose 116.35 points (0.51%) to 23,053.10, led by IT and pharma shares. The Nifty gained about 2% over the week.",
+    "Beneath the surface it was weak: the Nifty Smallcap 100 fell 1.85% and the Nifty Midcap 100 0.93%, and most sectors fell.",
+    "The rupee rose 33 paise to 94.93 per dollar (provisional) on a weaker dollar and, traders said, RBI support.",
+    "Oil rose on reports the US warned allies of possible strikes on Iran after its 3 November elections; Brent is heading for a nearly 11% gain in October.",
+    "Trent rose 5.44% after a 25% profit rise, IndiGo rose 4.33% as its loss narrowed, and Reliance reports results tonight. Alphabet's record fall hit Asian markets."
+  ],
+  "big_picture": "Today's market looked better on the surface than it really was.\n\nThe Sensex rose 308 points, its second day of gains, and the Nifty finished the week about 2% higher. But the lifting was done by a few groups: IT companies like Infosys and Wipro, drug makers, and two companies with good results, Trent and IndiGo. Most other shares fell, and smaller companies had a poor day.\n\nOil was the main worry again. Prices rose on reports that the US had told allies to prepare for possible strikes on Iran after America's elections on 3 November, and a tanker was attacked in the Strait of Hormuz.\n\nAbroad, Google's parent Alphabet had a record fall on Thursday after disappointing results, and that dragged down technology shares in South Korea and Japan.\n\nThe good news came from the rupee, which jumped 33 paise to 94.93 per dollar, helped by a weaker dollar and, traders said, support from the RBI. Reliance reports its results tonight.",
+  "chain": [
+    {
+      "label": "US tech slides",
+      "note": "Alphabet fell about 12% on Thursday and the Nasdaq 1.38%; Asian chip shares fell on Friday."
+    },
+    {
+      "label": "Oil rises again",
+      "note": "Reports of possible US strikes on Iran after 3 November, and a tanker attack, pushed oil higher."
+    },
+    {
+      "label": "Indian IT and results help",
+      "note": "Nifty IT rose 2.32% after Cognizant's results; Trent and IndiGo rose after theirs."
+    },
+    {
+      "label": "Smaller shares fall",
+      "note": "The Nifty Smallcap 100 fell 1.85% and the Midcap 100 0.93%; most sectors slipped."
+    },
+    {
+      "label": "Sensex up 308",
+      "note": "The Sensex closed 0.42% higher at 74,459.53 and the Nifty 0.51% higher at 23,053.10."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "74,459.53",
+      "change": "+308.49 (+0.42%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It rose for a second day."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "23,053.10",
+      "change": "+116.35 (+0.51%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It gained about 2% this week."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "-0.93%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "-1.85%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller companies. It had a poor day."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "+2.32%",
+      "direction": "up",
+      "what_it_is": "This tracks India's big IT services companies. It was the best sector today."
+    },
+    {
+      "name": "Nifty Pharma",
+      "value": "",
+      "change": "+1.55%",
+      "direction": "up",
+      "what_it_is": "This tracks medicine makers."
+    },
+    {
+      "name": "Nifty Consumer Durables",
+      "value": "",
+      "change": "-1.78%",
+      "direction": "down",
+      "what_it_is": "This tracks makers of fridges, TVs, ACs and jewellery. It was the weakest sector today."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.93",
+      "change": "stronger by 33 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude (January)",
+      "value": "$113.09",
+      "change": "higher (at about 3:35 pm IST)",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "MCX gold (December)",
+      "value": "₹1,41,658",
+      "change": "-0.66%",
+      "direction": "down",
+      "what_it_is": "The price of 10 grams of gold in Indian futures trading. Shop prices also include GST and making charges."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-rises-308-it-pharma-lead-smaller-shares-fall",
+      "category": "Stock market",
+      "title": "Sensex rises 308 points for a second day of gains as IT and pharma shares lead, but midcaps and smallcaps fall",
+      "tldr": "The Sensex rose 308 points, or 0.42%, and the Nifty 50 rose 116 points, or 0.51%, to just above 23,000. IT and pharma shares did the lifting, along with Trent and IndiGo after their results. Underneath, it was a weaker day: the Nifty Smallcap 100 fell 1.85% and the Nifty Midcap 100 0.93%. The Nifty gained about 2% over the week.",
+      "what_happened": "The Sensex rose 308.49 points, or 0.42%, to 74,459.53. The Nifty 50 rose 116.35 points, or 0.51%, to 23,053.10, according to Kotak Neo and 5paisa. It was a second day of gains. The Nifty opened at 22,964 and touched 23,118 during the day, Liquide reported, and it ended the week about 2% higher, according to 5paisa.\n\nThe gains were concentrated. Nifty IT rose 2.32% and Nifty Pharma 1.55%. Most other sectors fell: Nifty Consumer Durables dropped 1.78%, Nifty Media 1.46%, Nifty Energy 0.97% and Nifty Auto 0.87%, according to 5paisa and Liquide. The Nifty Bank index slipped 0.41%. Smaller companies had a bad day: the Nifty Midcap 100 fell 0.93% and the Nifty Smallcap 100 fell 1.85%, according to Kotak Neo.\n\nTrent rose 5.44%, IndiGo 4.33% and Infosys 3.36%, Liquide reported. Wipro and Coforge rose more than 4%, according to 5paisa. Shriram Finance, Nestle India and Mahindra & Mahindra were among the biggest losers. India VIX, the market's 'fear gauge', rose by about 1–2%, according to different reports.",
+      "simple_explanation": "The big headline numbers went up today, but most shares actually went down.\n\nHow can both be true? The Sensex and Nifty give the biggest companies the most weight. Today, a handful of large IT companies like Infosys and Wipro, and a few firms with good results like Trent and IndiGo, rose a lot. That was enough to lift the indices.\n\nMeanwhile, smaller companies fell quite sharply. The smallcap index fell almost 2%. Banks, car makers, energy companies and makers of fridges and TVs also slipped.\n\nSo a person holding a Nifty 50 index fund had a decent day. A person holding a smallcap fund probably had a poor one. Over the whole week, the Nifty still rose about 2%.",
+      "analogy": "It is like a cricket team that wins a match because two star batsmen score big, while most of the others get out cheaply: the scoreboard looks good, but the team didn't play well as a whole.",
+      "why": "IT shares rose on positive sentiment after the US IT company Cognizant reported its quarterly results, according to 5paisa. Liquide linked the IT rally to strong earnings and expectations of AI-related business, and the pharma gains to healthy demand for healthcare shares. Trent and IndiGo rose after their results, covered in our fourth story.\n\nHigher oil prices and tension in West Asia weighed on the mood, 5paisa said, and energy shares fell as crude rose. Liquide called the session a selective recovery led by IT and pharma rather than a broad rally, with weak Asian markets and selling in several sectors keeping investors cautious.",
+      "implications": {
+        "you": "A Nifty 50 index fund rose about 0.5% today, while midcap and smallcap funds probably fell. If you have SIPs in different kinds of funds, today you may see some up and some down. Over years, one such day makes little difference.",
+        "markets": "Gains in a few heavyweights hid weakness in most other shares. Analysts often treat such narrow rallies with caution, because they depend on a small number of companies.",
+        "economy": "No direct effect on the economy. High oil prices remain the main worry for India.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "Reliance Industries' results, due after market hours today, will set the tone for its shares on Monday. Oil prices and the US elections on 3 November also matter.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Heavyweight stock",
+        "Sectoral index",
+        "Nifty IT",
+        "IT services",
+        "Pharma",
+        "Consumer durables",
+        "Nifty Bank",
+        "Midcap",
+        "Smallcap",
+        "India VIX",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine your class's average marks went up this week. Sounds great, right? But when you look closely, only three toppers scored much higher. Most other students actually did a little worse.\n\nThat's what happened in the stock market today. The Sensex, a number that follows 30 big companies, went up. But that's mostly because some big computer-services companies, like Infosys and Wipro, and a clothing-store company called Trent did very well.\n\nMost smaller companies' shares went down. So the headline number looked happy, but the full picture was more mixed. That's why grown-ups who follow markets look beyond just the Sensex.",
+        "real_life": "Meet Rahul, a 31-year-old sales executive in Lucknow. He has two SIPs: ₹2,000 a month in a Nifty 50 index fund and ₹2,000 in a smallcap fund.\n\nTonight he opens his app and is confused. The news says the Sensex rose, but his smallcap fund is down. That's because today's rise came from a few big companies, while smaller ones fell about 2%.\n\nHis index fund gained a little and his smallcap fund lost a little, so overall he's roughly where he was. That's normal: different funds move differently on the same day. Holding a mix is one reason his savings don't swing as wildly as a single fund might."
+      }
+    },
+    {
+      "id": "rupee-jumps-33-paise-to-94-93",
+      "category": "Rupee and oil",
+      "title": "Rupee jumps 33 paise to 94.93 per dollar as the dollar weakens and traders point to RBI support",
+      "tldr": "The rupee rose 33 paise to 94.93 against the US dollar (provisional), according to PTI. Forex traders cited a weaker dollar, firmer Indian shares and support from the RBI. The IMF, meanwhile, said India should let the rupee absorb shocks rather than rely heavily on intervention.",
+      "what_happened": "The rupee opened at 95.21 per dollar, moved between 94.94 and 95.28 during the day, and settled at 94.93 (provisional), 33 paise stronger than Thursday's close of 95.26, according to PTI. The dollar index, which measures the dollar against six major currencies, fell 0.37% to 101.66.\n\nForex traders said intervention by the Reserve Bank of India supported both the currency and bond markets, PTI reported. Exchange data showed foreign institutional investors sold Indian shares worth ₹943.60 crore, net, on Thursday.\n\nSeparately, Julie Kozack, communications director of the International Monetary Fund, said exchange rate flexibility should be the preferred response to energy shocks and that the rupee should be the first line of defence, according to PTI. Her comments followed reports that the RBI had intervened heavily to support the rupee.\n\nOn Thursday, India's 10-year government bond yield fell 5 basis points to 7.39%, its sharpest one-day fall since July, Kotak Neo reported.",
+      "simple_explanation": "The rupee had a good day. One US dollar now costs about ₹94.93, down from ₹95.26 yesterday. A lower number means a stronger rupee.\n\nThree things helped. The US dollar itself got weaker around the world. Indian shares rose. And traders said the RBI, India's central bank, was selling dollars to support the rupee.\n\nThe RBI does this by using its large store of dollars, called reserves. But the IMF, a global body that advises countries on their economies, said India should let the rupee move more freely when big shocks like expensive oil hit, rather than spend too much defending it.\n\nWhy it matters: a stronger rupee makes imports, like oil and gadgets, a little cheaper for India.",
+      "analogy": "It is like a cricket board quietly helping a struggling batsman with extra practice: it can steady them for a while, but a coach from outside says the player also needs to learn to handle tough bowling on their own.",
+      "why": "Traders said a softer US dollar and positive domestic markets supported the rupee, while higher crude prices limited the gains, PTI reported. RBI intervention also helped, according to forex traders.\n\nAnuj Choudhary of Mirae Asset Sharekhan said he expects the rupee to have a slight negative bias because of tension in the Middle East, including a US warning to allies about a possible new strike on Iran after the US elections. He expects it to trade between 94.80 and 95.35 per dollar in the near term.\n\nThe IMF's view is that letting the currency adjust helps a country absorb shocks such as a jump in oil prices, instead of using up its reserves.",
+      "implications": {
+        "you": "A 33-paise move makes a small difference. On a $1,000 payment for foreign fees or travel, it saves about ₹330. It doesn't change EMIs or FD rates.",
+        "markets": "A steadier rupee can make foreign investors more comfortable, though they sold shares on Thursday. Lower bond yields also help companies that borrow.",
+        "economy": "A stronger rupee slightly lowers the cost of imports such as oil. Heavy RBI intervention uses up foreign currency reserves, which is why the IMF prefers more flexibility.",
+        "prices": "No immediate change in prices. If the rupee stays stronger for months, imported goods could become marginally cheaper."
+      },
+      "watch": "Whether the RBI keeps supporting the rupee, oil prices, and foreign investors' buying or selling next week.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Dollar index",
+        "RBI intervention",
+        "FII",
+        "IMF",
+        "Bond yield",
+        "Basis point",
+        "Rupee depreciation"
+      ],
+      "explainers": {
+        "like12": "Imagine the rupee and the dollar are two kinds of trading cards. Today, you needed about 95 rupee cards to get one dollar card. Now you need only about 94.93. So the rupee got a little stronger.\n\nWhy? The dollar became less popular around the world today. Indian companies' shares did well. And India's money boss, the RBI, was helping by selling some of the dollar cards it keeps in its big safe.\n\nBut another big group that advises countries, called the IMF, says India shouldn't use up too many of its saved dollars. It thinks the rupee should be allowed to go up and down on its own when tough times come.",
+        "real_life": "Meet Kavya, a 26-year-old nurse in Kochi who is preparing to move to the UK for work. She has to pay a $1,500 fee for an exam and visa processing next month.\n\nAt yesterday's rate of 95.26, that's about ₹1,42,890. At today's 94.93, it's about ₹1,42,395, nearly ₹500 less.\n\nBut she knows the rate moves every day, and the RBI's support may not last. An analyst expects the rupee to stay between about 94.80 and 95.35 for now. So Kavya sets the money aside in rupees with a small buffer for a weaker rupee, rather than trying to guess the best day to pay."
+      }
+    },
+    {
+      "id": "oil-climbs-on-fears-of-new-us-strike-on-iran",
+      "category": "Global",
+      "title": "Oil climbs again on reports that the US warned allies of possible new strikes on Iran after its 3 November elections",
+      "tldr": "Oil prices rose on Friday after reports that US officials told allies in the region to prepare for possible strikes on Iran after the US midterm elections on 3 November. A tanker was also attacked in the Strait of Hormuz. Brent's near-month contract was above $116 in the morning, while the January contract was around $113 in the Indian afternoon. Brent was on track for a gain of nearly 11% in October.",
+      "what_happened": "Brent crude's December contract, which is about to expire, rose 1.04% to $116.08 a barrel early on Friday, and the US oil benchmark WTI rose 1.34% to $103.37, according to a Reuters report carried by Invezz. The more actively traded January contract was at $113.09 at about 3:35 pm India time, Kotak Neo reported. Brent was on track for a gain of nearly 11% in October, a fourth straight monthly rise.\n\nUS officials reportedly warned allies in the region to prepare for possible strikes after the 3 November US elections, and for retaliation against energy facilities. US Central Command's chief, Admiral Brad Cooper, briefed President Trump on Thursday about possible military options, the Wall Street Journal reported. No new operation has been announced.\n\nLate on Thursday, a tanker was attacked in the Strait of Hormuz when a small boat attached two explosive devices to its hull, according to the UK Maritime Trade Operations agency. Yemen's Houthis also claimed attacks on Saudi energy sites; these claims were not independently confirmed.\n\nIn India, MCX gold futures fell 0.66% to ₹1,41,658 per 10 grams, Kotak Neo reported.",
+      "simple_explanation": "Oil got more expensive again today because of worries about a possible new round of fighting between the US and Iran.\n\nReports said the US told friendly countries in the region to get ready for possible attacks on Iran after America's elections next week. There was also an attack on an oil tanker in the Strait of Hormuz, a narrow sea route that carries a large share of the world's oil.\n\nOn Thursday, oil had dipped on hopes of peace talks. Today those hopes faded a little.\n\nIndia buys most of its oil from abroad, so this matters. Expensive oil pushes up India's import bill, weighs on the rupee, and can eventually raise the cost of transport and many goods.",
+      "analogy": "It is like vegetable prices rising in the mandi as soon as there's talk of a transport strike next week: nothing has stopped yet, but the fear alone pushes prices up.",
+      "why": "Oil prices carry a large 'risk premium' because a wider conflict could disrupt supplies from West Asia. The reported US warnings to allies and the tanker attack added to those fears.\n\nRyan McKay of TD Securities said repeated headlines about deal talks have been weighing on oil, but he sees little chance of an agreement before the US elections, according to Reuters. US Vice President JD Vance has contacted Iranian officials, but Tehran has not agreed to revised peace terms. Giovanni Staunovo of UBS said global inventories have fallen sharply; UBS expects Brent near $110 a barrel at the end of the year.\n\nReports gave different oil prices today partly because they quoted different contracts, explained in our glossary.",
+      "implications": {
+        "you": "Petrol and diesel prices in India are set by state-run oil companies and don't change daily with world prices, so nothing changes at the pump today. If oil stays this high for months, travel and transport costs could rise.",
+        "markets": "Energy shares fell today. Companies that use a lot of fuel, like airlines and paint makers, are hurt by high oil prices.",
+        "economy": "Oil above $110 a barrel is very expensive for India. It raises the import bill, puts pressure on the rupee and can push up inflation.",
+        "prices": "No immediate change. If high oil prices last, transport fares, freight costs and the prices of many goods can creep up."
+      },
+      "watch": "The US midterm elections on 3 November, any US action against Iran, and the safety of shipping in the Strait of Hormuz.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Near-month contract",
+        "WTI",
+        "Midterm elections",
+        "Strait of Hormuz",
+        "Houthis",
+        "Risk premium",
+        "MCX",
+        "Import bill",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Imagine your family gets cooking gas from a shop in another town, and the only road there passes through a place where two groups are arguing. If people hear the argument might turn into a fight next week, the shopkeeper raises the price, just in case deliveries get blocked.\n\nThat's what happened with oil today. America might attack Iran after its elections next week, and a ship carrying oil was attacked on a busy sea route. So oil got more expensive.\n\nIndia buys most of its oil from far away, so when oil costs more, it's harder on India's money. Petrol pump prices don't change right away, though.",
+        "real_life": "Meet Imran, a 40-year-old who runs a small courier business in Hyderabad with three delivery vans.\n\nHe hears oil prices rose again and worries about his diesel bill. For now, pump prices haven't moved, because state-run oil companies set them and don't change them every day.\n\nBut oil has risen nearly 11% this month, and he knows that if it stays high, pump prices or other costs could rise later. So he does what many small businesses do: he checks his routes to cut wasted kilometres, and considers whether he may need a small fuel surcharge for customers if costs go up. He doesn't change anything yet, since oil prices can also fall quickly if tensions ease."
+      }
+    },
+    {
+      "id": "trent-indigo-results-reliance-due",
+      "category": "Company results",
+      "title": "Trent rises 5% as profit grows about 25%; IndiGo gains as its loss narrows to ₹1,879 crore; Reliance reports tonight",
+      "tldr": "Trent, the Tata group company behind Westside and Zudio, reported a 25% rise in consolidated profit, and its shares were the Nifty's top gainer. IndiGo's parent reported a smaller quarterly loss than a year ago despite a 67% jump in fuel costs, and its shares rose 4.33%. Reliance Industries reports its results after market hours today.",
+      "what_happened": "Trent said its consolidated net profit for July to September rose 25% to ₹468.09 crore, from ₹373.42 crore a year earlier, according to Kotak Neo. Revenue from operations rose 22% to ₹5,873 crore and EBITDA rose 37% to ₹785 crore. Its standalone profit grew more slowly, about 9% to ₹490 crore, which the company linked to a one-off gain from an asset sale a year ago. Trent shares rose 5.44% to ₹3,017.30, according to Liquide.\n\nInterGlobe Aviation, which runs IndiGo, reported a consolidated net loss of about ₹1,879 crore for the quarter, narrower than the ₹2,582 crore loss a year earlier, according to ANI and Business Standard. Revenue grew about 26% to ₹23,363.8 crore, ANI reported, while fuel costs jumped 67.2% to ₹9,966.8 crore. Its shares rose 4.33% to ₹4,877.60.\n\nReliance Industries and Jio Platforms report their results after market hours today. Reliance shares closed 0.21% lower at ₹1,164.90 on the NSE ahead of the results, Upstox reported.",
+      "simple_explanation": "Companies are reporting how they did between July and September. Two did better than investors feared.\n\nTrent runs clothing stores like Westside and Zudio. It earned 25% more profit than a year ago, as more people shopped in its stores, including in smaller cities. Its shares jumped.\n\nIndiGo, India's biggest airline, still lost money. Airlines often do in the monsoon months, when fewer people travel. Jet fuel also became much more expensive. But IndiGo lost less than a year ago, partly because it raised fares and added fuel charges to tickets. Investors were relieved, and its shares rose.\n\nReliance Industries, India's largest company by revenue, reports its results tonight. Many investors are waiting for those numbers.",
+      "analogy": "IndiGo's quarter is like a family whose cooking gas bill shot up, but who still overspent less than last year because they charged a little more for the tiffins they sell to neighbours.",
+      "why": "Trent's chairman Noel Tata said its brands continued to see good demand during the quarter even though inflation remained relatively high, according to Kotak Neo. Analysts pointed to margins holding up better than expected and a recovery in like-for-like sales growth, while costs and margins in the second half remain things to watch, Upstox reported.\n\nIndiGo blamed high jet fuel prices, the weaker rupee and weak demand in the monsoon quarter. Chief executive Willie Walsh said fare increases and fuel surcharges covered about 60% of the increase in its fuel bill, and called the near-term outlook challenging, according to reports.",
+      "implications": {
+        "you": "If you fly often, IndiGo's results confirm that fuel surcharges and higher fares are helping it cope with costly fuel, so cheaper tickets are unlikely soon. Trent's results suggest shoppers are still spending on value clothing.",
+        "markets": "Strong results lifted both shares today. Reliance is one of the biggest companies in the Sensex and Nifty, so its results can move the indices on Monday.",
+        "economy": "Steady shopping at Trent's stores suggests consumer demand is holding up, while IndiGo's costs show how expensive oil is spreading through the economy.",
+        "prices": "Airfares stay high because of fuel costs. Trent said inflation remains relatively high, though it gave no word on its own prices."
+      },
+      "watch": "Reliance Industries' and Jio Platforms' results tonight, and how their shares react on Monday.",
+      "terms": [
+        "Quarterly results",
+        "Consolidated profit",
+        "Standalone profit",
+        "Year on year",
+        "Revenue",
+        "EBITDA",
+        "Like-for-like growth",
+        "Net loss",
+        "Fuel surcharge",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Every three months, companies share a report card showing how much money they made.\n\nTrent runs clothing shops like Zudio and Westside. Lots of people bought clothes there, so Trent made a quarter more profit than last year. People liked that report card, so its share price went up.\n\nIndiGo is an airline. It still lost money, because fewer people fly during the rainy season and plane fuel became very costly. But it lost less money than last year, because it added a bit extra to ticket prices to cover the fuel. That's like getting a bad mark, but better than last time, so people still cheered a little.",
+        "real_life": "Meet Sneha, a 30-year-old HR executive in Bengaluru who flies home to Bhubaneswar every few months.\n\nShe has noticed her tickets getting costlier. IndiGo's results explain why: its fuel bill jumped 67%, and it covered much of that with higher fares and fuel surcharges. Unless oil gets cheaper, she shouldn't expect fares to fall soon, so she books earlier to get better prices.\n\nSneha also shops at Zudio. Trent's strong results won't change her shopping, but her flexi-cap mutual fund may hold some Trent shares. Today's 5% rise gives her fund a tiny lift, though one company is only a small part of it."
+      }
+    },
+    {
+      "id": "alphabet-slide-hits-asia-kospi-falls",
+      "category": "Global",
+      "title": "Alphabet's record fall drags US tech shares and hits Asia, with South Korea's Kospi down 3.5%; Indian IT rises anyway",
+      "tldr": "Google's parent Alphabet fell about 12% in the US on Thursday after disappointing results revived worries about AI. The Nasdaq fell 1.38%. On Friday, South Korea's Kospi fell 3.48% and Japan's Nikkei 2.12%, led by chip makers. Indian IT shares rose instead, helped by results from US-based Cognizant.",
+      "what_happened": "On Thursday in the US, the Nasdaq fell 1.38%, the S&P 500 0.30% and the Dow Jones 0.25%, according to Liquide. Alphabet fell by a record amount, about 12% according to reports, after its search and advertising sales disappointed investors and raised worries about AI's threat to its main business and the cost of AI investment.\n\nOn Friday, South Korea's Kospi fell 3.48% to 5,730.74, FN News reported, after dropping more than 5% earlier in the day, which triggered a 'sidecar' curb on computer-driven trading. Chip maker SK hynix fell 7.08% and Samsung Electronics 3.02%. Japan's Nikkei 225 fell 2.12% to 63,290.11.\n\nIn India, the Nifty IT index rose 2.32%. Cognizant, a US-listed IT services company with a large workforce in India, reported quarterly revenue of $5,664 million, up from $5,415 million a year earlier, and said it was above the midpoint of its guidance. It narrowed its 2026 revenue growth forecast to 4.0% to 4.4% in constant currency. During the Indian evening, US Nasdaq 100 futures were down about 2.4%, 5paisa reported.",
+      "simple_explanation": "Alphabet, the company that owns Google, had a very bad day in the US on Thursday. Its shares fell about 12%, the most ever in a single day, after its results disappointed investors.\n\nPeople are worried that AI tools could take business away from Google search, and that tech companies are spending huge sums on AI that may take a long time to pay off. That worry spread to other technology shares.\n\nIn Asia on Friday, markets in South Korea and Japan fell sharply, especially companies that make computer chips for AI.\n\nIndian IT companies went the other way. They mostly provide technology services to businesses, and a similar US company, Cognizant, reported decent results. That gave investors some comfort about the sector.",
+      "analogy": "It is like a fall in the price of a famous sweet shop's shares worrying the sugar suppliers next door, while the caterers in the next lane do fine because their customers keep placing orders.",
+      "why": "Analysts tied Asia's sell-off to doubts about whether earnings can keep pace with fast-growing spending on AI data centres, according to reports. South Korean chip makers had risen strongly this year on AI demand, so they were hit hard.\n\nIndian IT shares rose on positive sentiment after Cognizant's results, according to 5paisa. Cognizant's work is similar to that of Infosys and Wipro, so investors often read its results as a signal for the Indian sector. Its narrowed forecast cut the top of its earlier range, so the picture was not all positive.",
+      "implications": {
+        "you": "If you hold an international or US technology fund, it probably fell. If your fund holds Indian IT companies, they rose today. A Nifty 50 index fund was barely affected by the US moves.",
+        "markets": "Big swings in US tech shares can spill into Asian markets. Weak US futures on Friday evening suggest another nervous session in the US.",
+        "economy": "No direct effect on India's economy. Indian IT firms employ millions, so demand for their services matters for jobs and hiring.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "How US markets close on Friday, US election results next week, and more results from Indian and global IT companies.",
+      "terms": [
+        "Nasdaq",
+        "S&P 500",
+        "Dow Jones",
+        "Kospi",
+        "Nikkei 225",
+        "Sidecar",
+        "Semiconductor",
+        "IT services",
+        "Guidance",
+        "Constant currency"
+      ],
+      "explainers": {
+        "like12": "Google is owned by a big American company called Alphabet. On Thursday, it told the world how much money it made, and people were disappointed. Its share price fell a lot, more than ever before in one day.\n\nWhy? Many people now ask AI chatbots questions instead of searching on Google. Investors worry that Google could earn less from ads because of that.\n\nThat worry spread. In South Korea and Japan, companies that make computer chips for AI saw their shares fall too.\n\nBut Indian computer-services companies, like Infosys and Wipro, did well today, because a similar American company said its business was going okay.",
+        "real_life": "Meet Aditya, a 34-year-old chartered accountant in Ahmedabad. A year ago he started a ₹3,000 monthly SIP in a US technology fund, on top of his Nifty 50 index fund.\n\nTonight he sees his US fund has dropped, because big US tech shares like Alphabet fell sharply. His Nifty fund is up a little.\n\nHe remembers why he holds both: they don't always move together. A US tech fund can swing a lot, because it depends on a few giant companies and on the dollar-rupee rate. Aditya keeps his SIPs running, and checks that his US fund is still only a modest share of his total savings, which matches how much risk he's comfortable with."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Currency intervention",
+    "explanation": "Currency intervention is when a central bank buys or sells its own currency to influence its exchange rate.\n\nIn India, the RBI holds a large store of foreign currency, mostly dollars, called foreign exchange reserves. When the rupee is falling fast, the RBI can sell dollars and buy rupees. That adds to the supply of dollars and slows the rupee's fall. When the rupee rises very quickly, it can do the reverse and add to its reserves.\n\nThe RBI usually says it acts to calm sharp swings, not to fix a particular level. The RBI doesn't usually announce each step on the day, so news reports often rely on what forex traders say.\n\nIntervention has limits. Reserves are finite, and spending them to defend a currency against a lasting shock, like very expensive oil, can be costly. That's why bodies like the IMF often argue for letting the exchange rate adjust.",
+    "example": "On Friday, the rupee rose 33 paise to 94.93 per dollar. Forex traders said RBI intervention supported the currency, PTI reported. On the same day, the IMF's Julie Kozack said exchange rate flexibility should be the preferred response to energy shocks.",
+    "takeaway": "When the rupee suddenly steadies, the RBI may be using its dollar reserves to calm the market, but it can't hold back a lasting trend forever."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Friday?",
+      "options": [
+        "Down 308.49 points",
+        "Up 308.49 points, or 0.42%",
+        "Up 905.01 points, or 1.24%",
+        "Unchanged"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose 308.49 points, or 0.42%, to 74,459.53. The 905-point rise was Thursday's."
+    },
+    {
+      "q": "The Sensex rose, but the Nifty Smallcap 100 fell 1.85%. What does that tell you?",
+      "options": [
+        "Every share rose today",
+        "A few big companies lifted the indices while many smaller ones fell",
+        "The market was closed",
+        "Smallcap shares are part of the Sensex"
+      ],
+      "answer": 1,
+      "why": "Indices like the Sensex give big companies more weight. Strong gains in a few heavyweights can lift them even when most smaller shares fall."
+    },
+    {
+      "q": "The rupee moved from 95.26 to 94.93 per dollar. What does that mean?",
+      "options": [
+        "The rupee got weaker",
+        "The rupee got stronger",
+        "Oil got cheaper",
+        "The RBI cut interest rates"
+      ],
+      "answer": 1,
+      "why": "A lower number means you need fewer rupees to buy one dollar, so the rupee strengthened, by 33 paise."
+    },
+    {
+      "q": "What is currency intervention by the RBI?",
+      "options": [
+        "Printing new banknotes",
+        "Buying or selling dollars to calm sharp moves in the rupee",
+        "Changing the repo rate",
+        "Banning foreign investors"
+      ],
+      "answer": 1,
+      "why": "The RBI can use its foreign currency reserves to buy or sell dollars, slowing big swings in the exchange rate."
+    },
+    {
+      "q": "Why did oil prices rise on Friday?",
+      "options": [
+        "India stopped importing oil",
+        "Reports that the US warned allies of possible strikes on Iran, plus a tanker attack",
+        "A peace deal was signed",
+        "The rupee became stronger"
+      ],
+      "answer": 1,
+      "why": "Reports said the US told allies to prepare for possible strikes on Iran after its 3 November elections, and a tanker was attacked in the Strait of Hormuz."
+    },
+    {
+      "q": "IndiGo still lost money in the July–September quarter. Why did investors react well?",
+      "options": [
+        "It made a record profit",
+        "Its loss was smaller than a year earlier",
+        "It stopped flying",
+        "Fuel became cheaper"
+      ],
+      "answer": 1,
+      "why": "IndiGo's loss narrowed to about ₹1,879 crore from ₹2,582 crore a year earlier, as higher fares and fuel surcharges covered much of its rising fuel bill."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kotak Neo: Closing Bell, 30 October 2026, Sensex and Nifty 50 manage to end in the green despite global headwinds",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
+    },
+    {
+      "title": "5paisa: Sensex, Nifty extend winning streak for second day; broader markets decline",
+      "url": "https://5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026"
+    },
+    {
+      "title": "Liquide: Share market today, Nifty reclaims 23,000, Sensex gains 308 points as IT and pharma stocks rally",
+      "url": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-000-sensex-gains-308-points-as-it-and-pharma-stocks-rally"
+    },
+    {
+      "title": "Business Standard: Stock Market Close, Sensex rises for 2nd day, ends 308 pts higher; Nifty at 23,053; IT shares shine",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html"
+    },
+    {
+      "title": "Investing.com: India stocks higher at close of trade; Nifty 50 up 0.51%",
+      "url": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-051-4986616"
+    },
+    {
+      "title": "Telangana Today (PTI): Indian rupee gains 33 paise to close at 94.93 against US dollar",
+      "url": "https://telanganatoday.com/indian-rupee-gains-33-paise-to-close-at-94-93-against-us-dollar"
+    },
+    {
+      "title": "ThePrint (PTI): Rupee gains 2 paise to close at 95.26 against US dollar",
+      "url": "https://theprint.in/economy/rupee-gains-2-paise-to-close-at-95-26-against-us-dollar/3085407/"
+    },
+    {
+      "title": "Kotak Neo: Indian 10-year government bond yields fall 5 basis points to 7.39%",
+      "url": "https://www.kotakneo.com/news/market-news/india-10-year-g-sec-yield-falls-to-7-39-on-fed-signals/"
+    },
+    {
+      "title": "Invezz: Oil prices surge towards $120 as Trump weighs fresh Iran strikes",
+      "url": "https://invezz.com/news/2026/10/30/oil-prices-today-trump-iran-strikes-brent-crude/"
+    },
+    {
+      "title": "Kotak Neo: Trent shares rally 7% as Q2 FY27 profit rises 25% to ₹468 crore",
+      "url": "https://www.kotakneo.com/news/stocks/trent-q2-fy27-results-share-price-in-focus/"
+    },
+    {
+      "title": "Upstox: Trent shares jump 7% after Q2 results; margin resilience, LFL recovery in focus",
+      "url": "https://upstox.com/news/market-news/stocks/trent-shares-jump-7-after-q2-results-margin-resilience-lfl-recovery-in-focus-what-are-the-risks/article-202687/"
+    },
+    {
+      "title": "ANI: IndiGo reports Rs 1,879 crore loss in Q2 as higher fuel costs, weak rupee hit earnings",
+      "url": "https://aninews.in/news/business/indigo-reports-rs-1879-crore-loss-in-q2-as-higher-fuel-costs-weak-rupee-hit-earnings20261029184844/"
+    },
+    {
+      "title": "Business Standard: IndiGo Q2 net loss narrows 27.2% to ₹1,879 crore despite fuel cost surge",
+      "url": "https://www.business-standard.com/companies/quarterly-results/aviation-major-indigo-posts-1-879-1-crore-loss-in-september-quarter-126102901045_1.html"
+    },
+    {
+      "title": "Upstox: Reliance Industries Q2 results live updates",
+      "url": "https://upstox.com/news/market-news/earnings/reliance-industries-q2-results-live-updates-mukesh-ambani-ril-earnings-o2c-retail-jio-profit-revenue-share-price-news/liveblog-202688/"
+    },
+    {
+      "title": "Yahoo Finance: Stock market today, Dow, S&P 500, Nasdaq slip as Alphabet stock sinks and AI jitters return",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"
+    },
+    {
+      "title": "FN News: KOSPI tumbles 3.48% on U.S. AI concerns; Samsung Electronics down 3%, SK hynix down 7%",
+      "url": "https://en.fnnews.com/news/202610301540505038"
+    },
+    {
+      "title": "Cognizant: Form 8-K, third-quarter 2026 results",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001058290/000105829026000039/exhibit9919302026.htm"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Heavyweight stock",
+      "definition": "A very large company whose share price has a big influence on an index like the Sensex or Nifty.",
+      "more": "Indices like the Nifty give bigger companies more weight. So a 4% rise in a giant like Reliance Industries or ICICI Bank moves the index far more than a 4% rise in a smaller member. It's like a class average where a few students' marks count several times over. That is why news reports often say a few heavyweights 'led' or 'dragged' the market. When only heavyweights rise and most other shares fall, the index can look strong even though the typical share had a bad day. Checking market breadth helps you spot this."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Nifty IT",
+      "definition": "An index of the biggest information technology companies listed on the NSE, such as TCS and Infosys.",
+      "more": "The Nifty IT index tracks India's largest software and IT services companies, including TCS, Infosys, HCLTech, Wipro and Tech Mahindra. These companies earn most of their money from clients in the US and Europe, so the index often moves on news from abroad, the dollar-rupee rate and quarterly results, rather than on Indian events. It is like a team of exporters inside the market: when foreign customers are spending, they do well. News reports mention it as one of the 'sectoral indices', for example 'Nifty IT rose 2.88%, the only sector in the green'."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that write software, run computer systems and provide tech support for clients, mostly abroad.",
+      "more": "India's IT services firms, such as TCS, Infosys, Wipro, HCLTech and Tech Mahindra, do technology work for banks, shops, airlines and governments around the world. Most of their revenue comes in dollars or euros, while most of their staff are paid in rupees. So a weaker rupee usually helps their profits. It's like a tailor in Tiruppur stitching for foreign buyers: paid in dollars, spending in rupees. IT firms are big parts of the Sensex and Nifty, so their results can move the whole market."
+    },
+    {
+      "term": "Pharma",
+      "definition": "Short for pharmaceuticals: companies that make medicines, such as Sun Pharma, Cipla and Dr Reddy's.",
+      "more": "Pharma companies research, make and sell medicines. India is one of the world's biggest makers of generic medicines, which are cheaper copies of drugs whose patents have expired, and many Indian pharma firms earn a large part of their money from the US. The Nifty Pharma index tracks the big listed ones. Investors often treat these shares as 'defensive', because people need medicines in good times and bad, a bit like the neighbourhood chemist who stays busy whatever the economy is doing. News reports often mention pharma shares rising on days when investors are nervous about other sectors."
+    },
+    {
+      "term": "Consumer durables",
+      "definition": "Long-lasting goods people buy for the home or themselves, such as appliances, electronics, watches and jewellery.",
+      "more": "Consumer durables are things you don't buy every week: fridges, TVs, air conditioners, watches and jewellery. Because they cost more and can be postponed, sales depend heavily on how confident families feel about their money. Think of a household that delays buying a new washing machine when petrol and school fees go up. The Nifty Consumer Durables index tracks listed makers of such goods, like Titan. When news says 'consumer durables led the fall', it usually means investors fear people will cut back on these purchases."
+    },
+    {
+      "term": "Nifty Bank",
+      "definition": "An index of the biggest banks listed on the NSE. People also call it Bank Nifty.",
+      "more": "The Nifty Bank index tracks around a dozen of India's largest listed banks, both private and government-owned, weighted by size. Because banks such as HDFC Bank and ICICI Bank are huge, this index is closely watched as a reading of how investors feel about lending and the economy. Think of it as the 'banking class' report card inside the wider school. News reports often quote it next to the Sensex and Nifty, for example 'Bank Nifty fell below 55,000', because banks make up a large slice of both headline indices."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the daily FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 94.82 but finally came in at 94.81. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen, which is why reports often add '(provisional)' after a number."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "RBI intervention",
+      "definition": "When the Reserve Bank of India buys or sells dollars to steady the rupee.",
+      "more": "The RBI holds large foreign currency reserves. When the rupee falls too fast, it can sell dollars from these reserves, adding supply and slowing the fall. When the rupee rises too quickly, it may buy dollars. It can also use 'swaps', agreeing to swap currencies now and reverse later. The RBI says it aims to reduce sharp swings, not to fix a level. It's like a dam releasing water to stop a river from flooding or running dry."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "IMF",
+      "definition": "The International Monetary Fund: a global body of about 190 countries that watches the world economy and lends to countries in trouble.",
+      "more": "The IMF, based in Washington, monitors member countries' economies, gives policy advice and can lend money to countries facing a crisis, usually with conditions attached. India is a member and regularly receives its reviews and growth forecasts. Think of it as a senior family adviser that every household in the colony pays into, who checks everyone's accounts and steps in with a loan when someone is in serious difficulty. In the news, the IMF shows up in growth forecasts, in comments on countries' currency and debt policies, and in rescue packages for struggling economies."
+    },
+    {
+      "term": "Bond yield",
+      "definition": "The yearly return you'd earn from buying a bond at today's price. Yields rise when bond prices fall, and vice versa.",
+      "more": "A bond is a loan to a government or company that pays fixed interest. If the bond's market price falls, the same interest becomes a bigger percentage of what you pay, so the yield rises. They move like a seesaw. Think of a flat earning ₹20,000 rent a month: buy it cheaper and your rental 'yield' is higher. Government bond yields act as a base rate for the whole economy, so when news says 'the 10-year yield rose', loans and FD rates often follow."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One-hundredth of one percentage point. 100 basis points equal 1 percentage point.",
+      "more": "Basis points are used to describe small changes in interest rates and bond yields precisely. If a yield falls from 5.19% to 5.085%, that is a drop of 10.5 basis points. Saying '10.5 basis points' avoids confusion between a change in percentage points and a percentage change. It's like measuring medicine in millilitres instead of spoonfuls: more exact for small amounts. News about RBI rate decisions often uses basis points too, as in a '25 basis point' cut or hike."
+    },
+    {
+      "term": "Rupee depreciation",
+      "definition": "When the rupee loses value against another currency, so you need more rupees to buy one dollar.",
+      "more": "If the rate moves from ₹95 to ₹96 per dollar, the rupee has depreciated, or weakened. This makes imports such as oil, electronics and foreign education costlier, but helps exporters like IT companies, whose dollar earnings are worth more rupees. Common causes are foreign investors pulling money out, high oil prices and a strong dollar. It's like the price of a foreign holiday going up while you were still saving for it. News reports often describe the move in paise, for example 'the rupee fell 37 paise'."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Near-month contract",
+      "definition": "The futures contract that expires soonest, such as December Brent futures in late October.",
+      "more": "Commodities like oil trade through futures contracts, each named after the month it expires. The one closest to expiry is the near-month contract; the next one is often more actively traded once the near month is about to end. Their prices can differ, sometimes by a few dollars, which is why two reports on the same day can quote different oil prices. It's like the price of a train ticket for tomorrow versus next week: same route, different demand. When a news report says 'Brent at $116', check which contract it means before comparing it with another figure."
+    },
+    {
+      "term": "WTI",
+      "definition": "West Texas Intermediate: the main benchmark price for crude oil produced in the United States.",
+      "more": "WTI is a type of light crude oil produced in the US, and its price is the main reference for American oil. It usually trades a few dollars below Brent, the international benchmark India watches most closely. When both rise together, it tells you the price jump is global, not a local problem. It's like comparing the price of rice in two big wholesale mandis: if both go up, the shortage is widespread. News reports often quote both, as in 'Brent at $114, WTI at $101'."
+    },
+    {
+      "term": "Midterm elections",
+      "definition": "US national elections held halfway through a president's four-year term, mainly for seats in Congress.",
+      "more": "In the US, the president is elected every four years, but elections for the whole House of Representatives and about a third of the Senate happen every two years. The ones that fall in the middle of a president's term are called midterms; this year they are on 3 November. The results decide which party controls Congress, which can make it easier or harder for the president to pass laws. It's a bit like a mid-term vote on a housing society committee that can change who controls the budget. Markets watch them because policy on taxes, trade and war can shift afterwards."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Houthis",
+      "definition": "An armed group that controls much of Yemen and has attacked ships and Saudi targets.",
+      "more": "The Houthis are an armed movement that controls large parts of Yemen, including its capital. They are opposed to Saudi Arabia and are widely reported to be backed by Iran. Over the years they have fired missiles and drones at Saudi oil sites and at ships in the Red Sea. Because Saudi Arabia is one of the world's largest oil exporters, any attack on its facilities can push oil prices up, even if supply is not actually cut. For India, which imports most of its oil, such news matters for fuel prices and the rupee."
+    },
+    {
+      "term": "Risk premium",
+      "definition": "The extra amount buyers pay, or sellers demand, because of the fear that something bad might happen, even before it actually does.",
+      "more": "A risk premium is the part of a price that comes from worry rather than from today's facts. In oil, if attacks threaten supply, traders bid prices up in case barrels go missing later, even when every barrel is still flowing. It is like vegetable prices rising in a market when people hear a truckers' strike might start: nothing has run out yet, but buyers pay extra to be safe. News reports say the premium 'eases' when the fear fades, and prices can then drop quickly."
+    },
+    {
+      "term": "MCX",
+      "definition": "The Multi Commodity Exchange of India, where gold, silver, oil and other commodities are traded.",
+      "more": "MCX is India's main exchange for trading commodities such as gold, silver, crude oil, natural gas and metals. Most trading is in futures contracts, which are agreements on a price for a future date. MCX gold prices are a common guide to what jewellers charge, though shop prices also include GST and making charges. It's like a big wholesale mandi for metals and energy. News reports quote MCX gold per 10 grams."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Standalone profit",
+      "definition": "The profit of the main company alone, leaving out its subsidiaries.",
+      "more": "Indian companies usually report two sets of numbers. Standalone figures cover only the listed company itself. Consolidated figures add in the results of its subsidiaries, the companies it controls. For a group like Trent, which owns stakes in other businesses, the two can grow at quite different rates. Think of a parent's own salary (standalone) versus the whole household's income including grown-up children who live at home (consolidated). News reports may quote either, so two headlines about the same result can show different profit numbers. Consolidated figures usually give the fuller picture."
+    },
+    {
+      "term": "Year on year",
+      "definition": "A comparison with the same period a year earlier, such as July–September this year versus July–September last year.",
+      "more": "Companies and governments usually compare a quarter's numbers with the same quarter of the previous year, called year on year or YoY. This avoids being misled by seasons: a sweet shop always sells more around Diwali, so comparing October with July would be unfair, but comparing this October with last October is fair. When a report says 'profit rose 6% year on year', it means profit was 6% higher than in the same quarter last year. You may also see 'quarter on quarter', which compares with the previous three months."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "EBITDA",
+      "definition": "A company's earnings before interest, taxes, depreciation and amortisation: roughly, the profit from its day-to-day business.",
+      "more": "EBITDA strips out costs that depend on how a company is funded or taxed, like interest on loans and wear and tear on machines, to show how much the core business earns. The EBITDA margin is EBITDA as a share of revenue. If a tea company sells ₹100 worth of goods and keeps ₹14 after paying for tea leaves, salaries, transport and advertising, its EBITDA margin is 14%. Investors watch margins closely, because a company can sell more and still earn less if its costs rise faster. Results reports often say margins 'expanded' or 'contracted' by some basis points."
+    },
+    {
+      "term": "Like-for-like growth",
+      "definition": "Sales growth at stores that were already open a year earlier, leaving out new stores.",
+      "more": "Retailers keep opening new shops, which pushes total sales up even if each shop is selling the same as before. Like-for-like (LFL) growth looks only at stores that existed in both periods, so it shows whether customers are actually buying more. It's like judging a tea stall owner by how much more tea their existing stall sold, not by counting a second stall they just opened. Analysts watch LFL closely for retailers like Trent and DMart, because slowing LFL can be an early sign that demand is cooling, even when headline revenue is still rising fast."
+    },
+    {
+      "term": "Net loss",
+      "definition": "What a company has when its total expenses are more than its total income over a period.",
+      "more": "A net loss is the opposite of net profit: after paying for everything, including salaries, materials, fuel, interest and taxes, the company has spent more than it earned. A 'narrower' loss means the gap shrank compared with an earlier period, which investors may treat as progress even though the company is still losing money. It's like a household that overspent by ₹25,000 last year and by ₹18,000 this year: still in the red, but less so. Airlines often report losses in the July–September quarter, when the monsoon reduces travel."
+    },
+    {
+      "term": "Fuel surcharge",
+      "definition": "An extra charge added to a fare or bill to cover a rise in fuel costs.",
+      "more": "When fuel prices jump, airlines, shipping firms and courier companies often add a separate fuel surcharge rather than raise their base price. It can be cut or removed when fuel gets cheaper. For airlines, jet fuel is one of the biggest costs, so surcharges help protect their finances, but they make tickets more expensive for travellers. It's like an auto driver asking for ₹20 extra because CNG prices went up. News reports mention fuel surcharges when airlines explain how much of a rise in fuel costs they managed to pass on to passengers."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "Sidecar",
+      "definition": "In South Korea, a short automatic pause on computer-driven trading orders when futures prices swing sharply.",
+      "more": "Stock exchanges have several kinds of brakes for wild days. South Korea's 'sidecar' kicks in when its main index futures move by a set percentage: for five minutes, program trades, which are large orders placed automatically by computers, are held back. Ordinary trading continues. It's like a traffic policeman stopping the heavy trucks for a few minutes at a jammed junction while cars keep moving. News reports mention a sidecar when Korean markets fall or rise unusually fast, as they did on Friday after a sharp fall in chip-maker shares."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "Constant currency",
+      "definition": "Growth measured as if exchange rates had not changed, to show real business growth.",
+      "more": "Indian IT companies earn in dollars, euros and pounds but report in rupees. When the rupee weakens, rupee revenue rises even if business is flat. Constant-currency growth removes this effect. If revenue rose 9% in rupees but 0% in constant currency, the increase came from currency moves, not more work. It's like a shopkeeper whose sales seem higher only because prices rose, not because more customers came. Analysts watch constant-currency figures closely for IT firms."
+    }
+  ]
+}
