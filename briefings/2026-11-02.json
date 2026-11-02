@@ -1,0 +1,761 @@
+{
+  "date": "2026-11-02",
+  "session_label": "Monday 2 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex jumped 1,233 points to 75,692 as Reliance soared 11.6% after record profits and oil fell about 4% on Iran-Qatar peace talks; SEBI reportedly asked for a tax cut for foreign investors, and the rupee slipped 10 paise to 94.86.",
+  "mood": "Upbeat",
+  "mood_note": "A broad, confident rally: most shares rose, energy and metal shares led, and cheaper oil eased a big worry. IT shares were the weak spot after a US tech sell-off, and the rupee slipped slightly.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Friday we reported the rupee at 94.93 per dollar (provisional), up 33 paise. The final figure was 94.76, a 50-paise gain, according to PTI.",
+    "Exchange data showed foreign institutional investors bought Indian shares worth ₹3,598.54 crore, net, on Friday, while domestic institutions sold ₹817.51 crore.",
+    "Reliance reported its results after markets closed on Friday, as we flagged. They were a record, and the shares jumped today: our second story."
+  ],
+  "one_minute": [
+    "The Sensex rose 1,233.25 points (1.66%) to 75,692.78, its highest since 7 September, and the Nifty 50 rose 387.70 points (1.68%) to 23,440.80. Most shares rose.",
+    "Reliance jumped 11.64% after a record quarterly profit, driven by its refining business and Jio; it did more than any other share to lift the indices.",
+    "Brent crude fell about 4% to near $109 a barrel as Iran and Qatar held talks on ending the conflict.",
+    "SEBI has reportedly recommended scrapping long-term capital gains tax for foreign investors, who have sold a record $31 billion of Indian shares this year.",
+    "October GST collections rose 22.9% to ₹2.31 lakh crore and carmakers reported record sales; the rupee slipped 10 paise to 94.86 and IT shares fell after a US tech sell-off."
+  ],
+  "big_picture": "Monday brought the best day for Indian shares in some time.\n\nThe Sensex jumped 1,233 points, its third straight rise, to its highest level in about two months. Unlike Friday, when a few big companies did the lifting, most shares rose today.\n\nThe star was Reliance Industries, India's biggest company. It reported record profits on Friday evening, mainly because high global fuel prices let its refineries earn much more. Its shares jumped almost 12%.\n\nOil helped too. Brent crude fell about 4% as Iran and Qatar held talks on ending the conflict in West Asia. For India, which imports most of its oil, that is welcome, though prices remain very high.\n\nThere was more cheer at home: GST collections and car sales for October were strong. And SEBI has reportedly asked the government to scrap a tax on foreign investors' long-term gains, hoping to win back money that has flowed out this year.\n\nThe weak spots were IT shares, hit by a sell-off in US technology shares, and the rupee, which slipped 10 paise. Americans vote in midterm elections on Tuesday.",
+  "chain": [
+    {
+      "label": "Reliance posts record profit",
+      "note": "Its refining business earned far more as fuel prices rose faster than crude; results came out on Friday evening."
+    },
+    {
+      "label": "Oil falls on peace talks",
+      "note": "Brent fell about 4% to near $109 as Iran and Qatar held talks on ending the conflict."
+    },
+    {
+      "label": "Strong data at home",
+      "note": "October GST collections rose 22.9% and carmakers reported record sales to dealers."
+    },
+    {
+      "label": "Broad buying",
+      "note": "Reliance rose 11.64%, energy and metal shares led, and most shares on the BSE rose."
+    },
+    {
+      "label": "Sensex up 1,233",
+      "note": "The Sensex closed 1.66% higher at 75,692.78 and the Nifty 1.68% higher at 23,440.80."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "75,692.78",
+      "change": "+1,233.25 (+1.66%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It closed at its highest since 7 September."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "23,440.80",
+      "change": "+387.70 (+1.68%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Its highest close in more than five weeks."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+1.19%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+0.71%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller companies."
+    },
+    {
+      "name": "Nifty Oil & Gas",
+      "value": "",
+      "change": "+5.95%",
+      "direction": "up",
+      "what_it_is": "This tracks oil and gas companies. Reliance is its biggest member. It was the best sector today."
+    },
+    {
+      "name": "India VIX",
+      "value": "15.47",
+      "change": "+1.11%",
+      "direction": "up",
+      "what_it_is": "The market's 'fear gauge': it estimates how much traders expect the Nifty to swing over the next month."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.86",
+      "change": "weaker by 10 paise (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude (January)",
+      "value": "$108.71",
+      "change": "lower, down about 4% (at about 3:37 pm IST)",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "MCX gold (December)",
+      "value": "₹1,38,327",
+      "change": "-0.11%",
+      "direction": "down",
+      "what_it_is": "The price of 10 grams of gold in Indian futures trading. Shop prices also include GST and making charges."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-jumps-1233-reliance-oil-falls",
+      "category": "Stock market",
+      "title": "Sensex jumps 1,233 points to a two-month high as Reliance soars and oil prices fall",
+      "tldr": "The Sensex rose 1,233.25 points, or 1.66%, to 75,692.78, and the Nifty 50 rose 387.70 points, or 1.68%, to 23,440.80, both closing at the day's high. It was a third straight day of gains. Reliance jumped 11.64% after record results, and a near 4% fall in oil prices helped. IT shares fell.",
+      "what_happened": "The Sensex rose 1,233.25 points, or 1.66%, to 75,692.78, its highest level since 7 September, PTI reported. The Nifty 50 rose 387.70 points, or 1.68%, to 23,440.80, its highest close in more than five weeks. Both indices ended at the day's high, on a third straight day of gains.\n\nThe rise was broad. On the BSE, 2,889 shares rose and 1,577 fell, according to PTI. The Nifty Midcap 100 gained 1.19% and the Nifty Smallcap 100 0.71%, Kotak Neo reported. Zee Business reported that BSE-listed companies together added about ₹8 lakh crore in market value.\n\nEnergy shares led. The BSE Energy index jumped 6.06% and Metal 3.13%, PTI said; the Nifty Oil & Gas index rose 5.95%, according to Kotak Neo. Reliance rose 11.64%, Tata Steel 5.26% and JSW Steel 4.74%. IT shares fell: Infosys dropped 2.34%, Wipro 1.40% and ICICI Bank 1.09%, according to Investing.com. India VIX, the 'fear gauge', rose 1.11% to 15.47.",
+      "simple_explanation": "Today was a big, happy day for Indian shares. The Sensex rose about 1.7%, which is a large move for one day.\n\nThe biggest reason was Reliance Industries, India's most valuable company. It reported record profits on Friday evening, and its share price jumped almost 12% today. Because Reliance is so big, its jump alone pushed the Sensex up a lot.\n\nOil also got cheaper, by almost 4%, on hopes of peace talks in West Asia. India buys most of its oil from abroad, so cheaper oil is good news.\n\nUnlike Friday, most shares rose today, not just a few big ones. The main exception was IT companies like Infosys, which fell after US technology shares slumped.",
+      "analogy": "It is like a school sports day where the star athlete wins gold and lifts the house's total, but this time most of the other students also did well, so the whole house celebrates.",
+      "why": "Vinod Nair, head of research at Geojit Investments, credited better-than-expected September-quarter results, strong October auto sales and GST collections, softer crude oil and renewed US-Iran diplomacy, PTI reported. He also said foreign investors turning buyers supported Indian shares.\n\nPonmudi R, CEO of Enrich Money, pointed to heavy buying in Reliance and said the sharp fall in crude eased worries about energy costs. IT shares fell after a heavy sell-off in US technology shares on Friday, covered in our sixth story.",
+      "implications": {
+        "you": "If you hold a Nifty 50 index fund or a diversified equity fund through a SIP, its value probably rose today. A one-day jump, like a one-day fall, matters little for a SIP meant to run for years.",
+        "markets": "The Sensex is back at its highest level in about two months. A broad rise, with more shares going up than down, is generally seen as healthier than a rally led by a few names.",
+        "economy": "No direct effect on the economy. Cheaper oil, if it lasts, would help India's import bill and inflation.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "Whether oil keeps falling as Iran-related talks continue, and the US midterm elections on Tuesday 3 November, which traders say could affect both oil and global markets.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "Market capitalisation",
+        "Sectoral index",
+        "Nifty Oil & Gas",
+        "Metal stocks",
+        "Heavyweight stock",
+        "IT services",
+        "India VIX",
+        "SIP",
+        "FII"
+      ],
+      "explainers": {
+        "like12": "Imagine your class's average marks go up after a test. Last week, only the toppers did well. This week, most students improved, and the class topper scored a record.\n\nThat's what happened in the stock market today. The Sensex is a number that follows 30 big companies, and it went up a lot. The biggest company, Reliance, made record profits, and its share price jumped by almost 12%. Because Reliance is so big, that alone lifted the Sensex.\n\nBut many other companies also went up, including steel makers. Oil got cheaper too, which helps India because we buy most of our oil from other countries. Only computer-services companies like Infosys had a bad day.",
+        "real_life": "Meet Kavya, a 28-year-old nurse in Kochi. She puts ₹3,000 a month into a Nifty 50 index fund through a SIP and has about ₹1.2 lakh invested.\n\nTonight her app shows her fund up about 1.7%, roughly ₹2,000 in a day. Most of that came from Reliance, which makes up a large slice of the Nifty.\n\nShould she do anything? Not really. Last week her fund had smaller ups and downs too. Her SIP will keep buying units every month, whatever the market does. Over years, it is the regular saving, not one good Monday, that builds her money. A day like this is nice to see, but it doesn't change her plan."
+      }
+    },
+    {
+      "id": "reliance-soars-11-percent-record-profit",
+      "category": "Companies",
+      "title": "Reliance shares soar 11.6% after record quarterly profit, as its refining business cashes in on high fuel prices",
+      "tldr": "Reliance Industries rose 11.64% after reporting a record quarterly profit on Friday evening. Its oil-to-chemicals business earned far more as the gap between fuel and crude prices widened, and Jio kept growing. Retail was weaker. Reliance was the single biggest reason the Sensex rose today.",
+      "what_happened": "Reliance Industries reported its July–September results on Friday evening, after markets closed. PTI reported a record quarterly profit of ₹29,550 crore, up 33.8% from a year earlier. The Hans India reported consolidated net profit of ₹25,548 crore, up 22% from ₹20,946 crore in the April–June quarter. The smaller figure leaves out the share of profit belonging to outside investors in Reliance's subsidiaries.\n\nRevenue rose 6.8% from the previous quarter to ₹3.31 lakh crore, and EBITDA, a measure of operating profit, hit a record ₹56,616 crore, The Hans India reported. EBITDA of the oil-to-chemicals (O2C) business jumped 67.9% from a year earlier to ₹25,203 crore. Reliance Jio's operating revenue rose 10.8% to ₹35,307 crore, and its average revenue per user rose 3.5% to ₹218.8 a month. Reports said the retail business was weaker.\n\nToday, Reliance shares rose 11.64%, PTI said, closing at about ₹1,300, according to Investing.com. They were the top gainers in both the Sensex and the Nifty.",
+      "simple_explanation": "Reliance is India's biggest company. It does three main things: it refines crude oil into petrol and diesel, it runs Jio, the mobile network, and it runs shops like Reliance Retail.\n\nIn July to September, Reliance made more profit than in any quarter before. The main reason was its refineries. Because of the conflict in West Asia, fuels like diesel became scarce and expensive around the world. Reliance could sell its fuel at much higher prices than what it paid for crude oil, so its refining profit jumped by about two-thirds.\n\nJio also grew, earning a little more from each customer. The shops did less well.\n\nInvestors liked what they saw and bought the shares, pushing the price up almost 12% in one day.",
+      "analogy": "It is like a tea stall during a cold wave: milk and tea leaves cost a bit more, but customers will pay much more for a hot cup, so the stall's margin per cup grows sharply.",
+      "why": "The O2C jump came from tighter global fuel markets and stronger fuel cracks, the gap between fuel and crude prices, The Hans India reported. Higher logistics costs and a special additional excise duty on fuel partly offset the gains.\n\nAnalysts and market commentators linked the share price jump to the record results. Ponmudi R of Enrich Money cited heavy buying in Reliance as a main driver of the market's rise. Because Reliance has the biggest weight of any company in the Nifty 50, its jump added more points to the index than any other share.",
+      "implications": {
+        "you": "Almost every Nifty 50 or Sensex index fund holds Reliance, so if you invest through such funds you indirectly own a little Reliance and gained from today's jump. Jio's rising earnings per user is also a reminder that mobile plans have been getting costlier.",
+        "markets": "Reliance is the heaviest company in the main indices, so its results often set the market's mood. A strong quarter from it can lift the whole index, as today showed.",
+        "economy": "High refining profits reflect tight global fuel supplies. That helps refiners but means expensive fuel for importing countries, including India.",
+        "prices": "No direct effect on everyday prices. Petrol and diesel prices are set by the oil marketing companies, not by Reliance's results."
+      },
+      "watch": "Whether fuel cracks stay high if Iran-related talks bring calm, which would affect Reliance's refining earnings in the coming quarters.",
+      "terms": [
+        "Quarterly results",
+        "Consolidated profit",
+        "Minority interest",
+        "Year on year",
+        "Quarter-on-quarter",
+        "Revenue",
+        "EBITDA",
+        "O2C",
+        "Crack spread",
+        "Telecom",
+        "ARPU",
+        "Index weight"
+      ],
+      "explainers": {
+        "like12": "Reliance is like a giant company that does three jobs. It turns crude oil, a thick black liquid from under the ground, into petrol and diesel. It runs Jio, the phone network. And it runs lots of shops.\n\nEvery three months, big companies tell everyone how much money they made. Reliance just said it made more profit than ever before.\n\nWhy? Because of fighting in West Asia, petrol and diesel have become scarce around the world. When something is scarce, people pay more for it. Reliance bought crude oil and sold the fuel at a much higher price, so it earned a lot more.\n\nPeople who buy shares liked this news, so Reliance's share price shot up.",
+        "real_life": "Meet Suresh, a 35-year-old bank clerk in Pune. He has never bought a Reliance share. But his ₹4,000-a-month SIP goes into a Nifty 50 index fund, and Reliance is the fund's biggest holding.\n\nSo when Reliance jumped almost 12% today, Suresh's fund rose noticeably too, even though he never chose Reliance himself.\n\nThere's a second link. Suresh pays for a Jio mobile plan. Reliance said it earned a bit more from each Jio customer this quarter. That usually comes from higher tariffs or people moving to bigger plans. So the same company that helped his savings today also takes a little more from his monthly phone bill."
+      }
+    },
+    {
+      "id": "oil-falls-iran-qatar-talks",
+      "category": "Rupee and oil",
+      "title": "Oil falls about 4% to near $109 a barrel as Iran and Qatar hold talks to end the conflict",
+      "tldr": "Brent crude fell 4.46% to $108.7 a barrel, PTI reported, as Iranian and Qatari officials held talks on a deal to end the conflict. Analysts said a quiet weekend and hopes of diplomacy eased fears. But tanker attacks near the Strait of Hormuz continue, and traders are watching Tuesday's US elections.",
+      "what_happened": "Brent crude, the international benchmark, fell 4.46% to $108.7 a barrel, PTI reported during Indian market hours. At about 3:37 pm, the January Brent contract was at $108.71 and US WTI crude at $99.74, according to Kotak Neo. Earlier, at 09:00 GMT, Reuters reported Brent down $4.20, or 3.7%, at $109.23.\n\nIranian and Qatari officials held talks aimed at ending the US-Israeli conflict with Iran, raising hopes of a deal, Reuters reported. Iranian negotiators left Doha on Sunday, but a source told Reuters this was not because of difficulties. Iran's foreign minister, Abbas Araqchi, said the talks were progressing.\n\nAttacks on oil tankers have increased, adding uncertainty to shipping in the region. The chief executive of Abu Dhabi's ADNOC said the world has drawn down nearly one billion barrels of oil stocks since the war began disrupting Hormuz shipments. Brent ended October at its highest level in six months.",
+      "simple_explanation": "Oil got a lot cheaper today, by about 4%.\n\nThe reason is hope for peace. Iran and Qatar, a small Gulf country, have been holding talks on ending the conflict involving Iran. When there's a chance of peace, traders worry less that oil supplies from the Gulf will be cut, so they're willing to sell oil for less.\n\nBut oil is still very expensive. At about $109 a barrel, it's far higher than most of the last few years. Ships carrying oil near the Strait of Hormuz, a narrow sea route, are still being attacked. And the world has used up a lot of its stored oil.\n\nFor India, which imports most of its oil, any fall in price is welcome news.",
+      "analogy": "It is like onion prices at the mandi dropping when news spreads that a lorry strike may end: the onions haven't arrived yet, but buyers stop panic-buying on the hope that they will.",
+      "why": "Tamas Varga of the oil broker PVM said the new month had revived hopes that the diplomatic deadlock over Iran could be resolved, Reuters reported. Tim Waterer of KCM Trade said expectations of diplomatic progress and a quiet weekend had eased upward pressure on prices.\n\nRisks remain. Traders had been weighing the chance of renewed fighting after the US midterm elections on Tuesday, Reuters said. Goldman Sachs raised its forecasts and warned Brent could reach $140 a barrel in 2027 if Gulf output stays 3.5 million barrels a day below its 2025 average.",
+      "implications": {
+        "you": "Petrol and diesel pump prices don't change daily with crude, so you won't see a difference tomorrow. If oil stays lower for weeks, it eases pressure on fuel prices and on the rupee.",
+        "markets": "Cheaper oil helps companies that use a lot of fuel, like airlines and paint makers, and supports the rupee. It is one reason shares rose today.",
+        "economy": "India imports most of its crude oil, so every fall in price reduces the import bill and helps keep inflation in check. One day's fall is not enough; what matters is whether it lasts.",
+        "prices": "No immediate change in pump prices or in prices of goods. A lasting fall in oil would, over time, ease transport and cooking gas costs."
+      },
+      "watch": "Further news from the Iran-Qatar talks, tanker attacks near Hormuz, and the US midterm elections on Tuesday 3 November.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "WTI",
+        "Strait of Hormuz",
+        "Oil inventories",
+        "Risk premium",
+        "Midterm elections",
+        "Import bill",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Oil is like the food that keeps cars, buses, trucks and factories going. India doesn't have much of its own, so it buys most of it from other countries.\n\nRight now there's fighting in West Asia, near the place where a lot of the world's oil comes from. When there's fighting, people worry the oil ships won't get through, so oil becomes very expensive.\n\nToday, Iran and a nearby country called Qatar were talking about how to stop the fighting. Just the hope of peace made oil cheaper by about 4%.\n\nIt's still expensive, though. And nobody knows yet whether the talks will work. So grown-ups who watch oil prices will keep a close eye on the news.",
+        "real_life": "Meet Imran, a 40-year-old delivery supervisor in Hyderabad. He rides a motorcycle to work and his company runs a fleet of vans.\n\nToday's 4% fall in oil won't change what Imran pays at the petrol pump tomorrow. In India, oil companies don't change pump prices every time crude moves.\n\nBut it still matters to him. His company's biggest cost is diesel for its vans. If crude stays lower for a few months, that cost pressure eases, and the company may not need to raise delivery charges or cut costs elsewhere. If the talks fail and oil jumps again, the opposite could happen. For now, it's a hopeful sign, not a change in his monthly budget."
+      }
+    },
+    {
+      "id": "sebi-proposes-scrapping-ltcg-for-foreign-investors",
+      "category": "Regulation",
+      "title": "SEBI reportedly asks the government to scrap long-term capital gains tax for foreign investors, after record selling this year",
+      "tldr": "SEBI has recommended that the government remove the 12.5% long-term capital gains tax on foreign portfolio investors, according to news reports. It has also suggested that switching between mutual fund schemes held over a year should not be taxed. These are only suggestions for the Budget in February 2027. Foreign investors have sold a record $31 billion of Indian shares this year.",
+      "what_happened": "SEBI, India's market regulator, has recommended that the government scrap long-term capital gains (LTCG) tax for foreign portfolio investors, according to reports carried by Kotak Neo, BW Businessworld and Business Standard. The suggestion is part of SEBI's pre-budget proposals, and the government will decide before the Union Budget in February 2027, Kotak Neo reported.\n\nForeign investors currently pay 12.5% LTCG tax on shares held for more than a year and 20% short-term capital gains tax on those sold within a year. They also pay securities transaction tax and tax on dividends. Foreign investors have sold a record $31 billion worth of Indian shares this year, the reports said.\n\nSEBI also suggested that switching between domestic mutual fund schemes should not count as a taxable sale if the units have been held for more than a year. Brokerage IIFL estimated that scrapping the tax could raise foreign investors' returns by about 2.3 percentage points.\n\nSeparately, exchange data showed foreign institutional investors bought Indian shares worth ₹3,598.54 crore, net, on Friday.",
+      "simple_explanation": "When you sell shares for more than you paid, the profit is called a capital gain, and in India you pay tax on it. Foreign investors pay this tax too.\n\nThis year, foreign investors have been selling Indian shares in a big way: about $31 billion worth, a record. One reason, many argue, is that India taxes their profits while some other countries don't.\n\nSo SEBI, the body that regulates India's stock markets, has reportedly asked the government to drop this tax for foreigners who hold shares for more than a year.\n\nThis is only a suggestion. The government will decide in the Budget next February. SEBI also suggested a smaller change that would help ordinary Indian mutual fund investors who move money between funds.",
+      "analogy": "It is like a mall that sees shoppers drifting to a rival mall asking the city to waive its parking fee: it might bring shoppers back, but the city has to weigh the lost fee income and fairness to everyone else.",
+      "why": "SEBI's proposal followed about two years of discussions with foreign investors, Kotak Neo reported. The record outflows this year have raised concern about India's appeal compared with other markets.\n\nAny change would cost the government tax revenue, and taxing foreign investors less than Indians would raise questions of fairness. That is why the final call rests with the government, which will weigh these issues before the Budget. Last week, hopes of a capital gains tax cut lifted Indian shares, as we reported on 29 October.",
+      "implications": {
+        "you": "Nothing changes for now. If the government accepts the mutual fund suggestion in the Budget, switching between funds you have held for over a year might stop triggering a tax bill. Tax rules change often, so check the current rules before acting.",
+        "markets": "If foreign investors paid less tax, they might invest more in India, which could support share prices and the rupee. But this is a recommendation, not a decision.",
+        "economy": "Scrapping the tax would reduce government revenue. Supporters argue it could bring in more foreign money; critics worry about fairness and lost income.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Whether the finance ministry responds, and what the Union Budget in February 2027 says on capital gains tax.",
+      "terms": [
+        "SEBI",
+        "LTCG",
+        "STCG",
+        "Capital gains",
+        "FPI",
+        "FII",
+        "Pre-budget proposals",
+        "Union Budget",
+        "Mutual fund",
+        "STT",
+        "Brokerage"
+      ],
+      "explainers": {
+        "like12": "Imagine you buy a cricket bat for ₹1,000 and later sell it for ₹1,500. You made ₹500. In the world of shares, that extra money is called a 'gain', and the government takes a small part of it as tax.\n\nPeople from other countries also buy Indian company shares. They pay this tax too. This year, many of them have been selling their Indian shares and taking their money away.\n\nSEBI is like the referee of India's share market. It has suggested to the government: 'What if foreigners who keep their shares for more than a year don't pay this tax?' The hope is that they'll come back.\n\nThe government hasn't agreed yet. It will decide in February.",
+        "real_life": "Meet Ananya, a 33-year-old HR executive in Bengaluru. Three years ago she started SIPs in two mutual funds. One has done poorly, and she's been thinking about moving that money into a better fund.\n\nToday, if she does that, the tax system treats it as selling one investment and buying another. She may owe capital gains tax on the profit, even though the money never reached her bank account.\n\nSEBI has now suggested that such switches, after a year, should not be taxed. If the government agrees in February's Budget, Ananya could switch without a tax bill. But nothing has changed yet, and rules can change, so she would need to check the latest rules before deciding."
+      }
+    },
+    {
+      "id": "gst-collections-rise-auto-sales-record-october",
+      "category": "Economy",
+      "title": "GST collections rise 22.9% to ₹2.31 lakh crore in October, and carmakers report record festive-month sales",
+      "tldr": "Gross GST collections rose 22.9% to ₹2.31 lakh crore in October, provisional data released on Sunday showed. Carmakers also reported strong October sales to dealers, with Maruti Suzuki, Mahindra and Hyundai reporting records. Geojit's Vinod Nair said both helped today's market mood.",
+      "what_happened": "Gross GST collections were ₹2,31,290 crore in October 2026, up 22.9% from ₹1,88,125 crore a year earlier, according to provisional data released on Sunday 1 November and reported by ANI and The Tribune. GST on imports rose about 42.2% to about ₹72,246 crore, while domestic collections rose about 15.8% to about ₹1.59 lakh crore. After refunds of about ₹27,934 crore, net GST revenue rose 25.6% to about ₹2.03 lakh crore.\n\nCarmakers reported their October sales to dealers on Sunday. Maruti Suzuki's domestic sales rose about 20% to more than 2.1 lakh vehicles, with reports giving slightly different totals. Mahindra's domestic SUV sales were 73,338, its highest monthly figure, though only 2.4% higher than a year earlier. Tata Motors' domestic passenger vehicle sales rose 20.9% to 73,894, and Hyundai reported a record 62,799, up 16.7%, according to Business Today and Zee Business.\n\nGeojit's Vinod Nair cited strong October auto sales and GST collections among the reasons for today's rise in shares, PTI reported.",
+      "simple_explanation": "GST is the tax you pay on almost everything you buy, from a phone to a restaurant bill. Every month, the government says how much GST it collected.\n\nIn October, it collected ₹2.31 lakh crore, about 23% more than a year ago. GST collected at home rose about 16%, and GST on imports jumped about 42%.\n\nCar companies also had a strong October. October is a festive month, and companies send lots of cars to their dealers ahead of Diwali. Maruti, Hyundai and Mahindra all reported record numbers.\n\nTogether, these numbers suggest people and businesses are spending, which is why investors cheered.",
+      "analogy": "It is like a temple's donation box filling up during festival season: a fuller box shows more visitors, but some of the extra may simply be that each offering costs more this year.",
+      "why": "Festive-season buying usually lifts both GST and car sales in October. GST on imports grew much faster than GST collected on domestic sales this time.\n\nThe car figures are wholesales: cars sent from factories to dealers. Companies often stock up dealers ahead of festivals, so these numbers can run ahead of what customers actually buy. Mahindra's record came with only 2.4% growth, a reminder that not every company grew fast.",
+      "implications": {
+        "you": "If you're planning to buy a car, strong demand can mean fewer discounts and longer waiting times for popular models. GST data itself doesn't change what you pay.",
+        "markets": "Strong sales are good news for car and auto parts companies, and healthy tax collections ease worries about government finances.",
+        "economy": "Rising GST collections suggest healthy spending and give the government more room to spend. A large part of the rise came from GST on imports.",
+        "prices": "No direct effect on prices. Higher collections do not mean higher GST rates."
+      },
+      "watch": "Retail registration data for October and November, which shows how many cars customers actually bought, and whether festive spending holds up after Diwali.",
+      "terms": [
+        "GST",
+        "Net GST revenue",
+        "Provisional",
+        "Year on year",
+        "Monthly auto sales",
+        "Wholesales",
+        "Import bill"
+      ],
+      "explainers": {
+        "like12": "When your family buys a packet of biscuits, a bit of what you pay goes to the government as a tax called GST. Every month, the government counts how much GST it collected.\n\nIn October, it collected a lot more than a year ago, about 23% more. That's like your piggy bank having much more money this Diwali than last Diwali.\n\nCar companies also had a great October. Lots of families buy cars around festivals, so companies sent record numbers of cars to their showrooms.\n\nWhen grown-ups see more tax and more car sales, they think people are spending money, and that businesses are doing well. That's one reason the share market went up today.",
+        "real_life": "Meet Deepa and Arjun, a couple in Jaipur who have been saving for a hatchback. They want to buy before Diwali.\n\nThe record October sales numbers tell them something useful: lots of other families are buying too. Popular models may have waiting periods, and dealers may offer smaller discounts than in a slow month.\n\nThe GST news matters less directly. They'll pay the same GST on their car as before; higher collections don't change the rate. But healthy tax collections give the government more money to spend on roads and other services without borrowing as much. For Deepa and Arjun, the practical lesson is to compare offers and check waiting periods before booking."
+      }
+    },
+    {
+      "id": "rupee-slips-10-paise-it-falls-after-us-tech-selloff",
+      "category": "Global markets",
+      "title": "Rupee slips 10 paise to 94.86 as the dollar firms; Indian IT shares fall after a sharp sell-off in US tech",
+      "tldr": "The rupee fell 10 paise to 94.86 against the dollar (provisional), according to PTI, after a 50-paise gain on Friday. In the US, the Nasdaq fell 2.86% on Friday on worries about tech results and AI spending, and Indian IT shares slipped today. South Korea's Kospi rose 2.24%. Americans vote in midterm elections on Tuesday.",
+      "what_happened": "The rupee opened at 94.90 per dollar, touched a low of 95.04 and settled at 94.86 (provisional), 10 paise weaker, PTI reported. On Friday it had gained 50 paise to close at 94.76. The dollar index, which measures the dollar against six major currencies, was at 101.61.\n\nIn the US on Friday, the Nasdaq Composite fell 2.86% to 25,437.00, the S&P 500 1.82% to 7,580.07, and the Dow Jones 1.09% to 51,770.31, as worries about technology company results and AI spending drove a sell-off, according to Yahoo Finance and TheStreet. For the Nasdaq and the S&P 500, it was their worst day since June.\n\nIn India, Infosys fell 2.34% and Wipro 1.40%. In Asia, South Korea's Kospi reversed early losses to close 2.24% higher at 5,859.08 as investors bought chip shares, Invezz reported. Japan's Nikkei 225 ended lower, while Hong Kong's Hang Seng and Shanghai rose, PTI said.",
+      "simple_explanation": "Two things from abroad affected India today.\n\nFirst, the rupee. One US dollar now costs about ₹94.86, up from ₹94.76 on Friday. That means the rupee got slightly weaker. The main reason was a firmer US dollar around the world. Higher Indian shares and cheaper oil stopped the rupee from falling more.\n\nSecond, American technology shares had a very bad Friday. Investors worry that big tech companies are spending huge sums on AI without earning enough from it yet. Indian IT companies like Infosys and Wipro earn much of their money from American clients, so their shares fell today too.\n\nAmericans vote in elections on Tuesday, and markets are watching closely.",
+      "analogy": "It is like a supplier in Tiruppur whose biggest buyer is a shop abroad: when that shop's business looks shaky, the supplier's own prospects look shakier too, even if nothing has changed at home.",
+      "why": "A firm dollar in overseas markets pulled the rupee lower, while gains in Indian shares and softer crude limited the fall, forex traders told PTI. Gaurav Garg, head of research at Lemonn, said the recovery remained vulnerable given weakness in Asian currencies and uncertainty in global stock markets, and that the rupee would stay sensitive to oil, foreign investor flows and global risk appetite.\n\nThe US sell-off followed disappointing results from technology companies, including Intel, which had one of its worst days in decades, according to reports.",
+      "implications": {
+        "you": "A 10-paise move makes no real difference to everyday costs. If you have an international equity fund that holds US tech shares, its value may have fallen after Friday's sell-off in the US.",
+        "markets": "Indian IT shares often follow US technology shares, because the US is their biggest market. Weakness there can weigh on IT-heavy funds.",
+        "economy": "No direct effect. The rupee remains near 95 per dollar, much weaker than a year ago, which keeps imports, including oil, costly.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "The US midterm elections on Tuesday 3 November, which could move global markets, the dollar and oil.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Dollar index",
+        "Forex trader",
+        "Nasdaq",
+        "S&P 500",
+        "Dow Jones",
+        "IT services",
+        "Semiconductor",
+        "Kospi",
+        "Nikkei 225",
+        "Midterm elections"
+      ],
+      "explainers": {
+        "like12": "Every country has its own money. India has the rupee, America has the dollar. When Indians want to buy something from America, they need dollars, and the price of one dollar in rupees keeps changing.\n\nToday, one dollar cost about ₹94.86, slightly more than on Friday. So the rupee got a tiny bit weaker, but only by 10 paise, which is very small.\n\nAlso, in America, big technology companies had a bad day on Friday. Many Indian computer-services companies, like Infosys, do a lot of work for American companies. So when American tech companies look worried, people get nervous about Indian IT companies too. That's why their shares went down today, even though most other Indian shares went up.",
+        "real_life": "Meet Rohan, a 29-year-old software tester in Chennai who works for an Indian IT company. Most of his company's clients are in the US.\n\nToday, his company's shares fell while the rest of the market rose. That doesn't mean his job is at risk tomorrow. One day's share price fall reflects investors' mood, not the company's order book.\n\nBut it's worth understanding. If US companies cut back spending on technology, Indian IT firms may hire less and give smaller raises. Rohan also has a small SIP in an IT sector fund, which dipped today. A fund tied to one sector swings more than a broad index fund, which is why many people spread their savings across different kinds of funds."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Crack spread",
+    "explanation": "A crack spread is the difference between the price of refined fuels, like diesel, petrol and jet fuel, and the price of the crude oil they are made from.\n\nRefining is called 'cracking' because it breaks crude oil into lighter products. A refiner's earnings depend less on whether crude is cheap or costly and more on this gap. If crude rises by $10 but diesel rises by $20, the refiner earns more per barrel, even though its raw material got costlier.\n\nCracks widen when fuels are scarce compared with crude, for example when a war disrupts refineries or shipping routes, or when demand for diesel jumps. They narrow when there is plenty of fuel around.\n\nThat's why expensive oil can be bad news for a country like India and its fuel retailers, yet good news for a big refiner that exports fuel, like Reliance.",
+    "example": "Reliance's oil-to-chemicals business saw its EBITDA jump 67.9% from a year earlier to ₹25,203 crore in July–September, helped by tighter global fuel markets and stronger fuel cracks, The Hans India reported. Its shares rose 11.64% on Monday.",
+    "takeaway": "A refiner's profit depends on the gap between fuel and crude prices, not on the price of crude alone, so the same oil shock can hurt fuel buyers and help refiners."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Monday?",
+      "options": [
+        "Down 1,233.25 points",
+        "Up 308.49 points",
+        "Up 1,233.25 points, or 1.66%",
+        "Unchanged"
+      ],
+      "answer": 2,
+      "why": "The Sensex rose 1,233.25 points, or 1.66%, to 75,692.78. The 308-point rise was Friday's."
+    },
+    {
+      "q": "Why did Reliance's refining business earn so much more this quarter?",
+      "options": [
+        "Crude oil became free",
+        "The gap between fuel prices and crude prices widened",
+        "It stopped making petrol",
+        "The RBI cut interest rates"
+      ],
+      "answer": 1,
+      "why": "Tighter global fuel markets widened 'crack spreads', the gap between what refined fuels sell for and what crude costs, so each barrel refined earned more."
+    },
+    {
+      "q": "Why did oil prices fall about 4% on Monday?",
+      "options": [
+        "OPEC stopped producing oil",
+        "Iran and Qatar held talks on ending the conflict",
+        "India stopped importing oil",
+        "The rupee strengthened sharply"
+      ],
+      "answer": 1,
+      "why": "Hopes of a diplomatic deal eased fears that Gulf oil supplies would be disrupted, so traders cut prices."
+    },
+    {
+      "q": "What has SEBI reportedly recommended?",
+      "options": [
+        "Banning foreign investors",
+        "Raising GST on shares",
+        "Scrapping long-term capital gains tax for foreign investors",
+        "Closing the stock market on Mondays"
+      ],
+      "answer": 2,
+      "why": "SEBI has reportedly suggested removing the 12.5% LTCG tax for foreign portfolio investors. It is only a recommendation; the government will decide in the Budget."
+    },
+    {
+      "q": "When a carmaker reports monthly 'sales', what does it usually mean?",
+      "options": [
+        "Cars registered by customers",
+        "Cars sent from factories to dealers",
+        "Cars exported abroad only",
+        "Cars still being built"
+      ],
+      "answer": 1,
+      "why": "Company sales figures are usually wholesales: dispatches to dealers. Retail sales to customers can be higher or lower."
+    },
+    {
+      "q": "The rupee moved from 94.76 to 94.86 per dollar. What does that mean?",
+      "options": [
+        "The rupee got stronger",
+        "The rupee got slightly weaker",
+        "Oil got more expensive",
+        "Nothing changed"
+      ],
+      "answer": 1,
+      "why": "A higher number means you need more rupees to buy one dollar, so the rupee weakened, by 10 paise."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kotak Neo: Closing Bell 2 November 2026, Sensex, Nifty 50 end higher for the third straight day",
+      "url": "https://www.kotakneo.com/news/market-news/markets-extend-rally-and-end-higher/"
+    },
+    {
+      "title": "DT Next (PTI): Sensex jumps 1,233 points on sharp rally in Reliance, steep fall in oil prices",
+      "url": "https://www.dtnext.in/news/business/sensex-jumps-1233-points-on-sharp-rally-in-reliance-steep-fall-in-oil-prices"
+    },
+    {
+      "title": "Deccan Herald (PTI): Sensex jumps 1,233 points on Reliance rally and oil price fall",
+      "url": "https://www.deccanherald.com/business/markets/sensex-jumps-1233-points-on-sharp-rally-in-reliance-steep-fall-in-oil-prices-4204293"
+    },
+    {
+      "title": "Zee Business: Closing Bell, BSE-listed firms add Rs 8 lakh crore in mcap as Sensex jumps 1,233 points",
+      "url": "https://www.zeebiz.com/market-news/news-closing-bell-bse-listed-firms-add-rs-8-lakh-crore-in-mcap-as-sensex-jumps-1233-points-nifty-ends-above-23400-404950"
+    },
+    {
+      "title": "Investing.com: India shares higher at close of trade; Nifty 50 up 1.68%",
+      "url": "https://in.investing.com/news/stock-market-news/india-shares-higher-at-close-of-trade-nifty-50-up-168-5670929"
+    },
+    {
+      "title": "The Hans India: Reliance Industries Q2 profit jumps 22 pc on strong O2C, Jio performance",
+      "url": "https://www.thehansindia.com/business/reliance-industries-q2-profit-jumps-22-pc-on-strong-o2c-jio-performance-1137589"
+    },
+    {
+      "title": "Yahoo Finance (Reuters): Oil prices fall nearly 4% as Iran-Qatar talks raise hopes of diplomatic progress",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-nearly-4-103102413.html"
+    },
+    {
+      "title": "HDFC Sky (PTI): Rupee falls 10 paise to close at 94.86 against US dollar",
+      "url": "https://hdfcsky.com/news/rupee-falls-10-paise-to-close-at-94-86-against-us-dollar"
+    },
+    {
+      "title": "Kotak Neo: SEBI proposes scrapping LTCG tax for foreign investors amid $31 billion stock outflows",
+      "url": "https://www.kotakneo.com/news/regulations/sebi-proposes-removal-of-ltcg-tax-for-foreign-investors/"
+    },
+    {
+      "title": "BW Businessworld: Sebi proposes LTCG tax exemption for foreign investors",
+      "url": "https://www.businessworld.in/article/sebi-proposes-ltcg-tax-exemption-for-foreign-investors-631702"
+    },
+    {
+      "title": "Business Standard: Sebi backs LTCG tax relief",
+      "url": "https://www.business-standard.com/amp/markets/news/sebi-backs-ltcg-tax-relief-what-shankar-sharma-samir-arora-said-earlier-126110200591_1.html"
+    },
+    {
+      "title": "ANI: Gross GST collections rise 22.9% to Rs 2.31 lakh crore in October, net revenue up 25.6%",
+      "url": "https://aninews.in/news/business/gross-gst-collections-rise-229-to-rs-231-lakh-crore-in-october-net-revenue-up-25620261101123835/"
+    },
+    {
+      "title": "Business Today: Festive boom, Maruti, Mahindra, Tata Motors, Hyundai post record domestic sales in October",
+      "url": "https://www.businesstoday.in/auto/story/festive-boom-maruti-mahindra-tata-motors-hyundai-post-record-domestic-sales-in-october-565002-2026-11-01"
+    },
+    {
+      "title": "Zee Business: Auto sales October 2026, who gained, who lagged",
+      "url": "https://www.zeebiz.com/automobile/news-auto-sales-october-2026-maruti-hyundai-mahindra-tata-motors-eicher-force-who-gained-who-lagged-404898"
+    },
+    {
+      "title": "TheStreet: Stock market today (Oct. 30, 2026), Intel, Reddit are latest tech earnings casualties as Nasdaq sinks nearly 3%",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+    },
+    {
+      "title": "Yahoo Finance: How major US stock indexes fared Friday 10/30/2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-202111310.html"
+    },
+    {
+      "title": "Invezz: Kospi reverses early decline to close 2.24% higher as Korean chip exports jump",
+      "url": "https://invezz.com/ng/news/2026/11/02/kospi-reverses-early-decline-to-close-224percent-higher-as-korean-chip-exports-jump-259percent/"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "How many shares rose compared with how many fell on a given day.",
+      "more": "Market breadth shows how widespread a market move is. Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, tells you whether a move is broad or narrow. On Friday, 2,131 NSE shares rose and 1,422 fell, so breadth was positive. It's like checking whether the whole class improved, not just the toppers."
+    },
+    {
+      "term": "Market capitalisation",
+      "definition": "The total value of all of a company's shares at today's price. Added up across companies, it shows the value of the whole market.",
+      "more": "Market capitalisation, or market cap, is the share price multiplied by the number of shares a company has issued. Add up the market cap of every company on the BSE and you get the value of the whole exchange. When headlines say 'investors lost ₹6 lakh crore', they mean this total fell by that much during the day. It's like the estimated value of every house in your colony falling because prices nearby dropped: nobody paid anyone, and the loss is only on paper unless people sell."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Nifty Oil & Gas",
+      "definition": "An NSE index that tracks oil, gas and fuel companies such as Reliance, ONGC and the oil marketing companies.",
+      "more": "The Nifty Oil & Gas index follows companies that explore for oil and gas, refine it, or sell fuel and gas to customers. Reliance is by far its biggest member, so a big move in Reliance can swing the whole index, as it did today. Oil prices affect these companies in different ways: producers like ONGC earn more when crude rises, while fuel retailers and gas distributors can be squeezed. It's a bit like a cricket team with one superstar: when that player scores big, the whole team's total jumps."
+    },
+    {
+      "term": "Metal stocks",
+      "definition": "Shares of companies that mine or make metals like steel, aluminium, copper and zinc.",
+      "more": "Metal stocks include steelmakers like Tata Steel and JSW Steel, and companies like Hindalco and Vedanta. Their profits rise and fall with global metal prices, which in turn depend on how fast economies are building roads, factories and homes. China is the world's biggest metal buyer, so news from China matters a lot. These shares often swing more than the overall market. It's like a construction labourer's income: plenty of work in boom times, lean months when building slows."
+    },
+    {
+      "term": "Heavyweight stock",
+      "definition": "A very large company whose share price has a big influence on an index like the Sensex or Nifty.",
+      "more": "Indices like the Nifty give bigger companies more weight. So a 4% rise in a giant like Reliance Industries or ICICI Bank moves the index far more than a 4% rise in a smaller member. It's like a class average where a few students' marks count several times over. That is why news reports often say a few heavyweights 'led' or 'dragged' the market. When only heavyweights rise and most other shares fall, the index can look strong even though the typical share had a bad day. Checking market breadth helps you spot this."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that write software, run computer systems and provide tech support for clients, mostly abroad.",
+      "more": "India's IT services firms, such as TCS, Infosys, Wipro, HCLTech and Tech Mahindra, do technology work for banks, shops, airlines and governments around the world. Most of their revenue comes in dollars or euros, while most of their staff are paid in rupees. So a weaker rupee usually helps their profits. It's like a tailor in Tiruppur stitching for foreign buyers: paid in dollars, spending in rupees. IT firms are big parts of the Sensex and Nifty, so their results can move the whole market."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Minority interest",
+      "definition": "The share of a group's profit that belongs to outside investors in its subsidiaries, not to the parent company's own shareholders.",
+      "more": "Big groups often own most, but not all, of their subsidiaries. If Reliance owns, say, two-thirds of a unit, the other third of that unit's profit belongs to outside investors. That slice is called minority interest. So a group can report two profit figures: total profit, and the part 'attributable' to its own shareholders. It's like a family that owns a shop with a partner: the shop's whole profit is bigger than what the family actually takes home. News reports sometimes quote one figure and sometimes the other, which can look confusing."
+    },
+    {
+      "term": "Year on year",
+      "definition": "A comparison with the same period a year earlier, such as July–September this year versus July–September last year.",
+      "more": "Companies and governments usually compare a quarter's numbers with the same quarter of the previous year, called year on year or YoY. This avoids being misled by seasons: a sweet shop always sells more around Diwali, so comparing October with July would be unfair, but comparing this October with last October is fair. When a report says 'profit rose 6% year on year', it means profit was 6% higher than in the same quarter last year. You may also see 'quarter on quarter', which compares with the previous three months."
+    },
+    {
+      "term": "Quarter-on-quarter",
+      "definition": "Comparing a figure with the previous three-month period, rather than the same period a year ago.",
+      "more": "Company results and economic data are often compared in two ways. Year-on-year compares this quarter with the same quarter last year, which removes seasonal effects like festive sales. Quarter-on-quarter, also called 'sequential', compares it with the immediately previous quarter, showing the latest direction of travel. It's like checking your weight against last month as well as against last year. For IT companies, quarter-on-quarter growth in constant currency is closely watched because it shows how demand changed most recently."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "EBITDA",
+      "definition": "A company's earnings before interest, taxes, depreciation and amortisation: roughly, the profit from its day-to-day business.",
+      "more": "EBITDA strips out costs that depend on how a company is funded or taxed, like interest on loans and wear and tear on machines, to show how much the core business earns. The EBITDA margin is EBITDA as a share of revenue. If a tea company sells ₹100 worth of goods and keeps ₹14 after paying for tea leaves, salaries, transport and advertising, its EBITDA margin is 14%. Investors watch margins closely, because a company can sell more and still earn less if its costs rise faster. Results reports often say margins 'expanded' or 'contracted' by some basis points."
+    },
+    {
+      "term": "O2C",
+      "definition": "Short for oil-to-chemicals: Reliance's business of refining crude oil into fuels and turning it into chemicals and plastics.",
+      "more": "Reliance runs one of the world's largest refining complexes, at Jamnagar in Gujarat. Its oil-to-chemicals, or O2C, business buys crude oil, turns it into petrol, diesel and jet fuel, and also makes chemicals used in plastics and fabrics. Its earnings depend heavily on crack spreads, the gap between fuel prices and crude prices. Think of it as a giant kitchen whose profit depends on what the dishes sell for compared with the cost of ingredients. In Reliance's results, O2C is usually reported alongside its telecom (Jio) and retail businesses."
+    },
+    {
+      "term": "Crack spread",
+      "definition": "The gap between the price of refined fuels like diesel and petrol and the price of the crude oil they are made from.",
+      "more": "A refiner buys crude oil and sells diesel, petrol and jet fuel. The crack spread, or 'crack', is roughly what it earns per barrel for doing that work. It's like a dhaba owner's margin between the cost of raw dal and rice and the price of a plate of dal-chawal. When fuel is scarce, as during a war that disrupts supply, cracks can widen sharply even if crude itself is expensive. That is why news about refiners such as Reliance often mentions 'stronger fuel cracks'."
+    },
+    {
+      "term": "Telecom",
+      "definition": "Short for telecommunications: companies that run mobile, broadband and phone networks.",
+      "more": "Telecom companies such as Bharti Airtel, Reliance Jio and Vodafone Idea sell mobile and internet services. They spend huge sums on towers, cables and spectrum, the airwaves they rent from the government, and earn back the money through monthly plans. A key measure for them is average revenue per user: how much each customer pays a month. When they raise tariffs, your mobile recharge costs more. It's like a toll road: costly to build, then paid for bit by bit by everyone who uses it. Telecom shares often move together on news about tariffs, spectrum or a big rival."
+    },
+    {
+      "term": "ARPU",
+      "definition": "Average revenue per user: how much a telecom company earns, on average, from each customer each month.",
+      "more": "ARPU stands for average revenue per user. A telecom company like Jio or Airtel divides its revenue by its number of customers to get it. If your mobile plan costs ₹299 a month, you are adding ₹299 to that average. ARPU rises when companies raise tariffs or when customers move to costlier plans with more data. Analysts watch it closely because, once almost everyone already has a phone, getting more from each user is the main way to grow. A rising ARPU can also mean higher mobile bills for households."
+    },
+    {
+      "term": "Index weight",
+      "definition": "How much influence one company has on an index such as the Sensex or Nifty, based mostly on its size.",
+      "more": "The Sensex and Nifty don't treat all their companies equally. Bigger companies, measured by the value of shares freely available to trade, get a bigger weight, so a 1% move in a giant like HDFC Bank or Infosys shifts the index far more than a 1% move in a smaller member. That is why the Nifty can barely move while thousands of smaller shares fall sharply. It's like a family's average monthly spending being driven mostly by rent, not by the newspaper bill. News reports say 'heavyweights' when they mean high-weight shares."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "WTI",
+      "definition": "West Texas Intermediate: the main benchmark price for crude oil produced in the United States.",
+      "more": "WTI is a type of light crude oil produced in the US, and its price is the main reference for American oil. It usually trades a few dollars below Brent, the international benchmark India watches most closely. When both rise together, it tells you the price jump is global, not a local problem. It's like comparing the price of rice in two big wholesale mandis: if both go up, the shortage is widespread. News reports often quote both, as in 'Brent at $114, WTI at $101'."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Oil inventories",
+      "definition": "Stocks of crude oil and fuel stored in tanks around the world, which act as a cushion when supply is disrupted.",
+      "more": "Countries and companies keep crude oil and fuel in storage tanks and underground caverns. These inventories help when supply is cut, for example when ships cannot pass through a key route. If inventories are drawn down for months, the cushion shrinks and prices can jump more easily on any new trouble. It's like a household's store of rice and dal: a full store lets you ride out a week of shortages calmly, a nearly empty one makes every rumour of scarcity worrying."
+    },
+    {
+      "term": "Risk premium",
+      "definition": "The extra amount buyers pay, or sellers demand, because of the fear that something bad might happen, even before it actually does.",
+      "more": "A risk premium is the part of a price that comes from worry rather than from today's facts. In oil, if attacks threaten supply, traders bid prices up in case barrels go missing later, even when every barrel is still flowing. It is like vegetable prices rising in a market when people hear a truckers' strike might start: nothing has run out yet, but buyers pay extra to be safe. News reports say the premium 'eases' when the fear fades, and prices can then drop quickly."
+    },
+    {
+      "term": "Midterm elections",
+      "definition": "US national elections held halfway through a president's four-year term, mainly for seats in Congress.",
+      "more": "In the US, the president is elected every four years, but elections for the whole House of Representatives and about a third of the Senate happen every two years. The ones that fall in the middle of a president's term are called midterms; this year they are on 3 November. The results decide which party controls Congress, which can make it easier or harder for the president to pass laws. It's a bit like a mid-term vote on a housing society committee that can change who controls the budget. Markets watch them because policy on taxes, trade and war can shift afterwards."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "SEBI",
+      "definition": "The Securities and Exchange Board of India, the regulator that oversees the stock market.",
+      "more": "SEBI makes and enforces the rules for stock exchanges, brokers, mutual funds, listed companies and IPOs. Its job is to protect investors and keep markets fair. It can fine companies, ban traders and change how trading works, like Friday's new closing-auction rules. Think of it as the umpire in a cricket match: it doesn't play, but it makes sure everyone follows the rules. SEBI announcements usually come as circulars or board-meeting decisions."
+    },
+    {
+      "term": "LTCG",
+      "definition": "Long-term capital gains: profit from selling an investment you held for a long time. For listed shares and equity funds, that currently means more than a year.",
+      "more": "LTCG tax is the tax on those long-term profits. For listed shares and equity mutual funds, reports say the rate is currently 12.5% on gains above ₹1.25 lakh a year, but the government changes these rules from time to time, usually in the Budget. Think of it as the government taking a small share of the profit from a mango tree you planted and waited years to harvest. Investor groups often ask for lower LTCG tax, saying it would encourage long-term investing; others say the tax is fair because these profits are income too."
+    },
+    {
+      "term": "STCG",
+      "definition": "Short-term capital gains: profit from selling an investment you held only for a short time, taxed at a higher rate.",
+      "more": "STCG stands for short-term capital gains. For listed shares and equity mutual funds in India, a gain is usually 'short-term' if you sell within a year of buying. It is taxed at a higher rate than long-term gains, to encourage people to stay invested longer. Think of it like a shopkeeper charging a higher fee if you return something quickly. Tax rates and limits for short-term and long-term gains change from time to time, often in the Union Budget, so check the current rules before relying on any number."
+    },
+    {
+      "term": "Capital gains",
+      "definition": "The profit you make when you sell something, like shares or a flat, for more than you paid for it.",
+      "more": "If you bought shares for ₹50,000 and sold them for ₹60,000, your capital gain is ₹10,000. You only have a gain once you sell; until then it's just a rise in value on paper. It's like buying a plot of land: if land prices rise, you feel richer, but the money is only in your hands when you sell. The government taxes these profits, and the rate depends on what you sold and how long you held it. News reports often talk about 'short-term' and 'long-term' gains."
+    },
+    {
+      "term": "FPI",
+      "definition": "Foreign portfolio investor: a foreign fund or investor that buys Indian shares, bonds or similar investments, registered with SEBI.",
+      "more": "FPI is the official term SEBI uses for foreign investors who buy financial investments in India, such as shares and bonds, without taking control of a company. In everyday market news, 'FII' and 'FPI' are often used to mean the same group. Before they can invest, FPIs must register and complete checks, which can take time and paperwork. Think of it as the entry process at a big exhibition: the quicker and simpler the gate, the easier it is for visitors to come in. Their buying and selling can move the Sensex and the rupee."
+    },
+    {
+      "term": "Pre-budget proposals",
+      "definition": "Suggestions that regulators, industry groups and others send to the finance ministry before the Union Budget is drawn up.",
+      "more": "Every year, before the Union Budget, the finance ministry hears from many groups: industry bodies, regulators like SEBI, economists and farmers' groups. Each asks for tax changes or spending it would like. These are only suggestions. The government decides what, if anything, goes into the Budget. It's like family members telling the person who manages the household budget what they'd like this year: some wishes are granted, many are not. News reports of such proposals often move shares, but they are not policy until announced."
+    },
+    {
+      "term": "Union Budget",
+      "definition": "The central government's yearly plan for how it will earn and spend money, presented by the Finance Minister, usually on 1 February.",
+      "more": "The Budget sets out tax rates, spending on things like roads, defence and subsidies, and how much the government will borrow. It's like a family sitting down at the start of the year to decide how much they expect to earn, what they will spend on rent, school fees and festivals, and how much they may need to borrow. Changes to income tax, capital gains tax and STT are usually announced in the Budget, which is why markets watch it closely and why talk about it starts months earlier."
+    },
+    {
+      "term": "Mutual fund",
+      "definition": "A pool of money from many investors that a professional manager invests in shares, bonds or both.",
+      "more": "A mutual fund collects money from thousands of people and invests it on their behalf. Each investor owns 'units' whose value rises or falls with the fund's investments. It's like a group of friends pooling money to buy a big box of sweets and sharing them in proportion to what each paid. Most Indian SIPs go into mutual funds. Funds charge a small yearly fee. When you move money from one fund to another, the tax system usually treats it as selling one investment and buying another, which can create a tax bill."
+    },
+    {
+      "term": "STT",
+      "definition": "Securities transaction tax: a small tax charged every time shares or derivatives are bought or sold on an exchange.",
+      "more": "STT is collected automatically by the exchange on each trade, whether you make a profit or a loss. The rate is tiny on each trade, but it adds up for people who trade often, especially in futures and options. It's a bit like a toll you pay every time you drive through a booth, no matter where you're going. The government uses it as a simple way to collect tax from market activity. Traders and brokers often argue that a high STT makes trading costlier and reduces activity on Indian exchanges."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "GST",
+      "definition": "Goods and Services Tax: the tax added to the price of most things you buy in India, collected by the central and state governments.",
+      "more": "GST replaced many older taxes in 2017. When you pay a restaurant bill or buy a phone, part of the price is GST, and the shop passes it on to the government. Every month the government reports how much GST it collected. 'Gross' is the total; 'net' is what remains after refunds to businesses. Higher collections usually mean more buying and selling in the economy, and give the government more money for roads, schemes and salaries. GST rates differ by product and are changed from time to time by the GST Council."
+    },
+    {
+      "term": "Net GST revenue",
+      "definition": "GST collected after subtracting the refunds the government pays back to businesses.",
+      "more": "Businesses pay GST on what they sell, but some, such as exporters, can claim refunds of tax already paid. Gross GST is the total collected. Net GST is what is left after those refunds. It's like a shop's takings at the end of the day minus the money returned to customers who brought items back. The government publishes both numbers on the 1st of each month for the previous month. Higher collections can reflect more spending in the economy, though tax rate changes and imports also affect the totals."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the daily FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 94.82 but finally came in at 94.81. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen, which is why reports often add '(provisional)' after a number."
+    },
+    {
+      "term": "Monthly auto sales",
+      "definition": "The number of vehicles each carmaker and two-wheeler maker sold in a month, published on the first day of the next month.",
+      "more": "On the 1st of every month, companies such as Maruti Suzuki, Mahindra & Mahindra, Tata Motors and Bajaj Auto announce how many vehicles they sent to dealers in the previous month. Investors treat these numbers as an early report card, weeks before full quarterly results. They also read them as a sign of how much ordinary families are spending, because a scooter or car is often a household's biggest purchase after a home. Reports split the figures into domestic sales and exports, and compare them year-on-year."
+    },
+    {
+      "term": "Wholesales",
+      "definition": "Vehicles a carmaker sends from its factories to dealers, which companies report as monthly sales.",
+      "more": "When Maruti or Tata Motors reports 'sales' at the start of each month, it usually means wholesales, or dispatches: cars sent from factories to dealers. That is different from retail sales, which are cars actually bought by customers and registered with the transport department. Before a festival, companies often fill dealers' showrooms, so wholesales can jump ahead of retail sales. It's like a sweet shop stocking up before Diwali: the shop's purchases rise before customers have actually bought the sweets. Analysts watch both numbers."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "Forex trader",
+      "definition": "Someone at a bank or firm who buys and sells currencies, such as dollars and rupees.",
+      "more": "Forex is short for foreign exchange. Forex traders work at banks and financial firms, buying and selling currencies for companies that need dollars to pay for imports, for investors moving money in or out of India, and for their own bank's account. Because the RBI does not always announce what it does in the currency market on the day, news reports often quote what forex traders say is moving the rupee. Think of them as the regulars at a vegetable mandi who know why prices moved today."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    }
+  ]
+}
