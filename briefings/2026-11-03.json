@@ -1,0 +1,748 @@
+{
+  "date": "2026-11-03",
+  "session_label": "Tuesday 3 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex rose 1,225 points to 76,917 for a fourth straight gain, led by FMCG shares as Marico jumped 10%; SBI fell despite a 14% profit rise, broker shares rallied on tax hopes, and the rupee gained 13 paise to 94.71.",
+  "mood": "Upbeat",
+  "mood_note": "Another broad, confident rise: most shares gained, led by consumer goods and private banks. Government-owned banks were the weak spot, and oil crept back up after a US strike on Iran.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Monday we reported Brent crude down about 4% near $109 at 3:37 pm. It kept falling and ended the day 7.63% lower at $104.77, according to news reports.",
+    "We reported the rupee at 94.86 per dollar (provisional) on Monday. The final figure was 94.84, an 8-paise fall, according to PTI.",
+    "Exchange data showed foreign institutional investors bought Indian shares worth ₹3,114.68 crore, net, on Monday, a second straight day of heavy buying, while domestic institutions sold ₹392.20 crore."
+  ],
+  "one_minute": [
+    "The Sensex rose 1,225.07 points (1.62%) to 76,917.85 and the Nifty 50 rose 370.05 points (1.58%) to 23,810.85, a fourth straight gain. FMCG shares led, up 3.65%.",
+    "Marico rose 10% after a 29% jump in quarterly profit and a raised growth forecast; Nestle India and Tata Consumer also rose more than 4%.",
+    "SBI's profit rose 14.3% to ₹23,038 crore, helped by a one-time gain, but its operating profit fell and its shares slipped 1.70%.",
+    "Broker and exchange shares rallied after the Finance Minister acknowledged investors' worries about taxes on shares; Angel One rose 7.03%.",
+    "Brent crude edged up to about $105 after a US strike on Iran's Qeshm Island; the rupee gained 13 paise to 94.71, and gold fell 1.28% before Dhanteras."
+  ],
+  "big_picture": "Indian shares rose for a fourth day in a row on Tuesday, and once again the gains were broad.\n\nThe Sensex jumped 1,225 points. This time the stars were companies that make everyday goods, like Marico, the maker of Parachute oil, whose profit rose sharply. Big private banks such as HDFC Bank also rose. Analysts credited lower oil prices than last week, strong company results and steady buying by foreign investors.\n\nTax hopes helped too. The Finance Minister said she understood investors' worries about taxes on share profits. She promised nothing, but shares of brokers and exchanges jumped.\n\nNot everything rose. SBI, India's biggest bank, reported higher profit, but much of it came from a one-off gain, and its shares fell.\n\nOil crept back up after a US strike on an Iranian island, a reminder that the conflict is not over. Americans vote in midterm elections today, and results arrive on Wednesday, India time.",
+  "chain": [
+    {
+      "label": "Oil stays lower",
+      "note": "Brent ended Monday down 7.63% at $104.77 and only edged up today, near $105, despite a US strike on Iran."
+    },
+    {
+      "label": "Strong results",
+      "note": "Marico's profit rose 29% and it raised its forecast; analysts cited a healthy September quarter for many companies."
+    },
+    {
+      "label": "Foreign buying",
+      "note": "Foreign investors bought ₹3,114.68 crore of shares, net, on Monday, after buying ₹3,598.54 crore on Friday."
+    },
+    {
+      "label": "Tax hopes",
+      "note": "The Finance Minister acknowledged worries over taxes on shares, lifting brokers and exchanges."
+    },
+    {
+      "label": "Sensex up 1,225",
+      "note": "The Sensex closed 1.62% higher at 76,917.85 and the Nifty 1.58% higher at 23,810.85, a fourth straight gain."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "76,917.85",
+      "change": "+1,225.07 (+1.62%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It has now risen for four days in a row."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "23,810.85",
+      "change": "+370.05 (+1.58%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Its first close above 23,800 since August, Indian Opinion reported."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "58,596.25",
+      "change": "+1.06%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "18,652.85",
+      "change": "+0.31%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller companies."
+    },
+    {
+      "name": "Nifty FMCG",
+      "value": "",
+      "change": "+3.65%",
+      "direction": "up",
+      "what_it_is": "This tracks makers of everyday goods like soap, food and drinks. It was the best sector today."
+    },
+    {
+      "name": "Nifty PSU Bank",
+      "value": "",
+      "change": "-1.27%",
+      "direction": "down",
+      "what_it_is": "This tracks government-owned banks such as SBI. It was the worst sector today."
+    },
+    {
+      "name": "India VIX",
+      "value": "15.67",
+      "change": "+1.09%",
+      "direction": "up",
+      "what_it_is": "The market's 'fear gauge': it estimates how much traders expect the Nifty to swing over the next month."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.71",
+      "change": "stronger by 13 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude (January)",
+      "value": "$105.46",
+      "change": "slightly higher (at about 3:36 pm IST)",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for fuel prices and the rupee."
+    },
+    {
+      "name": "MCX gold (December)",
+      "value": "₹1,38,398",
+      "change": "-1.28%",
+      "direction": "down",
+      "what_it_is": "The price of 10 grams of gold in Indian futures trading. Shop prices also include GST and making charges."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-jumps-1225-fourth-day-fmcg-leads",
+      "category": "Stock market",
+      "title": "Sensex jumps 1,225 points for a fourth straight gain, as FMCG and private bank shares lead",
+      "tldr": "The Sensex rose 1,225.07 points, or 1.62%, to 76,917.85, and the Nifty 50 rose 370.05 points, or 1.58%, to 23,810.85. It was the fourth straight day of gains. Consumer goods (FMCG) shares led with a 3.65% jump, and HDFC Bank did most to lift the Nifty. Government-owned banks fell.",
+      "what_happened": "The Sensex rose 1,225.07 points, or 1.62%, to 76,917.85, and the Nifty 50 rose 370.05 points, or 1.58%, to 23,810.85, Upstox and Kotak Neo reported. It was the fourth straight day of gains. Indian Opinion reported that the Nifty closed above 23,800 for the first time since August.\n\nMost shares rose. On the NSE, 2,127 shares went up and 1,477 went down, and companies listed there added about ₹4.71 lakh crore in market value, Upstox said. The Nifty Midcap 100 rose 1.06% and the Nifty Smallcap 100 0.31%.\n\nThe Nifty FMCG index jumped 3.65%, the best sector, followed by Realty (2.33%), Private Bank (1.98%) and Auto (1.71%). The Nifty PSU Bank index fell 1.27%. Among Nifty 50 shares, BSE Ltd rose 5.03%, Nestle India 4.47%, Tata Consumer 4.29% and Bharti Airtel 3.77%; Power Grid fell 3.04% and SBI 1.70%. HDFC Bank, up 3.64%, added more points to the Nifty than any other share, DSIJ reported. India VIX, the 'fear gauge', rose 1.09% to 15.67.",
+      "simple_explanation": "Indian shares had another very good day, their fourth in a row. The Sensex rose about 1.6%.\n\nThis time the leaders were companies that make everyday goods, like soap, hair oil, coffee and noodles. Marico, the maker of Parachute oil, reported strong profits and its shares jumped 10%. Big private banks like HDFC Bank also rose.\n\nShares of companies that run stock exchanges and broking apps did well too, after the Finance Minister spoke about investors' worries over tax. That's our fourth story.\n\nThe main weak spot was government-owned banks, led by SBI, whose results disappointed traders.",
+      "analogy": "It is like a cricket team winning its fourth match in a row, with a different set of players starring each time: Reliance led on Monday, and today it was the consumer companies and private banks.",
+      "why": "Analysts credited lower crude oil prices, strong September-quarter company results, renewed buying by foreign investors and a sharp fall in US bond yields, Indian Opinion reported. Foreign institutional investors bought shares worth ₹3,114.68 crore, net, on Monday, while domestic institutions sold ₹392.20 crore, according to provisional exchange data.\n\nDSIJ also linked the jump in FMCG shares to a global shift away from technology shares tied to artificial intelligence, as worries grew about how much tech firms are spending on AI.",
+      "implications": {
+        "you": "If you hold a Nifty 50 index fund or an equity mutual fund through a SIP, its value probably rose again today. Four good days in a row are pleasant, but a SIP is built for years, not days.",
+        "markets": "The Nifty has gained nearly 5% over four sessions, its biggest four-day rally in seven months, Fortune India reported, according to Indian Opinion. Broad gains, with more shares rising than falling, are usually seen as healthier than a rally led by a few names.",
+        "economy": "No direct effect on the economy. Strong results from consumer companies suggest people are buying more everyday goods.",
+        "prices": "No direct effect on everyday prices today."
+      },
+      "watch": "The US midterm election results, due on Wednesday India time, and whether oil prices stay calm after a US strike on an Iranian island (our fifth story).",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "Market capitalisation",
+        "Sectoral index",
+        "FMCG",
+        "Realty",
+        "Private bank",
+        "PSU bank",
+        "India VIX",
+        "FII",
+        "DII",
+        "Provisional",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine a class where the average marks have gone up in four tests in a row. On Monday, the class topper did brilliantly. Today, the stars were different students.\n\nThe Sensex is a number that follows 30 big companies, and it went up again today. The biggest winners were companies that make things you use every day: soap, hair oil, coffee, chocolates. One of them, the company that makes Parachute coconut oil, announced it made a lot more money than last year, and its share price jumped by a tenth.\n\nNot everyone did well. Some banks owned by the government, like SBI, had a bad day. But most companies went up, so overall it was a happy day.",
+        "real_life": "Meet Rohit, a 31-year-old bank clerk in Indore. He invests ₹4,000 a month in a flexi-cap mutual fund through a SIP and has about ₹2 lakh saved in it.\n\nOver the past four days, his fund has probably gained a few thousand rupees as the market rose almost 5%. He also notices that HDFC Bank and Nestle, which his fund owns, did well today.\n\nShould Rohit change anything? No. Last month his fund dipped for a while, and next month it might again. His SIP keeps buying units every month, at high prices and low ones. What matters for his goal, a home down payment in eight years, is that he keeps saving steadily, not how one week turned out."
+      }
+    },
+    {
+      "id": "marico-surges-10-percent-fmcg-rally",
+      "category": "Companies",
+      "title": "Marico jumps 10% after its profit rises 29% and it raises its growth forecast, lifting consumer goods shares",
+      "tldr": "Marico, which makes Parachute coconut oil and Saffola, reported a 29% rise in quarterly profit to ₹558 crore and raised its forecast for this year. Its shares rose 10%, the best among midcaps. Other consumer goods makers, including Nestle India and Tata Consumer, also rose sharply, and the Nifty FMCG index gained 3.65%.",
+      "what_happened": "Marico's consolidated net profit for July–September rose 29.16% from a year earlier to ₹558 crore, PTI reported, via Business Standard. Profit in its India business grew 31%, its fastest growth in 51 quarters, PTI said. Revenue rose 13% to ₹3,897 crore, Upstox reported. The company announced its results on Monday.\n\nMarico also raised its guidance for the current financial year and now expects to reach its revenue target of ₹20,000 crore a year earlier than planned, by 2028–29 instead of 2029–30, according to Upstox.\n\nThe shares rose 10%, the biggest gain in the Nifty Midcap 100, Upstox reported. Other consumer goods makers also rose: Nestle India gained 4.47%, Tata Consumer Products 4.29% and Asian Paints 3.99%. The Nifty FMCG index rose 3.65%, the best of the sectors.",
+      "simple_explanation": "Marico is the company behind Parachute coconut oil, Saffola cooking oil and several hair and skin products. Every three months, it tells the public how much it earned.\n\nThis time, its profit was nearly 30% higher than a year ago. Analysts said it sold about 10% more products in India by quantity, and its main raw material, dried coconut, got cheaper. Each bottle sold therefore left more money over.\n\nThe company also said it expects to grow faster than it had planned. Investors liked both pieces of news, so they paid more for its shares.\n\nOther companies that make everyday goods rose too, as investors hoped that people are spending more on daily needs.",
+      "analogy": "It is like a coconut-oil shop that sells more bottles than last year while paying less for coconuts, and then tells its partners it expects an even better year ahead.",
+      "why": "Analysts pointed to about 10% underlying volume growth in India and wider gross margins, helped by softer copra prices and a better mix of products, Upstox reported. Marico's raised forecast added to the cheer.\n\nThe wider jump in consumer goods shares also reflected a global shift by investors away from AI-linked technology shares into steadier businesses, DSIJ said.",
+      "implications": {
+        "you": "If you own an equity mutual fund, it likely holds some consumer goods companies, which helped it today. Cheaper copra could, over time, keep coconut oil prices steady, but companies decide their own shelf prices.",
+        "markets": "Strong volume growth at a big consumer company is seen as a sign that everyday demand is improving. Investors will compare Marico with results from other FMCG makers in the coming weeks.",
+        "economy": "Higher sales volumes of daily goods suggest households, including in villages and small towns, are buying more, which is a healthy sign for consumption.",
+        "prices": "No immediate effect on prices. Companies sometimes cut prices or offer more for the same price when raw materials get cheaper, but Marico has not announced any change."
+      },
+      "watch": "Results from other consumer goods companies over the next few weeks, to see whether the pick-up in demand is widespread.",
+      "terms": [
+        "FMCG",
+        "Quarterly results",
+        "Consolidated profit",
+        "Year-on-year",
+        "Revenue",
+        "Guidance",
+        "Volume growth",
+        "Gross margin",
+        "Copra",
+        "Midcap"
+      ],
+      "explainers": {
+        "like12": "Imagine you run a lemonade stand. This summer, you sold more glasses than last summer, and lemons became cheaper. So you made a lot more pocket money.\n\nMarico is a big company that makes coconut hair oil, the one in the blue Parachute bottle, and cooking oil. In the last three months, it sold more bottles than a year ago, and dried coconut, which it needs to make the oil, got cheaper. So its profit went up by almost a third.\n\nIt also said it expects to keep growing quickly. People who own its shares were happy, and many others wanted to buy them, so the share price went up by 10% in one day.",
+        "real_life": "Meet Lakshmi, a 42-year-old school administrator in Coimbatore. She doesn't own Marico shares directly, but her two mutual funds, one large-cap and one midcap, hold many consumer goods companies.\n\nToday's 3.65% jump in the FMCG index nudged both funds up. At home, she buys a big bottle of coconut oil every month.\n\nWill her oil get cheaper because copra prices fell? Not necessarily. Companies decide shelf prices, and they often keep them steady to rebuild profits. What today does tell her is that companies selling everyday goods are seeing more buyers. Nothing in her monthly budget or her SIPs needs to change."
+      }
+    },
+    {
+      "id": "sbi-profit-rises-14-percent-shares-fall",
+      "category": "Banking",
+      "title": "SBI's profit rises 14% to ₹23,038 crore, helped by a one-time gain, but its shares fall 1.7%",
+      "tldr": "State Bank of India, the country's biggest bank, reported a 14.3% rise in profit to ₹23,038 crore for July–September. But part of that came from a ₹7,288 crore one-time gain, and its operating profit fell 1.4%. SBI's shares fell 1.70%, the second-worst in the Nifty 50, and government-owned bank shares fell.",
+      "what_happened": "SBI's standalone net profit for July–September rose 14.3% from a year earlier to ₹23,038 crore, from ₹20,160 crore, PTI reported, via The Hans India. The bank announced its results on Tuesday during market hours.\n\nThe result included a one-time gain of ₹7,288 crore, the report said. Operating profit fell 1.4% to ₹26,937 crore, from ₹27,311 crore a year earlier. Net interest income, what SBI earns from loans after paying interest on deposits, rose 15% to ₹49,143 crore, and its domestic net interest margin was 3.11%. Its gross NPA ratio, the share of loans not being repaid, improved to 1.39% from 1.47% in the previous quarter.\n\nSBI's shares fell 1.70%, Upstox reported. The Nifty PSU Bank index, which tracks government-owned banks, fell 1.27%, the worst sector.",
+      "simple_explanation": "SBI is India's biggest bank, owned mostly by the government. Every three months it reports how much it earned.\n\nThe headline number looked good: profit up 14%. But a large part of the profit, ₹7,288 crore, came from a one-off event that won't repeat every quarter.\n\nWhen traders looked past that, the bank's earnings from its regular work were slightly lower than a year ago. Its interest earnings grew, but costs grew too. So instead of rising, SBI's shares fell.\n\nOn the good side, fewer of its borrowers were failing to repay loans than three months earlier.",
+      "analogy": "It is like a family whose savings jumped this year, but mostly because they sold an old car; their monthly salary-minus-expenses was actually a little lower than last year.",
+      "why": "Traders and reports pointed to the fall in operating profit and slower growth in core earnings, and said the one-time gain had flattered the headline profit. Some also cited profit booking after recent gains.\n\nThe weakness spread to other government-owned banks, which fell as investors favoured private banks such as HDFC Bank and ICICI Bank today.",
+      "implications": {
+        "you": "Nothing changes for SBI customers. Your deposits, FD rates and loan EMIs are not affected by one quarter's results. Fewer bad loans is a sign the bank's lending is in good health.",
+        "markets": "The fall shows that investors look beyond headline profit to the quality of earnings. SBI has a large weight in PSU bank indices, so its moves sway the whole group.",
+        "economy": "A healthy SBI matters because it lends to millions of households and businesses. Its lower bad-loan ratio is a positive sign for the banking system.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Results from other government-owned banks in the coming days, and whether SBI's management explains the dip in operating profit.",
+      "terms": [
+        "PSU bank",
+        "Quarterly results",
+        "Standalone profit",
+        "One-time gain",
+        "Operating profit",
+        "Net interest income",
+        "Net interest margin",
+        "Gross NPA",
+        "Year-on-year",
+        "Profit booking",
+        "Private bank"
+      ],
+      "explainers": {
+        "like12": "Imagine your school report says your total marks went up this term. Great! But then your parents notice that most of the extra marks came from a one-off bonus project, and your marks in regular subjects actually dipped a little.\n\nThat's what happened with SBI, India's biggest bank. It announced that its profit rose by 14%. But a big chunk came from a one-time event that won't happen again. Its earnings from regular banking work were slightly lower than last year.\n\nPeople who buy and sell shares noticed this, and SBI's share price fell a little. The good news: fewer people who borrowed from SBI are failing to pay back their loans.",
+        "real_life": "Meet Suresh, a 47-year-old government school teacher in Patna. His salary account, a ₹3 lakh fixed deposit and his home loan are all with SBI.\n\nHe reads that SBI's shares fell after its results and wonders if his money is safe. It is. A one-day share price fall reflects what traders think about future profits; it doesn't touch his deposits. His FD rate and home-loan EMI stay the same, because those depend on RBI interest rates and the bank's own rate decisions, not on one quarter's profit.\n\nIf anything, the bank's falling bad-loan ratio suggests its lending is in better shape than three months ago."
+      }
+    },
+    {
+      "id": "capital-market-stocks-rally-sitharaman-tax-remarks",
+      "category": "Regulation",
+      "title": "Broker and exchange shares rally after the Finance Minister acknowledges investors' worries over share taxes",
+      "tldr": "Finance Minister Nirmala Sitharaman said she understood the anxieties of retail investors and equity participants about how shares are taxed, without announcing any change. Shares of brokers, exchanges and depositories jumped: Angel One rose 7.03% and BSE Ltd 5.03%. The Nifty Capital Markets index gained more than 3% during the day.",
+      "what_happened": "Finance Minister Nirmala Sitharaman acknowledged concerns among investors about India's tax rules for shares, the Free Press Journal reported. She said she realised the anxieties among retail investors and equity participants, but did not announce any change.\n\nShares of companies that earn from stock market activity jumped. Angel One rose 7.03% and Groww 4.83%, Upstox reported, while BSE Ltd gained 5.03%, the best in the Nifty 50, and MCX 5.78%. By early afternoon, Motilal Oswal had risen 6% and CAMS 4.64%, and the Nifty Capital Markets index was up more than 3%, with all 17 of its members higher, the Free Press Journal said.\n\nThe comments came a day after reports that SEBI has recommended scrapping long-term capital gains (LTCG) tax for foreign investors, as we reported on Monday. Investors now pay 12.5% LTCG tax on shares held for over a year. A decision is likely in the Union Budget for 2027–28, Business Today reported.",
+      "simple_explanation": "When you sell shares at a profit, you pay tax on that profit. Many investors, Indian and foreign, have been complaining that these taxes are too high.\n\nToday the Finance Minister said she understood their worries. She didn't promise any change. But traders took it as a hint that the government might lower the tax in the next Budget, in February.\n\nIf taxes on investing fell, more people might trade and invest. Companies that run stock exchanges, broking apps and fund services earn more when that happens. So their shares jumped today.",
+      "analogy": "It is like a city official saying she understands why shoppers dislike a parking fee: no decision yet, but the shops in the mall get a rush of hopeful customers anyway.",
+      "why": "Traders read the minister's comments as a sign that the government may review capital gains tax in the Budget, which would encourage more trading and investing. This builds on SEBI's reported recommendation, revealed on Monday, to scrap LTCG tax for foreign investors, who have sold heavily this year.\n\nAny change would cost the government revenue, and taxing foreign investors less than Indians would raise questions of fairness, so the final decision rests with the government.",
+      "implications": {
+        "you": "Nothing changes for now. Your LTCG tax on shares and equity funds stays the same until the government changes the law, most likely in the Budget. Tax rules change often, so check current rules before you sell.",
+        "markets": "Hopes of lower taxes can lift trading activity and support share prices, but these hopes can fade quickly if the Budget does not deliver.",
+        "economy": "Lower capital gains tax could draw in more investment but would reduce government revenue. The government will weigh both sides.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Any further comments from the finance ministry, and the Union Budget in February 2027.",
+      "terms": [
+        "Capital market stocks",
+        "Nifty Capital Markets",
+        "Brokerage",
+        "LTCG",
+        "Capital gains",
+        "SEBI",
+        "Union Budget",
+        "Retail investor"
+      ],
+      "explainers": {
+        "like12": "Imagine you sell your old bicycle for more than you paid for it. The extra money is your 'gain'. In the world of shares, the government takes a small part of such gains as tax.\n\nMany people who buy shares say this tax is too high. Today, India's Finance Minister, the person in charge of the country's money, said she understands why people are worried. She didn't change anything. But people hoped she might lower the tax later.\n\nIf the tax goes down, more people might buy and sell shares. Companies that help people do that, like share-trading apps and stock exchanges, would then earn more. So their share prices jumped today.",
+        "real_life": "Meet Farhan, a 29-year-old software tester in Hyderabad. Three years ago he started a ₹5,000 monthly SIP in an equity fund, and it has grown to about ₹2.3 lakh.\n\nIf he sold it today, his profit on units held more than a year would face LTCG tax, after a yearly tax-free limit. He has read that the tax might change and wonders whether to wait before selling for his wedding next year.\n\nThe honest answer is that nothing has changed and nobody knows if it will. The minister only acknowledged concerns. Planning around a tax cut that may never come is risky. His timing should depend on when he needs the money."
+      }
+    },
+    {
+      "id": "oil-rebounds-us-strike-qeshm-rupee-gains",
+      "category": "Rupee and oil",
+      "title": "Oil edges back up to about $105 after a US strike on an Iranian island; rupee gains 13 paise to 94.71",
+      "tldr": "Brent crude rose slightly to about $105 a barrel after reports that the US struck Iran's Qeshm Island, a day after it fell 7.63%. The rupee strengthened 13 paise to 94.71 per dollar (provisional), helped by foreign money flowing into Indian shares, though higher oil prices limited the gain.",
+      "what_happened": "Brent crude for January delivery was at $105.46 a barrel at about 3:36 pm India time, slightly higher, Kotak Neo reported. WTI, the US benchmark, was at $97.34. On Monday, Brent had fallen 7.63% to end at $104.77, after signs from both the US and Iranian presidents that they were open to a diplomatic solution, according to reports.\n\nThe rise came after US forces struck Iran's Qeshm Island late on Monday, The Wall Street Journal reported, citing US officials, CNBC said. Some officials described the strikes as defensive, meant to stop Iran from attacking commercial ships in the Strait of Hormuz.\n\nThe rupee rose 13 paise to 94.71 against the US dollar (provisional), PTI reported. Forex traders credited foreign fund inflows and strong buying in Indian shares, while the rebound in oil prices capped the gain.",
+      "simple_explanation": "On Monday, oil prices dropped a lot because the US and Iran sounded open to peace talks. Today, prices crept back up a little after news that the US had attacked an Iranian island near a key oil shipping route.\n\nIndia buys most of its oil from abroad and pays in dollars. So oil prices and the rupee are closely linked.\n\nThe rupee got a bit stronger today, meaning one dollar now costs slightly fewer rupees. That's because foreign investors were bringing dollars into India to buy shares. Higher oil kept the rupee from rising more.",
+      "analogy": "It is like a vegetable price that crashed one day on news of a good harvest, then ticked up the next morning after reports of trouble on the highway the trucks use.",
+      "why": "The US strike raised fears that fighting could disrupt oil supplies through the Strait of Hormuz, a narrow sea route that carries much of the world's oil. At the same time, US leaders said they were still hopeful about a negotiated settlement, CNBC reported, which kept the rise small.\n\nFor the rupee, the main support was foreign investors buying Indian shares for several days in a row.",
+      "implications": {
+        "you": "Petrol and diesel prices in India are set by state-run companies and the government, and they don't change daily with global prices. A slightly stronger rupee makes foreign travel, studies abroad and imported gadgets marginally cheaper, but 13 paise is a tiny change.",
+        "markets": "Oil remains very high, above $100 a barrel. Any sign of escalation in the Gulf could push it up again and hurt Indian shares; signs of peace could do the opposite.",
+        "economy": "Expensive oil raises India's import bill and can push up inflation. Monday's fall helped, but prices are still far higher than a year ago.",
+        "prices": "No immediate change in fuel prices. If oil stays this high for long, it can feed into transport costs and prices of everyday goods."
+      },
+      "watch": "Any further US-Iran military moves or talks, and how oil prices react to the US election results.",
+      "terms": [
+        "Brent crude",
+        "WTI",
+        "Barrel",
+        "Strait of Hormuz",
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Import bill",
+        "FII"
+      ],
+      "explainers": {
+        "like12": "Oil is like the fuel that keeps the world's cars, trucks and factories running, and India buys most of its oil from other countries.\n\nOn Monday, oil got much cheaper because America and Iran, which are in a conflict, talked about making peace. But on Monday night, America attacked an island belonging to Iran, near a sea route that big oil ships use. People worried those ships might get stuck, so oil got a little more expensive again today.\n\nThe Indian rupee had a good day, though. People from other countries were bringing dollars to buy Indian company shares, which made the rupee a little stronger.",
+        "real_life": "Meet Priya, a 26-year-old graphic designer in Pune. She is saving to visit her brother in Dubai in January and plans to buy about $1,000 worth of foreign currency.\n\nAt 94.71 rupees per dollar, that costs about ₹94,710; at Monday's rate it would have cost about ₹130 more. A tiny difference.\n\nThe bigger thing to watch is oil. When oil stays expensive, India must spend more dollars on imports, which tends to weaken the rupee over time. But nobody can predict the next few months. For Priya, splitting her purchase over a few weeks rather than guessing the best day would smooth out any swings."
+      }
+    },
+    {
+      "id": "gold-slips-before-dhanteras-us-votes",
+      "category": "Global markets",
+      "title": "Gold slips 1.28% before Dhanteras as Americans vote in midterm elections; tech worries weigh on Asia",
+      "tldr": "Gold for December delivery fell 1.28% to ₹1,38,398 per 10 grams on MCX and silver fell 3.64%, days before Dhanteras on 6 November. Americans vote in midterm elections today. In the US on Monday, the Nasdaq fell 1.07% on worries about AI spending, while South Korea's Kospi fell more than 3% on Tuesday.",
+      "what_happened": "On MCX, gold for December delivery was at ₹1,38,398 per 10 grams, down 1.28%, and silver at ₹1,77,085 per kg, down 3.64%, Kotak Neo reported. The fall comes just before Dhanteras on 6 November and Diwali on 8 November, when many families buy gold, Upstox noted. \n\nAmericans vote in midterm elections on Tuesday. Opinion polls suggested the Democrats were likely to win the House of Representatives, with the Senate too close to call, Saxo reported. Results will come in during Wednesday, India time.\n\nIn the US on Monday, the S&P 500 fell 0.51% and the Nasdaq Composite 1.07%, while the Dow rose 0.41%, DSIJ reported, as investors questioned the returns on huge AI investments. The US 10-year Treasury yield ended at about 4.91%. In Asia on Tuesday, South Korea's Kospi was down more than 3%, according to market data reported by Upstox, with chip shares under pressure.",
+      "simple_explanation": "Gold got a little cheaper today, just before Dhanteras, the festival when many Indian families buy gold or silver. Silver fell even more.\n\nFar away, Americans are voting today to choose many members of their parliament, called Congress. The result could change how easily the US President can pass laws, and that can move oil prices and stock markets worldwide.\n\nIn America and South Korea, shares of technology companies fell, as investors worried that companies are spending too much on artificial intelligence. Indian investors mostly shrugged that off today.",
+      "analogy": "It is like a sale on gold jewellery just before a wedding season: welcome for buyers, though nobody knows whether the price will stay down until they reach the shop.",
+      "why": "Analysts said developments in the US-Iran talks and moves in the US dollar were key factors for gold and silver, according to reports. Gold is priced in dollars globally, so a stronger dollar usually makes it cheaper.\n\nTech shares fell in the US and Asia because investors are worried about whether huge spending on AI data centres and chips will pay off.",
+      "implications": {
+        "you": "If you plan to buy gold for Dhanteras, prices are slightly lower than on Monday. Shop prices also include GST and making charges, so they differ from MCX prices. Gold prices move daily and are hard to predict.",
+        "markets": "The US election result could affect oil, the dollar and global shares. Traders say it could also shape US policy towards Iran.",
+        "economy": "India imports most of its gold, so heavy festival buying adds to the import bill. Lower prices may mean more grams are bought for the same money.",
+        "prices": "Gold and silver jewellery may be marginally cheaper this week than last, if today's fall holds."
+      },
+      "watch": "The US midterm results on Wednesday, India time, and gold prices through Dhanteras on Friday.",
+      "terms": [
+        "MCX",
+        "Dhanteras",
+        "Midterm elections",
+        "Nasdaq",
+        "S&P 500",
+        "Dow Jones",
+        "US Treasury yield",
+        "Kospi",
+        "Semiconductor"
+      ],
+      "explainers": {
+        "like12": "Many Indian families buy a little gold or silver on Dhanteras, a festival just before Diwali. Today, gold became a bit cheaper and silver a lot cheaper. That's nice for families planning to buy.\n\nMeanwhile, in America, people are voting today to choose many of their lawmakers. It's a bit like our Lok Sabha elections, but it happens in the middle of their President's term. The result can affect money markets all over the world.\n\nAlso, in America and South Korea, companies that make computer chips and do artificial intelligence had a bad day, because people worried these companies are spending too much money on AI.",
+        "real_life": "Meet Meena, a 38-year-old accountant in Jaipur. Every Dhanteras she buys a small gold coin, usually 5 grams, as a family tradition.\n\nWith MCX gold at about ₹1,38,398 per 10 grams, 5 grams works out to roughly ₹69,000 before GST and making charges; her jeweller's price will be a bit higher. Today's 1.28% dip saves her roughly ₹900 compared with Monday.\n\nShould she wait for a bigger fall? Nobody can say where gold goes next. Since she buys mainly for tradition, a small daily move matters less than buying from a trusted jeweller with hallmarked gold and a proper bill."
+      }
+    }
+  ],
+  "concept": {
+    "term": "One-time gain",
+    "explanation": "A one-time gain is profit from an unusual event that won't repeat every quarter, such as selling a stake in another company, selling land, or winning a tax refund.\n\nCompanies must include such gains in their reported profit. That can make a quarter look much better than the regular business really did. So analysts often strip them out to see the 'core' or 'underlying' profit.\n\nThe opposite also happens: a one-time loss, like a large write-off, can make a healthy business look weak for a quarter.\n\nWhen you read that a company's profit 'jumped', it is worth asking: did the regular business earn more, or did something unusual happen? Reports often say 'excluding one-offs' or 'adjusted profit' to mean the number without such items. Share prices usually react to the core figure, not the headline.",
+    "example": "SBI's net profit for July–September rose 14.3% to ₹23,038 crore, but that included a one-time gain of ₹7,288 crore, while its operating profit fell 1.4%, PTI reported. Its shares fell 1.70% on Tuesday.",
+    "takeaway": "A big profit jump can come from a one-off event, so look at whether the company's regular business is actually earning more."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Tuesday?",
+      "options": [
+        "Down 1,225.07 points",
+        "Up 1,233.25 points",
+        "Up 1,225.07 points, or 1.62%",
+        "Unchanged"
+      ],
+      "answer": 2,
+      "why": "The Sensex rose 1,225.07 points, or 1.62%, to 76,917.85, its fourth straight gain. The 1,233-point rise was Monday's."
+    },
+    {
+      "q": "Why did Marico's profit rise so much?",
+      "options": [
+        "It stopped selling coconut oil",
+        "It sold more products and its main raw material, copra, got cheaper",
+        "The RBI cut interest rates",
+        "It sold a subsidiary"
+      ],
+      "answer": 1,
+      "why": "Analysts pointed to about 10% volume growth in India and wider margins helped by softer copra prices."
+    },
+    {
+      "q": "SBI's profit rose 14%, yet its shares fell. Why?",
+      "options": [
+        "The bank was closed",
+        "Part of the profit came from a one-time gain and its operating profit fell",
+        "It cut FD rates",
+        "Its bad loans doubled"
+      ],
+      "answer": 1,
+      "why": "A ₹7,288 crore one-time gain lifted the headline profit, while operating profit fell 1.4%, so traders were less impressed."
+    },
+    {
+      "q": "Why did shares of brokers like Angel One jump today?",
+      "options": [
+        "SEBI banned trading apps",
+        "The Finance Minister acknowledged investors' worries about share taxes",
+        "The government cut GST on shares",
+        "Their profits doubled"
+      ],
+      "answer": 1,
+      "why": "Traders hoped her comments signal a possible review of capital gains tax, which could encourage more trading. She announced no change."
+    },
+    {
+      "q": "What does Dhanteras have to do with gold prices?",
+      "options": [
+        "Gold markets close on Dhanteras",
+        "Many families buy gold or silver on Dhanteras, so demand rises",
+        "The government fixes the gold price that day",
+        "Nothing at all"
+      ],
+      "answer": 1,
+      "why": "Buying metal on Dhanteras is considered lucky, so jewellers see heavy demand, and news about gold prices around the festival is closely watched."
+    },
+    {
+      "q": "The rupee moved from 94.84 to 94.71 per dollar. What does that mean?",
+      "options": [
+        "The rupee got slightly stronger",
+        "The rupee got weaker",
+        "Oil got cheaper",
+        "Nothing changed"
+      ],
+      "answer": 0,
+      "why": "A lower number means one dollar costs fewer rupees, so the rupee strengthened, by 13 paise."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Upstox: Market wrap, Nov 3, SENSEX jumps 1,225 pts, NIFTY50 ends at 23,810; NSE-listed firms add ₹5 lakh crore mcap",
+      "url": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
+    },
+    {
+      "title": "Upstox: Top gainers and losers, Nov 3, BSE surges 5%, Nestle jumps 4%, Power Grid falls 3%",
+      "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-nov-3-bse-surges-5-nestle-jumps-4-power-grid-falls-3-check-list/article-202906/"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 3 November 2026, Sensex and Nifty 50 extend winning streak for fourth session",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-50-extend-winning-streak/"
+    },
+    {
+      "title": "DSIJ: Closing Bell, Sensex surges 1,200 points, Nifty 50 closes above 23,800 as FMCG and banking stocks rally",
+      "url": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-1200-points-nifty-50-closes-above-23800-as-fmcg-and-banking-stocks-rally-60291"
+    },
+    {
+      "title": "Indian Opinion: Sensex surges 1,225 points, Nifty closes above 23,800",
+      "url": "https://indianopinion.org/sensex-jumps-1225-points-nifty-closes-above-23800/"
+    },
+    {
+      "title": "IndiaInfoline: Sensex Nifty Today, Nifty ends the day at 23,810",
+      "url": "https://www.indiainfoline.com/news/markets/sensex-nifty-today-nifty-ends-the-day-at-23810-sensex-trades-past-76900"
+    },
+    {
+      "title": "Business Standard (PTI): Marico Q2 net profit rises 29% to ₹558 cr on strong volume growth",
+      "url": "https://business-standard.com/amp/companies/quarterly-results/marico-q2-net-profit-rises-29-to-558-cr-on-strong-volume-growth-126110201070_1.html"
+    },
+    {
+      "title": "Upstox: Marico shares jump 8% as company raises FY27 growth guidance; analysts highlight strong Q2 results",
+      "url": "https://upstox.com/news/market-news/stocks/marico-shares-jump-8-as-company-raises-fy-27-growth-guidance-analysts-highlight-strong-q2-results/article-202872/"
+    },
+    {
+      "title": "The Hans India: SBI's Q2 net profit rises 14 pc to Rs 23,038 crore",
+      "url": "https://www.thehansindia.com/business/sbis-q2-net-profit-rises-14-pc-to-rs-23038-crore-1138873"
+    },
+    {
+      "title": "Free Press Journal: Angel One, CDSL, Motilal Oswal shares rally up to 7% as Sitharaman signals openness to LTCG tax review",
+      "url": "https://www.freepressjournal.in/business/angel-one-cdsl-motilal-oswal-shares-rally-up-to-7-as-sitharaman-signals-openness-to-ltcg-tax-review"
+    },
+    {
+      "title": "Business Today: Sebi backs removal of long term capital gains tax for foreign investors",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sebi-backs-removal-of-long-term-capital-gains-tax-for-foreign-investors-report-565085-2026-11-02"
+    },
+    {
+      "title": "Univest: LTCG for foreign investors, Sebi backs removal, what changes",
+      "url": "https://univest.in/blogs/sebi-backs-removal-of-ltcg-for-foreign-investors-fpi-outflows-mutual-fund-reinvestment-relief-explained"
+    },
+    {
+      "title": "CNBC: Oil prices climb after U.S. strikes Iran's Qeshm Island",
+      "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"
+    },
+    {
+      "title": "The National: Oil prices cross $105 after US strikes on Iran's Qeshm Island",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/03/oil-prices-cross-105-after-us-strikes-on-irans-qeshm-island/"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee gains 13 paise to close at 94.71 against US dollar as Sensex surges",
+      "url": "https://www.deccanherald.com/business/markets/rupee-gains-13-paise-to-close-at-9471-against-us-dollar-as-sensex-surges-4205696"
+    },
+    {
+      "title": "ThePrint (PTI): Rupee falls 8 paise against US dollar",
+      "url": "https://theprint.in/economy/rupee-falls-8-paise-against-us-dollar-8/3088549/"
+    },
+    {
+      "title": "Upstox: Gold, silver rates today, November 3, prices fall ahead of Dhanteras, Diwali",
+      "url": "https://upstox.com/news/personal-finance/commodities/gold-silver-rates-today-november-3-prices-fall-ahead-of-dhanteras-diwali-check-22-k-24-k-gold-rates-in-your-city/article-202896/"
+    },
+    {
+      "title": "Saxo: Market Quick Take, US mid-term elections today the focus, 3 November 2026",
+      "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026"
+    },
+    {
+      "title": "CNBC: Treasury yields are mixed as oil prices tumble ahead of the midterms",
+      "url": "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "How many shares rose compared with how many fell on a given day.",
+      "more": "Market breadth shows how widespread a market move is. Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, tells you whether a move is broad or narrow. On Friday, 2,131 NSE shares rose and 1,422 fell, so breadth was positive. It's like checking whether the whole class improved, not just the toppers."
+    },
+    {
+      "term": "Market capitalisation",
+      "definition": "The total value of all of a company's shares at today's price. Added up across companies, it shows the value of the whole market.",
+      "more": "Market capitalisation, or market cap, is the share price multiplied by the number of shares a company has issued. Add up the market cap of every company on the BSE and you get the value of the whole exchange. When headlines say 'investors lost ₹6 lakh crore', they mean this total fell by that much during the day. It's like the estimated value of every house in your colony falling because prices nearby dropped: nobody paid anyone, and the loss is only on paper unless people sell."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "Realty",
+      "definition": "Short for real estate: companies that build and sell homes, offices and malls.",
+      "more": "Realty companies such as DLF, Godrej Properties and Lodha build housing and commercial property. The Nifty Realty index tracks the listed ones. Their shares are very sensitive to interest rates, because most homebuyers take loans: when EMIs rise, fewer people buy flats. They also swing a lot because their profits arrive in lumps as projects are completed. It's like a mango seller whose income depends on one season. News reports often say 'realty stocks led the fall' on days when worries about rates or inflation rise."
+    },
+    {
+      "term": "Private bank",
+      "definition": "A bank owned mainly by private shareholders rather than the government, such as HDFC Bank, ICICI Bank or Axis Bank.",
+      "more": "India's banks fall into two broad groups. Public sector banks, like SBI, are majority-owned by the government. Private banks, like HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank, are owned mostly by ordinary and institutional shareholders. The big private banks are among the heaviest companies in the Sensex and Nifty, so when they fall together the whole index usually falls too. Think of them as the senior players in a team: when they have an off day, the team score suffers. News reports often track them through the Nifty Private Bank index."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly once final data comes in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported provisionally right at the close and then confirmed later, and the daily FII and DII buying and selling figures are provisional too. For example, Thursday's rupee close was first reported as 94.82 but finally came in at 94.81. It's like an exam's provisional result before re-checking. The changes are usually small, but they do happen, which is why reports often add '(provisional)' after a number."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "A comparison with the same period one year earlier.",
+      "more": "Year-on-year, often written YoY, compares a figure with the same period last year, such as July–September 2026 against July–September 2025. This removes seasonal effects: many businesses naturally earn more in festive months, so comparing with the previous quarter can mislead. It's like comparing this Diwali's sweet-shop sales with last Diwali's, not with a quiet month. Company results, inflation and GDP are usually reported year-on-year."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "Volume growth",
+      "definition": "How much more of its products a company sold, by quantity, compared with a year earlier, leaving out the effect of price changes.",
+      "more": "A company's sales in rupees can rise for two reasons: it sold more items, or it charged more for each one. Volume growth measures only the first. Think of a tea stall: if it sold 100 cups a day last year and 110 now, that is 10% volume growth, whatever the price per cup. Investors watch volume growth closely at consumer companies like Marico, HUL or Nestle, because it shows whether more people are actually buying, not just paying more. Results reports often say 'underlying volume growth' to mean this figure after stripping out one-off effects."
+    },
+    {
+      "term": "Gross margin",
+      "definition": "The share of a company's sales left over after paying for the raw materials that went into its products.",
+      "more": "If a company sells a bottle of hair oil for ₹100 and the coconut oil and bottle inside cost ₹45, its gross margin is 55%. This is before paying salaries, advertising, rent or tax. Gross margin rises when raw materials get cheaper or when the company can charge more, and falls when input costs jump faster than prices. It is like a sweet shop owner noticing that sugar prices have dropped: each box of sweets now leaves more money over. News reports on FMCG results often mention gross margin moving with prices of inputs such as copra, palm oil, wheat or milk."
+    },
+    {
+      "term": "Copra",
+      "definition": "Dried coconut kernel, the raw material from which coconut oil is pressed.",
+      "more": "Copra is made by drying the white flesh of coconuts, mostly in Kerala, Karnataka and Tamil Nadu. It is then crushed to extract coconut oil. Its price matters a great deal for companies that sell coconut oil, such as Marico, maker of Parachute. When copra prices rise sharply, these companies either raise prices on the shelf or accept lower profits; when copra prices ease, their margins usually improve. Copra prices depend on the coconut harvest, the weather and demand. You will see it mentioned in news about edible oils, farm prices and FMCG company results."
+    },
+    {
+      "term": "Standalone profit",
+      "definition": "The profit of the main company alone, leaving out its subsidiaries.",
+      "more": "Indian companies usually report two sets of numbers. Standalone figures cover only the listed company itself. Consolidated figures add in the results of its subsidiaries, the companies it controls. For a group like Trent, which owns stakes in other businesses, the two can grow at quite different rates. Think of a parent's own salary (standalone) versus the whole household's income including grown-up children who live at home (consolidated). News reports may quote either, so two headlines about the same result can show different profit numbers. Consolidated figures usually give the fuller picture."
+    },
+    {
+      "term": "One-time gain",
+      "definition": "Profit from an unusual event, such as selling a business, that will not repeat every quarter.",
+      "more": "A one-time gain is money a company makes from something unusual rather than from its normal day-to-day work. Selling a factory, a business unit or a property are common examples. It boosts profit in that one quarter but says nothing about how the core business is doing. Imagine a shopkeeper who sells an old scooter: that month's income looks great, but the shop itself didn't sell any more goods. Analysts usually strip such gains out to see the 'real' profit. News reports flag them with phrases like 'including a one-time gain of ₹165 crore'."
+    },
+    {
+      "term": "Operating profit",
+      "definition": "The profit a business earns from its everyday work, before setting money aside for bad loans or other provisions and before tax.",
+      "more": "For a bank, operating profit is roughly the money it earns from lending and fees, minus salaries, rent and other running costs. It leaves out money kept aside for loans that may not be repaid, and tax. Analysts like it because it shows how healthy the core business is, separate from one-off events. Think of a shopkeeper's earnings from selling goods minus the shop's running costs, before counting a lucky win from selling an old scooter. When net profit rises but operating profit falls, as at SBI this quarter, it can mean that one-time items lifted the headline number."
+    },
+    {
+      "term": "Net interest income",
+      "definition": "The interest a bank earns on loans minus the interest it pays on deposits, in rupees.",
+      "more": "Net interest income, or NII, is the rupee amount a bank makes from its core business of borrowing and lending. If a bank earns ₹100 crore in interest from borrowers and pays ₹60 crore to depositors, its NII is ₹40 crore. It is the bank's equivalent of a shop's gross earnings before rent and salaries. NII grows when a bank lends more or when its margin widens. In results news, NII is usually reported next to net profit and NIM, and a miss on NII often worries investors more than a miss on profit, because it reflects the main business."
+    },
+    {
+      "term": "Net interest margin",
+      "definition": "How much a bank earns from lending, after paying interest to depositors, as a percentage of its loans and other earning assets.",
+      "more": "A bank borrows money cheaply from depositors and lends it out at a higher rate. The gap is its main source of profit. Net interest margin, or NIM, expresses that gap as a percentage. A NIM of 4% means that, for every ₹100 of loans and similar assets, the bank earns about ₹4 a year more in interest than it pays out. It is like a vegetable seller's markup over the wholesale price. When NIM shrinks, the bank earns less on each rupee it lends. Reports on bank results almost always quote it, and investors watch even small changes closely."
+    },
+    {
+      "term": "Gross NPA",
+      "definition": "Loans that borrowers have stopped repaying for 90 days or more, shown as a percentage of all loans.",
+      "more": "NPA stands for non-performing asset: a loan that has gone bad because the borrower has stopped paying interest or instalments for at least 90 days. Gross NPA is the total of such loans, usually expressed as a share of all the bank's loans. A gross NPA of 1.2% means about ₹1.20 of every ₹100 lent is not being repaid. It is like a lender at a chit fund tracking how many members have stopped paying. A falling NPA ratio is a sign of healthier lending, and banks with low bad loans need to set aside less money for losses."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Capital market stocks",
+      "definition": "Shares of companies that earn money from stock market activity, such as stock exchanges, brokers, depositories and fund houses.",
+      "more": "This group includes exchanges like BSE and MCX, brokers like Angel One and Groww, depositories like CDSL that keep electronic records of people's shares, and fund-related firms like CAMS. Their income rises when more people trade and invest, so their shares often move sharply on news about trading rules or taxes on investing. It is like toll-booth operators on a highway: they earn more when traffic grows, and lose out if something keeps cars off the road. News reports often say these stocks 'rallied' or 'fell' after SEBI or tax announcements."
+    },
+    {
+      "term": "Nifty Capital Markets",
+      "definition": "An NSE index that tracks companies whose business depends on stock market activity, such as exchanges, brokers and fund houses.",
+      "more": "This is a sectoral index, one that follows a single slice of the market rather than the whole thing. Its members include stock exchanges, brokers, depositories, wealth managers and mutual fund firms. Because their earnings rise and fall with trading volumes, it tends to jump when investors expect more trading and drop when new rules or taxes are expected to cool it. Think of it as a report card for the 'business of investing'. News reports use it to show how traders reacted to SEBI or tax news."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "LTCG",
+      "definition": "Long-term capital gains: profit from selling an investment you held for a long time. For listed shares and equity funds, that currently means more than a year.",
+      "more": "LTCG tax is the tax on those long-term profits. For listed shares and equity mutual funds, reports say the rate is currently 12.5% on gains above ₹1.25 lakh a year, but the government changes these rules from time to time, usually in the Budget. Think of it as the government taking a small share of the profit from a mango tree you planted and waited years to harvest. Investor groups often ask for lower LTCG tax, saying it would encourage long-term investing; others say the tax is fair because these profits are income too."
+    },
+    {
+      "term": "Capital gains",
+      "definition": "The profit you make when you sell something, like shares or a flat, for more than you paid for it.",
+      "more": "If you bought shares for ₹50,000 and sold them for ₹60,000, your capital gain is ₹10,000. You only have a gain once you sell; until then it's just a rise in value on paper. It's like buying a plot of land: if land prices rise, you feel richer, but the money is only in your hands when you sell. The government taxes these profits, and the rate depends on what you sold and how long you held it. News reports often talk about 'short-term' and 'long-term' gains."
+    },
+    {
+      "term": "SEBI",
+      "definition": "The Securities and Exchange Board of India, the regulator that oversees the stock market.",
+      "more": "SEBI makes and enforces the rules for stock exchanges, brokers, mutual funds, listed companies and IPOs. Its job is to protect investors and keep markets fair. It can fine companies, ban traders and change how trading works, like Friday's new closing-auction rules. Think of it as the umpire in a cricket match: it doesn't play, but it makes sure everyone follows the rules. SEBI announcements usually come as circulars or board-meeting decisions."
+    },
+    {
+      "term": "Union Budget",
+      "definition": "The central government's yearly plan for how it will earn and spend money, presented by the Finance Minister, usually on 1 February.",
+      "more": "The Budget sets out tax rates, spending on things like roads, defence and subsidies, and how much the government will borrow. It's like a family sitting down at the start of the year to decide how much they expect to earn, what they will spend on rent, school fees and festivals, and how much they may need to borrow. Changes to income tax, capital gains tax and STT are usually announced in the Budget, which is why markets watch it closely and why talk about it starts months earlier."
+    },
+    {
+      "term": "Retail investor",
+      "definition": "An ordinary individual who buys shares with their own money, in small amounts.",
+      "more": "A retail investor is an everyday person, like a salaried employee or a shopkeeper, who invests their own savings. In an IPO, retail investors are those who apply for shares worth up to ₹2 lakh, and they get their own reserved quota so big investors cannot crowd them out. Retail investors also invest indirectly through mutual funds and SIPs. News reports often compare 'retail demand' with 'institutional demand'. A low retail subscription on the first day of an IPO is common, because many individuals apply on the last day."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "WTI",
+      "definition": "West Texas Intermediate: the main benchmark price for crude oil produced in the United States.",
+      "more": "WTI is a type of light crude oil produced in the US, and its price is the main reference for American oil. It usually trades a few dollars below Brent, the international benchmark India watches most closely. When both rise together, it tells you the price jump is global, not a local problem. It's like comparing the price of rice in two big wholesale mandis: if both go up, the shortage is widespread. News reports often quote both, as in 'Brent at $114, WTI at $101'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "MCX",
+      "definition": "The Multi Commodity Exchange of India, where gold, silver, oil and other commodities are traded.",
+      "more": "MCX is India's main exchange for trading commodities such as gold, silver, crude oil, natural gas and metals. Most trading is in futures contracts, which are agreements on a price for a future date. MCX gold prices are a common guide to what jewellers charge, though shop prices also include GST and making charges. It's like a big wholesale mandi for metals and energy. News reports quote MCX gold per 10 grams."
+    },
+    {
+      "term": "Dhanteras",
+      "definition": "A Hindu festival two days before Diwali when many families traditionally buy gold, silver, utensils or vehicles.",
+      "more": "Dhanteras marks the start of the Diwali festivities in much of India. Buying something made of metal on this day is considered lucky, so jewellers see some of their biggest sales of the year. That is why news about gold in October and November often mentions Dhanteras demand, and why a price fall just before the festival is closely watched: shoppers may buy more, or buy heavier pieces, if prices dip. Carmakers and two-wheeler makers also report a rush of bookings and deliveries around this time."
+    },
+    {
+      "term": "Midterm elections",
+      "definition": "US national elections held halfway through a president's four-year term, mainly for seats in Congress.",
+      "more": "In the US, the president is elected every four years, but elections for the whole House of Representatives and about a third of the Senate happen every two years. The ones that fall in the middle of a president's term are called midterms; this year they are on 3 November. The results decide which party controls Congress, which can make it easier or harder for the president to pass laws. It's a bit like a mid-term vote on a housing society committee that can change who controls the budget. Markets watch them because policy on taxes, trade and war can shift afterwards."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    }
+  ]
+}
