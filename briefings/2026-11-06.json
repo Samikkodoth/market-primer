@@ -1,0 +1,742 @@
+{
+  "date": "2026-11-06",
+  "session_label": "Friday 6 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex jumped 1,718 points to 81,028 for a seventh straight gain and the Nifty reclaimed 25,000 as banks led and foreign money poured in, even as US and Asian markets crashed on AI fears; M&M's profit rose 25%, and the rupee gained 52 paise to 93.89.",
+  "mood": "Upbeat",
+  "mood_note": "A strong day for India's biggest companies, led by private banks, while markets in the US, Japan and Korea fell sharply. Smaller Indian companies slipped, so the gains were narrow.",
+  "reading_minutes": 13,
+  "since_yesterday": [
+    "On Thursday we reported the rupee flat at 94.46 per dollar (provisional). The final figure was 94.41, a gain of 5 paise, PTI reported.",
+    "After our Thursday briefing, US shares crashed: the Nasdaq fell 5.52% and the S&P 500 4.36% on fears about AI rules after the midterm elections.",
+    "Exchange data showed foreign investors bought Indian shares worth ₹14,974.68 crore, net, on Thursday, while domestic institutions sold about ₹10,445 crore."
+  ],
+  "one_minute": [
+    "The Sensex rose 1,718.01 points (2.17%) to 81,028.02 and the Nifty 50 rose 493.75 points (2.01%) to 25,030.35, a seventh straight gain and a nine-month high.",
+    "Private banks led: ICICI Bank rose 4.65% and HDFC Bank 3.56%. Smaller companies slipped.",
+    "The Nasdaq fell 5.52% on Thursday and Korea's Kospi 6.02% on Friday on worries a new US Congress could curb AI data centres. India rose anyway.",
+    "The rupee gained 52 paise to 93.89 per dollar (provisional) on strong foreign buying, while oil bounced back towards $100 after tanker attacks.",
+    "M&M's profit rose 25% to ₹4,588 crore on SUV sales; MCX gold fell about ₹2,000 on Dhanteras; muhurat trading is on Sunday from 2:20 pm."
+  ],
+  "big_picture": "Indian shares rose for a seventh day in a row on Friday. The Sensex gained 1,718 points, or 2.17%, and the Nifty closed above 25,000 for the first time in about nine months.\n\nWhat made the day unusual is what happened elsewhere. On Thursday night, India time, US technology shares crashed after investors began to worry that the newly elected US Congress could put limits on the giant data centres that run AI. Chip makers were hit hardest. On Friday, markets in South Korea and Japan fell about 6%.\n\nIndia has very few chip companies, so it was not hit directly. Instead, foreign investors kept buying India's big banks and companies, and the rupee strengthened.\n\nIn seven sessions the Sensex has risen more than 10%. But the gains were narrow on Friday: smaller companies fell, and Indian funds and insurers have been selling while foreigners buy.",
+  "chain": [
+    {
+      "label": "US election verdict",
+      "note": "Investors feared a Democrat-led Congress could tighten oversight of AI data centres."
+    },
+    {
+      "label": "Tech crash abroad",
+      "note": "The Nasdaq fell 5.52% on Thursday; Korea's Kospi fell 6.02% on Friday."
+    },
+    {
+      "label": "Money moves to India",
+      "note": "Foreign investors bought ₹14,974.68 crore of Indian shares, net, on Thursday."
+    },
+    {
+      "label": "Banks and rupee rise",
+      "note": "ICICI Bank and HDFC Bank led, and the rupee gained 52 paise to 93.89."
+    },
+    {
+      "label": "Sensex up 1,718",
+      "note": "The Sensex closed at 81,028.02 and the Nifty at 25,030.35, a seventh straight gain."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "81,028.02",
+      "change": "+1,718.01 (+2.17%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It has now risen for seven days in a row."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,030.35",
+      "change": "+493.75 (+2.01%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It closed at a nine-month high."
+    },
+    {
+      "name": "Nifty Bank",
+      "value": "59,086",
+      "change": "+1,312 points",
+      "direction": "up",
+      "what_it_is": "This tracks the biggest banks listed on the NSE. Private banks led the day's rise."
+    },
+    {
+      "name": "Nifty Midcap",
+      "value": "60,607",
+      "change": "-14 points",
+      "direction": "down",
+      "what_it_is": "This tracks medium-sized companies. They did not join the rally today."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "-0.82%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller companies."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "93.89",
+      "change": "+52 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "",
+      "change": "about $97–$100 (reports differ)",
+      "direction": "flat",
+      "what_it_is": "The international price of a barrel of oil. It bounced back on Friday after crashing earlier in the week."
+    },
+    {
+      "name": "MCX gold (December)",
+      "value": "₹1,42,061",
+      "change": "-₹2,054 (early trade)",
+      "direction": "down",
+      "what_it_is": "The price of 10 grams of gold in Indian futures trading. Shop prices also include GST and making charges."
+    },
+    {
+      "name": "Nasdaq (Thursday)",
+      "value": "",
+      "change": "-5.52%",
+      "direction": "down",
+      "what_it_is": "The US index full of technology companies. It had its worst day since April 2025."
+    },
+    {
+      "name": "Kospi (South Korea)",
+      "value": "",
+      "change": "-6.02%",
+      "direction": "down",
+      "what_it_is": "South Korea's main index, dominated by chip makers like Samsung and SK Hynix."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-jumps-1718-seventh-day-nifty-reclaims-25000",
+      "category": "Stock market",
+      "title": "Sensex jumps 1,718 points for a seventh straight gain as banks lead; Nifty back above 25,000",
+      "tldr": "The Sensex rose 1,718.01 points, or 2.17%, to 81,028.02 and the Nifty 50 rose 493.75 points, or 2.01%, to 25,030.35, a nine-month high. Private banks led. It was the seventh gain in a row, and the best week for Indian shares in a long time, even as markets abroad slumped.",
+      "what_happened": "The Sensex jumped 1,718.01 points, or 2.17%, to 81,028.02, and the Nifty 50 rose 493.75 points, or 2.01%, to 25,030.35, PTI reported. The Sensex closed at the day's high. The Nifty's close was its highest in about nine months; it last closed above that level on 2 February 2026, at 25,088.40.\n\nIt was the seventh straight gain. Over those seven sessions the Sensex has risen 7,781.99 points, or 10.62%, and the Nifty 2,331.5 points, or 10.27%, PTI said, calling it a first in three years. For the week, the Sensex rose 6,568.49 points (8.82%) and the Nifty 1,977.25 points (8.57%). CNBC-TV18 reported that it was the Nifty's biggest weekly gain ever in points, and that about ₹30 lakh crore was added to the value of BSE-listed companies during the week.\n\nBanks led. The Nifty Bank index rose 1,312 points to 59,086, CNBC-TV18 reported. On the BSE, private bank shares rose 2.99% and financial services 2.14%, PTI said. ICICI Bank rose 4.65% and HDFC Bank 3.56%. Mahindra & Mahindra was the top Sensex gainer, up 6.15% after its results. Power Grid was the only Sensex share to fall, according to PTI.\n\nSmaller companies did not join in. The Nifty Midcap index slipped 14 points to 60,607, CNBC-TV18 reported, and Business Standard said the Nifty Smallcap 100 fell 0.82%. Astral fell nearly 10% and Fortis Healthcare 6%, CNBC-TV18 said.",
+      "simple_explanation": "The Sensex and Nifty are like a scoreboard for India's biggest companies. On Friday the score jumped again, for the seventh day in a row.\n\nMost of the push came from big private banks such as ICICI Bank and HDFC Bank. Because these banks are among the largest companies in the index, when they rise, the whole index rises a lot.\n\nThe unusual part is that it happened on a day when markets in the US, Japan and South Korea fell sharply. Foreign investors seem to see India as a safer place to put money right now, partly because India has fewer of the AI chip companies that were hit abroad.\n\nSmaller companies did not rise. The gains were concentrated in the biggest names.",
+      "analogy": "It is like a cricket team where the openers score heavily in every match of a series. The team keeps winning, but the middle order hasn't had much batting, so you can't yet say the whole team is in form.",
+      "why": "Analysts pointed to strong quarterly results, a stronger rupee, continued buying by foreign investors and cheaper oil earlier in the week, PTI reported. Vinod Nair of Geojit Investments said Indian shares had defied a global rout, which he linked to fears that the new US Congress would bring tougher rules for tech companies.\n\nPonmudi R of Enrich Money said the rally was mostly in large companies, led by banks and financial firms. Foreign investors tend to buy big, easy-to-trade shares first, which helps explain why banks rose while smaller companies slipped.\n\nAfter a rise of more than 10% in seven sessions, a pause or some profit-taking would not be unusual. The market has also risen this fast before and given back gains.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund or an equity mutual fund SIP, its value has probably risen sharply in the last week. These are paper gains: nothing changes unless you sell, and they can shrink just as fast. If you hold smallcap funds, they will have done much less well today.",
+        "markets": "A rally led by banks and the biggest companies, while smaller shares fall, is described by analysts as 'narrow'. After seven straight gains, analysts often watch for profit booking.",
+        "economy": "No direct effect on the economy from one day's move. Steady foreign buying does help the rupee.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "The special muhurat trading session on Sunday evening, and whether foreign investors keep buying when trading resumes.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Winning streak",
+        "Nifty Bank",
+        "Private bank",
+        "Large-cap",
+        "Midcap",
+        "Smallcap",
+        "Market capitalisation",
+        "SIP",
+        "Profit booking"
+      ],
+      "explainers": {
+        "like12": "Imagine your class has a chart showing the total marks of the 50 best students. For seven tests in a row, the total has gone up. On Friday it jumped a lot again.\n\nThe Sensex and Nifty are like that chart, but for India's biggest companies. When their share prices go up, the number goes up.\n\nOn Friday the biggest jump came from large banks like ICICI Bank and HDFC Bank. These are huge companies, so when they do well, the chart moves a lot.\n\nThe surprising part: the same day, stock markets in America, Japan and Korea fell badly. Some investors moved money to India instead.\n\nBut not every company rose. Many smaller companies actually fell a little.",
+        "real_life": "Neha, 31, is an HR executive in Pune. She puts ₹5,000 a month into a Nifty 50 index fund through an SIP and has about ₹2 lakh in it.\n\nThe Nifty has risen about 10% in seven sessions. Index funds move with the index, so her fund is probably worth roughly ₹20,000 more than it was eight trading days ago. That's on paper. She hasn't sold anything, so it can disappear if the market falls back.\n\nHer colleague has a smallcap fund. Smaller companies fell today and rose less this week, so his gains are smaller.\n\nNeither of them needs to do anything. A fast rise is a good time to remember that SIPs are designed for years, not weeks."
+      }
+    },
+    {
+      "id": "us-tech-rout-asia-plunges-india-defies",
+      "category": "Global markets",
+      "title": "US tech shares crash and Asian markets plunge on worries about AI rules, but India rises",
+      "tldr": "The Nasdaq fell 5.52% on Thursday, its worst day since April 2025, as investors worried a Democrat-led US Congress could curb AI data centres. Chip makers were hit hardest. Japan's Nikkei and Korea's Kospi fell about 6% on Friday. Indian shares rose anyway.",
+      "what_happened": "US shares crashed on Thursday. The Nasdaq Composite fell 5.52%, its worst day since April 2025, the S&P 500 fell 4.36% and the Dow Jones 3.44%, PTI reported. The Nasdaq is now more than 10% below its 6 October record, which counts as a 'correction', CNN reported.\n\nChip and AI shares were hit hardest. Nvidia fell 9.26% and the Philadelphia Semiconductor Index, which tracks chip makers, fell 12.2%, The National reported. CNN said about $2.5 trillion was wiped off the value of US shares.\n\nThe trigger was this week's US midterm elections. Investors worry that Democrats, who won control of Congress, could bring tighter oversight of AI data centres, slowing the spending that has powered chip makers. Voters also rejected data centre proposals in 39 of 40 local ballot measures with complete counts, The National reported.\n\nAsia followed on Friday. South Korea's Kospi fell 6.02% and Japan's Nikkei 225 5.96%, while Shanghai and Hong Kong each fell more than 1%, PTI reported. In Korea, a circuit breaker halted trading for 20 minutes. European markets were also lower.",
+      "simple_explanation": "For two years, investors around the world have poured money into companies that make chips and computers for artificial intelligence. Their share prices rose enormously.\n\nThis week, the party that won control of the US Congress is seen as more likely to put rules on the giant buildings, called data centres, where AI runs. If fewer data centres are built, fewer chips are needed. Investors rushed to sell chip makers.\n\nSouth Korea, Japan and Taiwan have lots of big chip companies, so their markets fell sharply too. India has very few such companies. Its biggest companies are banks, carmakers and consumer firms, so it was hit much less, and actually rose.",
+      "analogy": "It is like a town where every shop sells umbrellas, and news comes that the monsoon may be weak. The umbrella shops' value crashes. A neighbouring town that mostly sells groceries barely notices, and some shoppers even move there.",
+      "why": "The fear is about the future, not about anything that has already changed. No new law on data centres has been passed. Investors are reacting to what a new Congress might do once it takes office.\n\nChip makers had risen so much that even a small doubt about future demand caused a big fall. When shares are priced for perfect growth, bad news hits hard.\n\nVinod Nair of Geojit Investments said Indian shares 'defied a global rout'. India has few chip makers in its market, which can make it look like a shelter when that trade falls.",
+      "implications": {
+        "you": "If you own an international fund or a US tech fund, its value has probably fallen sharply this week. Indian equity funds were barely affected today. If you own neither, there's no direct effect.",
+        "markets": "When chip shares fall, money sometimes moves to markets like India with fewer tech names. That helped this week, but a deep global sell-off can also pull India down later.",
+        "economy": "If AI spending slowed worldwide, it could affect Indian IT companies that build AI systems for clients. That is a long-term question, not something that changed today.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Whether US tech shares steady or keep falling, and the US jobs report due on Friday evening, India time.",
+      "terms": [
+        "Nasdaq",
+        "S&P 500",
+        "Dow Jones",
+        "Correction",
+        "Semiconductor",
+        "Data centre",
+        "Midterm elections",
+        "Kospi",
+        "Nikkei 225",
+        "Hang Seng",
+        "Circuit breaker"
+      ],
+      "explainers": {
+        "like12": "Artificial intelligence, or AI, runs on special computer chips. Those chips sit in huge buildings full of computers, called data centres.\n\nFor the last few years, people have been sure the world would build more and more data centres. So the companies that make chips became super valuable.\n\nThis week, America had elections, and the party that won is expected to look more closely at these buildings, because they use lots of electricity and land. Investors got scared fewer chips would be needed. They sold, and chip company shares crashed.\n\nCountries like Korea and Japan have many chip companies, so their markets fell a lot. India doesn't make many chips, so its market was mostly fine, and even went up.",
+        "real_life": "Rohit, 34, is a software engineer in Hyderabad. Two years ago he started putting ₹3,000 a month into a fund that invests in big US tech companies.\n\nThat fund holds shares like Nvidia, which fell about 9% on Thursday. His fund's value has probably dropped noticeably this week, though the exact amount depends on what it holds and the rupee's move.\n\nHis Indian Nifty fund went up on the same day. Having money in more than one place meant one fell while the other rose.\n\nHe also works on AI projects for a US client. One day's market crash doesn't change his job. Whether AI spending actually slows will depend on what US lawmakers do over the coming months, which nobody knows yet."
+      }
+    },
+    {
+      "id": "rupee-gains-52-paise-oil-back-near-100-fii-buying",
+      "category": "Rupee and oil",
+      "title": "Rupee jumps 52 paise to 93.89 as foreign money pours in; oil climbs back near $100",
+      "tldr": "The rupee gained 52 paise to 93.89 per dollar (provisional), helped by heavy foreign buying of Indian shares. Foreign investors bought about ₹14,975 crore net on Thursday while domestic institutions sold about ₹10,445 crore. Oil bounced back towards $100 a barrel after new tanker attacks near Iran.",
+      "what_happened": "The rupee rose 52 paise to 93.89 against the US dollar (provisional), PTI reported. It opened at 94.50 and touched 93.82 during the day. On Thursday it had closed at 94.41.\n\nForeign institutional investors bought Indian shares worth ₹14,974.68 crore, net, on Thursday, according to exchange data quoted by PTI. Data trackers showed domestic institutions sold about ₹10,445 crore, net, the same day.\n\nOil rose again after this week's crash. PTI's currency report put Brent crude at $100.30 a barrel, up 2.04%, while another PTI market report quoted it at $96.82, down 1.50%; the figures were taken at different times. Iran's Revolutionary Guard said two oil tankers and a tugboat caught fire in separate incidents in the Strait of Hormuz, and Iran reported more tanker attacks on Thursday, according to reports. One market report said Brent was still headed for its biggest weekly fall since April 2020.\n\nAnuj Choudhary of Mirae Asset Sharekhan said he expects the rupee to trade with a positive bias, helped by strong domestic markets and foreign inflows, PTI reported.",
+      "simple_explanation": "When foreign investors want to buy Indian shares, they first have to swap their dollars for rupees. On Thursday they bought nearly ₹15,000 crore of shares, so a lot of dollars were being sold for rupees. More demand for rupees made the rupee stronger.\n\nAt the same time, Indian mutual funds and insurers sold. They may have been taking profits after the big rise.\n\nOil is the other big thing for the rupee, because India buys most of its oil abroad. Oil fell sharply earlier in the week on peace hopes, but new attacks on tankers near Iran pushed it back up on Friday.",
+      "analogy": "It is like a popular sweet shop before Diwali. When lots of out-of-town buyers arrive with cash, the shopkeeper can name a better price. The rupee is the sweet, and foreign investors are the buyers.",
+      "why": "Forex traders said a softer dollar, cheaper oil earlier in the week and the rally in Indian shares supported the rupee, PTI reported. They also said worries about a slowdown in AI spending abroad had pushed investors towards India.\n\nThe big foreign buying is the key piece. A tracker showed foreign investors have been net buyers for five sessions in a row, while domestic institutions have been net sellers for five.\n\nOil's rebound shows the peace hopes are fragile. No US-Iran deal has been announced, and attacks on ships in the Strait of Hormuz, a narrow sea route for much of the world's oil, are continuing.",
+      "implications": {
+        "you": "A stronger rupee makes foreign things a little cheaper: an overseas trip, a foreign course fee or an imported phone. The change of 52 paise is small, about half a percent.",
+        "markets": "Foreign buying is supporting both Indian shares and the rupee. If it reverses, both could weaken together.",
+        "economy": "A stronger rupee and lower oil help keep inflation in check by making imports cheaper. Oil's swing back up shows that relief is not guaranteed.",
+        "prices": "No change in petrol or diesel prices that we found today. Pump prices are not changed daily."
+      },
+      "watch": "Whether Brent stays near $100, and whether foreign investors keep buying when markets reopen.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "FII",
+        "DII",
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "Import bill",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "India uses rupees and America uses dollars. To buy something from America, you need dollars, and the price of a dollar in rupees changes every day.\n\nOn Friday, one dollar cost about 93 rupees and 89 paise, down from about 94 rupees and 41 paise. That means the rupee got stronger.\n\nWhy? Lots of investors from other countries wanted to buy Indian company shares. To do that, they had to change their dollars into rupees. When lots of people want rupees, the rupee becomes more valuable.\n\nOil also matters, because India buys most of its oil from other countries. Oil got cheaper earlier this week, but on Friday it went up again after some ships near Iran were attacked.",
+        "real_life": "Ananya, 26, is a junior accountant in Kochi. Her younger brother is starting a master's course in Australia, and the family has to send fees in foreign currency next month.\n\nThe rupee's moves change how many rupees they need. On a $10,000 payment, a 52-paise rise in the rupee against the dollar saves about ₹5,200 compared with Thursday's rate. The Australian dollar has its own rate, but it often moves in a similar direction.\n\nThat saving could vanish if the rupee weakens again before they pay, and nobody can predict that.\n\nFor her own daily life, nothing changes today. Petrol prices did not move, and oil is swinging up and down with news about Iran."
+      }
+    },
+    {
+      "id": "mahindra-profit-rises-25-percent-cuts-tractor-forecast",
+      "category": "Companies",
+      "title": "Mahindra & Mahindra's profit rises 25% on SUV sales, but it cuts its tractor outlook",
+      "tldr": "Mahindra & Mahindra's consolidated profit rose 25% to ₹4,588 crore in July–September as SUV sales grew 26%. But tractor sales in India fell, and the company now expects the tractor industry to be flat this year because of poor rain. Its shares rose 6.15%.",
+      "what_happened": "Mahindra & Mahindra reported a consolidated profit of ₹4,588 crore for July–September, up 25% from ₹3,673 crore a year earlier, Business Standard reported. Revenue also rose 25%, to ₹57,553 crore. PTI put the profit at ₹4,587.88 crore.\n\nCars drove the growth. SUV sales rose 26% to 3.31 lakh vehicles, and M&M said it had a 24.3% share of SUV sales by revenue, according to reports.\n\nTractors were weaker. Profit in the farm equipment business fell 9% to ₹1,053 crore, and tractor sales in India fell 6% from a year earlier, reports said. The company cut its forecast for the tractor industry this financial year from about 5% growth to roughly flat, citing drought in Karnataka and Maharashtra, a rainfall shortfall and pressure on farmers' finances.\n\nM&M's shares rose 6.15%, the best performance in the Sensex, PTI reported.\n\nAmong other companies, Astral fell nearly 10% after weak growth in its results, and Fortis Healthcare fell 6% on a cautious profit outlook for next year, CNBC-TV18 reported.",
+      "simple_explanation": "Mahindra & Mahindra makes two very different things: cars, mostly SUVs, and tractors.\n\nThe car business had a great quarter. More people bought its SUVs, and it earned more from each one. That pushed overall profit up by a quarter.\n\nThe tractor business had a hard time. Farmers buy tractors when they have money from good harvests. This year rain was poor in some states, so farmers are spending less. The company now expects tractor sales across India to stay about the same this year instead of growing.\n\nInvestors focused on the good news from cars, and the share price jumped.",
+      "analogy": "It is like a family with two earners. One got a big promotion, and the other's hours were cut. The household's total income still went up, but they know one part of it is under pressure.",
+      "why": "Strong SUV demand has been the main story for Indian carmakers, and M&M is one of the biggest winners. Investors usually reward a company when profit grows faster than expected and its main business is gaining customers.\n\nThe tractor warning matters because it tells us something about the rural economy. When a big tractor maker says drought and weak rain are hurting farm finances, it is a sign that some villages are under strain.\n\nAstral and Fortis show the other side of results season: when numbers or outlooks disappoint, shares can fall sharply in a single day, even when the overall market is rising.",
+      "implications": {
+        "you": "If you are thinking of buying an SUV, results like these don't change showroom prices. They suggest demand is strong, which can mean longer waiting times on popular models.",
+        "markets": "Good results from big companies have helped the recent rally. Investors are rewarding companies that beat expectations and punishing those that disappoint.",
+        "economy": "Strong city demand for cars alongside weak tractor demand points to an uneven economy, with parts of rural India under pressure from poor rain.",
+        "prices": "No direct effect on everyday prices. A weak monsoon can push up some food prices, but that is not new today."
+      },
+      "watch": "More results next week, and whether other rural-focused companies also report weak farm demand.",
+      "terms": [
+        "Quarterly results",
+        "Consolidated profit",
+        "Revenue",
+        "Year-on-year",
+        "SUV",
+        "Market share",
+        "Guidance",
+        "Monsoon deficit",
+        "Sensex"
+      ],
+      "explainers": {
+        "like12": "Every three months, big companies share a report card showing how much money they made. Mahindra & Mahindra just shared theirs.\n\nMahindra makes two main things: big cars called SUVs, and tractors for farmers.\n\nThe car side did great. Lots of families bought Mahindra SUVs, so profits went up by a quarter compared with last year.\n\nThe tractor side didn't do well. Farmers buy tractors when their crops do well. But in some states it hardly rained, so crops suffered and farmers had less money.\n\nMahindra says tractor sales across India probably won't grow this year. Still, people liked the overall report card, and Mahindra's share price went up about 6%.",
+        "real_life": "Suresh, 45, is a bank clerk in Nashik. His brother farms grapes and onions near the town and had planned to buy a new tractor this year.\n\nWith rain short in parts of Maharashtra, his brother has postponed the purchase. M&M's results show many farmers are doing the same: tractor sales in India fell 6%.\n\nMeanwhile, Suresh's colleague just booked an SUV and was told to wait several weeks. That's the other half of the same report: SUV sales rose 26%.\n\nFor Suresh, the useful lesson is that one company's results can reveal how different parts of the country are doing. The same quarter can be great for city buyers and hard for farmers."
+      }
+    },
+    {
+      "id": "gold-falls-on-dhanteras-muhurat-trading-sunday",
+      "category": "Gold and festivals",
+      "title": "Gold falls about ₹2,000 on Dhanteras; special Diwali trading session on Sunday",
+      "tldr": "MCX gold fell about ₹2,000 per 10 grams on Dhanteras morning, to around ₹1.42 lakh, as worries about US interest rate rises weighed on prices. Silver fell too. The stock exchanges will hold their muhurat trading session on Sunday, 8 November, from 2:20 pm.",
+      "what_happened": "MCX gold for December delivery fell ₹2,054 per 10 grams to ₹1,42,061 in early trade on Friday, BusinessToday reported. It opened at ₹1,42,161, against Thursday's close of ₹1,44,095. Around 11:06 am it was at about ₹1,41,626, down about 1.71%, Zee Business reported. Silver futures fell ₹3,106 per kg to ₹1,84,035 in early trade, BusinessToday said.\n\nAnalyst Anuj Gupta said rising oil prices had stoked inflation worries and expectations that US interest rates would stay higher for longer, BusinessToday reported. He cited two US Federal Reserve officials backing gradual rate rises and a 68% market-implied chance of a rise in December. A stronger rupee also kept a lid on Indian prices.\n\nJewellers expect sales by value to be higher this Dhanteras because prices are high, but sales by weight to be about flat, Whalesbook reported.\n\nThe NSE and BSE will hold their special Diwali muhurat trading session on Sunday, 8 November, with trading starting at 2:20 pm, according to brokers citing the exchanges' circulars. Markets are listed as closed on Tuesday, 10 November, for Diwali Balipratipada, Kotak Neo's holiday list shows.",
+      "simple_explanation": "Dhanteras is the day many Indian families buy gold or silver for luck. This year, gold got a little cheaper on the morning of Dhanteras.\n\nWhy? Gold doesn't pay interest. When people expect US interest rates to rise, savings that do pay interest look more attractive, so some investors sell gold. Oil prices rose again too, and that made people worry about prices rising and rates staying high.\n\nA stronger rupee also helped bring the Indian price down, because gold is priced in dollars around the world.\n\nOn Sunday, Diwali, the stock market will open for about an hour for a special 'muhurat' session, a tradition to start the new Hindu financial year.",
+      "analogy": "It is like a sale at a jewellery shop on the busiest day of the year. The shop expected crowds anyway, but a small price drop means families can take home a little more for the same budget.",
+      "why": "Gold had risen to a two-week high on Thursday, helped by a weaker dollar and lower US bond yields, BusinessToday reported. Friday's fall reversed part of that.\n\nThe bigger theme is US interest rates. Analysts quoted in the reports said traders are pricing a good chance that the US Federal Reserve raises rates in December. Higher rates usually weigh on gold.\n\nGold prices change during the day, and shop prices also include GST and making charges, so what a jeweller charges will differ from the MCX figure.",
+      "implications": {
+        "you": "If you're buying gold for Dhanteras, it is about ₹2,000 cheaper per 10 grams than on Thursday, before GST and making charges. Prices can change again within hours.",
+        "markets": "The muhurat session is usually short and light, so its result is more symbolic than meaningful. Markets are also shut on Tuesday, 10 November.",
+        "economy": "No direct effect. High gold prices mean Indians spend more money on gold imports, which adds to India's import bill.",
+        "prices": "Gold and silver jewellery is slightly cheaper today than yesterday, though still near record levels."
+      },
+      "watch": "US jobs data on Friday evening, which could move gold, and how the market does in Sunday's muhurat session.",
+      "terms": [
+        "Dhanteras",
+        "MCX",
+        "Futures",
+        "Federal Reserve",
+        "Rate hike",
+        "Muhurat trading",
+        "Trading holiday",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "On Dhanteras, lots of Indian families buy a little gold or silver because it is thought to bring good luck.\n\nThis year, gold became cheaper on Dhanteras morning, by about ₹2,000 for 10 grams. That's a small drop on a very expensive item.\n\nWhy did it fall? Gold just sits in a locker and doesn't earn anything. When banks in America are expected to pay higher interest, some big investors prefer those savings to gold, so they sell gold, and its price goes down.\n\nThere's another Diwali tradition too. On Diwali day, the stock market opens for about an hour in the afternoon. People buy a few shares to start the new year with something good. It's called muhurat trading.",
+        "real_life": "Kavita, 38, is a schoolteacher in Jaipur. Every Dhanteras she buys a small gold coin, usually 5 grams.\n\nMCX gold fell about ₹2,000 per 10 grams this morning, so a 5-gram coin may cost roughly ₹1,000 less than it would have on Thursday, before GST and making charges. Her jeweller's rate can differ from the MCX price, and it may change through the day.\n\nHer husband wants to buy one share of a company during Sunday's muhurat session, as a family tradition. That's fine as a token, but the session is short and prices can be jumpy.\n\nShe also notes that the market is closed on Tuesday, so any SIP or redemption she has planned around that date may be processed a day later."
+      }
+    },
+    {
+      "id": "sebi-revises-rupee-currency-derivative-limits",
+      "category": "Regulation",
+      "title": "SEBI updates rules on rupee currency bets to match the RBI",
+      "tldr": "SEBI said domestic investors and foreign portfolio investors can hold rupee currency derivative positions of up to $5 million without showing a real business need. The change matches rules the RBI set on 10 October.",
+      "what_happened": "SEBI issued a circular on Thursday, 5 November, revising its rules on rupee-linked currency derivatives traded on stock exchanges, Outlook Money and Zee Business reported.\n\nDomestic clients and foreign portfolio investors (FPIs) can now take long or short positions of up to $5 million in notional value without having to show an underlying exposure, such as an import bill or export income. The $5 million is one combined limit across all currency pairs involving the rupee and all stock exchanges.\n\nFor FPIs, short positions must stay within $5 million. Long positions above $5 million need an underlying exposure to Indian shares or bonds, including mutual fund units. Domestic clients can go above $5 million under conditions set by the RBI.\n\nSEBI said the change brings its rules in line with an RBI circular dated 10 October 2026. Exchanges and clearing corporations have been told to update their systems and rules. The reports did not give a start date.",
+      "simple_explanation": "Currency derivatives are contracts that let people bet on, or protect themselves against, changes in the rupee's value against the dollar or other currencies.\n\nUsually, the rules say you can only use these contracts if you have a real need, such as a business that imports goods and must pay in dollars. That's to stop pure gambling on the rupee.\n\nBut there is a smaller amount people can trade without proving such a need. SEBI has now set that amount at $5 million, so its stock-exchange rules match the rules the RBI made last month for the wider currency market.",
+      "analogy": "It is like a housing society updating its parking rules to match a new city rule. Nothing big changes for most residents, but everyone now follows the same limit.",
+      "why": "India has two regulators for currency deals. The RBI oversees the currency market overall, and SEBI oversees what trades on stock exchanges. When the RBI changes its rules, SEBI often updates its own so that the two don't contradict each other.\n\nAllowing some trading without a real business need can bring more participants and make the market deeper. Limits are there to stop speculation from pushing the rupee around too much.\n\nThis is a technical change. It mainly matters to companies, banks, brokers and foreign investors who trade currency contracts, not to ordinary savers.",
+      "implications": {
+        "you": "Almost certainly no effect on you, unless you trade currency contracts through a broker.",
+        "markets": "Clearer, matching rules can make it easier for foreign investors and companies to manage currency risk, which may help them invest in India.",
+        "economy": "No direct effect. The aim is a smoother currency market with less confusion between regulators.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "When exchanges put the new limits into effect.",
+      "terms": [
+        "SEBI",
+        "RBI",
+        "Circular",
+        "Forex derivatives",
+        "FPI",
+        "Long and short positions",
+        "Notional value",
+        "Underlying exposure"
+      ],
+      "explainers": {
+        "like12": "Imagine a school that runs a small canteen game where students can guess whether a sweet's price will go up or down next week.\n\nThe headmaster says only students who really buy sweets every day can play, to stop it turning into gambling. But anyone can play with a small amount.\n\nIndia has rules like that for the rupee's value. Companies that buy or sell things abroad can make deals to protect themselves if the rupee changes. Others can only make smaller deals.\n\nThe RBI, India's central bank, recently changed how big that 'small amount' can be. Now SEBI, which looks after the stock market, has changed its rules to match: $5 million. It's mostly paperwork to keep the rules the same everywhere.",
+        "real_life": "Farhan, 40, runs a small business in Moradabad that exports brass handicrafts to the US and gets paid in dollars a few months after shipping.\n\nIf the rupee strengthens before he is paid, he gets fewer rupees. To protect himself, he can use a currency contract through a broker that fixes the rate in advance. As an exporter, he already has a real business need, so the rules have always allowed this.\n\nThe SEBI change matters more to traders who have no such business need. For them, the limit is now a single $5 million across all rupee pairs and exchanges.\n\nFor his cousin, a salaried engineer with an SIP and an FD, nothing changes at all."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Correction",
+    "explanation": "A correction is a fall of 10% or more in a share or index from its most recent peak. It sits between a normal dip and a 'bear market', which usually means a fall of 20% or more.\n\nThe word hints that prices had run ahead of themselves and are now 'correcting'. Corrections are common: big markets go through one every year or two on average, often without any recession. They can be triggered by worries about interest rates, profits, politics or, as this week, new rules.\n\nThe 10% line is a convention, not a law of nature. Nothing special happens at exactly 10%. It just gives news reports a shared way to describe a meaningful fall.",
+    "example": "On Thursday the Nasdaq Composite fell 5.52%, leaving it more than 10% below its 6 October record high, so reports said it had 'entered correction territory'. In the same week India's Nifty rose more than 8%, showing that one market's correction can happen while another rallies.",
+    "takeaway": "A correction is a fall of at least 10% from a recent peak: worth noticing, common in markets, and not by itself a sign of disaster."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Friday?",
+      "options": [
+        "Down 1,718 points",
+        "Up 1,718.01 points, or 2.17%",
+        "Up 2,008.61 points",
+        "Unchanged"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose 1,718.01 points, or 2.17%, to 81,028.02, its seventh straight gain. The 2,009-point rise was Thursday's."
+    },
+    {
+      "q": "Which shares led Friday's rise?",
+      "options": [
+        "Small companies",
+        "IT companies",
+        "Private banks such as ICICI Bank and HDFC Bank",
+        "Oil producers"
+      ],
+      "answer": 2,
+      "why": "Private banks rose about 3% on the BSE. ICICI Bank rose 4.65% and HDFC Bank 3.56%, while smaller companies slipped."
+    },
+    {
+      "q": "Why did chip makers' shares crash in the US and Asia?",
+      "options": [
+        "An earthquake in Taiwan",
+        "Fears a new US Congress could curb AI data centres",
+        "India banned chip imports",
+        "Oil hit a record high"
+      ],
+      "answer": 1,
+      "why": "After the midterm elections, investors worried that Democrats could bring tighter oversight of AI data centres, reducing demand for chips."
+    },
+    {
+      "q": "What does it mean when an index enters a 'correction'?",
+      "options": [
+        "It has fallen at least 10% from its recent peak",
+        "It has risen 10%",
+        "A mistake in its calculation was fixed",
+        "It has stopped trading"
+      ],
+      "answer": 0,
+      "why": "A correction is a fall of 10% or more from a recent high. The Nasdaq crossed that line on Thursday."
+    },
+    {
+      "q": "Why did the rupee strengthen on Friday?",
+      "options": [
+        "The RBI cut interest rates",
+        "Foreign investors were buying a lot of Indian shares",
+        "India stopped importing oil",
+        "Gold prices fell"
+      ],
+      "answer": 1,
+      "why": "Foreign investors bought about ₹14,975 crore of Indian shares, net, on Thursday. To do that they need rupees, which pushes the rupee up."
+    },
+    {
+      "q": "Why did M&M cut its forecast for tractor sales?",
+      "options": [
+        "A factory fire",
+        "Drought and poor rain hurting farmers' finances",
+        "A new tax on tractors",
+        "Too many SUV orders"
+      ],
+      "answer": 1,
+      "why": "M&M now expects the tractor industry to be about flat this year, citing drought in Karnataka and Maharashtra and a rainfall shortfall."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Metro Vaartha (PTI): D-Street festive rally defies global rout; Sensex jumps 1,718 points, Nifty hits 9-month high",
+      "url": "https://english.metrovaartha.com/economy/market/d-street-festive-rally-defies-global-rout-sensex-jumps-1718-points-nifty-hits-9-month-high"
+    },
+    {
+      "title": "CNBC-TV18 via TradingView: market close, 6 November 2026",
+      "url": "https://www.tradingview.com/news/cnbctv:c970c955d094b:0/"
+    },
+    {
+      "title": "Business Standard: Stock Market Close, Nifty reclaims 25K as rally extends to 7th day; Sensex up 1,718 pts",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+    },
+    {
+      "title": "Deccan Herald: Stock markets on fire; Sensex jumps 1,718 points, Nifty reclaims 25,000",
+      "url": "https://www.deccanherald.com/business/markets/stock-markets-on-fire-sensex-jumps-1718-points-nifty-reclaims-25000-4210095"
+    },
+    {
+      "title": "Telangana Today (PTI): Rupee rallies 52 paise to settle at 93.89 against US dollar",
+      "url": "https://telanganatoday.com/rupee-rallies-52-paise-to-settle-at-93-89-against-us-dollar"
+    },
+    {
+      "title": "CNN: Stock markets plunge as massive tech sell-off wipes $2.5 trillion",
+      "url": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges"
+    },
+    {
+      "title": "The National: Asian stocks plunge after Nasdaq enters correction territory on AI fears",
+      "url": "https://thenationalnews.com/business/markets/2026/11/06/nasdaq-plunges-5-as-investors-dump-ai-stocks-after-midterms"
+    },
+    {
+      "title": "Fox Business: Nasdaq tumbles 5%, Dow plunges more than 1,800 points",
+      "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+    },
+    {
+      "title": "Business Standard: M&M Q2 consolidated profit rises 25% to ₹4,588 cr on strong auto show",
+      "url": "https://www.business-standard.com/companies/quarterly-results/m-m-q2-consolidated-profit-rises-25-to-4-588-cr-on-strong-auto-show-126110500963_1.html"
+    },
+    {
+      "title": "Indian Opinion: M&M cuts tractor forecast, Q2 profit up 25% on SUV boom",
+      "url": "https://indianopinion.org/mm-cuts-tractor-growth-forecast-to-flat-q2-profit-surges-25/"
+    },
+    {
+      "title": "BusinessToday: Gold price crashes Rs 2,000, silver down by Rs 3,000 on Dhanteras 2026",
+      "url": "https://businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-key-levels-to-track-566102-2026-11-06"
+    },
+    {
+      "title": "Zee Business: Dhanteras 2026, gold and silver retreat after recent rally",
+      "url": "https://www.zeebiz.com/markets/commodities/news-dhanteras-2026-gold-silver-retreat-after-recent-rally-check-latest-mcx-and-retail-prices-405215"
+    },
+    {
+      "title": "Whalesbook: Gold prices fall on Dhanteras",
+      "url": "https://www.whalesbook.com/news/English/commodities/Gold-Prices-Fall-on-Dhanteras-Global-Factors-Dampen-Demand/6aed97304fc30694db6108c8"
+    },
+    {
+      "title": "Angel One: Muhurat trading on November 8, 2026, timings of BSE and NSE",
+      "url": "https://www.angelone.in/news/market-updates/muhurat-trading-on-november-8-2026-timings-of-bse-and-nse"
+    },
+    {
+      "title": "Kotak Neo: Share market holidays 2026",
+      "url": "https://www.kotakneo.com/share-market-holidays/"
+    },
+    {
+      "title": "Outlook Money: SEBI revises currency derivatives rules, sets $5 million limit",
+      "url": "https://www.outlookmoney.com/invest/sebi-revises-currency-derivatives-rules-unhedged-positions-5-million"
+    },
+    {
+      "title": "Zee Business: SEBI revises currency derivative limits for domestic investors, FPIs",
+      "url": "https://www.zeebiz.com/market-news/news-sebi-revises-currency-derivative-limits-for-domestic-investors-fpis-405177"
+    },
+    {
+      "title": "FinanceFeeds: Brent crude oil price $99.90 as Hormuz attacks return",
+      "url": "https://financefeeds.com/brent-crude-oil-price-99-90-friday-after-wall-street-ai-rout-jobs-report-iran-deal-bets-bull-103-60-bear-93-50/"
+    },
+    {
+      "title": "Quantsapp: FII DII data, 5 November 2026",
+      "url": "https://www.quantsapp.com/fii-dii"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Winning streak",
+      "definition": "A run of consecutive days, weeks or matches in which something keeps going up or winning.",
+      "more": "In market news, a winning streak means an index such as the Sensex has closed higher than the day before for several sessions in a row. Reporters count the days because long streaks are fairly rare: on most stretches, up days and down days mix. It is like a batsman scoring fifties in five matches in a row. A streak says nothing about what happens next. It can end the following day, and a long run of gains often tempts some investors to sell and lock in profits, which is called profit booking."
+    },
+    {
+      "term": "Nifty Bank",
+      "definition": "An index of the biggest banks listed on the NSE. People also call it Bank Nifty.",
+      "more": "The Nifty Bank index tracks around a dozen of India's largest listed banks, both private and government-owned, weighted by size. Because banks such as HDFC Bank and ICICI Bank are huge, this index is closely watched as a reading of how investors feel about lending and the economy. Think of it as the 'banking class' report card inside the wider school. News reports often quote it next to the Sensex and Nifty, for example 'Bank Nifty fell below 55,000', because banks make up a large slice of both headline indices."
+    },
+    {
+      "term": "Private bank",
+      "definition": "A bank owned mainly by private shareholders rather than the government, such as HDFC Bank, ICICI Bank or Axis Bank.",
+      "more": "India's banks fall into two broad groups. Public sector banks, like SBI, are majority-owned by the government. Private banks, like HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank, are owned mostly by ordinary and institutional shareholders. The big private banks are among the heaviest companies in the Sensex and Nifty, so when they fall together the whole index usually falls too. Think of them as the senior players in a team: when they have an off day, the team score suffers. News reports often track them through the Nifty Private Bank index."
+    },
+    {
+      "term": "Large-cap",
+      "definition": "A very big listed company, usually one of the 100 largest in India by market value.",
+      "more": "Shares are often grouped by company size. Large-caps are the biggest, best-known companies, such as HDFC Bank, Reliance or Infosys. In India, SEBI's rules treat the top 100 companies by market value as large-caps, the next 150 as midcaps and the rest as smallcaps. Large-caps tend to move less wildly than small ones and are favoured by foreign investors, who need to buy in big amounts. Think of them as the big department stores on a busy road. When reports say a rally was 'concentrated in large-caps', the biggest names rose while smaller ones lagged."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market capitalisation",
+      "definition": "The total value of all of a company's shares at today's price. Added up across companies, it shows the value of the whole market.",
+      "more": "Market capitalisation, or market cap, is the share price multiplied by the number of shares a company has issued. Add up the market cap of every company on the BSE and you get the value of the whole exchange. When headlines say 'investors lost ₹6 lakh crore', they mean this total fell by that much during the day. It's like the estimated value of every house in your colony falling because prices nearby dropped: nobody paid anyone, and the loss is only on paper unless people sell."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "Correction",
+      "definition": "A fall of 10% or more in a share or index from its most recent peak.",
+      "more": "Market watchers use 'correction' as a label for a meaningful fall: at least 10% below the latest high, but less than the 20% that is usually called a 'bear market'. The word suggests prices had run up too far and are 'correcting'. It's like a vegetable price that shot up during a shortage and then drops back once supply returns. Corrections are common, and many happen without any recession. In the news you'll read that an index has 'entered correction territory' on the day it closes 10% below its peak."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    },
+    {
+      "term": "Data centre",
+      "definition": "A large building full of computers that store data and run online services, including AI systems.",
+      "more": "Every time you use a search engine, a UPI app or an AI chatbot, the work is done in a data centre: a warehouse-like building packed with servers, cooling systems and power lines. AI needs huge, power-hungry data centres, so tech companies have been spending heavily to build them, which has boosted chip makers. Because they use a lot of electricity, land and water, some local communities oppose them. It's like a giant kitchen that cooks for millions of customers at once. News about curbs on data centres can hit chip and tech shares worldwide."
+    },
+    {
+      "term": "Midterm elections",
+      "definition": "US elections held halfway through a president's four-year term, which decide who controls Congress.",
+      "more": "In the US, the president is elected every four years, but elections for the whole House of Representatives and about a third of the Senate happen every two years. The ones in the middle of a president's term are called midterms. This year they were held on 3 November, and US networks projected that the Democrats won both houses. That means President Trump will need the other party's agreement for new laws. It's a bit like a mid-year school council vote that changes who controls the council's decisions."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "Hang Seng",
+      "definition": "Hong Kong's main stock market index, which tracks large companies listed there, including many big Chinese firms.",
+      "more": "The Hang Seng is to Hong Kong what the Sensex is to India. Because it includes many large Chinese technology and property companies, it is often read as a gauge of investor mood about China. Indian market reports list it with Japan's Nikkei and South Korea's Kospi under 'Asian cues', since a big fall across Asia in the morning often makes Indian investors cautious too. Like any index, its percentage change matters more than its points."
+    },
+    {
+      "term": "Circuit breaker",
+      "definition": "An automatic pause or limit on trading when prices move very sharply.",
+      "more": "Exchanges put limits on how fast prices can move, to give people time to think when markets swing wildly. If an index or share jumps or falls by a set amount, trading can be paused for a short time, or orders beyond a limit are blocked. India uses circuit limits on individual shares and on the whole market; South Korea and others have their own rules. It's like a referee stopping a heated match for a few minutes so tempers cool. News reports mention circuit breakers when markets move unusually fast in either direction."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure, released quickly, that may be revised slightly later.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. For example, Wednesday's rupee close was first reported as 94.58 per dollar but finally came in at 94.46. It's like an exam's provisional result, which can change slightly after rechecking. The differences are usually small, so provisional figures are still a good guide."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "Year-on-year",
+      "definition": "A comparison with the same period one year earlier.",
+      "more": "Year-on-year, often written YoY, compares a figure with the same period last year, such as July–September 2026 against July–September 2025. This removes seasonal effects: many businesses naturally earn more in festive months, so comparing with the previous quarter can mislead. It's like comparing this Diwali's sweet-shop sales with last Diwali's, not with a quiet month. Company results, inflation and GDP are usually reported year-on-year."
+    },
+    {
+      "term": "SUV",
+      "definition": "Sport utility vehicle: a taller, roomier car, often with higher ground clearance.",
+      "more": "SUVs sit higher than ordinary hatchbacks and sedans, with more space and a tougher look. In India they have become the most popular type of car in recent years, as buyers upgrade from small hatchbacks. Models like the Mahindra Scorpio, XUV700 and Thar, Tata Nexon and Hyundai Creta are well-known examples. For carmakers, SUVs usually earn more profit per car than small cars. Think of the shift as families moving from a two-room flat to a three-room one once they can afford it. Results news often reports SUV sales separately."
+    },
+    {
+      "term": "Market share",
+      "definition": "A company's portion of all sales in its industry, usually given as a percentage.",
+      "more": "If 100 SUVs are sold in India and 24 are made by one company, that company has a 24% market share. Some reports measure it by number of units, others by sales value (revenue), so figures can differ. Rising market share means a company is winning customers from rivals; falling share means it is losing them. It's like a cricket team's share of the runs scored in a match. Investors watch it closely because a company can grow even in a slow market if it keeps taking share."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "Monsoon deficit",
+      "definition": "When the monsoon brings less rain than normal for a period or region.",
+      "more": "India's farms depend heavily on the June–September monsoon. The India Meteorological Department compares actual rainfall with a long-term average; if it is clearly below that, it is called a deficit. Low rain can cut crop output and farm incomes, which means farmers buy fewer tractors, two-wheelers and consumer goods. It can also push up food prices. Think of it as a family's main salary arriving short: every other spending plan gets trimmed. Companies selling to rural India often mention the monsoon when explaining their results."
+    },
+    {
+      "term": "Dhanteras",
+      "definition": "A Hindu festival two days before Diwali when many families traditionally buy gold, silver, utensils or vehicles.",
+      "more": "Dhanteras marks the start of the Diwali festivities in much of India. Buying something made of metal on this day is considered lucky, so jewellers see some of their biggest sales of the year. That is why news about gold in October and November often mentions Dhanteras demand, and why a price fall just before the festival is closely watched: shoppers may buy more, or buy heavier pieces, if prices dip. Carmakers and two-wheeler makers also report a rush of bookings and deliveries around this time."
+    },
+    {
+      "term": "MCX",
+      "definition": "The Multi Commodity Exchange of India, where gold, silver, oil and other commodities are traded.",
+      "more": "MCX is India's main exchange for trading commodities such as gold, silver, crude oil, natural gas and metals. Most trading is in futures contracts, which are agreements on a price for a future date. MCX gold prices are a common guide to what jewellers charge, though shop prices also include GST and making charges. It's like a big wholesale mandi for metals and energy. News reports quote MCX gold per 10 grams."
+    },
+    {
+      "term": "Futures",
+      "definition": "Contracts to buy or sell something, such as gold or shares, at a fixed price on a future date.",
+      "more": "A futures contract locks in a price today for a deal that settles later, for example gold for December delivery. Traders use futures to protect themselves against price swings or to bet on where prices will go. On MCX, gold and silver futures are traded every day, and their prices are a quick guide to where the metal is heading. It's like booking a wedding hall today at today's rate for a date months away. News reports about 'MCX gold' usually mean the price of the nearest futures contract."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Muhurat trading",
+      "definition": "A special, short stock-market session held on Diwali evening, seen as an auspicious start to the new year.",
+      "more": "Many Indian traders begin a new accounting year, called Samvat, at Diwali. To mark it, the NSE and BSE hold a roughly one-hour 'muhurat' session on Diwali, even if it falls on a weekend. Families often buy a few shares as a token of good luck, like buying gold on Dhanteras. Trades in this session are real and settle normally. Volumes are usually small, so the index move on the day is more symbolic than meaningful. News reports often track how the market did in past muhurat sessions."
+    },
+    {
+      "term": "Trading holiday",
+      "definition": "A weekday on which the stock exchanges are closed, usually for a festival or national holiday.",
+      "more": "NSE and BSE publish a list of trading holidays at the start of each year. On these days no shares are bought or sold, and many related markets such as currency and commodity trading also shut, at least for part of the day. Tuesday 10 November 2026 is a holiday for Diwali Balipratipada. A holiday can make investors cautious the day before, since news can pile up while the market is shut. It is like a shop closing for a festival: orders wait until it reopens. SIP instalments due on a holiday are usually processed on the next working day."
+    },
+    {
+      "term": "SEBI",
+      "definition": "The Securities and Exchange Board of India, the regulator of India's stock markets.",
+      "more": "SEBI makes and enforces the rules for stock exchanges, brokers, mutual funds, listed companies and IPOs. Its job is to protect investors and keep markets fair. It can fine companies, ban traders and change how trading or account-opening works. Think of it as the umpire in a cricket match: it doesn't play, but it makes sure everyone follows the rules. SEBI announces changes through documents called circulars, and news reports usually explain who is affected and from when."
+    },
+    {
+      "term": "RBI",
+      "definition": "The Reserve Bank of India, the country's central bank. It sets interest rates, regulates banks and manages the rupee.",
+      "more": "The RBI is like the bank of all banks. It decides the repo rate, the interest rate at which banks borrow from it, which shapes the rates on your home loan EMI and fixed deposit. It also supervises banks, prints currency notes, manages India's foreign exchange reserves and steps in when the rupee moves too sharply. It runs markets for government bonds and money markets too. When the RBI changes a rule, it usually issues a circular on its website, so a 'circular' shared on WhatsApp should be checked there."
+    },
+    {
+      "term": "Circular",
+      "definition": "An official notice issued by a regulator, such as SEBI or the RBI, setting out new rules or changes.",
+      "more": "When SEBI or the RBI changes a rule, it usually publishes a circular: a formal document sent to stock exchanges, brokers or banks, and posted on its website. It explains what is changing, who must follow it and from when. A 'master circular' gathers many older rules on one topic in one place. Think of it as a notice from your housing society committee that every resident must follow. News reports often say 'SEBI said in a circular' when describing new regulations."
+    },
+    {
+      "term": "Forex derivatives",
+      "definition": "Contracts whose value depends on a future exchange rate, such as an agreement to buy dollars at a fixed rate on a later date.",
+      "more": "Forex is short for foreign exchange. A forex derivative is a deal linked to a currency's future price, such as a 'forward' contract that fixes today the rate at which a company will buy dollars next month. Importers and exporters use them to protect themselves. But traders can also use them to bet that the rupee will fall, and lots of such bets can push it down further. That is why the RBI sometimes tightens the rules, as it did in October. It's like a pre-booked price for a train ticket that can be useful for travellers, or traded by touts."
+    },
+    {
+      "term": "FPI",
+      "definition": "Foreign portfolio investor: a foreign fund or investor that buys Indian shares, bonds or similar investments, registered with SEBI.",
+      "more": "FPI is the official term SEBI uses for foreign investors who buy financial investments in India, such as shares and bonds, without taking control of a company. In everyday market news, 'FII' and 'FPI' are often used to mean the same group. Before they can invest, FPIs must register and complete checks, which can take time and paperwork. Think of it as the entry process at a big exhibition: the quicker and simpler the gate, the easier it is for visitors to come in. Their buying and selling can move the Sensex and the rupee."
+    },
+    {
+      "term": "Long and short positions",
+      "definition": "A long position gains if a price rises; a short position gains if it falls.",
+      "more": "Being 'long' means you have bought something, or agreed to buy it, expecting the price to rise. Being 'short' means you have agreed to sell it, expecting the price to fall, so you can buy it back cheaper. In currency markets, someone long on the dollar against the rupee gains if the rupee weakens. Importers often go long on dollars to protect against a weaker rupee, while exporters go short. It's like two friends betting on opposite sides of a cricket match. Regulators limit the size of positions to curb excessive speculation."
+    },
+    {
+      "term": "Notional value",
+      "definition": "The total face value of a contract, rather than the money actually paid upfront to enter it.",
+      "more": "In derivatives, you often put down only a small margin to control a much larger amount. If you take a currency contract covering $1 lakh, the notional value is $1 lakh, even if you deposited only a few thousand rupees. Regulators set limits in notional value because that shows how big a bet really is. It's like booking a flat by paying a token amount: the token is small, but the deal you have committed to is worth the full price. News about position limits almost always refers to notional value."
+    },
+    {
+      "term": "Underlying exposure",
+      "definition": "A real business need for a currency, such as an import bill or export income, that a currency deal protects against.",
+      "more": "In currency markets, an importer who must pay $1 lakh next month has an 'underlying exposure': if the rupee falls, the bill rises. Buying a currency contract to lock in today's rate protects them. For years, Indian rules said you could only use such contracts if you had this real exposure, to discourage pure betting. It's like crop insurance being sold only to people who actually own a farm. Allowing positions without underlying exposure, within a limit, lets more people trade, which can make the market deeper, but also adds speculation."
+    }
+  ]
+}
