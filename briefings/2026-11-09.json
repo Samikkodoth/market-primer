@@ -1,0 +1,634 @@
+{
+  "date": "2026-11-09",
+  "session_label": "Monday 9 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex rose 107 points to 81,107 and the Nifty held above 25,000 in a choppy session as state-run banks jumped and IT shares slipped; Citi raised its Nifty target to 28,000, HSBC upgraded India, and the rupee edged up to 93.93 as oil eased.",
+  "mood": "Steady",
+  "mood_note": "A calm, mixed day after last week's big rally. The headline indices ended slightly higher, led by government-owned banks, but more shares fell than rose. Markets are shut on Tuesday.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Friday we reported the rupee at 93.89 per dollar (provisional). PTI now gives Friday's final close as 93.98, a gain of 43 paise rather than 52.",
+    "In Sunday's one-hour muhurat session, which opened Samvat 2083, the Sensex slipped 28.62 points to 80,999.40 and the Nifty 43.95 points to 24,986.40. Today's changes are measured from those levels.",
+    "Exchange data showed foreign investors bought ₹13,749.82 crore of Indian shares, net, on Friday. In the US that evening, a strong jobs report showed 165,000 new jobs, and the Nasdaq rose 1.09%."
+  ],
+  "one_minute": [
+    "The Sensex rose 107.25 points (0.13%) to 81,106.65 and the Nifty 50 rose 58.25 points (0.23%) to 25,044.65, their highest close since late February.",
+    "Government-owned banks led, with the Nifty PSU Bank index up 3.7% and SBI up 2.6%; IT shares fell, and more shares fell than rose.",
+    "Citi raised its end-2027 Nifty target to 28,000 and HSBC upgraded India to 'overweight', as foreign investors have bought over $4.1 billion of shares this month.",
+    "The rupee rose 5 paise to 93.93 (provisional) and Brent fell to about $97.5 after Trump said new Iran attacks were unlikely.",
+    "A strong US jobs report raised the odds of a US rate rise in December to about 77%. Indian markets are closed on Tuesday for Balipratipada."
+  ],
+  "big_picture": "After seven straight gains and a rise of more than 10%, Indian shares took a breather. The Sensex and Nifty ended slightly higher after swinging up and down all day, and the Nifty closed above 25,000 again.\n\nUnder the surface, money moved around. Investors bought government-owned banks like SBI and sold IT companies and steel makers. More shares fell than rose across the market.\n\nThe mood around India stayed positive. Two big global banks, Citi and HSBC, said Indian shares look more attractive now that oil is cheaper and global investors are moving away from crowded AI bets. Foreign funds have already put more than $4 billion into India this month, and the rupee has strengthened.\n\nOne new thing to watch is the US. A strong jobs report there has raised the chance that the US central bank raises interest rates in December, which could make foreign investors more careful about India.",
+  "chain": [
+    {
+      "label": "Oil eases",
+      "note": "Brent slipped to about $97.5 after Trump said new Iran attacks were unlikely while talks continue."
+    },
+    {
+      "label": "Banks turn positive on India",
+      "note": "Citi raised its Nifty target to 28,000; HSBC upgraded India to 'overweight'."
+    },
+    {
+      "label": "Foreign money keeps coming",
+      "note": "Foreign investors bought ₹13,749.82 crore of Indian shares, net, on Friday."
+    },
+    {
+      "label": "Money shifts within India",
+      "note": "PSU banks rose 3.7% while IT shares fell about 1.2% and more shares fell than rose."
+    },
+    {
+      "label": "Sensex up 107",
+      "note": "The Sensex closed at 81,106.65 and the Nifty at 25,044.65, after a choppy session."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "81,106.65",
+      "change": "+107.25 (+0.13%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. The change is measured from Sunday's muhurat session."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,044.65",
+      "change": "+58.25 (+0.23%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It closed at its highest level since late February."
+    },
+    {
+      "name": "Nifty PSU Bank",
+      "value": "",
+      "change": "+3.7%",
+      "direction": "up",
+      "what_it_is": "This tracks government-owned banks such as SBI, Bank of Baroda and Punjab National Bank. It led the day."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "about -1.2%",
+      "direction": "down",
+      "what_it_is": "This tracks India's IT services companies, such as Infosys and HCL Technologies. It was the weakest sector."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+0.55%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+0.1%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller companies."
+    },
+    {
+      "name": "India VIX",
+      "value": "",
+      "change": "-5.8%",
+      "direction": "down",
+      "what_it_is": "A measure of how much traders expect the Nifty to swing. A fall suggests calmer expectations."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "93.93",
+      "change": "+5 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$97.53",
+      "change": "-0.80%",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for the rupee and prices."
+    },
+    {
+      "name": "MCX gold (December)",
+      "value": "₹1,43,540",
+      "change": "+0.69% (afternoon)",
+      "direction": "up",
+      "what_it_is": "The price of 10 grams of gold in Indian futures trading. Shop prices also include GST and making charges."
+    },
+    {
+      "name": "Nikkei 225 (Japan)",
+      "value": "58,775.50",
+      "change": "about +2.3%",
+      "direction": "up",
+      "what_it_is": "Japan's main share index. It bounced back as chip and AI shares recovered."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-edges-up-107-psu-banks-lead-nifty-holds-25000",
+      "category": "Stock market",
+      "title": "Sensex edges up 107 points as state-run banks jump and IT shares slip; Nifty holds above 25,000",
+      "tldr": "The Sensex rose 107.25 points, or 0.13%, to 81,106.65 and the Nifty 50 rose 58.25 points, or 0.23%, to 25,044.65 after a choppy day. Government-owned banks such as SBI led, while IT and metal shares fell. More shares fell than rose. On Sunday's short Diwali session the market had dipped slightly.",
+      "what_happened": "The Sensex gained 107.25 points, or 0.13%, to close at 81,106.65, and the Nifty 50 rose 58.25 points, or 0.23%, to 25,044.65, IANS reported. The market swung between gains and losses during the day before ending higher, Kotak Securities said. HDFC Sky reported that both indices closed at their highest level since 27 February 2026.\n\nToday's gain is measured from Sunday's muhurat trading session, the special one-hour Diwali session that opened Samvat 2083. In that session the Sensex slipped 28.62 points to 80,999.40 and the Nifty 43.95 points to 24,986.40. Compared with Friday's close, the Sensex is up about 79 points and the Nifty about 14.\n\nGovernment-owned banks led. The Nifty PSU Bank index rose 3.7%, HDFC Sky reported, with SBI up 2.6%. The Nifty Bank index rose 1.51% and Nifty Pharma about 1.6%. Trent rose 2% and NTPC 1.9%.\n\nIT shares were the weakest, with Nifty IT down about 1.2%. HCL Technologies fell 2.4%, Infosys 1.5% and Tech Mahindra 1.4%. Tata Steel fell 2.8% and UltraTech Cement 1.8%.\n\nThe Nifty Midcap 100 rose 0.55% and the Nifty Smallcap 100 0.1%. But on the NSE, 2,316 shares fell and 1,922 rose, HDFC Sky said. The India VIX, a measure of expected swings, fell 5.8%.",
+      "simple_explanation": "After a very fast rise last week, the market mostly caught its breath today. The big indices ended a little higher, but it was a tug of war all day.\n\nThe winners were banks owned by the government, such as State Bank of India. Investors who sold IT company shares seemed to move some of that money into these banks.\n\nThe losers were IT companies like Infosys and HCL, and steel maker Tata Steel.\n\nMore shares actually fell than rose across the whole market. So even though the headline number went up, the average share did not do as well. A small rise after a 10% jump in seven sessions is a calm day, not a warning sign by itself.",
+      "analogy": "It is like a runner who has sprinted seven laps and now jogs one lap at an easy pace. They are still moving forward, just not as fast, and some team-mates have slowed down more than others.",
+      "why": "Analysts described the session as range-bound with a positive bias, IANS reported, with profit booking after the long rally holding back gains and weakness in IT and metal shares weighing on the indices. HDFC Sky said Monday's Diwali session saw mild profit booking.\n\nThe bigger support came from cheaper oil, renewed foreign buying and a shift of global money away from AI-linked markets, according to HDFC Sky. Citi and HSBC also turned more positive on India today (see the next story).\n\nThe move into PSU banks looked like rotation: investors selling high-growth IT shares and buying banks seen as cheaper, according to an Upstox analysis. No single company news explained the jump. Experts quoted by IANS put immediate resistance for the Nifty at 25,150–25,200 and support at 24,800.",
+      "implications": {
+        "you": "If you have a Nifty index fund or an equity SIP, today's move is tiny. Your fund's value probably changed by a fraction of a percent. If you own an IT-focused fund, it likely fell a bit. Nothing here needs action; one quiet day says little.",
+        "markets": "More shares fell than rose, so the gain was narrow, led by a few sectors. Analysts often watch whether a rally broadens out or fades after a run like last week's.",
+        "economy": "No direct effect on the economy from one day's small move.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "The market is closed on Tuesday 10 November for Diwali Balipratipada and reopens on Wednesday 11 November. Watch whether the Nifty can stay above 25,000.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Muhurat trading",
+        "Samvat",
+        "PSU bank",
+        "Nifty IT",
+        "Market breadth",
+        "India VIX",
+        "Midcap",
+        "Smallcap",
+        "Profit booking",
+        "Support and resistance",
+        "Sector rotation"
+      ],
+      "explainers": {
+        "like12": "Imagine your school has a big scoreboard showing the total marks of the best students. Last week the total shot up for seven days in a row. Today it went up only a tiny bit.\n\nThe Sensex and Nifty are that scoreboard for India's biggest companies.\n\nToday, banks owned by the government, like State Bank of India, did well. Computer-services companies, like Infosys, did badly. It was like a class where some students scored higher and others lower, so the total barely moved.\n\nOn Sunday there was also a special one-hour trading session for Diwali. It is a tradition, like opening a new notebook for the new year.\n\nAfter running so fast last week, a slow day is normal.",
+        "real_life": "Kavita, 29, is a nurse in Kochi. She invests ₹4,000 a month in a Nifty 50 index fund through an SIP and has about ₹1.5 lakh in it.\n\nThe Nifty rose 0.23% today, so her fund is up by roughly ₹350 on paper. That is close to nothing, and it could disappear tomorrow.\n\nHer brother works at an IT company in Bengaluru and holds some of his employer's shares. IT shares fell today, so his holding is a little lower. That says nothing about his job; share prices move for many reasons.\n\nThe market is shut on Tuesday for Balipratipada, so her SIP, if it falls on that day, would usually be processed on the next working day."
+      }
+    },
+    {
+      "id": "citi-hsbc-turn-bullish-on-india-foreign-money-returns",
+      "category": "Foreign money",
+      "title": "Citi raises its Nifty target to 28,000 and HSBC upgrades India as foreign money returns",
+      "tldr": "Citi raised its end-2027 target for the Nifty to 28,000 from 26,000, and HSBC upgraded Indian shares to 'overweight' from 'neutral'. Both pointed to cheaper oil and money moving out of crowded AI trades. Foreign investors have bought more than $4.1 billion of Indian shares so far in November, the most since September 2024.",
+      "what_happened": "Citi raised its target for the Nifty 50 to 28,000 by the end of 2027, from 26,000 earlier, according to reports in Business Standard and Business Today. That is about 12% above Sunday's Nifty close of 24,986. Its reasons: cheaper oil, global investors moving out of crowded AI-linked trades, and returning foreign money. Citi estimated that if emerging-market fund managers raised India's share in their portfolios by one percentage point, it could bring in about $12 billion. Its forecast assumes investors keep paying about 18 times expected profits for Indian shares.\n\nHSBC upgraded India to 'overweight' from 'neutral', citing resilient company profits and more reasonable valuations, the reports said. It raised the multiple it applies to Indian shares to 18 times from 17.\n\nForeign portfolio investors have bought Indian shares worth more than $4.1 billion so far in November, the strongest monthly buying since September 2024, HDFC Sky reported. NSDL data showed net purchases of ₹38,971 crore between 1 and 6 November, after net sales of about ₹34,843 crore in October, Dainik Jagran reported.",
+      "simple_explanation": "Big global banks like Citi and HSBC give advice to huge funds around the world about which countries to invest in. Today both said India looks more attractive than before.\n\nWhy? For much of 2026, foreign investors preferred countries full of AI chip companies, like South Korea and Taiwan, and oil prices were high, which hurts India because it imports most of its oil. Now oil has fallen and AI shares have stumbled, so India looks better by comparison.\n\nForeign investors have already started moving money in: over $4 billion in the first week of November.\n\nThese are forecasts, not promises. Banks change their targets often.",
+      "analogy": "It is like two well-known food critics both praising a restaurant in the same week. More people may come to eat there, but the critics can change their minds next month, and the food is the same as it was yesterday.",
+      "why": "India underperformed other markets for much of 2026, as global investors chased AI-linked shares and high oil prices weighed on India, according to the reports. Those two pressures have eased in the past two weeks.\n\nRatings like HSBC's matter because many large funds follow such views when deciding how much to put in each country. Citi's $12 billion estimate shows how even a small shift in big funds' allocations can mean a lot of money for India.\n\nA strong first week does not guarantee a lasting trend, analysts quoted by Dainik Jagran noted. Paterson Capital pointed out that foreign investors withdrew about $84.5 billion between October 2024 and September 2026, so recent buying is small by comparison.",
+      "implications": {
+        "you": "There is nothing to do here. Upbeat targets from big banks can lift sentiment, but they are not a reason to change your SIP. Index targets are often revised, up or down, and they are frequently wrong.",
+        "markets": "If more global funds follow HSBC's view, India could see continued foreign buying, which tends to help large companies and the rupee most.",
+        "economy": "Steady foreign inflows help the rupee and make India's imports, such as oil, slightly cheaper to pay for.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "Whether foreign investors keep buying when trading resumes on Wednesday, and whether other global banks change their India views.",
+      "terms": [
+        "Index target",
+        "Overweight",
+        "Emerging market",
+        "FPI",
+        "Valuation",
+        "Price-to-earnings ratio",
+        "Brokerage"
+      ],
+      "explainers": {
+        "like12": "Imagine there are some very famous people whose job is to tell parents which tuition classes are best. Parents around the world listen to them.\n\nCiti and HSBC are like those advisers, but for money. Huge investment funds listen to them when deciding which countries to put money into.\n\nToday both said India looks good. They think India's biggest companies could be worth more by the end of 2027. One reason is that oil got cheaper, and India buys a lot of oil.\n\nForeign funds have already sent over $4 billion into Indian shares this month.\n\nBut advisers are guessing. They can't see the future, and they often change their guesses.",
+        "real_life": "Arjun, 36, is a sales manager in Jaipur with ₹6 lakh in equity mutual funds through monthly SIPs.\n\nHe reads a headline that Citi expects the Nifty at 28,000 by end-2027, about 12% above Sunday's level. It sounds exciting. But that is roughly a year and a few months away, and it is one bank's forecast. Another bank might say something different, and Citi itself may change its number.\n\nFor Arjun, the practical point is simpler. Foreign buying has helped his funds rise in the past two weeks, and the same money can leave just as quickly. His SIP keeps buying every month whatever the forecasts say, which is the point of a SIP."
+      }
+    },
+    {
+      "id": "rupee-gains-5-paise-to-93-93-oil-slips-on-iran-remarks",
+      "category": "Rupee and oil",
+      "title": "Rupee edges up to 93.93 as oil slips after Trump says new Iran attacks are unlikely",
+      "tldr": "The rupee rose 5 paise to 93.93 per dollar (provisional), helped by cheaper oil and foreign money. Brent crude traded around $97.5 a barrel after US President Donald Trump said fresh attacks on Iran were unlikely while talks go on. Foreign investors bought ₹13,749.82 crore of Indian shares on Friday.",
+      "what_happened": "The rupee settled 5 paise higher at 93.93 against the US dollar (provisional), PTI reported. It opened around 93.85 and moved between 93.69 and 94.11 during the day. Lower oil prices and foreign inflows supported it, PTI said.\n\nBrent crude futures were at $97.53 a barrel, down 0.80%, PTI reported. Kotak Securities put Brent at $97.51 in the afternoon. Oil fell after President Trump said he was highly unlikely to order new attacks on Iran while talks continue, according to a report citing Reuters. Oil was coming off its sharpest weekly fall in more than six years, Kotak said.\n\nForeign institutional investors bought Indian shares worth ₹13,749.82 crore, net, on Friday, according to exchange data quoted by PTI. Data trackers showed domestic institutions sold about ₹5,969 crore, net, that day. The dollar index, which measures the dollar against six major currencies, was down 0.45% at 101.83.\n\nIndia's forex reserves fell $2.691 billion to $717.056 billion in the week ended 30 October, RBI data showed. Dilip Parmar of HDFC Securities put support for the dollar-rupee rate at 93.50 and resistance at 94.30, PTI reported.",
+      "simple_explanation": "India buys most of its oil from abroad and pays in dollars. When oil gets cheaper, India needs fewer dollars, so the rupee usually gets a little stronger.\n\nOil has been very expensive this year because of the war involving Iran, which is near a key sea route for oil tankers. Today the US President said new attacks were unlikely while talks are going on. That calmed fears, and oil prices slipped.\n\nForeign investors buying Indian shares also helped, because they have to swap dollars for rupees first.\n\nThe rupee's move today was small: 5 paise.",
+      "analogy": "Think of a family whose biggest monthly bill is petrol. When petrol gets cheaper, the household has a little more breathing room. India is that family, oil is the petrol bill, and the rupee shows the breathing room.",
+      "why": "The rupee is mainly pushed by two things right now: oil prices and foreign money. Both helped this week, which is why the rupee has strengthened from 94.41 last Thursday.\n\nGaurav Garg of Lemonn said the near-term outlook for the rupee remained moderately positive, and that it would stay sensitive to the dollar, crude prices and RBI action, PTI reported.\n\nForex reserves can fall when the RBI sells dollars to support the rupee, and also when the value of its holdings changes. The weekly figures do not say which, and they come with a delay of about a week.\n\nOil remains far above where it was a year ago, so the relief is partial.",
+      "implications": {
+        "you": "If you are paying for something in dollars, such as a child's foreign course fees or an overseas trip, a stronger rupee helps slightly. A 5-paise move makes almost no difference on its own.",
+        "markets": "Cheaper oil is good news for companies that use a lot of fuel, such as airlines and paint makers, and for India's import bill.",
+        "economy": "Lower oil prices, if they last, would ease pressure on inflation and on the government's fuel subsidies.",
+        "prices": "Petrol and diesel prices at the pump are set by oil companies and the government and do not change with each day's crude move. A lasting fall in oil could ease pressure on them over time."
+      },
+      "watch": "Iran talks and oil prices, and US inflation data due on Tuesday evening, India time, which could move the dollar.",
+      "terms": [
+        "Paise",
+        "Provisional",
+        "Brent crude",
+        "FII",
+        "DII",
+        "Dollar index",
+        "Forex reserves"
+      ],
+      "explainers": {
+        "like12": "Imagine India is a big family that buys a lot of fuel from shops in other countries. Those shops only accept dollars.\n\nSo every time India buys oil, it has to swap rupees for dollars. When oil is expensive, India needs lots of dollars, and the rupee gets weaker.\n\nToday oil got a bit cheaper. The President of America said he doesn't plan new attacks on Iran while they are talking. Iran is near an important sea route for oil ships, so people relaxed.\n\nForeign investors also brought dollars into India to buy shares.\n\nBoth things helped the rupee get a tiny bit stronger: one dollar now costs ₹93.93.",
+        "real_life": "Meera, 42, works in a bank in Chennai. Her daughter is starting a short online course from a US university that costs $500.\n\nAt 93.93 rupees per dollar, that is about ₹46,965. Last Thursday, when the rupee closed at 94.41, it would have been about ₹47,205. So she saves roughly ₹240 because the rupee strengthened, before bank charges.\n\nMeera also drives to work. Pump prices in India don't usually move with day-to-day changes in world oil prices, so she won't see a difference there.\n\nIf oil stays cheaper for months, it could help keep prices of goods transported by truck in check. That is a slow effect, not something she will notice this week."
+      }
+    },
+    {
+      "id": "asia-rebounds-us-jobs-lift-fed-hike-bets",
+      "category": "Global markets",
+      "title": "Asian markets bounce back as AI shares recover; strong US jobs data raise bets on a US rate rise",
+      "tldr": "Japan's Nikkei rose about 2.3% on Monday as chip and AI shares recovered after last week's crash. On Friday, the Nasdaq gained 1.09% while the Dow fell. A stronger-than-expected US jobs report raised the odds of a US interest-rate rise in December to about 77%. US inflation data is due on Tuesday.",
+      "what_happened": "Asian markets mostly rose on Monday. Japan's Nikkei 225 closed about 2.3% higher at 58,775.50, the Associated Press reported, with chip-equipment maker Tokyo Electron up 2.8%. On Friday the Nikkei had fallen 5.7%. Hong Kong's Hang Seng and South Korea's Kospi ended lower, according to one closing report.\n\nOn Friday in the US, the Nasdaq Composite rose 1.09% to 24,579.42 and the S&P 500 0.31% to 7,376.86, while the Dow Jones fell 0.46% to 51,285.73, market data showed. Chip and AI shares led the rebound after Thursday's 5.5% fall in the Nasdaq. For the week, the Nasdaq lost 3.4%.\n\nThe US jobs report for October showed employers added 165,000 jobs, far more than the roughly 60,000 to 70,000 that economists had expected, according to reports. The unemployment rate was 4.1%.\n\nAfter the report, CME FedWatch put the chance of a quarter-point rate hike by the US Federal Reserve in December at 76.8%, up from 66.9% a week earlier, 24/7 Wall St reported. The US 10-year Treasury yield was reported at about 4.86%–4.88%. US consumer inflation data for October is due on Tuesday.",
+      "simple_explanation": "Last week, shares of AI and chip companies crashed in the US and Asia. Today some of that bounced back, especially in Japan.\n\nThere is a new worry, though. In the US, more people got jobs last month than expected. That sounds good, but it means the economy is running hot, which can push prices up. To cool things down, the US central bank, the Federal Reserve, may raise interest rates in December.\n\nHigher US interest rates can pull money back to the US from countries like India, because investors can earn more there safely.\n\nTuesday's US price data will give the next clue.",
+      "analogy": "It is like a doctor who sees a patient's temperature rising. Even if the patient feels fine, the doctor may prescribe medicine to stop a fever. The Fed is the doctor, and higher interest rates are the medicine.",
+      "why": "Strong job growth gives workers more money to spend, which can keep inflation high. The Fed raises rates to slow borrowing and spending when it worries about inflation. So a strong jobs report raised bets on a December hike.\n\nThe Asian rebound followed gains in the Nasdaq and US chip shares on Friday, which prompted buying back of AI-related shares in Tokyo, according to reports.\n\nHigher US yields usually make emerging markets like India a little less attractive to global investors. That has not stopped foreign buying in India so far this month, but it is a risk analysts watch.",
+      "implications": {
+        "you": "If you have an international or US tech fund, it probably recovered a little on Friday after a big fall. A possible US rate rise does not directly change your home loan EMI, which depends on the RBI and your bank.",
+        "markets": "A US rate hike could make foreign investors more cautious about India and put some pressure on the rupee. Tuesday's US inflation figure will shape expectations.",
+        "economy": "Higher US rates can make borrowing abroad costlier for Indian companies. The effect on India's economy is indirect.",
+        "prices": "No direct effect on everyday prices in India."
+      },
+      "watch": "US consumer inflation data for October, due on Tuesday evening, India time, while Indian markets are closed.",
+      "terms": [
+        "Nikkei 225",
+        "Nasdaq",
+        "S&P 500",
+        "Nonfarm payrolls",
+        "Federal Reserve",
+        "Rate hike",
+        "CME FedWatch",
+        "US treasury yield",
+        "CPI"
+      ],
+      "explainers": {
+        "like12": "Last week, shares of companies that make computer chips for AI fell a lot. Today, in Japan, many of those shares bounced back up.\n\nIn America, a report showed that lots of people found new jobs last month, many more than expected. That's good for those people. But when lots of people have money to spend, prices can rise faster.\n\nAmerica's central bank, called the Federal Reserve, tries to stop prices rising too fast. One way is to make borrowing money more expensive by raising interest rates. Now many people think it will do that in December.\n\nOn Tuesday, America will share new numbers on prices. Everyone will watch them closely.",
+        "real_life": "Sameer, 33, is a data analyst in Gurugram. He has a home loan with an Indian bank and a small US-shares fund.\n\nHe hears the US Federal Reserve might raise rates. His home loan EMI does not depend on the Fed. It depends on the RBI's repo rate and his bank's own rates, and the RBI makes its own decisions.\n\nHis US fund fell last week and recovered a little on Friday.\n\nThe indirect link is through foreign money. If US rates rise, some global investors may move money out of India, which can weaken the rupee and Indian shares for a while. That would show up in his Indian mutual funds, not in his EMI."
+      }
+    },
+    {
+      "id": "35-billion-of-shares-to-exit-lock-in-116-companies",
+      "category": "IPOs",
+      "title": "About $35 billion of shares in 116 recently listed companies will be free to sell over the next few months",
+      "tldr": "Shares worth about $35 billion in 116 companies will come out of their lock-in period between 9 November 2026 and 26 February 2027, according to Nuvama. They include Jio Platforms, Shiprocket and SBI Funds Management. Being free to sell does not mean the shares will be sold.",
+      "what_happened": "About $35 billion of shares in 116 companies will finish their lock-in periods between 9 November 2026 and 26 February 2027, Nuvama Alternative & Quantitative Research said in a report quoted by Moneycontrol and other outlets. The report covers both promoter and other shareholders of companies listed as of 5 November 2026.\n\nThe list includes 2.3 crore shares of Leap India on 11 November, 3.7 crore shares of Shiprocket on 16 November and 3.6 crore shares of Jio Platforms on 25 November, Angel One reported. The largest block in the schedule is about 142.8 crore shares of SBI Funds Management on 18 January 2027.\n\nThe report noted that the end of a lock-in only removes the restriction on trading. How many shares will actually be sold is uncertain.\n\nSeparately, in the IPO market, Vedant Poly Fabs listed on the NSE's small-company platform today after an issue priced at ₹94, according to IPO trackers. No large IPO was open for subscription this week.",
+      "simple_explanation": "When a company first sells shares to the public in an IPO, the people who already owned it, like the founders and early investors, are not allowed to sell their own shares straight away. They must wait for a fixed time. This is called a lock-in.\n\nMany companies listed in India this year. Over the next few months, the waiting period ends for 116 of them. Their early investors will then be allowed to sell.\n\nSome will sell, some won't. But when people know a lot of shares might be sold, prices of those companies can be held back around those dates.",
+      "analogy": "It is like a housing society where new flat owners agreed not to sell for a year. When the year ends, everyone in the building knows several flats could go on sale at once, so buyers may wait and haggle, even if most owners decide to stay.",
+      "why": "Many companies have listed in India in recent months, so many lock-ins end around the same time. Lock-ins exist so that insiders cannot cash out the moment shares start trading.\n\nEarly investors such as private equity funds often plan to sell eventually, because that is how they make returns. Founders and parent companies often keep their shares for much longer.\n\nThat is why analysts say the size of the number, $35 billion, overstates what will actually come to market. The real effect depends on each company and on how its shares have done since listing.",
+      "implications": {
+        "you": "If you bought shares in any recently listed company, check whether its lock-in ends soon; prices can be jumpy around those dates. If you only invest through broad mutual funds or index funds, the effect on you is small.",
+        "markets": "A steady stream of shares becoming free to sell can weigh on recently listed companies, especially if foreign buying slows.",
+        "economy": "No direct effect on the economy.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "How Leap India and Shiprocket shares trade around their unlock dates on 11 and 16 November.",
+      "terms": [
+        "IPO",
+        "Lock-in period",
+        "Promoter",
+        "Supply overhang"
+      ],
+      "explainers": {
+        "like12": "Imagine a group of friends start a lemonade stand. Later, they let other kids buy small parts of it. But the friends promise: \"We won't sell our own parts for a few months.\" That promise is called a lock-in.\n\nThis year, lots of Indian companies started selling shares to the public. Their founders and early investors also made that promise.\n\nOver the next few months, the promise ends for 116 companies. The early owners will be allowed to sell if they want to.\n\nIf many of them sell at once, the price of those shares might fall. But many will keep their shares, so nobody knows exactly what will happen.",
+        "real_life": "Divya, 27, is a marketing executive in Mumbai. Earlier this year she applied in an IPO and got a few shares of a newly listed company. They have done well since.\n\nShe reads that lock-ins are ending for 116 companies. She can check the company's IPO documents, or news reports, to see when its lock-in ends and how many shares are involved.\n\nThis doesn't mean her shares will fall. But she should not be surprised if the price is jumpy around that date.\n\nHer flatmate invests only through a Nifty index fund. Most of these companies are not in the Nifty 50, so the effect on her flatmate is very small."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Lock-in period",
+    "explanation": "A lock-in period is a stretch of time during which you are not allowed to sell or withdraw an investment.\n\nIn the share market, lock-ins mostly apply to insiders. When a company lists through an IPO, SEBI rules say its founders, called promoters, and many early investors must hold on to their shares for a fixed time. This protects new public shareholders from insiders dumping shares on the first day of trading. Anchor investors, the big funds that buy just before an IPO opens, also have a shorter lock-in.\n\nWhen a lock-in ends, shares become free to trade. That does not mean they will be sold, but the possibility can make buyers cautious. Ordinary savers meet lock-ins too: ELSS tax-saving mutual funds and tax-saver fixed deposits both have one. The exact durations are set by rules that change over time.",
+    "example": "Nuvama estimates about $35 billion of shares in 116 companies will come out of lock-in between 9 November 2026 and 26 February 2027, including Shiprocket on 16 November and Jio Platforms on 25 November. Whether prices are affected depends on how many holders actually choose to sell.",
+    "takeaway": "When a lock-in ends, shares become free to sell, not certain to be sold. It can make prices jumpy, but it is a known date, not a surprise."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Monday?",
+      "options": [
+        "Down 1,718 points",
+        "Up 107.25 points, or 0.13%",
+        "Up 2,009 points",
+        "Unchanged"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose 107.25 points, or 0.13%, to 81,106.65 after a choppy session, measured from Sunday's muhurat session close."
+    },
+    {
+      "q": "Which group of shares led the market on Monday?",
+      "options": [
+        "IT companies",
+        "Steel makers",
+        "Government-owned (PSU) banks",
+        "Oil producers"
+      ],
+      "answer": 2,
+      "why": "The Nifty PSU Bank index rose 3.7%, with SBI up 2.6%. IT and metal shares fell."
+    },
+    {
+      "q": "What does it mean when HSBC rates India 'overweight'?",
+      "options": [
+        "Indian shares are too heavy to trade",
+        "It suggests holding more Indian shares than India's normal share in a benchmark",
+        "It has stopped covering India",
+        "Indian companies have too much debt"
+      ],
+      "answer": 1,
+      "why": "Overweight means putting more money into a market than its usual weight in the benchmark index that funds compare themselves with."
+    },
+    {
+      "q": "What happens when a company's lock-in period ends?",
+      "options": [
+        "The company must close",
+        "Its shares stop trading",
+        "Locked-in shareholders become free to sell, though they may not",
+        "The share price must fall"
+      ],
+      "answer": 2,
+      "why": "The end of a lock-in only removes the restriction on selling. How many shares are actually sold is uncertain."
+    },
+    {
+      "q": "Why did a strong US jobs report raise bets on a US rate rise?",
+      "options": [
+        "Because more jobs can push up spending and inflation",
+        "Because the US government ran out of money",
+        "Because India asked for it",
+        "Because oil prices rose to a record"
+      ],
+      "answer": 0,
+      "why": "More jobs mean more spending power, which can keep prices rising. The Federal Reserve raises rates to cool inflation."
+    },
+    {
+      "q": "Why are Indian stock markets closed on Tuesday 10 November?",
+      "options": [
+        "A strike",
+        "Diwali Balipratipada",
+        "A technical fault",
+        "Election results"
+      ],
+      "answer": 1,
+      "why": "The NSE and BSE are closed on Tuesday for Diwali Balipratipada. Trading resumes on Wednesday 11 November."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Hans India (IANS): Sensex, Nifty end higher in volatile trade as PSU banks, pharma stocks lead gains",
+      "url": "https://www.thehansindia.com/business/sensex-nifty-end-higher-in-volatile-trade-as-psu-banks-pharma-stocks-lead-gains-1140483"
+    },
+    {
+      "title": "HDFC Sky: Market close report, 9 November 2026",
+      "url": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 9 November 2026",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-make-maginal-gains/"
+    },
+    {
+      "title": "Equitymaster: Sensex today ends 107 points higher, Nifty above 25,000",
+      "url": "https://www.equitymaster.com/indian-share-markets/11/9/2026/Sensex-Today-Ends-107-Points-Higher--Nifty-Above-25000--Data-Patterns-Up-9"
+    },
+    {
+      "title": "HDFC Sky: Sectoral snapshot, 9 November 2026",
+      "url": "https://hdfcsky.com/news/sectoral-snapshot-today-november-9-2026-psu-banks-pharma-stocks-lead-gains-it-metals-drag"
+    },
+    {
+      "title": "Upstox: What's powering PSU bank stocks",
+      "url": "https://upstox.com/news/market-news/stocks/sbi-pnb-bank-of-baroda-nifty-psu-bank-index-rallies-up-to-2-5-amid-weak-market-what-s-powering-psu-bank-stocks/article-203209/"
+    },
+    {
+      "title": "Zoom Bangla: Muhurat trading 2026 ends slightly lower as Samvat 2083 begins",
+      "url": "https://inews.zoombangla.com/muhurat-trading-2026-ends-slightly-lower-as-samvat-2083-begins/"
+    },
+    {
+      "title": "Business Standard: Citi, HSBC turn bullish on India as oil slide, AI rotation lift markets",
+      "url": "https://www.business-standard.com/markets/stock-market-news/citi-bullish-on-indian-equities-sees-nifty-at-28-000-by-end-2027-126110900222_1.html"
+    },
+    {
+      "title": "Business Today: Nifty target raised to 28,000 from 26,000, says Citi",
+      "url": "https://www.businesstoday.in/markets/stocks/story/nifty-target-raised-to-28000-from-26000-says-citi-heres-why-566399-2026-11-09"
+    },
+    {
+      "title": "Dainik Jagran English: FPIs invest $4.1 billion in Indian stocks in first week of November",
+      "url": "https://english.dainikjagranmpcg.com/business/foreign-investors-pour-41-billion-into-indian-stocks-in-november/article-43456"
+    },
+    {
+      "title": "Paterson Capital: FPI inflows surge $6 billion in 20 days",
+      "url": "https://patersoncapital.com/fpi-inflows-surge-6-billion-in-20-days-has-the-tide-turned/"
+    },
+    {
+      "title": "Telangana Today (PTI): Rupee settles at 93.93 against US dollar amid softer crude prices",
+      "url": "https://telanganatoday.com/rupee-settles-at-93-93-against-us-dollar-amid-softer-crude-prices"
+    },
+    {
+      "title": "FinanceFeeds: Brent crude after Trump says new Iran attacks are unlikely",
+      "url": "https://financefeeds.com/brent-crude-oil-price-96-45-monday-after-trump-says-iran-attacks-unlikely-cpi-10-november-bull-104-bear-93/"
+    },
+    {
+      "title": "Tapetide: FII DII data",
+      "url": "https://tapetide.com/fii-dii-data"
+    },
+    {
+      "title": "BNN Bloomberg (AP): World markets bounce back after a recovery for AI stocks on Wall Street",
+      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+    },
+    {
+      "title": "Capp Notes: Closing look, Friday 6 November 2026",
+      "url": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026"
+    },
+    {
+      "title": "24/7 Wall St: Odds of a December rate hike jump to 77% after a blowout jobs report",
+      "url": "https://247wallst.com/investing/2026/11/07/odds-of-a-december-rate-hike-jump-to-77-after-a-blowout-jobs-report/"
+    },
+    {
+      "title": "Angel One: Jio Platforms, Shiprocket and SBI Funds lead list of 116 companies with $35 billion share unlocks",
+      "url": "https://www.angelone.in/news/market-updates/jio-platforms-shiprocket-and-sbi-funds-lead-list-of-116-companies-with-35-billion-share-unlocks"
+    },
+    {
+      "title": "Business Today: Gold, silver prices rise after Diwali",
+      "url": "https://www.businesstoday.in/markets/stocks/story/gold-silver-prices-rise-after-diwali-whats-driving-the-surge-and-what-should-investors-do-566424-2026-11-09"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Muhurat trading",
+      "definition": "A special, short stock-market session held on Diwali evening, seen as an auspicious start to the new year.",
+      "more": "Many Indian traders begin a new accounting year, called Samvat, at Diwali. To mark it, the NSE and BSE hold a roughly one-hour 'muhurat' session on Diwali, even if it falls on a weekend. Families often buy a few shares as a token of good luck, like buying gold on Dhanteras. Trades in this session are real and settle normally. Volumes are usually small, so the index move on the day is more symbolic than meaningful. News reports often track how the market did in past muhurat sessions."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Nifty IT",
+      "definition": "An index of the biggest information technology companies listed on the NSE, such as TCS and Infosys.",
+      "more": "The Nifty IT index tracks India's largest software and IT services companies, including TCS, Infosys, HCLTech, Wipro and Tech Mahindra. These companies earn most of their money from clients in the US and Europe, so the index often moves on news from abroad, the dollar-rupee rate and quarterly results, rather than on Indian events. It is like a team of exporters inside the market: when foreign customers are spending, they do well. News reports mention it as one of the 'sectoral indices', for example 'Nifty IT rose 2.88%, the only sector in the green'."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A measure of how many shares rose compared with how many fell on a given day.",
+      "more": "Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, shows whether a move is broad or narrow. On Thursday, 2,868 BSE shares rose and 1,384 fell, so breadth was positive, but less lopsided than the index's 2.6% jump might suggest. It's like checking whether a whole class did better in an exam, not just the toppers. Analysts often say a rally is healthier when breadth is strong."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Support and resistance",
+      "definition": "Price levels where analysts expect an index or share to stop falling (support) or stop rising (resistance), based on past trading.",
+      "more": "Analysts look at charts and notice levels where buyers have often stepped in or sellers have often appeared. Support is like a floor and resistance is like a ceiling. Think of a sabzi seller: if customers always start buying tomatoes when they drop to ₹30 a kilo, ₹30 acts as support; if nobody buys above ₹50, that's resistance. In the news you'll read lines like 'Nifty has support at 22,500 and resistance at 22,800'. These are educated guesses, not rules. Prices often break through them."
+    },
+    {
+      "term": "Sector rotation",
+      "definition": "Moving money out of one group of shares and into another, without much changing the overall market.",
+      "more": "Big investors rarely sit still. When they think one group of shares has run its course or looks risky, they sell some of it and buy another group instead. Money might move out of banks and IT companies and into smaller companies or pharma firms. The headline index can then barely move, even though many individual shares move a lot. It's like shoppers at a mela leaving the crowded sweets stall for the chaat stall: the total crowd stays the same, but one stall gets busier. News reports call this rotation when sectors move in opposite directions on a flat day."
+    },
+    {
+      "term": "FPI",
+      "definition": "Foreign portfolio investor: a foreign fund or investor that buys Indian shares, bonds or similar investments, registered with SEBI.",
+      "more": "FPI is the official term SEBI uses for foreign investors who buy financial investments in India, such as shares and bonds, without taking control of a company. In everyday market news, 'FII' and 'FPI' are often used to mean the same group. Before they can invest, FPIs must register and complete checks, which can take time and paperwork. Think of it as the entry process at a big exhibition: the quicker and simpler the gate, the easier it is for visitors to come in. Their buying and selling can move the Sensex and the rupee."
+    },
+    {
+      "term": "Emerging market",
+      "definition": "A country whose economy and financial markets are growing but not yet considered fully developed.",
+      "more": "Emerging markets include countries like India, China, Brazil and Indonesia. Their economies often grow faster than rich countries, but their markets can be riskier and swing more. Global funds often have a set amount for 'emerging markets', so being in that group brings steady foreign investment. Losing that status can mean big outflows, as Indonesia feared on Friday. It's like a school being listed among 'top schools' in a guide; parents pay more attention to those."
+    },
+    {
+      "term": "Valuation",
+      "definition": "How expensive a share or market is compared with what the company earns or owns.",
+      "more": "A share's price alone doesn't tell you if it is cheap or costly. Valuation compares the price with measures like profit, often using the price-to-earnings or P/E ratio. When prices rise much faster than profits, investors say valuations are 'stretched'. It's like a flat in your city whose price has doubled while rents stayed the same: buyers start to wonder if it's worth it. Worries about stretched valuations of AI-related companies have recently led to sharp falls in US and Asian tech shares."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure, released quickly, that may be revised slightly later.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. For example, Wednesday's rupee close was first reported as 94.58 per dollar but finally came in at 94.46. It's like an exam's provisional result, which can change slightly after rechecking. The differences are usually small, so provisional figures are still a good guide."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nonfarm payrolls",
+      "definition": "The monthly US report on how many jobs were added outside farming. It's one of the most-watched numbers in global markets.",
+      "more": "On the first Friday of most months, the US government reports how many jobs American employers created in the previous month, along with the unemployment rate. Strong job growth suggests a hot economy, which can push the Federal Reserve to keep interest rates high or raise them. Weak job growth suggests a slowdown, which makes rate hikes less likely. Because US interest rates affect money flows worldwide, this report can move Indian shares and the rupee on the next trading day. Think of it as a monthly health check-up of the world's biggest economy."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "CME FedWatch",
+      "definition": "A widely quoted tool that uses US futures prices to estimate the odds of the Federal Reserve changing interest rates at its next meetings.",
+      "more": "Traders in the US bet on where interest rates will be in the coming months using contracts called futures. The CME Group, which runs a large futures exchange, turns those prices into simple percentages, such as a '17.7% chance of a rate hike'. It isn't an official forecast and the Fed doesn't use it. It's more like the odds a bookmaker gives before a match: they show what the crowd expects and can swing quickly after new data. News reports quote it when expectations change sharply."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Samvat",
+      "definition": "The Hindu calendar year that many Indian traders use as their accounting year. A new Samvat begins at Diwali.",
+      "more": "Samvat, short for Vikram Samvat, is a traditional Indian calendar that runs about 57 years ahead of the Western one, so Diwali 2026 began Samvat 2083. Many business families close their old account books, called bahi-khata, and open new ones at Diwali. That is why the stock exchanges hold a short muhurat session on Diwali to mark the new Samvat. In the news, you will see lines like 'the Sensex rose 5% in Samvat 2082', which simply means from one Diwali to the next. It is a tradition, not an official financial year."
+    },
+    {
+      "term": "Overweight",
+      "definition": "A rating meaning a fund or bank advises putting more money into a market or sector than its normal share in a benchmark.",
+      "more": "Big global funds compare themselves against benchmark indices that give each country a set weight, say India at a certain percentage of an emerging markets index. If a bank rates India 'overweight', it is suggesting holding more Indian shares than that normal share. 'Underweight' means less, and 'neutral' means about the same. Think of a family budget where groceries normally take a fixed share: going overweight on groceries means deliberately spending more there. In the news, upgrades to overweight are watched because large funds may follow them, bringing money into the market."
+    },
+    {
+      "term": "Index target",
+      "definition": "A forecast by a bank or broker of where an index such as the Nifty could be at a future date.",
+      "more": "Banks and brokers regularly publish targets, such as 'Nifty at 28,000 by December 2027'. These are educated guesses based on expected company profits and how much investors may pay for them. They are often revised, sometimes several times a year, as conditions change. A target is like a weather forecast for a month ahead: useful for understanding the forecaster's thinking, but often wrong in the detail. In the news, a raised target signals that the bank has become more optimistic. It is not a promise, and it is not advice for any individual."
+    },
+    {
+      "term": "Price-to-earnings ratio",
+      "definition": "A share's price divided by the company's profit per share. It shows how many years of current profits investors are paying for.",
+      "more": "The price-to-earnings, or P/E, ratio is one of the most common ways to judge whether shares look cheap or expensive. If a company earns ₹10 per share and its share costs ₹180, its P/E is 18. For an index like the Nifty, analysts use the combined figures of all its companies. Think of buying a shop: paying ₹18 lakh for a shop that earns ₹1 lakh a year is a P/E of 18. A higher P/E means investors expect strong growth. In the news, it often appears as 'trading at 18 times earnings'."
+    },
+    {
+      "term": "Lock-in period",
+      "definition": "A set time during which certain shareholders are not allowed to sell their shares, often after a company lists through an IPO.",
+      "more": "When a company launches an IPO, SEBI rules require some existing shareholders, such as the founders and early investors, to keep their shares for a fixed period. This stops insiders from selling the moment the shares start trading. When the lock-in ends, those shares become free to sell, though many holders choose not to. Ordinary savers meet lock-ins too: ELSS tax-saving mutual funds have one, and a tax-saver FD cannot be broken early. In the news, 'lock-in expiry' stories warn that more shares could come up for sale."
+    },
+    {
+      "term": "Promoter",
+      "definition": "The founder, family or parent company that controls a listed Indian company and usually owns a large stake in it.",
+      "more": "In India, 'promoter' is the legal term for the people or company that set up and control a business, such as a founding family or a parent group. Companies must report the promoters' shareholding every quarter. Promoters often keep their stake for decades, so when they sell or pledge shares it is closely watched. It is a bit like the owner of a family firm who also brings in outside partners: the partners can come and go, but the owner usually stays. News reports mention 'promoter stake' or 'promoter selling' often."
+    },
+    {
+      "term": "Supply overhang",
+      "definition": "A large pile of shares that could be sold in the near future, which can keep a share's price from rising.",
+      "more": "If investors know that many shares may soon be put up for sale, for example when a lock-in ends, they may hold back from buying until that selling is over. That expectation is called an overhang. Imagine a mandi where everyone knows several more trucks of onions arrive next week: buyers wait, and prices stay soft. An overhang does not mean prices must fall; sometimes the expected sellers never sell. In the news, analysts often mention it in stories about lock-in expiries or big stake sales."
+    },
+    {
+      "term": "Forex reserves",
+      "definition": "The foreign currencies, gold and similar assets held by the RBI, which it can use to steady the rupee and pay for imports.",
+      "more": "Foreign exchange reserves are India's national savings in other currencies, mostly US dollars, plus gold and some IMF holdings. The RBI publishes the total every Friday, usually with a one-week delay. When the rupee is falling quickly, the RBI can sell some dollars from the reserves to slow the fall, so the total can drop. Think of it as a household's emergency fund kept in a safe: the bigger it is, the more confident everyone feels. News reports often say how many months of imports the reserves could cover."
+    },
+    {
+      "term": "CPI",
+      "definition": "The consumer price index: a measure of how fast the prices that ordinary households pay are rising. It is the main gauge of inflation.",
+      "more": "The consumer price index tracks the cost of a typical basket of things people buy, such as food, fuel, rent, clothes and services. When the index is, say, 3% higher than a year ago, inflation is 3%. India publishes its CPI, often called retail inflation, every month, and the US does the same. Think of it as tracking the cost of your monthly shopping list over time. In the news, CPI matters because central banks such as the RBI and the US Federal Reserve set interest rates with an eye on it."
+    }
+  ]
+}
