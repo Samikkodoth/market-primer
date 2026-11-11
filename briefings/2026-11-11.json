@@ -1,0 +1,715 @@
+{
+  "date": "2026-11-11",
+  "session_label": "Wednesday 11 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex jumped 773 points to 81,879, its highest close since February, and the Nifty topped 25,250 as PSU banks and carmakers led and foreign money kept flowing in; Blackstone agreed to invest ₹5,000 crore in IIFL Finance, and the rupee firmed to 93.70.",
+  "mood": "Upbeat",
+  "mood_note": "A broad, confident rise after the Diwali holiday. Most shares gained and smaller companies did especially well, although the indices gave back part of a bigger morning jump. Hot US inflation data is a cloud on the horizon.",
+  "reading_minutes": 13,
+  "since_yesterday": [
+    "On Monday we reported the rupee at 93.93 per dollar (provisional). PTI now gives Monday's final close as 93.77, a gain of 21 paise rather than 5.",
+    "Exchange data showed foreign investors bought ₹7,212.22 crore of Indian shares, net, on Monday, while domestic institutions sold ₹7,172.53 crore.",
+    "While Indian markets were shut on Tuesday for Balipratipada, Brent oil briefly fell below $90 and US inflation data came in hotter than expected, pushing US shares lower."
+  ],
+  "one_minute": [
+    "The Sensex rose 772.75 points (0.95%) to 81,879.40, its highest close since 26 February, and the Nifty 50 rose 210.40 points (0.84%) to 25,255.05.",
+    "PSU banks (+2.91%) and autos (+1.14%) led; M&M rose 3.92%. Smaller companies did better, with the Nifty Smallcap 100 up 1.59%. IT shares slipped.",
+    "Foreign investors bought ₹7,212 crore of shares on Monday, taking November's total to ₹53,739 crore. The rupee rose 7 paise to 93.70 (provisional).",
+    "Brent oil bounced 1.58% to $92.94 after tanker attacks near Hormuz, a day after briefly dipping below $90. US inflation came in hotter than expected, raising odds of a December US rate rise.",
+    "Blackstone will invest ₹5,000 crore in IIFL Finance. Kalyan Jewellers jumped 8.63% on a 64% profit rise; Cochin Shipyard fell 6.82% as its profit halved."
+  ],
+  "big_picture": "Indian shares came back from the Diwali holiday in a strong mood. The Sensex and Nifty rose close to 1% and closed at their highest levels in about nine months. This time the gains were broad: far more shares rose than fell, and smaller companies did especially well.\n\nThe same forces as last week are at work. Foreign funds keep buying Indian shares, oil is much cheaper than earlier this year, and company results have been decent. The Sensex is now up almost 10% in November alone.\n\nThere is one new worry. In the US, prices rose faster than expected last month, and the US central bank now looks likely to raise interest rates in December. Higher US rates could, over time, make foreign investors more careful about countries like India.\n\nFor now, Indian markets shrugged that off. After nine straight gains, though, a few quieter or down days would not be unusual.",
+  "chain": [
+    {
+      "label": "Oil stays lower",
+      "note": "Brent briefly dipped below $90 on Tuesday and was about $92.94 on Wednesday, far below $130 earlier this year."
+    },
+    {
+      "label": "Foreign money keeps coming",
+      "note": "Foreign investors bought ₹7,212.22 crore of shares on Monday; ₹53,739 crore so far in November."
+    },
+    {
+      "label": "Rupee firms",
+      "note": "The rupee rose 7 paise to 93.70 per dollar (provisional) on the inflows."
+    },
+    {
+      "label": "Broad buying",
+      "note": "PSU banks, autos and smaller companies led; 2,495 shares rose on the NSE and 1,166 fell."
+    },
+    {
+      "label": "Sensex up 773",
+      "note": "The Sensex closed at 81,879.40 and the Nifty at 25,255.05, their highest in about nine months."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "81,879.40",
+      "change": "+772.75 (+0.95%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. Its highest close since 26 February."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,255.05",
+      "change": "+210.40 (+0.84%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Its highest level in nearly nine months."
+    },
+    {
+      "name": "Nifty PSU Bank",
+      "value": "",
+      "change": "+2.91%",
+      "direction": "up",
+      "what_it_is": "This tracks government-owned banks such as SBI and Bank of Baroda. It was the best sector."
+    },
+    {
+      "name": "Nifty Auto",
+      "value": "",
+      "change": "+1.14%",
+      "direction": "up",
+      "what_it_is": "This tracks carmakers, two-wheeler makers and auto parts companies. M&M led it."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "-0.53%",
+      "direction": "down",
+      "what_it_is": "This tracks India's IT services companies, such as Tech Mahindra and HCL Technologies."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "61,519.10",
+      "change": "+0.81%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "19,489.35",
+      "change": "+1.59%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller companies. They outperformed the big indices today."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "93.70",
+      "change": "+7 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$92.94",
+      "change": "+1.58%",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil, so this matters for the rupee and prices."
+    },
+    {
+      "name": "Gold, 24 carat (retail)",
+      "value": "₹1,41,980",
+      "change": "-₹2,620 vs Monday",
+      "direction": "down",
+      "what_it_is": "The typical shop price of 10 grams of 24-carat gold in most cities, before GST and making charges, per Goodreturns."
+    },
+    {
+      "name": "US 10-year Treasury yield",
+      "value": "about 4.98%",
+      "change": "up from 4.86%",
+      "direction": "up",
+      "what_it_is": "The interest the US government pays on 10-year loans. Higher US yields can pull global money away from India."
+    },
+    {
+      "name": "Nikkei 225 (Japan)",
+      "value": "about 61,248",
+      "change": "about +1.3%",
+      "direction": "up",
+      "what_it_is": "Japan's main share index. It rose with chipmakers."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-jumps-773-nifty-25255-psu-banks-autos-lead",
+      "category": "Stock market",
+      "title": "Sensex jumps 773 points to its highest close since February as PSU banks and autos lead; Nifty tops 25,250",
+      "tldr": "The Sensex rose 772.75 points, or 0.95%, to 81,879.40 and the Nifty 50 rose 210.40 points, or 0.84%, to 25,255.05 as trading resumed after Tuesday's holiday. Government-owned banks and carmakers led, smaller companies rose even more, and IT shares slipped. The indices gave up part of a bigger early jump.",
+      "what_happened": "The Sensex gained 772.75 points, or 0.95%, to close at 81,879.40, its highest close since 26 February, PTI reported. The Nifty 50 rose 210.40 points, or 0.84%, to 25,255.05, its highest level in nearly nine months. Early in the day the Sensex had been up as much as 1,413.75 points, at 82,520.40, before it gave back some of the gain.\n\nThe Nifty PSU Bank index, which tracks government-owned banks, rose 2.91% and the Nifty Auto index rose 1.14%, DSIJ reported. Mahindra & Mahindra was the biggest Nifty gainer, up 3.92%, followed by IndiGo's parent InterGlobe Aviation, up 3.76%, and Trent, up 2.59%, according to Upstox. Adani Ports, Tech Mahindra, Nestle India, ICICI Bank and HCL Technologies fell. The Nifty IT index slipped 0.53%.\n\nSmaller companies did better than big ones. The Nifty Midcap 100 rose 0.81% and the Nifty Smallcap 100 rose 1.59%. On the NSE, 2,495 shares rose and 1,166 fell.\n\nPTI said this was the ninth straight gain in regular sessions, not counting Sunday's muhurat hour. Since the start of November, the Sensex is up 9.96%.",
+      "simple_explanation": "After a day off for Diwali, the market came back in a good mood. The two big scoreboards of Indian shares, the Sensex and the Nifty, both rose close to 1%.\n\nUnlike Monday, the rise was broad. Many more shares went up than down, and smaller companies did especially well.\n\nThe Sensex is now at its highest point since late February. It has risen almost 10% in November alone, which is a lot for a few weeks.\n\nThe market started even higher in the morning but some investors sold to lock in profits later in the day, so the final gain was smaller.",
+      "analogy": "It is like a cricket team that has won nine matches in a row. Today it won comfortably again, and this time almost every player scored runs, not just the openers. But it also let a few easy runs slip in the last overs.",
+      "why": "Analysts pointed to the same supports as last week. Ajit Mishra of Religare Broking said foreign investors kept buying aggressively, oil stayed near $92–93 a barrel, and hopes for Indian demand and company profits were rising, PTI reported. He also said fading enthusiasm for AI-linked shares abroad was making Indian shares look more attractive.\n\nPonmudi R of Enrich Money said the indices kept their upward momentum even after giving up part of the opening jump, helped by steady foreign buying, lower crude, a firm rupee and good results.\n\nThe gains were trimmed in the afternoon as IT and pharma shares were sold, DSIJ reported.",
+      "implications": {
+        "you": "If you have a Nifty index fund or equity SIP, its value probably rose a little under 1% today. After a near-10% rise this month, your statement may look much better than it did in October. That is worth knowing, but it is not a signal to change anything; markets can give back gains just as fast.",
+        "markets": "A broad rise, with smaller companies doing well, suggests buyers are not only picking a handful of big names. After nine straight gains, analysts often expect some days of profit booking.",
+        "economy": "One day's move does not change the economy. But rising share prices increase the paper wealth of households and can support spending confidence.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "Whether the Nifty can stay above 25,000 if profit booking starts after nine straight gains, and whether foreign investors keep buying.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "PSU bank",
+        "Nifty Auto",
+        "Nifty IT",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "Winning streak",
+        "Muhurat trading",
+        "Profit booking",
+        "Intraday",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Think of the Sensex and Nifty as the class average of India's biggest companies. When their share prices go up, the average goes up.\n\nToday was the first school day after a Diwali holiday, and the class average jumped. Most students did better, not just the toppers. The smaller companies, like the quieter kids at the back, did especially well.\n\nThe average is now at its best level since February. It has gone up for nine school days in a row.\n\nIn the morning the average was even higher, but some people who had made money decided to cash out in the afternoon. That pulled it down a bit before the final bell.",
+        "real_life": "Suresh, 41, is a bank clerk in Nagpur. He has been putting ₹5,000 a month into a Nifty 50 index fund for six years, and it is now worth about ₹4.5 lakh.\n\nToday's 0.84% rise in the Nifty adds roughly ₹3,800 to his fund on paper. Over November, the Nifty has risen about 9.5%, so his fund is up roughly ₹40,000 this month.\n\nThat feels good after a rough October. But Suresh knows it is paper money until he sells, and he does not need the money for another 15 years. His SIP keeps going the same way: ₹5,000 on the 5th of every month, whatever the market did that week."
+      }
+    },
+    {
+      "id": "foreign-money-keeps-pouring-in-rupee-firms-to-93-70",
+      "category": "Foreign money",
+      "title": "Foreign investors bought ₹7,212 crore of shares on Monday as November inflows pass ₹53,700 crore; rupee firms to 93.70",
+      "tldr": "Foreign investors bought ₹7,212.22 crore of Indian shares, net, on Monday, while Indian institutions sold ₹7,172.53 crore. Depository data show foreign investors have put ₹53,739 crore into Indian shares in November so far, after two months of selling. The rupee rose 7 paise to 93.70 per dollar (provisional).",
+      "what_happened": "Foreign institutional investors bought Indian shares worth ₹7,212.22 crore, net, on Monday, exchange data showed. Domestic institutional investors, such as Indian mutual funds and insurers, sold ₹7,172.53 crore, net, according to Upstox.\n\nForeign investors have put ₹53,739 crore into Indian shares in the first nine days of November, according to depository data reported by PTI. That follows net outflows of ₹34,843 crore in October and ₹35,861 crore in September.\n\nThe rupee rose 7 paise to close at 93.70 against the US dollar (provisional), PTI reported. It moved between 93.63 and 93.88 during the day. Forex traders said strong Indian shares and foreign inflows helped. A stronger dollar, after hot US inflation data, held the rupee back. The dollar index, which measures the dollar against six major currencies, was up 0.27% at 102.50.\n\nAnuj Choudhary of Mirae Asset Sharekhan expects the rupee to trade between 93.40 and 93.95 per dollar in the near term.",
+      "simple_explanation": "Foreign investors are big funds from abroad that buy Indian shares. For two months they were selling. In November they have turned around and are buying heavily.\n\nOn Monday alone, they bought over ₹7,000 crore more than they sold. Interestingly, Indian funds sold almost exactly the same amount. Indian funds had been buying when foreigners were selling, and now some are taking profits as foreigners buy.\n\nWhen foreigners buy Indian shares, they first need rupees, so they sell dollars and buy rupees. That helps the rupee. Today the rupee got slightly stronger, though a strong US dollar held it back.",
+      "analogy": "Think of a popular sweet shop before Diwali. When out-of-town visitors arrive and buy boxes in bulk, locals who stocked up earlier happily sell some of theirs at the higher price. The shop stays busy, and prices hold up.",
+      "why": "Analysts say cheaper oil, improving company results and a move away from crowded AI-linked bets abroad have made Indian shares more attractive to global funds, PTI reported. PTI linked the earlier outflows to an AI-led sell-off in global markets.\n\nThe rupee benefits because foreign buyers must convert dollars into rupees. But on Wednesday the dollar strengthened worldwide after hotter-than-expected US inflation figures raised the odds of a US rate rise in December, which limited the rupee's gain.",
+      "implications": {
+        "you": "A slightly stronger rupee makes things priced in dollars, like foreign travel, overseas tuition or imported gadgets, a tiny bit cheaper. A 7-paise move is too small to notice in a single purchase.",
+        "markets": "Steady foreign buying has been a big driver of this month's rally. If it slows, the market could lose its biggest support; Indian funds have been net sellers on some days.",
+        "economy": "Foreign inflows help India pay for imports and support the rupee. Two strong weeks do not undo two months of outflows yet.",
+        "prices": "A firmer rupee makes oil imports slightly cheaper, which can help keep fuel costs in check over time. Today's change is very small."
+      },
+      "watch": "Daily foreign and domestic flow figures, and whether the rupee can stay below 94 per dollar if the US dollar keeps strengthening.",
+      "terms": [
+        "FII",
+        "DII",
+        "FPI",
+        "Mutual fund",
+        "Provisional",
+        "Paise",
+        "Exchange rate",
+        "Dollar index",
+        "Forex trader",
+        "Profit booking"
+      ],
+      "explainers": {
+        "like12": "Imagine kids from another school start coming to your school canteen and buying lots of samosas. To pay, they swap their school's tokens for your school's tokens. Suddenly your tokens are in demand and worth a bit more.\n\nThat is what is happening with India. Big investors from abroad are buying Indian company shares. To do that, they swap dollars for rupees. On Monday they bought over ₹7,000 crore more than they sold.\n\nAt the same time, some Indian investors who bought earlier are selling to them and pocketing profits.\n\nBecause so many people wanted rupees, the rupee got slightly stronger today: one dollar now costs about ₹93.70.",
+        "real_life": "Neha, 27, works at a software firm in Pune and is saving for a short trip to Singapore next year. She has set aside ₹1.5 lakh and plans to convert about $1,000.\n\nAt 93.70 rupees per dollar, $1,000 costs her about ₹93,700. In October, when foreign investors were selling and the rupee was weaker, it would have cost more. A 7-paise gain today saves her only ₹70 on that amount.\n\nThe bigger lesson for Neha is that the rupee moves with foreign money flows and oil. She cannot predict it, so she might spread her currency purchases over a few months rather than worry about the perfect day."
+      }
+    },
+    {
+      "id": "oil-bounces-to-about-93-after-two-month-low-hormuz-attacks",
+      "category": "Oil",
+      "title": "Brent oil bounces to about $93 after briefly dipping below $90 as tanker attacks near Hormuz offset Iran truce hopes",
+      "tldr": "Brent crude briefly fell below $90 a barrel on Tuesday for the first time since August on hopes of easing US–Iran tensions, then settled at $91.49. On Wednesday it rose 1.58% to $92.94 after fresh attacks on tankers near the Strait of Hormuz. Oil is still far below the $130 it touched in March and April.",
+      "what_happened": "Brent crude, the global benchmark oil price, briefly dipped below $90 a barrel on Tuesday for the first time since August, CNBC reported, on hopes that tensions between the US and Iran could ease. It settled at $91.49, down 1.17%.\n\nOn Wednesday, Brent rose 1.58% to $92.94 a barrel, PTI reported, as fresh attacks on tankers near the Strait of Hormuz offset hopes of a truce, according to Business Standard. Hormuz is the narrow sea route through which a large share of the world's oil passes.\n\nBrent started 2026 near $60 a barrel and climbed as high as $130 in March and April, reports said, before falling sharply in recent weeks.",
+      "simple_explanation": "India buys most of its oil from abroad, so the global oil price matters a lot to us.\n\nOil had become very expensive this year because of the war involving Iran, which sits next to a key shipping route for oil. Recently, hopes of peace have pulled the price down a lot.\n\nOn Tuesday it fell below $90 for a moment. But on Wednesday there were new attacks on oil tankers near that shipping route, so the price went up again.\n\nIt is a tug of war between peace hopes, which push oil down, and new attacks, which push it up.",
+      "analogy": "It is like the price of tomatoes during a road strike. When news comes that the strike may end, prices drop. When a new roadblock appears, prices jump again. The price swings with every bit of news about the road.",
+      "why": "Oil prices have been driven this year by fears that supplies through the Strait of Hormuz could be disrupted. Each sign of easing tension pulls prices down; each attack on shipping pushes them up.\n\nFor India, cheaper oil has been a key reason foreign investors are coming back, analysts quoted by PTI said, because India imports most of its crude and a lower bill helps the rupee and inflation.",
+      "implications": {
+        "you": "Petrol and diesel prices at the pump are set by oil companies and the government and do not change with every daily move. If oil stays near $90 rather than $130, the pressure for price rises is lower.",
+        "markets": "Oil-sensitive shares like paint makers, airlines and tyre companies tend to benefit when oil falls. IndiGo's parent, an airline, was among today's biggest gainers.",
+        "economy": "Lower oil reduces India's import bill and helps keep inflation in check. But prices are still well above where they started the year.",
+        "prices": "Cheaper oil can, over time, ease transport costs, which feed into the prices of food and goods. Today's bounce is small."
+      },
+      "watch": "News from the Strait of Hormuz and US–Iran talks. A sustained move back above $100 would worry Indian markets.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "Import bill",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Oil is like the fuel for the whole country: cars, buses, trucks, factories and even plastic toys need it. India buys most of its oil from other countries.\n\nThis year, a war near a narrow sea path where big oil ships travel made people worry that oil would get stuck. So the price shot up.\n\nRecently people hoped the fighting would calm down, and the price dropped a lot. On Tuesday it fell below $90 a barrel for a moment.\n\nBut on Wednesday, some oil ships were attacked again on that sea path. People got nervous, and the price went back up a little, to about $93.",
+        "real_life": "Ramesh, 45, owns a small fleet of three tempos in Ludhiana that carry goods for local shops. Diesel is his biggest cost after salaries.\n\nWhen Brent oil was near $130 earlier this year, he worried about fuel price rises and had to think about charging customers more. Now oil is around $93.\n\nDaily swings like today's 1.58% rise do not change what he pays at the pump the next morning, because retail fuel prices in India are not changed every day with global prices. What matters to him is where oil settles over months. If it stays lower, he may avoid raising his rates, which helps the shops, and in turn their customers."
+      }
+    },
+    {
+      "id": "hot-us-inflation-lifts-yields-fed-hike-odds-us-stocks-slip",
+      "category": "Global markets",
+      "title": "Hotter-than-expected US inflation lifts bond yields towards 5% and raises odds of a December Fed rate rise; Asia rises on chip shares",
+      "tldr": "US consumer prices rose 0.4% in October, more than the 0.3% economists expected. The 10-year US Treasury yield rose to about 4.98% and US shares fell on Tuesday, with the Nasdaq down 0.74%. Traders now see a US interest rate rise in December as very likely. Asian markets mostly rose on Wednesday, led by chip stocks.",
+      "what_happened": "US consumer prices rose 0.4% in October from September, above the 0.3% economists had expected, CNN and Fox Business reported. Core inflation, which leaves out food and energy, rose 0.3% for the third month in a row.\n\nThe yield on the 10-year US Treasury bond rose to about 4.98% from 4.86%, and briefly went above 5%, according to market reports. On Tuesday, the Dow fell 0.30%, the S&P 500 0.38% and the Nasdaq 0.74%.\n\nThe Federal Reserve kept its key rate in a 3.75%–4% range in October, with two members voting for a rise. Its next decision is on 9 December. Market pricing now points to a rate rise as very likely; one report citing CME FedWatch put the odds of a quarter-point rise at about 85%.\n\nIn Asia on Wednesday, Japan's Nikkei 225 rose about 1.3% and South Korea's Kospi about 2.4%, AP reported, led by chipmakers after TSMC reported much higher monthly revenue. Hong Kong's Hang Seng fell 1.1%.",
+      "simple_explanation": "Inflation means prices rising. In the US, prices went up faster last month than experts expected.\n\nThe US central bank, the Federal Reserve, fights high inflation by raising interest rates. So now people think it will probably raise rates in December.\n\nWhen US interest rates rise, US government bonds pay more. That can tempt global investors to keep money in the US instead of sending it to countries like India.\n\nIndian shares did well today anyway, helped by cheaper oil and foreign buying. But this is a risk to watch.",
+      "analogy": "Imagine a bank near your home suddenly offers a higher FD rate. Some people who were planning to invest in a friend's business might decide to just keep their money in the safe FD instead. Higher US rates work a bit like that for global investors.",
+      "why": "Prices in the US have been pushed up partly by energy costs this year, reports said. The Fed's job is to keep inflation under control, and several officials have signalled they are ready to raise rates. Fed Governor Christopher Waller has even argued for a larger half-point move, according to reports.\n\nRising US bond yields matter for India because they compete for the same global money that has been flowing into Indian shares this month.",
+      "implications": {
+        "you": "There is no direct effect on your EMIs or FD rates; those depend on the RBI, not the US Fed. Indirectly, if US rates rise and foreign money slows, Indian markets and the rupee could feel some pressure.",
+        "markets": "Higher US yields tend to make foreign investors more cautious about emerging markets like India. So far this month, cheaper oil has outweighed that.",
+        "economy": "A strong dollar and higher US rates can weaken the rupee, which makes imports costlier. The effect depends on how big the Fed's move is.",
+        "prices": "No direct effect on Indian prices today."
+      },
+      "watch": "More US economic data and Fed officials' comments before the 9 December decision, and whether the 10-year US yield stays near 5%.",
+      "terms": [
+        "Inflation",
+        "Core inflation",
+        "CPI",
+        "US Treasury yield",
+        "Federal Reserve",
+        "Rate hike",
+        "CME FedWatch",
+        "Dow Jones",
+        "S&P 500",
+        "Nasdaq",
+        "Nikkei 225",
+        "Kospi",
+        "Hang Seng",
+        "Semiconductor",
+        "Emerging market",
+        "EMI"
+      ],
+      "explainers": {
+        "like12": "Imagine your favourite chocolate cost ₹10 last month and ₹10.40 this month. That rise is inflation.\n\nIn America, prices went up a bit faster last month than grown-ups expected. That worries the US central bank, which is like the head teacher of America's money.\n\nWhen prices rise too fast, the head teacher makes borrowing more expensive by raising interest rates. That makes people spend a bit less, which can slow price rises.\n\nPeople now think the US will raise rates in December. That can make big investors keep more money in America, where they earn more interest, and send a little less to countries like India.",
+        "real_life": "Farhan, 33, is an engineer in Hyderabad with a ₹40 lakh home loan and a ₹10,000 monthly SIP in equity funds.\n\nHe reads that US interest rates may go up in December and wonders if his EMI will rise. It will not, at least not directly. His home loan rate is linked to the RBI's repo rate, which India's central bank sets based on Indian conditions.\n\nThe indirect link is through markets. If higher US rates pull foreign money out of India, his SIP's value could dip and the rupee could weaken. That would not change what he pays each month, and his SIP would simply buy more units at lower prices."
+      }
+    },
+    {
+      "id": "blackstone-to-invest-5000-crore-in-iifl-finance",
+      "category": "Company news",
+      "title": "Blackstone to invest ₹5,000 crore in IIFL Finance; Kalyan Jewellers' profit jumps 64% while Cochin Shipyard's halves",
+      "tldr": "IIFL Finance's board approved a ₹6,414 crore fundraise, including ₹5,000 crore from funds managed by Blackstone, which would give it about 16% of the lender on a fully converted basis. IIFL shares rose 6%. Kalyan Jewellers rose 8.63% after its September-quarter profit jumped 64%, while Cochin Shipyard fell 6.82% after its profit halved.",
+      "what_happened": "IIFL Finance, a non-bank lender known for gold loans, said its board approved raising ₹6,414 crore through a preferential issue, Upstox and Millennium Post reported. Funds managed by Blackstone will invest ₹5,000 crore through compulsorily convertible preference shares, to be converted into ordinary shares at ₹602 each within 18 months. That would give Blackstone about 16% of the company, the filing said, as reported by Millennium Post. Promoters Nirmal Jain and R Venkataraman will put in ₹1,264 crore and Anchorage Capital ₹150 crore, Upstox reported. IIFL shares rose 6%.\n\nKalyan Jewellers reported a consolidated net profit of ₹427 crore for July–September, up about 64% from ₹260.51 crore a year earlier, IIFL Securities reported. Revenue rose 32% to ₹10,323 crore. The profit included a one-time gain of ₹73 crore from selling a piece of land. The shares rose 8.63%.\n\nCochin Shipyard's profit fell 50% to ₹54 crore from ₹108 crore, and its shares fell 6.82%, Upstox reported. Netweb Technologies rose 8.08% after strong results, and Garden Reach Shipbuilders reported a profit of ₹172 crore, up from ₹154 crore, Zee Business reported.",
+      "simple_explanation": "Blackstone is one of the world's biggest investment firms. It has agreed to put ₹5,000 crore into IIFL Finance, an Indian company that lends money, often against gold. In return, it will get about a sixth of the company.\n\nWhen a big, well-known investor puts in that much money, other investors take it as a sign of confidence, so IIFL's shares went up.\n\nSeparately, results season continues. Kalyan Jewellers, the jewellery chain, earned much more this quarter, partly helped by selling some land. Cochin Shipyard, which builds ships, earned half of what it did a year ago, and its shares fell.",
+      "analogy": "It is like a well-known business family investing in your neighbourhood's busy gold-loan shop. The shop gets money to open more branches, and the neighbours start to think the shop must be doing something right.",
+      "why": "IIFL Finance had been looking to sell a 10–20% stake to a minority investor to raise up to ₹5,000 crore, Business Standard reported. Fresh capital lets a lender grow its loans without borrowing too much.\n\nKalyan's jump reflects strong jewellery demand, though part of it came from a one-off land sale, so the underlying growth is a bit lower than the headline. Shipbuilders' profits can swing sharply from quarter to quarter depending on how much work on big orders is completed.",
+      "implications": {
+        "you": "If you hold any of these companies directly or through a mutual fund, you may see the moves. For most people, these are single-company stories that barely affect a diversified fund.",
+        "markets": "Big foreign private equity investments in Indian lenders signal long-term interest in India's credit market.",
+        "economy": "More capital for NBFCs like IIFL can mean more loans for small businesses and households, including gold loans.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Shareholder and regulatory approvals for the IIFL–Blackstone deal, and more September-quarter results through the week.",
+      "terms": [
+        "Private equity",
+        "Preferential allotment",
+        "Compulsorily convertible preference shares",
+        "NBFC",
+        "Gold loan",
+        "Promoter",
+        "Consolidated profit",
+        "Net profit",
+        "One-time gain",
+        "Revenue",
+        "Shipbuilder",
+        "Quarterly results"
+      ],
+      "explainers": {
+        "like12": "Imagine a shop in your area that lends money to people who leave their gold jewellery as a safety deposit. The shop wants to grow and open more branches, but it needs money.\n\nA very rich, famous company from abroad, called Blackstone, says: \"I'll give you ₹5,000 crore, and in return I'll own about one-sixth of your shop.\" That's what happened with IIFL Finance.\n\nWhen such a big name invests, others think the shop must be good, so its share price rose.\n\nAlso today, a jewellery chain called Kalyan said it made a lot more profit, and its shares jumped. A ship-building company made less profit, and its shares fell.",
+        "real_life": "Lakshmi, 38, runs a tailoring unit in Coimbatore. Twice in the past year she took a gold loan from an NBFC to buy fabric before the festive rush, pledging her jewellery and repaying within months.\n\nToday's Blackstone deal does not change her loan rate. But when lenders like IIFL get more capital, they can lend more and open more branches, which may mean more choice for borrowers like her.\n\nShe also owns a small mutual fund. If it holds Kalyan Jewellers or Cochin Shipyard, today's moves will show up only as a tiny change, because each company is a small part of the fund."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Preferential allotment",
+    "explanation": "A preferential allotment is when a listed company raises money by issuing brand-new shares to a few chosen investors, rather than selling them to the general public.\n\nThe buyers might be a big foreign fund, a private equity firm, or the company's own promoters. Because new shares are created, the company gets fresh cash to grow, repay debt or strengthen its finances. Existing shareholders still own the same number of shares, but each now represents a slightly smaller slice of the company. This is called dilution.\n\nSEBI has rules to protect ordinary shareholders: a minimum price based on recent trading, approval by shareholders, and a lock-in so the new investors cannot sell immediately. Sometimes the investor gets convertible instruments first, which turn into ordinary shares later at a price fixed today. The exact rules change from time to time.",
+    "example": "IIFL Finance's board approved a ₹6,414 crore preferential issue. Blackstone funds will put in ₹5,000 crore through convertible preference shares that turn into equity at ₹602 each within 18 months, giving them about 16% of the company, alongside ₹1,264 crore from its promoters.",
+    "takeaway": "A preferential allotment brings fresh money from chosen investors. It can signal confidence, but it also means existing shareholders own a slightly smaller share of the company."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Wednesday?",
+      "options": [
+        "Down 772.75 points",
+        "Up 107.25 points",
+        "Up 772.75 points, or 0.95%",
+        "Unchanged"
+      ],
+      "answer": 2,
+      "why": "The Sensex rose 772.75 points, or 0.95%, to 81,879.40, its highest close since 26 February."
+    },
+    {
+      "q": "Which sector index rose the most on Wednesday?",
+      "options": [
+        "Nifty IT",
+        "Nifty PSU Bank",
+        "Nifty Pharma",
+        "Nifty Realty"
+      ],
+      "answer": 1,
+      "why": "The Nifty PSU Bank index, which tracks government-owned banks, rose 2.91%. IT shares slipped."
+    },
+    {
+      "q": "Why does foreign buying of Indian shares tend to help the rupee?",
+      "options": [
+        "Foreign investors must sell dollars and buy rupees to purchase Indian shares",
+        "The RBI prints more rupees",
+        "It makes oil more expensive",
+        "It lowers Indian interest rates"
+      ],
+      "answer": 0,
+      "why": "To buy Indian shares, foreign funds convert dollars into rupees. That extra demand for rupees supports the currency."
+    },
+    {
+      "q": "What happened to Brent crude on Wednesday?",
+      "options": [
+        "It crashed below $80",
+        "It rose about 1.58% to $92.94 after tanker attacks near Hormuz",
+        "It hit a record high",
+        "It was unchanged"
+      ],
+      "answer": 1,
+      "why": "Brent briefly dipped below $90 on Tuesday on Iran truce hopes, then bounced on Wednesday after fresh attacks on tankers near the Strait of Hormuz."
+    },
+    {
+      "q": "Why could hotter US inflation matter for India?",
+      "options": [
+        "It directly raises Indian home loan EMIs",
+        "It may lead the US Fed to raise rates, which can draw global money back to the US",
+        "It lowers the price of oil",
+        "It has no possible link to India"
+      ],
+      "answer": 1,
+      "why": "Higher US rates make US bonds pay more, which can make foreign investors more cautious about markets like India. Indian EMIs depend on the RBI, not the Fed."
+    },
+    {
+      "q": "In a preferential allotment, what does a company do?",
+      "options": [
+        "Buys back its own shares",
+        "Issues new shares to chosen investors to raise money",
+        "Pays a dividend to all shareholders",
+        "Splits each share into two"
+      ],
+      "answer": 1,
+      "why": "A preferential allotment means issuing fresh shares to selected investors, such as Blackstone in IIFL Finance's case, in return for new money."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ThePrint (PTI): Sensex rallies 772 pts to hit near 9-month high, Nifty closes above 25,250 on FII inflows, low crude",
+      "url": "https://theprint.in/economy/sensex-rallies-772-pts-to-hit-near-9-month-high-nifty-closes-above-25250-on-fii-inflows-low-crude/3096176/"
+    },
+    {
+      "title": "Business Standard: Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
+      "url": "https://business-standard.com/amp/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
+    },
+    {
+      "title": "DSIJ: Closing Bell: Nifty surges 210 points above 25,250; PSU banks and auto stocks lead rally",
+      "url": "https://insights.dsij.in/dsijarticledetail/closing-bell-nifty-surges-210-points-above-25250-psu-banks-and-auto-stocks-lead-rally-60382"
+    },
+    {
+      "title": "Upstox: Top gainers and losers, Nov 11",
+      "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-nov-11-m-and-m-indi-go-shares-soar-4-trent-rises-3-adani-port-falls-2-check-list/article-203306/"
+    },
+    {
+      "title": "DT Next (PTI): Rupee rises 7 paise to close at 93.70 against US dollar",
+      "url": "https://www.dtnext.in/news/business/rupee-rises-7-paise-to-close-at-9370-against-us-dollar"
+    },
+    {
+      "title": "CNBC: Brent crude briefly dips below $90 for first time since August on Iran hopes",
+      "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
+    },
+    {
+      "title": "Business Standard: Oil rises from 2-month low as Hormuz shipping attacks offset truce hopes",
+      "url": "https://www.business-standard.com/amp/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html"
+    },
+    {
+      "title": "CNN: US inflation rose more than expected last month",
+      "url": "https://cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october"
+    },
+    {
+      "title": "Fox Business: October CPI: Inflation trended higher as energy prices hit consumers",
+      "url": "https://www.foxbusiness.com/economy/cpi-inflation-october-2026"
+    },
+    {
+      "title": "JournalArta: Stock Market Today: S&P 500 slips 0.38%, Nasdaq falls 0.74% as 10-year yield rises to 4.98%",
+      "url": "https://journalarta.com/en/2026/11/11/stock-market-today-sp-500-slips-0-38-to-7520-93-and-nasdaq-falls-0-74-as-10-year-yield-rises-to-4-98/"
+    },
+    {
+      "title": "SF Chronicle (AP): Global markets broadly rise on AI chip demand despite Wall Street's retreat on inflation data",
+      "url": "https://www.sfchronicle.com/news/world/article/asian-shares-mostly-rise-on-ai-chip-demand-22524593.php"
+    },
+    {
+      "title": "Millennium Post: Blackstone to acquire nearly 16% stake in IIFL Finance for ₹5K cr",
+      "url": "https://www.millenniumpost.in/business/blackstone-to-acquire-nearly-16-stake-in-iifl-finance-for-5k-cr-682784"
+    },
+    {
+      "title": "Business Standard: Blackstone set to become key investor in IIFL Finance with 15% stake",
+      "url": "https://www.business-standard.com/amp/companies/news/blackstone-set-to-become-key-investor-in-iifl-finance-with-15-stake-126111000088_1.html"
+    },
+    {
+      "title": "IIFL Securities: Kalyan Jewellers shares surge 10% as Q2 profit jumps 64%",
+      "url": "https://www.indiainfoline.com/news/companies/kalyan-jewellers-shares-surge-10-as-q2-profit-jumps-64"
+    },
+    {
+      "title": "Zee Business: GRSE Q2 results: Revenue at Rs 1,827 crore, net profit rises to Rs 172 crore",
+      "url": "https://www.zeebiz.com/market-news/news-grse-q2-results-revenue-at-rs-1827-crore-net-profit-rises-to-rs-172-crore-405429"
+    },
+    {
+      "title": "HDFC Sky (Goodreturns): Gold rate today, 11 November 2026",
+      "url": "https://hdfcsky.com/news/gold-rate-today-11-november-2026-check-gold-price-of-24k-22k-18k-in-mumbai-kolkata-delhi-other-indian-cities-as-24k-rate-falls-rs2620-per-10-gm"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Nifty Auto",
+      "definition": "An index that tracks India's biggest vehicle and vehicle-parts makers.",
+      "more": "The Nifty Auto index includes carmakers like Maruti Suzuki, Mahindra & Mahindra and Tata Motors, two-wheeler makers like Bajaj Auto and Hero MotoCorp, and parts suppliers. These shares are sensitive to fuel prices, interest rates on vehicle loans, festive demand and monthly sales figures. Cheaper oil helps them twice: it can make running a vehicle cheaper, and it lowers the cost of some raw materials. It's like a barometer for how keen Indians are to buy scooters, cars and trucks. News reports quote it when vehicle shares lead or drag the market."
+    },
+    {
+      "term": "Nifty IT",
+      "definition": "An index of the biggest information technology companies listed on the NSE, such as TCS and Infosys.",
+      "more": "The Nifty IT index tracks India's largest software and IT services companies, including TCS, Infosys, HCLTech, Wipro and Tech Mahindra. These companies earn most of their money from clients in the US and Europe, so the index often moves on news from abroad, the dollar-rupee rate and quarterly results, rather than on Indian events. It is like a team of exporters inside the market: when foreign customers are spending, they do well. News reports mention it as one of the 'sectoral indices', for example 'Nifty IT rose 2.88%, the only sector in the green'."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A measure of how many shares rose compared with how many fell on a given day.",
+      "more": "Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, shows whether a move is broad or narrow. On Thursday, 2,868 BSE shares rose and 1,384 fell, so breadth was positive, but less lopsided than the index's 2.6% jump might suggest. It's like checking whether a whole class did better in an exam, not just the toppers. Analysts often say a rally is healthier when breadth is strong."
+    },
+    {
+      "term": "Winning streak",
+      "definition": "A run of consecutive days, weeks or matches in which something keeps going up or winning.",
+      "more": "In market news, a winning streak means an index such as the Sensex has closed higher than the day before for several sessions in a row. Reporters count the days because long streaks are fairly rare: on most stretches, up days and down days mix. It is like a batsman scoring fifties in five matches in a row. A streak says nothing about what happens next. It can end the following day, and a long run of gains often tempts some investors to sell and lock in profits, which is called profit booking."
+    },
+    {
+      "term": "Muhurat trading",
+      "definition": "A special, short stock-market session held on Diwali evening, seen as an auspicious start to the new year.",
+      "more": "Many Indian traders begin a new accounting year, called Samvat, at Diwali. To mark it, the NSE and BSE hold a roughly one-hour 'muhurat' session on Diwali, even if it falls on a weekend. Families often buy a few shares as a token of good luck, like buying gold on Dhanteras. Trades in this session are real and settle normally. Volumes are usually small, so the index move on the day is more symbolic than meaningful. News reports often track how the market did in past muhurat sessions."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "FPI",
+      "definition": "Foreign portfolio investor: a foreign fund or investor that buys Indian shares, bonds or similar investments, registered with SEBI.",
+      "more": "FPI is the official term SEBI uses for foreign investors who buy financial investments in India, such as shares and bonds, without taking control of a company. In everyday market news, 'FII' and 'FPI' are often used to mean the same group. Before they can invest, FPIs must register and complete checks, which can take time and paperwork. Think of it as the entry process at a big exhibition: the quicker and simpler the gate, the easier it is for visitors to come in. Their buying and selling can move the Sensex and the rupee."
+    },
+    {
+      "term": "Mutual fund",
+      "definition": "A pool of money from many investors that a professional manager invests in shares, bonds or both.",
+      "more": "A mutual fund collects money from thousands of people and invests it on their behalf. Each investor owns 'units' whose value rises or falls with the fund's investments. It's like a group of friends pooling money to buy a big box of sweets and sharing them in proportion to what each paid. Most Indian SIPs go into mutual funds. Funds charge a small yearly fee. When you move money from one fund to another, the tax system usually treats it as selling one investment and buying another, which can create a tax bill."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure, released quickly, that may be revised slightly later.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. For example, Wednesday's rupee close was first reported as 94.58 per dollar but finally came in at 94.46. It's like an exam's provisional result, which can change slightly after rechecking. The differences are usually small, so provisional figures are still a good guide."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "Forex trader",
+      "definition": "Someone at a bank or firm who buys and sells currencies, such as dollars and rupees.",
+      "more": "Forex is short for foreign exchange. Forex traders work at banks and financial firms, buying and selling currencies for companies that need dollars to pay for imports, for investors moving money in or out of India, and for their own bank's account. Because the RBI does not always announce what it does in the currency market on the day, news reports often quote what forex traders say is moving the rupee. Think of them as the regulars at a vegetable mandi who know why prices moved today."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Core inflation",
+      "definition": "Inflation measured without food and fuel prices, which jump around a lot, to show the underlying trend in prices.",
+      "more": "Food and fuel prices can swing sharply because of weather, wars or oil supply. Core inflation leaves them out to show whether price rises are spreading to everything else, like clothes, rent, haircuts and services. It's like judging a cricketer by their average over many matches rather than one lucky or unlucky innings. Central banks such as the RBI and the US Federal Reserve watch core inflation closely. If core inflation is rising, they worry that high prices are becoming widespread and may keep interest rates high for longer."
+    },
+    {
+      "term": "CPI",
+      "definition": "The consumer price index: a measure of how fast the prices that ordinary households pay are rising. It is the main gauge of inflation.",
+      "more": "The consumer price index tracks the cost of a typical basket of things people buy, such as food, fuel, rent, clothes and services. When the index is, say, 3% higher than a year ago, inflation is 3%. India publishes its CPI, often called retail inflation, every month, and the US does the same. Think of it as tracking the cost of your monthly shopping list over time. In the news, CPI matters because central banks such as the RBI and the US Federal Reserve set interest rates with an eye on it."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "CME FedWatch",
+      "definition": "A widely quoted tool that uses US futures prices to estimate the odds of the Federal Reserve changing interest rates at its next meetings.",
+      "more": "Traders in the US bet on where interest rates will be in the coming months using contracts called futures. The CME Group, which runs a large futures exchange, turns those prices into simple percentages, such as a '17.7% chance of a rate hike'. It isn't an official forecast and the Fed doesn't use it. It's more like the odds a bookmaker gives before a match: they show what the crowd expects and can swing quickly after new data. News reports quote it when expectations change sharply."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Hang Seng",
+      "definition": "Hong Kong's main stock market index, which tracks large companies listed there, including many big Chinese firms.",
+      "more": "The Hang Seng is to Hong Kong what the Sensex is to India. Because it includes many large Chinese technology and property companies, it is often read as a gauge of investor mood about China. Indian market reports list it with Japan's Nikkei and South Korea's Kospi under 'Asian cues', since a big fall across Asia in the morning often makes Indian investors cautious too. Like any index, its percentage change matters more than its points."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    },
+    {
+      "term": "Emerging market",
+      "definition": "A country whose economy and financial markets are growing but not yet considered fully developed.",
+      "more": "Emerging markets include countries like India, China, Brazil and Indonesia. Their economies often grow faster than rich countries, but their markets can be riskier and swing more. Global funds often have a set amount for 'emerging markets', so being in that group brings steady foreign investment. Losing that status can mean big outflows, as Indonesia feared on Friday. It's like a school being listed among 'top schools' in a guide; parents pay more attention to those."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    },
+    {
+      "term": "Private equity",
+      "definition": "Investment firms that put large sums into companies, usually for a big stake held for several years.",
+      "more": "Private equity firms, such as Blackstone, KKR or Carlyle, collect money from pension funds, insurers and rich investors and invest it in companies, often buying a significant stake and a say in the board. They usually aim to sell after some years at a profit. It is like a wealthy partner who joins a growing restaurant chain, helps run it better, and later sells their share. In India, private equity money has gone into lenders, hospitals, real estate and tech companies. A big private equity investment is often seen as a vote of confidence, though the investor's goals are financial."
+    },
+    {
+      "term": "Preferential allotment",
+      "definition": "When a company sells new shares directly to chosen investors at a set price, instead of to the public.",
+      "more": "A preferential allotment, or preferential issue, lets a listed company raise money by issuing fresh shares to a few selected investors, such as a large fund or its own promoters. SEBI sets rules on the minimum price, shareholder approval and lock-in. Think of a family business inviting one rich relative to put in money in return for a share of the shop, rather than selling shares to the whole town. Existing shareholders own a slightly smaller slice afterwards. In the news, it often appears when a big investor such as a private equity fund buys into a company."
+    },
+    {
+      "term": "Compulsorily convertible preference shares",
+      "definition": "A type of share that pays like a fixed instrument at first but must turn into ordinary shares later, at a price fixed in advance.",
+      "more": "Compulsorily convertible preference shares, often shortened to CCPS, are a halfway house between lending and owning. The investor puts money in today and gets preference shares, which rank ahead of ordinary shares for some payments. Within a set period, they must be converted into ordinary equity shares at an agreed price. It is like paying advance rent on a flat with a written promise that it becomes your down payment to buy it after 18 months. Big investors use them to fix their entry price while regulatory approvals are pending."
+    },
+    {
+      "term": "NBFC",
+      "definition": "A non-banking financial company: a lender that gives loans but is not a bank and cannot offer savings accounts.",
+      "more": "NBFC stands for non-banking financial company. Firms like Bajaj Finance lend money for phones, cars, homes, businesses and gold, just like banks do, but they cannot take ordinary savings or current account deposits. They raise money by borrowing from banks, issuing bonds or taking fixed deposits under strict rules. The RBI regulates them. Think of a big, organised moneylender who follows the RBI's rulebook. NBFCs often lend to people banks find harder to serve, so their results are watched for signs of stress among ordinary borrowers. News reports often group them with banks as 'financials'."
+    },
+    {
+      "term": "Gold loan",
+      "definition": "A loan where you hand over gold jewellery or coins as security and get cash in return.",
+      "more": "A gold loan lets you borrow money by pledging gold. The lender keeps your gold safely, gives you cash worth a part of its value, and returns the gold once you repay with interest. If you do not repay, the lender can sell the gold. Many Indian families use gold loans for school fees, weddings, farming or small businesses because they are quick and need little paperwork. Banks and NBFCs both offer them. In the news, a rise in 'overdue gold loans' means more borrowers are late with repayments, which can hint at money stress among households."
+    },
+    {
+      "term": "Promoter",
+      "definition": "The founder, family or parent company that controls a listed Indian company and usually owns a large stake in it.",
+      "more": "In India, 'promoter' is the legal term for the people or company that set up and control a business, such as a founding family or a parent group. Companies must report the promoters' shareholding every quarter. Promoters often keep their stake for decades, so when they sell or pledge shares it is closely watched. It is a bit like the owner of a family firm who also brings in outside partners: the partners can come and go, but the owner usually stays. News reports mention 'promoter stake' or 'promoter selling' often."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Net profit",
+      "definition": "What a company earns after paying all its costs, interest and taxes.",
+      "more": "Net profit, sometimes called the bottom line, is what is left from a company's income after every expense: salaries, materials, rent, interest on loans and taxes. It is the money that belongs to shareholders, part of which may be paid as dividends. Think of a household: net profit is what remains of the month's salary after rent, groceries, EMIs and bills. News reports often say 'net profit rose 32.7% year-on-year', comparing it with the same quarter last year."
+    },
+    {
+      "term": "One-time gain",
+      "definition": "Profit from an unusual event, such as selling a business, that will not repeat every quarter.",
+      "more": "A one-time gain is money a company makes from something unusual rather than from its normal day-to-day work. Selling a factory, a business unit or a property are common examples. It boosts profit in that one quarter but says nothing about how the core business is doing. Imagine a shopkeeper who sells an old scooter: that month's income looks great, but the shop itself didn't sell any more goods. Analysts usually strip such gains out to see the 'real' profit. News reports flag them with phrases like 'including a one-time gain of ₹165 crore'."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "Shipbuilder",
+      "definition": "A company that designs and builds ships, including naval warships, and earns money from large, multi-year orders.",
+      "more": "India's listed shipbuilders include government-owned Cochin Shipyard, Garden Reach Shipbuilders (GRSE) and Mazagon Dock. Much of their work comes from the Navy and Coast Guard, plus some commercial ships. Each order can take years to finish, so revenue and profit arrive unevenly from quarter to quarter, depending on how much work is completed and how costs behave. It is like a contractor building several houses at once: some months they hand over a house and get paid a lot, other months little. Their shares rose sharply in recent years on defence spending hopes, so they can swing a lot on results."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    }
+  ]
+}
