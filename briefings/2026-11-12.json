@@ -1,0 +1,806 @@
+{
+  "date": "2026-11-12",
+  "session_label": "Thursday 12 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex ended almost flat at 81,911 after a volatile day as property shares jumped 4.5% and carmakers slipped; after the close, October retail inflation came in at a two-year high of 6.09%, above the RBI's limit, and the rupee fell 33 paise to 94.04.",
+  "mood": "Cautious",
+  "mood_note": "A quiet finish after a big Wednesday. The indices gave up most of their morning gains, but smaller companies kept rising. The bigger news came after the close: inflation crossed 6%, raising the odds of another RBI rate rise.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Wednesday we reported the rupee at 93.70 per dollar (provisional). PTI now gives Wednesday's final close as 93.71.",
+    "Exchange data showed foreign investors bought ₹12,563.33 crore of Indian shares, net, on Wednesday, while domestic institutions sold ₹8,434.53 crore.",
+    "US shares bounced back on Wednesday after Tuesday's fall: the Nasdaq rose 1.60% and the S&P 500 1.31%, as AI-linked shares recovered."
+  ],
+  "one_minute": [
+    "The Sensex rose just 31.61 points (0.04%) to 81,911.01 and the Nifty 50 rose 44.30 points (0.18%) to 25,299.35 after a volatile day.",
+    "Property shares led, with the Nifty Realty index up 4.51%; financials and insurers gained, while autos (-1.02%), FMCG and IT fell. Smaller companies beat the big indices.",
+    "After the close, data showed retail inflation rose to 6.09% in October, a two-year high and above the RBI's 6% limit, driven by food. Onions cost 116% more than a year ago.",
+    "The rupee fell 33 paise to 94.04 per dollar (provisional) as talk of US rate rises lifted the dollar, even though foreign investors bought ₹12,563 crore of shares on Wednesday.",
+    "Bajaj Finance launched a share sale of up to ₹11,700 crore to big investors, and its shares rose 3.32%. HAL fell about 4% despite a 16% profit rise."
+  ],
+  "big_picture": "After Wednesday's big jump, Indian shares paused. The Sensex and Nifty swung up and down and ended almost unchanged. Underneath, there was plenty of movement: property and finance shares rose, while carmakers, FMCG and IT companies fell. Smaller companies kept doing well, which suggests investors are still fairly confident.\n\nThe most important news came after the market closed. Prices paid by households rose 6.09% in October compared with a year earlier, the fastest in two years. That is above the RBI's 6% comfort limit. Food is the main cause, especially onions.\n\nThe RBI already raised interest rates in October. Many economists now expect another rise on 4 December. That could make floating-rate loans a little costlier, while fixed deposits may pay a little more.\n\nAbroad, US central bank officials are also talking about raising rates, which strengthened the dollar and pushed the rupee weaker today. Foreign investors, though, are still buying Indian shares heavily.",
+  "chain": [
+    {
+      "label": "Food prices soar",
+      "note": "Onions cost 116% more than a year ago; food inflation rose to 8.94% in October."
+    },
+    {
+      "label": "Inflation crosses 6%",
+      "note": "Retail inflation hit 6.09%, a two-year high and above the top of the RBI's 2–6% band."
+    },
+    {
+      "label": "Rate-rise odds grow",
+      "note": "Economists at DBS and others expect the RBI to raise rates again on 4 December."
+    },
+    {
+      "label": "US rate talk lifts dollar",
+      "note": "Hawkish US Federal Reserve comments strengthened the dollar; the rupee fell 33 paise to 94.04."
+    },
+    {
+      "label": "Markets pause",
+      "note": "Investors waited for the inflation data; the Sensex ended flat at 81,911.01 as realty rose and autos fell."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "81,911.01",
+      "change": "+31.61 (+0.04%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It ended almost flat after swinging between 81,576 and 82,326."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,299.35",
+      "change": "+44.30 (+0.18%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE."
+    },
+    {
+      "name": "Nifty Realty",
+      "value": "",
+      "change": "+4.51%",
+      "direction": "up",
+      "what_it_is": "This tracks property developers such as DLF, Godrej Properties and Lodha. It was the best sector."
+    },
+    {
+      "name": "Nifty Media",
+      "value": "",
+      "change": "+2.46%",
+      "direction": "up",
+      "what_it_is": "This tracks TV, film and entertainment companies."
+    },
+    {
+      "name": "Nifty Auto",
+      "value": "",
+      "change": "-1.02%",
+      "direction": "down",
+      "what_it_is": "This tracks carmakers, two-wheeler makers and parts companies. It was the weakest sector."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+0.85%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+1.12%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller companies. They beat the big indices again."
+    },
+    {
+      "name": "India VIX",
+      "value": "17.55",
+      "change": "+0.75%",
+      "direction": "up",
+      "what_it_is": "A measure of how much traders expect the Nifty to swing over the next month. Higher means more nervous."
+    },
+    {
+      "name": "Retail inflation (October)",
+      "value": "6.09%",
+      "change": "up from 5.54% in September",
+      "direction": "up",
+      "what_it_is": "How much more households paid for goods and services than a year earlier. The highest in two years."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.04",
+      "change": "-33 paise (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$92.50",
+      "change": "-0.44%",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. India imports most of its oil."
+    },
+    {
+      "name": "Gold (MCX December futures)",
+      "value": "₹1,38,114",
+      "change": "-1.15%",
+      "direction": "down",
+      "what_it_is": "The price of 10 grams of gold in futures trading on India's commodity exchange, around 3:37 pm. Shop prices are higher after GST and making charges."
+    },
+    {
+      "name": "FII net buying (Wednesday)",
+      "value": "₹12,563.33 crore",
+      "change": "net bought",
+      "direction": "up",
+      "what_it_is": "How much more foreign investors bought than sold in Indian shares on Wednesday."
+    },
+    {
+      "name": "Nasdaq (Wednesday)",
+      "value": "",
+      "change": "+1.60%",
+      "direction": "up",
+      "what_it_is": "The US index of mostly technology companies. AI-linked shares bounced back."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-flat-nifty-25299-realty-jumps",
+      "category": "Stock market",
+      "title": "Sensex ends almost flat at 81,911 after a volatile day as realty shares jump 4.5% and autos fall; Nifty edges up to 25,299",
+      "tldr": "The Sensex rose just 31.61 points, or 0.04%, to 81,911.01 and the Nifty 50 rose 44.30 points, or 0.18%, to 25,299.35. The Sensex had been more than 400 points higher during the day. Property shares jumped, with the Nifty Realty index up 4.51%, and financial shares gained, but carmakers, FMCG and IT shares slipped. Smaller companies did better than the big indices.",
+      "what_happened": "The Sensex closed 31.61 points, or 0.04%, higher at 81,911.01, PTI reported. During the day it swung between a high of 82,325.61 and a low of 81,576.15. The Nifty 50 rose 44.30 points, or 0.18%, to 25,299.35, after touching 25,384.80 during the day.\n\nThe Nifty Realty index, which tracks property developers, was the best sector, up 4.51%. The Nifty Media index rose 2.46%, the Nifty PSU Bank index 1.51% and the Nifty Financial Services index 1.42%, according to DSIJ. On the losing side, the Nifty Auto index fell 1.02%, the Nifty FMCG index 0.74% and the Nifty IT index 0.41%.\n\nAmong Sensex shares, Bajaj Finance, State Bank of India, Bharat Electronics, Bajaj Finserv and ICICI Bank rose, while Hindustan Unilever, Maruti, Power Grid and TCS fell. Life insurers HDFC Life and SBI Life were among the Nifty's top gainers.\n\nSmaller companies did better. The Nifty Midcap 100 rose 0.85% and the Nifty Smallcap 100 rose 1.12%. India VIX, a measure of expected swings, rose 0.75% to 17.55.",
+      "simple_explanation": "After a big jump on Wednesday, the market took a breather. The Sensex and Nifty went up and down during the day and ended almost where they started.\n\nUnderneath that calm finish, a lot was happening. Property company shares rose sharply. Banks, lenders and insurers also did well. But carmakers, makers of everyday goods like soap and biscuits, and IT companies fell. These ups and downs roughly cancelled each other out.\n\nSmaller companies rose more than the big ones. That usually means investors are still in a fairly confident mood.",
+      "analogy": "Think of a busy railway platform where some passengers are getting on and others are getting off. The number of people on the platform barely changes, but a lot of movement is happening. The flat Sensex hides a lot of buying in property and finance shares and selling in car and FMCG shares.",
+      "why": "Vinod Nair of Geojit Investments said strong foreign buying remained the main support and that softer oil prices gave some relief. He said smaller companies outperforming signalled a firm appetite for risk, even though the main indices were muted. But a jump in global technology shares' swings and hotter-than-expected US inflation kept attention on interest rates, PTI reported. Investors were also cautious ahead of India's October inflation figures, which came out after the market closed.\n\nGains faded late in the session as some investors sold to lock in profits after the market's sharp rise in November.\n\nProperty shares rose after brokerages said developers such as DLF, Godrej Properties, Lodha and Prestige could post strong sales growth in October–March after a weak first half, Business Standard reported. Jefferies noted that the shares were valued well below their long-term average, so a mild rise in interest rates might not hurt them much. DLF rose 4% to ₹770.45 during the day, close to its 52-week high, and the Nifty Realty index is up about 14% so far in November, Business Standard reported.\n\nLife insurers rose after industry data showed new business premiums grew 26.2% from a year earlier in October, Business Standard reported.",
+      "implications": {
+        "you": "If you have a Nifty index fund or an equity SIP, its value barely changed today. If you hold a fund that invests in property companies or smaller firms, it probably did better.",
+        "markets": "Analysts said the Nifty looks 'overbought' after its quick rise this month and a small pullback cannot be ruled out. They see support near 25,000 and resistance near 25,500.",
+        "economy": "A flat day tells us little about the economy. Strong demand for property shares reflects hopes of better home sales in the coming months.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "How the market reacts on Friday to October's 6.09% inflation figure, which came out after the close, and whether the Nifty can hold above 25,000.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "Volatile",
+        "Realty",
+        "Nifty Media",
+        "PSU bank",
+        "Nifty Financial Services",
+        "Nifty Auto",
+        "FMCG",
+        "Nifty IT",
+        "Midcap",
+        "Smallcap",
+        "India VIX",
+        "Profit booking",
+        "Life insurer",
+        "New business premium",
+        "Overbought",
+        "Support and resistance",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine your class's average marks in a test. Some students did much better than last time, and some did a bit worse. In the end, the class average stayed almost the same.\n\nThat is what happened with the Sensex and Nifty today. They are like the class average of India's biggest companies. In the morning the average was up, but by the end of the day it was almost unchanged.\n\nThe companies that build flats and offices did really well, rising about 4.5% as a group. Banks and insurance companies also did well. But companies that make cars, soap and biscuits, and computer services companies, did a bit worse. Together, they balanced each other out.",
+        "real_life": "Priya, 34, is a schoolteacher in Kochi. She puts ₹3,000 a month into a Nifty 50 index fund through an SIP, and the fund is now worth about ₹2 lakh.\n\nToday the Nifty rose just 0.18%, so her fund gained only around ₹360 on paper. That is close to nothing, and it does not matter for her long-term plan.\n\nHer colleague, who holds a property-sector fund, saw a much bigger jump today. But such funds can also fall much faster when the mood changes, because they bet on one sector. Priya's index fund spreads her money across 50 large companies, so one sector's good or bad day has a smaller effect on her savings."
+      }
+    },
+    {
+      "id": "retail-inflation-6-09-october-two-year-high",
+      "category": "Economy",
+      "title": "Retail inflation jumps to a two-year high of 6.09% in October, above the RBI's 6% limit, as onion and other food prices soar",
+      "tldr": "Prices paid by households rose 6.09% in October compared with a year earlier, up from 5.54% in September, government data released after the market closed showed. That is the highest since October 2024 and above the top of the RBI's 2–6% comfort range. Food prices rose 8.94%, with onions up 116%. Several economists now expect the RBI to raise interest rates again on 4 December.",
+      "what_happened": "Retail inflation, measured by the Consumer Price Index, rose to 6.09% in October from 5.54% in September, according to data released by the Ministry of Statistics and Programme Implementation on Thursday. It is the highest reading since October 2024, when it was 6.21%.\n\nFood inflation rose to 8.94% from 7.74%, above the 8.5% that economists polled had expected, Business Today reported. Onion prices were 116.22% higher than a year earlier, garlic 60.74%, ginger 48.32% and lemons 47.30%, ANI reported. Restaurant and hotel prices rose 10.06%.\n\nInflation was higher in villages than in cities: 6.63% in rural areas, up from 6.08%, and 5.41% in urban areas, up from 4.88%.\n\nThe RBI's target is 4% inflation, with a tolerance band of 2% to 6%. In October, the RBI raised its repo rate by 0.25 percentage points to 5.50%. Its rate-setting committee meets again from 2 to 4 December.",
+      "simple_explanation": "Inflation means how fast prices are going up. A figure of 6.09% means that, on average, things households buy cost about ₹106 in October for every ₹100 they cost a year earlier.\n\nThe big reason this time is food. Onions cost more than twice what they did a year ago. Garlic, ginger and lemons also became much more expensive.\n\nThe RBI's job is to keep inflation close to 4%, and anything above 6% is outside its comfort zone. When prices rise this fast, the RBI usually raises interest rates to cool things down. That is why economists now expect it to raise rates again in December.",
+      "analogy": "Think of a pressure cooker on the stove. The RBI has decided the whistle should blow at 6. Inflation has just crossed that mark, so the cook is likely to turn down the flame, which here means raising interest rates.",
+      "why": "The rise came mainly from food. Stored onion stocks have run low and uneven rains have hurt the arrival of fresh crops, according to the RBI's assessment, ANI reported.\n\nRadhika Rao of DBS Bank said the data reinforced her expectation of a second straight rate rise in December. Vikram Chhabra of 360 ONE Asset said there were clear signs of price pressures spreading more widely, and that inflation could stay above 6% in the coming months, though lower oil prices and a stronger rupee could give some relief. Tanay Dalal of Axis Bank said the figures raised the risk that rates may need to rise above the estimated neutral rate of 6%, and warned inflation could stay above 6% until June 2027, Business Today reported.",
+      "implications": {
+        "you": "Your kitchen budget is feeling it: onion, garlic and other vegetables cost much more than last year. If you have a floating-rate home or car loan, a December RBI rate rise could push your EMI up over the following months.",
+        "markets": "Higher inflation raises the chance of another RBI rate rise, which can weigh on shares of banks, property developers and carmakers that depend on loans. The data came out after the close, so the market will react on Friday.",
+        "economy": "When prices rise faster than incomes, families have less money to spend on other things. Higher interest rates can cool prices but also slow borrowing and growth.",
+        "prices": "Food prices, especially onions, are the main pressure. Lower oil prices could help a little over time."
+      },
+      "watch": "The RBI's decision on 4 December, and the November inflation figure due on 14 December.",
+      "terms": [
+        "Retail inflation",
+        "CPI",
+        "MoSPI",
+        "Food inflation",
+        "Tolerance band",
+        "RBI",
+        "Repo rate",
+        "Rate hike",
+        "MPC",
+        "Neutral rate",
+        "Basis point",
+        "Floating rate",
+        "EMI",
+        "Fixed deposit",
+        "Real interest rate"
+      ],
+      "explainers": {
+        "like12": "Imagine your pocket money is ₹100 a week and you spend it on snacks. Last year, ₹100 bought you a full bag. Now the same bag costs about ₹106. That rise in prices is called inflation.\n\nIn October, prices in India rose by 6.09% compared with a year ago. That is the fastest rise in two years.\n\nThe biggest jump was in food. Onions now cost more than twice what they did last year, because there are fewer of them in storage and rains damaged some new crops.\n\nThe RBI is like the referee for prices. Its rule says prices should not rise faster than 6%. Now they have, so the RBI may make borrowing money more expensive to slow things down.",
+        "real_life": "Ramesh, 38, drives for a delivery company in Lucknow and earns ₹28,000 a month. His family spends about ₹8,000 a month on food.\n\nWith food inflation at 8.94%, the same groceries that cost ₹8,000 last October now cost about ₹8,700. Onions are the biggest shock: his wife now buys smaller amounts and uses them more carefully.\n\nRamesh also has a ₹6 lakh home loan on a floating rate. If the RBI raises rates again in December and his bank passes it on, his EMI could rise by a few hundred rupees a month.\n\nOn the other side, his small fixed deposit may earn slightly more interest when it renews."
+      }
+    },
+    {
+      "id": "rupee-falls-33-paise-to-94-04-fii-buying-12563-crore",
+      "category": "Foreign money",
+      "title": "Rupee falls 33 paise to 94.04 per dollar as US rate-rise talk lifts the dollar, even as foreign investors buy ₹12,563 crore of shares",
+      "tldr": "The rupee weakened 33 paise to 94.04 against the US dollar (provisional), PTI reported, after a strong dollar and talk of more US interest rate rises. This came even though foreign investors bought ₹12,563.33 crore of Indian shares, net, on Wednesday, while Indian institutions sold ₹8,434.53 crore. Brent oil slipped 0.44% to $92.50 a barrel.",
+      "what_happened": "The rupee closed at 94.04 against the US dollar (provisional), down 33 paise from Wednesday's close of 93.71, PTI reported. It opened at 93.73 and moved between 93.62 and 94.06 during the day. The dollar index, which tracks the dollar against six major currencies, was up 0.12% at 103.03.\n\nForeign institutional investors bought Indian shares worth ₹12,563.33 crore, net, on Wednesday, exchange data showed. Domestic institutions, such as Indian mutual funds and insurers, sold ₹8,434.53 crore, net, according to DSIJ.\n\nBrent crude, the global oil benchmark, fell 0.44% to $92.50 a barrel, PTI reported, on hopes for diplomatic progress on the Middle East conflict and the Russia-Ukraine war.\n\nAnuj Choudhary of Mirae Asset Sharekhan expects the rupee to trade between 93.70 and 94.20 per dollar in the near term, with a slight weakening bias.",
+      "simple_explanation": "The rupee's exchange rate tells you how many rupees you need to buy one US dollar. Today that number went from about 93.71 to 94.04. A higher number means the rupee got weaker.\n\nThis happened even though foreign investors were busy buying Indian shares, which usually helps the rupee. The reason is that the US dollar got stronger against many currencies.\n\nThe dollar is rising because officials at the US central bank have hinted they may raise interest rates again soon. Higher US interest rates make the dollar more attractive to hold.",
+      "analogy": "Think of two cricket teams in a tug of war. Foreign investors buying Indian shares are pulling the rope towards the rupee. The strong US dollar is pulling the other way. Today the dollar side pulled harder.",
+      "why": "Forex traders said the dollar strengthened after a hawkish speech by a US Federal Reserve official and rising odds of a US rate rise in December, PTI reported. Earlier this week, Fed Governor Christopher Waller said the Fed should raise rates in December, and Dallas Fed President Lorie Logan said at least two more quarter-point rises may be needed, Reuters reported. On Tuesday, CME FedWatch showed traders fully expecting a December rise.\n\nChoudhary said high US bond yields and expectations of two US rate rises weighed on the rupee, while strong Indian shares and foreign inflows could support it.",
+      "implications": {
+        "you": "A weaker rupee makes things priced in dollars, like foreign travel, overseas tuition fees and imported phones, slightly more expensive. A 33-paise move adds about ₹330 to the cost of $1,000.",
+        "markets": "Foreign investors keep buying Indian shares heavily, which has driven this month's rally. A weaker rupee reduces their returns in dollar terms, so traders watch both together.",
+        "economy": "A weaker rupee makes imports such as oil and electronics costlier, which can add to inflation. Lower oil prices help offset part of that.",
+        "prices": "Today's moves are small. Over time, a weaker rupee can push up the cost of imported goods and fuel, while lower Brent oil prices push the other way."
+      },
+      "watch": "Whether the rupee stays near 94 per dollar, and whether foreign investors keep buying after India's higher inflation figure.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Dollar index",
+        "FII",
+        "DII",
+        "Mutual fund",
+        "Brent crude",
+        "Barrel",
+        "Forex trader",
+        "Hawkish",
+        "Federal Reserve",
+        "Rate hike",
+        "CME FedWatch",
+        "US Treasury yield"
+      ],
+      "explainers": {
+        "like12": "Imagine the rupee and the dollar are two kinds of trading cards. The exchange rate tells you how many rupee cards you must give to get one dollar card.\n\nYesterday you needed about 93.71 rupee cards for one dollar card. Today you need 94.04. So the rupee card has become slightly less valuable.\n\nWhy? In America, the people in charge of money have said they might make borrowing more expensive. That makes lots of people around the world want dollars, so the dollar card becomes more popular.\n\nAt the same time, big foreign investors are buying Indian company shares, which helps the rupee. But today the dollar's pull was stronger.",
+        "real_life": "Anil, 45, works in an IT firm in Hyderabad. His daughter is studying in the US, and he sends her $1,500 every month for living costs.\n\nAt 93.71 rupees per dollar, that cost him about ₹1,40,565. At 94.04, it costs about ₹1,41,060, nearly ₹500 more for the same amount.\n\nOne day's move is small, but over a year these changes add up. Anil cannot predict the rupee, which depends on things like US interest rates, oil prices and foreign investors. So he keeps a small buffer in his budget and sends money on a fixed date each month instead of trying to guess the best day."
+      }
+    },
+    {
+      "id": "bajaj-finance-launches-11700-crore-qip",
+      "category": "Company news",
+      "title": "Bajaj Finance launches a share sale of up to ₹11,700 crore to big investors; its shares rise 3.3%",
+      "tldr": "Bajaj Finance, one of India's biggest non-bank lenders, opened a qualified institutional placement to raise up to ₹11,700 crore by selling new shares to large investors. The floor price is ₹992.25 and the indicative price ₹1,025, about 5% below Wednesday's close. Its parent Bajaj Finserv has committed about ₹5,800 crore. Bajaj Finance shares closed 3.32% higher at ₹1,110.70.",
+      "what_happened": "Bajaj Finance's fundraising committee approved the opening of a qualified institutional placement, or QIP, of up to ₹11,700 crore on 11 November, with a floor price of ₹992.25 per share, according to reports. The indicative price is ₹1,025 per share, about 5% below the NSE closing price of ₹1,078.80 on Wednesday, DSIJ reported. The final price will be set with the banks managing the issue.\n\nThe company could issue up to about 11.41 crore new shares, according to its preliminary placement document. Its parent company, Bajaj Finserv, has committed about ₹5,800 crore, reports said. The QIP is part of a wider ₹17,500 crore fundraising plan approved by the board on 1 October.\n\nBajaj Finance shares closed at ₹1,110.70, up 3.32%, Business Today reported. The share sale comes after the stock fell 8% in a single day to a five-week low following its July–September results, reports said.",
+      "simple_explanation": "Bajaj Finance lends money to people for phones, cars, homes and businesses. To lend more, it needs more money of its own.\n\nSo it is selling brand-new shares, but only to big investors like mutual funds, insurers and foreign funds. This is called a QIP. Ordinary investors cannot apply, but they can keep buying the shares on the stock market as usual.\n\nThe company is offering the new shares at a small discount to their market price, to attract big buyers. Its own parent company, Bajaj Finserv, is putting in about half of the money. That reassured investors, and the shares went up today.",
+      "analogy": "It is like a successful family business asking a few wealthy relatives to invest in its expansion, with the family's own holding company putting in about half the money. The business gets cash fast, and the others see that the family is backing its own shop.",
+      "why": "Lenders must keep enough of their own money, called capital, compared with the loans they give. Raising fresh capital lets Bajaj Finance keep growing its loan book.\n\nBajaj Finserv's big commitment shows the parent company is backing the fundraise, which may have reassured investors. The shares had also fallen sharply after the company's latest results, so some investors may have seen the discounted price as a sign of demand. When a company issues new shares, existing shareholders own a slightly smaller part of it, which is called dilution, so investors weigh that against the growth the money can bring.",
+      "implications": {
+        "you": "If you hold an index fund, Bajaj Finance is one of its companies, so its moves affect your fund slightly. Ordinary investors cannot take part in a QIP directly.",
+        "markets": "A large QIP backed by a parent company can signal confidence. Big fundraises also show companies are using the strong market to raise money.",
+        "economy": "More capital for lenders like Bajaj Finance means they can keep giving loans to consumers and small businesses.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "The final issue price and how many shares are sold, and how Bajaj Finance shares trade once the new shares start trading.",
+      "terms": [
+        "NBFC",
+        "QIP",
+        "QIB",
+        "Floor price",
+        "Discount",
+        "Promoter",
+        "Dilution",
+        "Quarterly results",
+        "Mutual fund"
+      ],
+      "explainers": {
+        "like12": "Imagine a lemonade stand that is doing very well. The owner wants to open more stands, but needs money to buy lemons, sugar and tables.\n\nSo she decides to sell some new shares of her business. But instead of selling to everyone in the neighbourhood, she sells only to a few big buyers, like rich uncles and aunties. That is a QIP.\n\nBajaj Finance, a big company that lends money, is doing exactly this. It wants to raise up to ₹11,700 crore. Its parent company is buying almost half of the new shares.\n\nPeople liked that the parent company was backing the plan, so Bajaj Finance's share price went up today.",
+        "real_life": "Kavita, 30, a nurse in Jaipur, bought her washing machine on a no-cost EMI through Bajaj Finance at a store last year. She does not own any shares.\n\nFor her, this news is about the company that lends to people like her. When a lender like Bajaj Finance raises fresh money, it can keep offering loans and EMI plans at shops across India.\n\nKavita also has a Nifty index fund through her hospital's savings plan. Bajaj Finance is one of the companies in that index, so today's 3.3% rise in its shares added a tiny amount to her fund's value. She cannot join the QIP, which is only for large institutions."
+      }
+    },
+    {
+      "id": "hal-falls-despite-profit-rise-tata-power-profit-jumps",
+      "category": "Company news",
+      "title": "HAL shares fall about 4% despite a 16% profit rise as margins narrow; Tata Power's profit jumps 33%, and Meesho hits a new high",
+      "tldr": "Hindustan Aeronautics reported a 16% rise in July–September profit to about ₹1,936 crore, but its shares fell about 4% because its operating margin narrowed. Tata Power's profit rose 32.7% to ₹1,652.04 crore. Aurobindo Pharma fell for a second day after a US drug regulator warning at one of its plants, while Meesho rose over 3% to its highest price since listing after it was added to an MSCI index.",
+      "what_happened": "Hindustan Aeronautics (HAL), the government-owned maker of fighter jets and helicopters, reported a consolidated net profit of about ₹1,936 crore for July–September, up roughly 16% from ₹1,669 crore a year earlier, most reports said. Sales rose 14.8% to ₹7,613 crore. EBITDA rose 11.6% to ₹1,739 crore, so its operating margin slipped to 22.8% from 23.5%. HAL shares fell about 4%, Kotak Neo reported.\n\nTata Power's consolidated net profit rose 32.7% from a year earlier to ₹1,652.04 crore, and revenue rose 26.3% to ₹19,635.94 crore, DSIJ reported. Hindustan Copper's standalone profit jumped 179% to ₹519.54 crore.\n\nAurobindo Pharma extended its fall to a second day after the USFDA classified an inspection of a plant run by its unit Lannett as 'Official Action Indicated', the regulator's most serious rating. Meesho rose more than 3% to ₹254.40, its highest since listing, after it was included in an MSCI index, Kotak Neo reported.",
+      "simple_explanation": "It is results season, when listed companies tell everyone how much they earned in the last three months.\n\nHAL, which makes military aircraft, earned more than last year. But its costs grew faster than investors liked, so its profit margin, the share of each rupee of sales it keeps as profit, became smaller. Investors had hoped for more, so the shares fell.\n\nTata Power, which makes and supplies electricity, did much better than last year. Meesho, the online shopping app, got added to an index that many global funds follow, which means those funds may buy its shares.",
+      "analogy": "Think of a sweet shop that sold more boxes this Diwali than last year, but paid much more for milk and sugar. Its total profit is up, but it is keeping a little less from each box. Investors notice both.",
+      "why": "Investors often care about margins as much as profit. HAL's EBITDA grew more slowly than its sales, which suggests costs rose, and that disappointed some investors even though profit rose. The brokerage CLSA kept a positive view on the stock, reports said.\n\nAurobindo's fall reflects worries that a serious USFDA rating can delay approvals for new medicines from that plant. Meesho's rise is linked to its inclusion in an MSCI index, because funds that track the index need to buy the shares.",
+      "implications": {
+        "you": "If you hold a defence or PSU fund, HAL's fall will have pulled it down a little today. For most people with diversified funds, the effect is very small.",
+        "markets": "Results season shows that a profit rise alone is not enough: investors also look at margins and how results compare with expectations.",
+        "economy": "Strong profits at power companies like Tata Power reflect growing demand for electricity.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "More July–September results in the coming days, and whether Aurobindo shares recover as the company responds to the USFDA.",
+      "terms": [
+        "Defence stocks",
+        "Consolidated profit",
+        "Net profit",
+        "EBITDA",
+        "Revenue",
+        "Quarterly results",
+        "USFDA",
+        "Subsidiary",
+        "MSCI",
+        "Listing"
+      ],
+      "explainers": {
+        "like12": "Imagine two friends running stalls at a school fair. One stall sells more snacks than last year and earns more money. But it spent a lot more on ingredients, so it kept a smaller share of each sale as profit. People expected even better, so they were a little disappointed.\n\nThat is like HAL, the company that makes fighter planes for India. It earned 16% more than last year, but its costs went up too, and its share price fell about 4%.\n\nAnother company, Tata Power, which makes electricity, earned a third more than last year.\n\nAnd Meesho, the shopping app, was added to a famous list that big global investors follow, so its shares went up.",
+        "real_life": "Deepak, 50, is an accountant in Bengaluru. He holds a few HAL shares he bought three years ago, along with mutual funds.\n\nToday, HAL's shares fell about 4% even though the company earned more. Deepak's ₹50,000 holding lost about ₹2,000 on paper in a day.\n\nHe has learned that share prices move on what investors expected, not just whether profit went up. A company can do well and still see its shares fall if the results are not as good as hoped.\n\nDeepak keeps most of his savings in diversified funds, so one company's bad day has only a small effect on his overall money."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Qualified institutional placement (QIP)",
+    "explanation": "A qualified institutional placement, or QIP, is a fast way for a company already listed on the stock market to raise fresh money. It creates brand-new shares and sells them only to large professional investors, called qualified institutional buyers, such as mutual funds, insurers, banks and foreign funds.\n\nA QIP is quicker than a public offer because the company does not need to invite millions of ordinary investors or wait for long approvals. SEBI sets a minimum price, the floor price, based on the share's recent trading. Companies may offer a small discount to that, within limits.\n\nBecause new shares are created, existing shareholders own a slightly smaller part of the company. This is called dilution. Whether it is good or bad depends on how well the company uses the money. The exact rules can change from time to time.\n\nA QIP differs from a preferential allotment, which we covered yesterday. A preferential allotment goes to a few named investors, while a QIP is offered to many institutions.",
+    "example": "Bajaj Finance opened a QIP of up to ₹11,700 crore with a floor price of ₹992.25 and an indicative price of ₹1,025, about 5% below Wednesday's close. Its parent, Bajaj Finserv, has committed about ₹5,800 crore. Bajaj Finance shares rose 3.32% to ₹1,110.70.",
+    "takeaway": "A QIP lets a listed company raise money quickly from big investors. Ordinary investors cannot apply, but they feel its effects through dilution and how the company uses the money."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Thursday?",
+      "options": [
+        "Down 772.75 points",
+        "Up 31.61 points, or 0.04%",
+        "Up 400 points",
+        "Down 31.61 points"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose just 31.61 points, or 0.04%, to 81,911.01 after a volatile day."
+    },
+    {
+      "q": "Which sector index rose the most on Thursday?",
+      "options": [
+        "Nifty Auto",
+        "Nifty IT",
+        "Nifty Realty",
+        "Nifty FMCG"
+      ],
+      "answer": 2,
+      "why": "The Nifty Realty index, which tracks property developers, rose 4.51%. Autos, FMCG and IT shares fell."
+    },
+    {
+      "q": "What was India's retail inflation in October?",
+      "options": [
+        "4%",
+        "5.54%",
+        "6.09%",
+        "8.94%"
+      ],
+      "answer": 2,
+      "why": "Retail inflation rose to 6.09% from 5.54% in September. 8.94% was food inflation."
+    },
+    {
+      "q": "What is the RBI's tolerance band for inflation?",
+      "options": [
+        "0% to 4%",
+        "2% to 6%",
+        "4% to 8%",
+        "6% to 10%"
+      ],
+      "answer": 1,
+      "why": "The RBI aims for 4% inflation and treats 2% to 6% as acceptable. October's 6.09% is above the top of that band."
+    },
+    {
+      "q": "Why did the rupee weaken today even though foreign investors were buying Indian shares?",
+      "options": [
+        "Oil prices doubled",
+        "The US dollar strengthened on talk of more US rate rises",
+        "The RBI cut interest rates",
+        "Indian markets were closed"
+      ],
+      "answer": 1,
+      "why": "The dollar rose after hawkish comments from US Federal Reserve officials, pushing the rupee 33 paise lower to 94.04."
+    },
+    {
+      "q": "Who can buy shares in a QIP like Bajaj Finance's?",
+      "options": [
+        "Anyone with a demat account",
+        "Only the company's employees",
+        "Only large institutional investors",
+        "Only the government"
+      ],
+      "answer": 2,
+      "why": "A QIP sells new shares only to qualified institutional buyers, such as mutual funds, insurers, banks and foreign funds."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DT Next (PTI): Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil",
+      "url": "https://www.dtnext.in/news/business/markets-extend-gains-for-3rd-day-sensex-ends-above-81900-on-fii-inflows-lower-crude-oil"
+    },
+    {
+      "title": "DSIJ: Closing Bell: Nifty, Sensex extend winning streak; realty stocks surge 4.51%",
+      "url": "https://insights.dsij.in/dsijarticledetail/closing-bell-nifty-sensex-extend-winning-streak-to-3rd-consecutive-trading-sessions-realty-stocks-surge-451-60413"
+    },
+    {
+      "title": "Business Standard: Stock Market Close: Sensex ends volatile session marginally higher, Nifty at 25,299; realty up 4%",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html"
+    },
+    {
+      "title": "The Hans India: Sensex, Nifty end higher amid realty rally; broader markets outperform",
+      "url": "https://www.thehansindia.com/business/sensex-nifty-end-higher-amid-realty-rally-broader-markets-outperform-1141415"
+    },
+    {
+      "title": "Kotak Neo: Market Wrap, 12 November 2026",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-close-higher-after-a-volatile-session/"
+    },
+    {
+      "title": "Business Standard: Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high",
+      "url": "https://www.business-standard.com/amp/markets/news/realty-index-surges-4-oberoi-sobha-lodha-up-5-dlf-nears-52-week-high-126111200602_1.html"
+    },
+    {
+      "title": "Business Standard: ICICI Life, HDFC Life rally up to 5%; what's driving insurance stocks?",
+      "url": "https://www.business-standard.com/markets/news/icici-life-hdfc-life-sbi-life-rally-up-to-5-what-s-driving-insurance-stocks-126111200350_1.html"
+    },
+    {
+      "title": "Business Today: Retail inflation hits two-year high of 6.09% in October, breaches RBI's 6% limit",
+      "url": "https://www.businesstoday.in/latest/economy/story/retail-inflation-hits-two-year-high-of-6-09-in-october-breaches-rbis-6-limit-december-rate-hike-likely-567161-2026-11-12"
+    },
+    {
+      "title": "The Tribune (ANI): Retail inflation hits 24-month high of 6.09% in October",
+      "url": "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet"
+    },
+    {
+      "title": "ETV Bharat (PTI): Rupee falls 33 paise to settle at 94.04 against USD",
+      "url": "https://www.etvbharat.com/en/business/rupee-vs-us-dollar-on-november-12-2026-enn26111200872"
+    },
+    {
+      "title": "Yahoo Finance (Reuters): Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html"
+    },
+    {
+      "title": "Investing.com: Wall Street ends higher, Nasdaq adds over 1.5% as AI trade comes back to life",
+      "url": "https://investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417"
+    },
+    {
+      "title": "Business Today: Bajaj Finance shares close 3% higher amid Rs 11,700 crore QIP issue",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-shares-close-3-higher-amid-rs-11700-crore-qip-issue-567158-2026-11-12"
+    },
+    {
+      "title": "Entrepreneur India: Bajaj Finance launches QIP of up to INR 11,700 Cr at INR 992.25 floor price",
+      "url": "https://www.entrepreneurindia.com/blog/en/news/bajaj-finance-launches-qip-of-up-to-inr-11700-cr-at-inr-99225-floor-price.61426"
+    },
+    {
+      "title": "Kotak Neo: HAL share price falls 4% despite 16% rise in Q2 FY27 net profit",
+      "url": "https://www.kotakneo.com/news/stocks/hal-share-price-in-focus-after-q2-fy27-results/"
+    },
+    {
+      "title": "Equitypandit: HAL shares slide after Q2 results as margin narrows",
+      "url": "https://www.equitypandit.com/hal-shares-slide-after-q2-results-as-margin-narrows/"
+    },
+    {
+      "title": "Equitymaster: Sensex Today Ends Flat, Nifty Above 25,250",
+      "url": "https://www.equitymaster.com/indian-share-markets/11/12/2026/Sensex-Today-Ends-Flat--Nifty-Above-25250--Roto-Pumps-Up-14"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "Volatile",
+      "definition": "Describes prices that swing up and down sharply within a short time.",
+      "more": "A volatile market moves a lot, sometimes in both directions on the same day. A share that rises 2% in the morning and falls 1% by afternoon is volatile. Think of the price of tomatoes at a mandi during the monsoon: it can jump one week and crash the next. Volatility is not good or bad by itself, but it makes short-term prices hard to predict. India VIX measures how much volatility traders expect over the next month. News reports call a session 'volatile' when the Sensex or Nifty swings several hundred points between its high and low, even if it ends almost flat."
+    },
+    {
+      "term": "Realty",
+      "definition": "Short for real estate: companies that build and sell homes, offices and malls.",
+      "more": "Realty companies such as DLF, Godrej Properties and Lodha build housing and commercial property. The Nifty Realty index tracks the listed ones. Their shares are very sensitive to interest rates, because most homebuyers take loans: when EMIs rise, fewer people buy flats. They also swing a lot because their profits arrive in lumps as projects are completed. It's like a mango seller whose income depends on one season. News reports often say 'realty stocks led the fall' on days when worries about rates or inflation rise."
+    },
+    {
+      "term": "Nifty Media",
+      "definition": "An NSE index that tracks the biggest listed media and entertainment companies, such as TV broadcasters and film firms.",
+      "more": "The Nifty Media index follows companies that run TV channels, make and distribute films, operate cinemas and publish content, for example Zee Entertainment, Sun TV and PVR INOX. It is a small index with only a handful of companies, so a big move in one or two of them can make the whole index jump or fall sharply. Think of it like a small class of ten students: if two toppers do brilliantly, the class average rises a lot. When news says 'media shares surged 5%', it usually refers to this index."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Nifty Financial Services",
+      "definition": "An index tracking banks, lenders, insurers and other finance companies.",
+      "more": "The Nifty Financial Services index covers big banks like HDFC Bank and ICICI Bank, non-bank lenders like Bajaj Finance and Shriram Finance, insurers and other finance firms. Because these companies make up a big share of the Nifty 50, when they rise strongly the whole market usually does too. They tend to do well when investors expect lower interest rates, steady loan growth and few bad loans. Think of them as the market's moneylenders: when the economy looks healthier, people expect them to lend more and get repaid on time."
+    },
+    {
+      "term": "Nifty Auto",
+      "definition": "An index that tracks India's biggest vehicle and vehicle-parts makers.",
+      "more": "The Nifty Auto index includes carmakers like Maruti Suzuki, Mahindra & Mahindra and Tata Motors, two-wheeler makers like Bajaj Auto and Hero MotoCorp, and parts suppliers. These shares are sensitive to fuel prices, interest rates on vehicle loans, festive demand and monthly sales figures. Cheaper oil helps them twice: it can make running a vehicle cheaper, and it lowers the cost of some raw materials. It's like a barometer for how keen Indians are to buy scooters, cars and trucks. News reports quote it when vehicle shares lead or drag the market."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "Nifty IT",
+      "definition": "An index of the biggest information technology companies listed on the NSE, such as TCS and Infosys.",
+      "more": "The Nifty IT index tracks India's largest software and IT services companies, including TCS, Infosys, HCLTech, Wipro and Tech Mahindra. These companies earn most of their money from clients in the US and Europe, so the index often moves on news from abroad, the dollar-rupee rate and quarterly results, rather than on Indian events. It is like a team of exporters inside the market: when foreign customers are spending, they do well. News reports mention it as one of the 'sectoral indices', for example 'Nifty IT rose 2.88%, the only sector in the green'."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Life insurer",
+      "definition": "A company that sells life insurance policies, which pay money to a family if the insured person dies or when a policy matures.",
+      "more": "Life insurers collect regular premiums from customers and invest that money, mostly in government bonds and shares, so they can pay claims years later. In India, LIC is the biggest and is government-owned. Private players include HDFC Life, SBI Life, ICICI Prudential Life and Max Life. Some policies are pure protection, called term plans; others mix insurance and savings. The industry is regulated by IRDAI. Life insurers' shares often move on monthly sales figures and on changes to rules about how policies are sold or what commissions agents can earn."
+    },
+    {
+      "term": "New business premium",
+      "definition": "The money life insurers collect from policies sold during a period, as opposed to renewals of older policies.",
+      "more": "When you buy a new life insurance policy, the first premium you pay counts as new business for the insurer. Later yearly payments on the same policy are renewals. New business premium is a key measure of how fast an insurer is growing, a bit like a shop's sales to new customers. Life insurers, including LIC and private firms like HDFC Life and SBI Life, report these numbers every month. If they rise strongly, investors often see it as a sign that more Indians are buying insurance. One big single-premium policy can push the number up, so analysts also look at other measures."
+    },
+    {
+      "term": "Overbought",
+      "definition": "A chart-reading term for a share or index that has risen so fast that some analysts expect a pause or small fall.",
+      "more": "Technical analysts study price charts and use indicators that measure how quickly prices have moved. When an index rises sharply for many days, these indicators flash 'overbought'. It does not mean the market must fall; it means the rise has been unusually steep, and some buyers may stop to take profits. Think of a runner who has sprinted the first lap of a race: they may need to slow down for a bit, even if they finish strongly. Reports often say an index is 'in the overbought zone' and that a 'mild pullback cannot be ruled out'. Markets can stay overbought for a long time."
+    },
+    {
+      "term": "Support and resistance",
+      "definition": "Price levels where analysts expect an index or share to stop falling (support) or stop rising (resistance), based on past trading.",
+      "more": "Analysts look at charts and notice levels where buyers have often stepped in or sellers have often appeared. Support is like a floor and resistance is like a ceiling. Think of a sabzi seller: if customers always start buying tomatoes when they drop to ₹30 a kilo, ₹30 acts as support; if nobody buys above ₹50, that's resistance. In the news you'll read lines like 'Nifty has support at 22,500 and resistance at 22,800'. These are educated guesses, not rules. Prices often break through them."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Retail inflation",
+      "definition": "How fast the prices of everyday goods and services bought by households are rising, measured by the Consumer Price Index (CPI).",
+      "more": "Every month the government collects prices of hundreds of items, from vegetables and milk to rent, school fees and bus fares, and works out how much more they cost than a year earlier. That figure is retail inflation. The RBI aims to keep it around 4%, within a band of 2% to 6%. If retail inflation stays above the target, the RBI may raise interest rates to cool demand. When news says 'CPI inflation rose to 4.82% in August', it means a basket of household items cost 4.82% more than in August last year."
+    },
+    {
+      "term": "CPI",
+      "definition": "The consumer price index: a measure of how fast the prices that ordinary households pay are rising. It is the main gauge of inflation.",
+      "more": "The consumer price index tracks the cost of a typical basket of things people buy, such as food, fuel, rent, clothes and services. When the index is, say, 3% higher than a year ago, inflation is 3%. India publishes its CPI, often called retail inflation, every month, and the US does the same. Think of it as tracking the cost of your monthly shopping list over time. In the news, CPI matters because central banks such as the RBI and the US Federal Reserve set interest rates with an eye on it."
+    },
+    {
+      "term": "MoSPI",
+      "definition": "The Ministry of Statistics and Programme Implementation: the government department that publishes India's inflation and GDP figures.",
+      "more": "MoSPI collects and publishes many of the official numbers that describe India's economy. Every month, usually around the 12th, it releases the Consumer Price Index, which shows how fast prices are rising for households. It also releases GDP growth figures and industrial production data. Its staff gather prices of hundreds of items from markets in towns and villages across the country. When a news report says 'data released by the statistics ministry', it means MoSPI. Markets, economists and the RBI all wait for these numbers, because they help decide interest rates, which affect loans and deposits for ordinary people."
+    },
+    {
+      "term": "Food inflation",
+      "definition": "How fast food prices are rising compared with a year earlier.",
+      "more": "Food is a big part of the inflation basket, especially for poorer households who spend a large share of their income on it. Food prices can jump quickly because of poor rains, floods, heatwaves or supply problems, and fall just as quickly after a good harvest. Vegetables like onions and tomatoes swing the most. When food inflation rises, the overall inflation number usually rises too. In the news it is often measured by the Consumer Food Price Index. A kitchen budget that suddenly needs more money for the same thali is food inflation at home."
+    },
+    {
+      "term": "Tolerance band",
+      "definition": "The range around the RBI's inflation target that is considered acceptable: 2% to 6%, around a 4% target.",
+      "more": "The government has asked the RBI to keep retail inflation at 4%, but allows it to move between 2% and 6%. That range is the tolerance band. Think of it like the speed limit on a highway: the target is a steady speed, and small ups and downs are fine, but crossing the upper line is a warning sign. If inflation stays above 6% for three quarters in a row, the RBI has to write to the government explaining why and what it will do. When news reports say inflation has 'breached the upper tolerance limit', they mean it has gone above 6%."
+    },
+    {
+      "term": "RBI",
+      "definition": "The Reserve Bank of India, the country's central bank. It sets interest rates, regulates banks and manages the rupee.",
+      "more": "The RBI is like the bank of all banks. It decides the repo rate, the interest rate at which banks borrow from it, which shapes the rates on your home loan EMI and fixed deposit. It also supervises banks, prints currency notes, manages India's foreign exchange reserves and steps in when the rupee moves too sharply. It runs markets for government bonds and money markets too. When the RBI changes a rule, it usually issues a circular on its website, so a 'circular' shared on WhatsApp should be checked there."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "MPC",
+      "definition": "The Monetary Policy Committee: the six-member RBI panel that decides the repo rate.",
+      "more": "The MPC includes RBI officials and outside experts, and meets several times a year to decide interest rates, mainly to keep inflation near the government's target. Members vote, and the decision and its reasons are announced publicly. It's like a family meeting that decides the household budget after looking at rising grocery bills. News before a meeting is full of economists' predictions, and afterwards reports focus on the decision, the vote split and hints about the next move."
+    },
+    {
+      "term": "Neutral rate",
+      "definition": "The interest rate that neither speeds up nor slows down the economy.",
+      "more": "Economists imagine a 'just right' interest rate: low enough not to choke growth, high enough not to fuel inflation. That is the neutral rate. Nobody can measure it exactly; it is an estimate. Think of driving a car on a flat road: there is a point where you are neither pressing the accelerator nor the brake. If the RBI sets the repo rate above the neutral rate, it is actively braking the economy to cool prices. Below it, it is gently accelerating. When analysts say rates may need to go 'above neutral', they mean the RBI may need to brake harder, which usually means costlier loans."
+    },
+    {
+      "term": "Basis point",
+      "definition": "One-hundredth of one percentage point. 100 basis points equal 1 percentage point.",
+      "more": "Basis points are used to describe small changes in interest rates and bond yields precisely. If a yield falls from 5.19% to 5.085%, that is a drop of 10.5 basis points. Saying '10.5 basis points' avoids confusion between a change in percentage points and a percentage change. It's like measuring medicine in millilitres instead of spoonfuls: more exact for small amounts. News about RBI rate decisions often uses basis points too, as in a '25 basis point' cut or hike."
+    },
+    {
+      "term": "Floating rate",
+      "definition": "A loan interest rate that changes over time, usually in line with a benchmark such as the RBI's repo rate.",
+      "more": "Most home loans in India have floating rates. Many are linked to the repo rate, so when the RBI raises it, the bank raises your loan rate too, usually at the next reset date. A fixed rate, by contrast, stays the same for an agreed period. It's like a mobile plan whose price can change with the operator's tariffs, versus one locked in for a year. When news says 'EMIs will rise', it mostly means borrowers on floating rates."
+    },
+    {
+      "term": "EMI",
+      "definition": "Equated monthly instalment: the fixed amount you pay every month to repay a loan with interest.",
+      "more": "An EMI combines part of the loan amount and the interest due. In the early years, most of it goes towards interest. If your loan has a floating rate, a rise in interest rates can increase your EMI, or your bank may keep the EMI the same and extend the number of months instead. It's like a phone bought on instalments where the monthly payment depends on the shop's interest rate. News about RBI rate decisions usually includes a section on 'what it means for your EMI'."
+    },
+    {
+      "term": "Fixed deposit",
+      "definition": "A bank deposit where you lock in money for a set period at a fixed interest rate.",
+      "more": "A fixed deposit, or FD, is one of India's most popular ways to save. You choose a period, from a few days to several years, and the bank promises an interest rate for that whole time. If rates rise later, your existing FD keeps its old rate until it matures; only new deposits or renewals get the higher rate. It's like booking a train ticket: the fare you paid stays the same even if fares go up later. News reports on RBI hikes often say 'FD rates may rise'."
+    },
+    {
+      "term": "Real interest rate",
+      "definition": "The interest rate after subtracting inflation; it shows how much a saver or lender really gains in buying power.",
+      "more": "If your fixed deposit pays 7% a year but prices rise 6%, your money grows in buying power by only about 1%: that is the real interest rate. Central banks watch it closely. If the real rate is very low or negative, borrowing is cheap in real terms, which can keep demand and prices rising. If it is high, borrowing is costly and spending cools. When an RBI member says real rates 'might not be high enough', it means the RBI may need to raise its repo rate further to cool inflation."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure, released quickly, that may be revised slightly later.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. For example, Wednesday's rupee close was first reported as 94.58 per dollar but finally came in at 94.46. It's like an exam's provisional result, which can change slightly after rechecking. The differences are usually small, so provisional figures are still a good guide."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Mutual fund",
+      "definition": "A pool of money from many investors that a professional manager invests in shares, bonds or both.",
+      "more": "A mutual fund collects money from thousands of people and invests it on their behalf. Each investor owns 'units' whose value rises or falls with the fund's investments. It's like a group of friends pooling money to buy a big box of sweets and sharing them in proportion to what each paid. Most Indian SIPs go into mutual funds. Funds charge a small yearly fee. When you move money from one fund to another, the tax system usually treats it as selling one investment and buying another, which can create a tax bill."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Forex trader",
+      "definition": "Someone at a bank or firm who buys and sells currencies, such as dollars and rupees.",
+      "more": "Forex is short for foreign exchange. Forex traders work at banks and financial firms, buying and selling currencies for companies that need dollars to pay for imports, for investors moving money in or out of India, and for their own bank's account. Because the RBI does not always announce what it does in the currency market on the day, news reports often quote what forex traders say is moving the rupee. Think of them as the regulars at a vegetable mandi who know why prices moved today."
+    },
+    {
+      "term": "Hawkish",
+      "definition": "Describes a central bank, or its message, that leans towards keeping interest rates high or raising them to fight inflation.",
+      "more": "Markets borrow two bird names to describe central banks. A 'hawk' worries most about rising prices and prefers higher interest rates. A 'dove' worries more about jobs and growth and prefers lower rates. So a 'hawkish' message hints that rates may stay high or rise; a 'dovish' one hints at cuts. It's like a strict parent who keeps pocket money tight because prices keep rising, versus a relaxed one who loosens it. News reports often say a decision was a 'hawkish hold': rates unchanged, but with a warning that a hike could come."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "CME FedWatch",
+      "definition": "A widely quoted tool that uses US futures prices to estimate the odds of the Federal Reserve changing interest rates at its next meetings.",
+      "more": "Traders in the US bet on where interest rates will be in the coming months using contracts called futures. The CME Group, which runs a large futures exchange, turns those prices into simple percentages, such as a '17.7% chance of a rate hike'. It isn't an official forecast and the Fed doesn't use it. It's more like the odds a bookmaker gives before a match: they show what the crowd expects and can swing quickly after new data. News reports quote it when expectations change sharply."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "NBFC",
+      "definition": "A non-banking financial company: a lender that gives loans but is not a bank and cannot offer savings accounts.",
+      "more": "NBFC stands for non-banking financial company. Firms like Bajaj Finance lend money for phones, cars, homes, businesses and gold, just like banks do, but they cannot take ordinary savings or current account deposits. They raise money by borrowing from banks, issuing bonds or taking fixed deposits under strict rules. The RBI regulates them. Think of a big, organised moneylender who follows the RBI's rulebook. NBFCs often lend to people banks find harder to serve, so their results are watched for signs of stress among ordinary borrowers. News reports often group them with banks as 'financials'."
+    },
+    {
+      "term": "QIP",
+      "definition": "Qualified institutional placement: a quick way for a listed company to raise money by selling new shares only to large institutional investors.",
+      "more": "A QIP lets a company that is already listed raise fresh money without the long process of a public offer. It sells brand-new shares to qualified institutional buyers, such as mutual funds, insurers, banks and foreign funds. Ordinary investors cannot apply. SEBI sets a minimum price based on recent trading, and the company can offer a small discount to that. Think of a popular sweet shop opening a bulk-order counter for big caterers only. The shop gets cash fast, and everyday customers still buy at the normal counter, that is, on the stock exchange. News reports usually mention the size, floor price and any discount."
+    },
+    {
+      "term": "QIB",
+      "definition": "Qualified institutional buyer: a large professional investor, such as a mutual fund, bank or insurer, that gets a separate share of an IPO.",
+      "more": "In an Indian IPO, the shares on offer are divided into portions for different kinds of investors. QIBs are big, regulated institutions like mutual funds, insurance companies, banks and foreign funds. Retail investors, who apply for smaller amounts, get their own portion, and wealthy individuals (NIIs or HNIs) get another. Reports on IPO demand usually break down subscription by category. It's like a cinema holding separate queues for bulk bookings, families and single tickets. Strong QIB demand is often read as a sign that professionals like the issue."
+    },
+    {
+      "term": "Floor price",
+      "definition": "The lowest price at which a company is allowed to sell new shares in a QIP or similar issue, worked out using a SEBI formula.",
+      "more": "When a listed company sells new shares to institutions, SEBI does not let it pick any price it likes. A formula based on the average share price over recent weeks sets a minimum, called the floor price. This protects existing shareholders from the company selling new shares too cheaply to a few big buyers. It is like a housing society rule that no flat can be resold below a set minimum, so a quick sale does not drag down everyone else's flat value. Companies can usually offer a small discount to the floor, within limits SEBI sets. Rules can change over time."
+    },
+    {
+      "term": "Discount",
+      "definition": "In a share sale, how much lower the offer price is than the price at which the share has been trading.",
+      "more": "When a company sells a large batch of new shares to investors, it often prices them a little below the current market price. This discount gives buyers a reason to take a big chunk at once rather than buy slowly on the exchange. It is like a wholesale price for buying in bulk at the mandi. A discount of around 5% is common in Indian QIPs. A very large discount can be read as a sign the company is eager for money, while a small one suggests strong demand. SEBI limits how big the discount can be, and those rules can change."
+    },
+    {
+      "term": "Promoter",
+      "definition": "The founder, family or parent company that controls a listed Indian company and usually owns a large stake in it.",
+      "more": "In India, 'promoter' is the legal term for the people or company that set up and control a business, such as a founding family or a parent group. Companies must report the promoters' shareholding every quarter. Promoters often keep their stake for decades, so when they sell or pledge shares it is closely watched. It is a bit like the owner of a family firm who also brings in outside partners: the partners can come and go, but the owner usually stays. News reports mention 'promoter stake' or 'promoter selling' often."
+    },
+    {
+      "term": "Dilution",
+      "definition": "When a company issues new shares, each existing share becomes a slightly smaller slice of the company.",
+      "more": "Imagine a pizza cut into 8 slices and you own one. If the cook makes the pizza a bit bigger but cuts it into 10 slices, your one slice is now a smaller share of the whole. That is dilution. When a company sells new shares through a QIP, preferential issue or rights issue, existing shareholders own a smaller percentage, though the company has more cash. Whether that is bad depends on how well the money is used. If it helps the company earn much more, each smaller slice can still end up worth more. News reports often say a fundraise will 'dilute' shareholders by a certain percentage."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Defence stocks",
+      "definition": "Shares of companies that make weapons, radars, ships, aircraft or electronics for the armed forces.",
+      "more": "In India, many defence companies are government-owned, such as Bharat Electronics (BEL), Hindustan Aeronautics (HAL) and Mazagon Dock. Their main customer is the Ministry of Defence, so their business depends on government orders, which come in large contracts that take years to deliver. Investors watch the size of these orders closely. Defence shares often rise when the government announces bigger defence budgets or a push to make more equipment in India. Like a contractor with a few huge clients, one big order, or a delay, can move the share price sharply."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Net profit",
+      "definition": "What a company earns after paying all its costs, interest and taxes.",
+      "more": "Net profit, sometimes called the bottom line, is what is left from a company's income after every expense: salaries, materials, rent, interest on loans and taxes. It is the money that belongs to shareholders, part of which may be paid as dividends. Think of a household: net profit is what remains of the month's salary after rent, groceries, EMIs and bills. News reports often say 'net profit rose 32.7% year-on-year', comparing it with the same quarter last year."
+    },
+    {
+      "term": "EBITDA",
+      "definition": "A company's earnings before interest, taxes, depreciation and amortisation: roughly, the profit from its day-to-day business.",
+      "more": "EBITDA strips out costs that depend on how a company is funded or taxed, like interest on loans and wear and tear on machines, to show how much the core business earns. The EBITDA margin is EBITDA as a share of revenue. If a tea company sells ₹100 worth of goods and keeps ₹14 after paying for tea leaves, salaries, transport and advertising, its EBITDA margin is 14%. Investors watch margins closely, because a company can sell more and still earn less if its costs rise faster. Results reports often say margins 'expanded' or 'contracted' by some basis points."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "USFDA",
+      "definition": "The US Food and Drug Administration: the American regulator that approves medicines and inspects the factories that make them.",
+      "more": "Many Indian drug companies make generic medicines that are sold in the US, the world's largest drug market. To do that, their factories must pass USFDA inspections. After an inspection, the USFDA gives a rating. 'Official Action Indicated', or OAI, is the most serious: it means the regulator found problems that need fixing, and new approvals from that plant may be held up. It is like a food inspector putting a restaurant on notice. Indian pharma shares often fall when a plant gets a warning, because it can delay new products and sales in the US."
+    },
+    {
+      "term": "Subsidiary",
+      "definition": "A company that is owned or controlled by another company, called its parent.",
+      "more": "Big Indian groups often run different businesses through separate companies. Jio Platforms is a subsidiary of Reliance Industries, and Reliance Jio Infocomm, the telecom company, is in turn a subsidiary of Jio Platforms. It's like a joint family where each son runs his own shop, but the head of the family still has the final say. When a subsidiary is listed through an IPO, outsiders can buy a piece of it directly, while the parent usually keeps control. News reports often discuss whether listing a subsidiary 'unlocks value' for the parent's shareholders."
+    },
+    {
+      "term": "MSCI",
+      "definition": "A company that creates stock market indices used by global funds to decide where to invest.",
+      "more": "MSCI builds widely followed indices that group countries into categories such as 'developed', 'emerging' and 'frontier'. Trillions of dollars in global funds track these indices, so a country's category decides how much of that money flows in automatically. If MSCI moves a country down, funds following it may have to sell that country's shares. It's like a popular travel guide downgrading a town: fewer tourists may come. India is in MSCI's emerging markets index."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    }
+  ]
+}
