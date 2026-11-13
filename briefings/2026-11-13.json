@@ -1,0 +1,800 @@
+{
+  "date": "2026-11-13",
+  "session_label": "Friday 13 November 2026",
+  "prepared_for": "Read tonight or over the weekend",
+  "headline": "The Sensex fell 319 points to 81,592 and the Nifty slipped to 25,144, ending a three-day rise, as Thursday's 6.09% inflation figure and oil back near $96 worried investors; Tata Motors PV posted a ₹5,531 crore loss after a one-off charge, Paytm won an RBI wallet nod, and the rupee eased to 94.20.",
+  "mood": "Cautious",
+  "mood_note": "A modest step back after three days of gains. Investors reacted to Thursday's high inflation figure and to oil climbing again, but the fall was less than 1% and smaller companies held up better than the big indices.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Thursday we reported the rupee at 94.04 per dollar (provisional). PTI now gives Thursday's final close as 94.12.",
+    "On Thursday we reported Brent crude at about $92.50 during the Indian session. Later that day it jumped 3.3% to settle at $95.82 after President Trump said the US did not need a deal with Iran.",
+    "Exchange data showed foreign investors bought ₹7,830.60 crore of Indian shares, net, on Thursday, while domestic institutions sold ₹6,331.17 crore."
+  ],
+  "one_minute": [
+    "The Sensex fell 318.56 points (0.39%) to 81,592.45 and the Nifty 50 fell 155.05 points (0.61%) to 25,144.30, ending a three-day rise.",
+    "Investors reacted to October's 6.09% retail inflation, which raised the odds of an RBI rate rise in December, and to rising oil prices and bond yields. Every major sector fell, led by property, carmakers and metals.",
+    "Brent crude jumped 3.3% to $95.82 on Thursday after President Trump said the US did not need a deal with Iran. The rupee fell 8 paise to 94.20 per dollar (provisional).",
+    "Tata Motors Passenger Vehicles reported a ₹5,531 crore loss after a ₹6,738 crore one-off charge, though revenue rose 34%. Grasim also reported a loss due to a one-off charge.",
+    "The RBI gave Paytm's payments unit in-principle approval to run a digital wallet again, and Paytm shares touched a record ₹1,960."
+  ],
+  "big_picture": "After three straight days of gains, Indian shares took a step back. Friday was the market's first chance to react to Thursday evening's news that retail inflation rose to 6.09% in October, above the RBI's 6% comfort limit. That raises the chance of another interest rate rise in December.\n\nOil added to the worry. It had fallen sharply this month on hopes of peace involving Iran, but jumped again after President Trump said the US did not need a deal. India imports most of its oil, so costlier oil tends to weaken the rupee and push up prices.\n\nAbroad, US inflation is also running hot, and US officials are talking about raising rates. That pushed US bond yields near 5% and weighed on shares worldwide.\n\nStill, the fall in India was modest. Foreign investors have kept buying Indian shares heavily, and company sales have mostly been growing, even where one-off charges produced losses.",
+  "chain": [
+    {
+      "label": "Inflation crosses 6%",
+      "note": "October's retail inflation of 6.09%, released after Thursday's close, raised the chance of an RBI rate rise on 4 December."
+    },
+    {
+      "label": "Oil jumps again",
+      "note": "Brent settled 3.3% higher at $95.82 on Thursday after President Trump said the US did not need a deal with Iran."
+    },
+    {
+      "label": "Yields rise",
+      "note": "Hot US inflation and Fed rate-rise talk kept the US 10-year yield near 5%; analysts said Indian yields rose too."
+    },
+    {
+      "label": "Rupee weakens",
+      "note": "A strong dollar and weak shares pushed the rupee down 8 paise to 94.20 (provisional)."
+    },
+    {
+      "label": "Shares step back",
+      "note": "The Sensex fell 318.56 points to 81,592.45 as investors booked profits after a three-day rise."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "81,592.45",
+      "change": "-318.56 (-0.39%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It fell as low as 81,288.75 during the day."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,144.30",
+      "change": "-155.05 (-0.61%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Its low for the day was 25,054.40."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "61,889.50",
+      "change": "-0.24%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies. They fell less than the big indices."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "19,656.45",
+      "change": "-0.26%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller companies."
+    },
+    {
+      "name": "Nifty Realty",
+      "value": "",
+      "change": "about -1.4% to -1.7%",
+      "direction": "down",
+      "what_it_is": "This tracks property developers. It was the weakest sector; sources gave slightly different figures."
+    },
+    {
+      "name": "Nifty Metal",
+      "value": "",
+      "change": "about -1%",
+      "direction": "down",
+      "what_it_is": "This tracks steel, aluminium and other metal companies."
+    },
+    {
+      "name": "India VIX",
+      "value": "about 15.5",
+      "change": "about -6.5%",
+      "direction": "down",
+      "what_it_is": "A measure of how much traders expect the Nifty to swing over the next month. It fell even though shares fell."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "94.20",
+      "change": "-8 paise (provisional)",
+      "direction": "down",
+      "what_it_is": "How many rupees one US dollar costs. A higher number means a weaker rupee."
+    },
+    {
+      "name": "Brent crude (Thursday settlement)",
+      "value": "$95.82",
+      "change": "+3.3%",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil, at Thursday's US close. On Friday afternoon it was around $95.5."
+    },
+    {
+      "name": "FII net buying (Thursday)",
+      "value": "₹7,830.60 crore",
+      "change": "net bought",
+      "direction": "up",
+      "what_it_is": "How much more foreign investors bought than sold in Indian shares on Thursday."
+    },
+    {
+      "name": "DII net selling (Thursday)",
+      "value": "₹6,331.17 crore",
+      "change": "net sold",
+      "direction": "down",
+      "what_it_is": "How much more domestic institutions such as mutual funds and insurers sold than bought on Thursday."
+    },
+    {
+      "name": "S&P 500 (Thursday)",
+      "value": "7,592.40",
+      "change": "-0.35%",
+      "direction": "down",
+      "what_it_is": "The main index of large US companies. It fell on worries about higher US interest rates."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-falls-319-nifty-25144-snaps-three-day-rally",
+      "category": "Stock market",
+      "title": "Sensex falls 319 points to 81,592 and Nifty slips to 25,144, ending a three-day rise, as high inflation, costlier oil and rising bond yields worry investors",
+      "tldr": "The Sensex fell 318.56 points, or 0.39%, to 81,592.45 and the Nifty 50 fell 155.05 points, or 0.61%, to 25,144.30. It was the first fall after three days of gains. Investors reacted to Thursday's news that retail inflation hit 6.09% in October, and to oil climbing back above $95 a barrel. Every major sector fell, led by property, carmakers and metal companies.",
+      "what_happened": "The Sensex closed 318.56 points, or 0.39%, lower at 81,592.45, PTI reported. At its worst point in the day it was down 622.26 points at 81,288.75. The Nifty 50 fell 155.05 points, or 0.61%, to 25,144.30, after touching a low of 25,054.40. This ended a three-day winning streak.\n\nAll the main sector indices ended lower. Property shares fell the most, followed by carmakers and metal companies. FMCG shares were almost unchanged. In the Nifty 50, 38 shares fell and only 11 rose. The biggest Nifty losers included Shriram Finance (down 3.37%), Tata Motors Passenger Vehicles (down 3.31%), Grasim (down 2.6%) and Hindalco (down 2.12%), Upstox reported. In the Sensex, Mahindra & Mahindra fell 2.13% and UltraTech Cement 1.65%. Hindustan Unilever, Asian Paints, Bharti Airtel and Reliance Industries rose.\n\nMedium and smaller companies held up better. The Nifty Midcap 100 fell 0.24% and the Nifty Smallcap 100 fell 0.26%. India VIX, a measure of expected swings, fell about 6.5% to about 15.5.",
+      "simple_explanation": "After three days of gains, the market took a step back. On Thursday evening, after trading ended, we learned that prices in India rose 6.09% in October, faster than the RBI is comfortable with. Today was the market's first chance to react to that news.\n\nWhen inflation is high, the RBI may raise interest rates. Higher rates make loans costlier for companies and families, which can slow sales and profits. At the same time, oil got more expensive again, which is bad news for a country that imports most of its oil.\n\nSo investors sold some shares and took home profits from the recent rise. The fall was modest, though, and less than one percent.",
+      "analogy": "Think of a cricket team that has won three matches in a row. Then the weather report says rain is coming and the pitch may get tricky. The players do not panic, but they play a little more carefully. Today the market played a little more carefully.",
+      "why": "Ponmudi R of Enrich Money said October's 6.09% inflation figure hurt sentiment because it raised worries about an RBI rate rise in December. He also pointed to profit booking after the recent rally, higher crude oil prices and rising US bond yields.\n\nVinod Nair of Geojit Investments said the rebound in oil and higher bond yields in India and the US had made investors more careful about risky assets. He added that strong company earnings and continued foreign buying could support shares underneath.\n\nVikram Kasat of PL Capital said markets were increasingly uneasy about the mix of high inflation, a weaker rupee and rising oil prices. He warned that costlier energy could hurt company profit margins, people's spending and India's current account deficit.",
+      "implications": {
+        "you": "If you have a Nifty index fund or an equity SIP, its value dipped by well under 1% today. A one-day fall of this size is normal and means little for a long-term SIP.",
+        "markets": "Analysts are watching whether the Nifty holds above 25,000. Interest-rate-sensitive sectors such as property, carmakers and banks are likely to stay in focus until the RBI meets in December.",
+        "economy": "The fall reflects worry about inflation and interest rates rather than any sudden weakness in the economy. Company earnings have mostly been steady.",
+        "prices": "No direct effect on everyday prices from the share market fall itself."
+      },
+      "watch": "Whether the Nifty can stay above 25,000 next week, and fresh inflation and oil news ahead of the RBI's decision on 4 December.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "Winning streak",
+        "Retail inflation",
+        "RBI",
+        "Repo rate",
+        "Rate hike",
+        "Profit booking",
+        "Bond yield",
+        "Sectoral index",
+        "Realty",
+        "Nifty Auto",
+        "Nifty Metal",
+        "FMCG",
+        "Market breadth",
+        "Midcap",
+        "Smallcap",
+        "India VIX",
+        "Profit margin",
+        "Current account deficit",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine your class has been getting better marks for three tests in a row. Then the teacher announces that next month's exam will be harder. Some students feel less confident, and the class average slips a little.\n\nThat is what happened in the stock market today. On Thursday evening, news came out that prices in shops are rising faster than the RBI likes. The RBI might respond by making loans more expensive, and that can make life harder for companies.\n\nOil also became more expensive again. So many investors sold some shares, and the market's main scores, the Sensex and Nifty, went down a little. They fell less than one percent, so it was a small step back, not a big tumble.",
+        "real_life": "Sunita, 41, works in a bank's back office in Pune and earns ₹55,000 a month. She puts ₹5,000 a month into an equity mutual fund through an SIP, and her fund is now worth about ₹3 lakh.\n\nToday the Nifty fell 0.61%. If her fund moved about the same, it lost roughly ₹1,800 in value on paper. Over the past three days, though, it had gained.\n\nFor Sunita, today's dip changes nothing about her monthly SIP. Her SIP buys a few more units when prices are lower.\n\nThe bigger issue for her is inflation. If the RBI raises rates in December, her floating-rate home loan EMI could rise later, while her fixed deposit may earn a little more when it renews."
+      }
+    },
+    {
+      "id": "oil-back-above-95-rupee-slips-to-94-20",
+      "category": "Oil and rupee",
+      "title": "Oil climbs back to about $95 a barrel after Trump says the US does not need a deal with Iran; the rupee slips 8 paise to 94.20 per dollar",
+      "tldr": "Brent crude jumped 3.3% on Thursday to settle at $95.82 a barrel after US President Donald Trump said the US does not need a deal with Iran, dimming hopes of an early end to the conflict. On Friday it stayed around $95.5. The rupee fell 8 paise to 94.20 per dollar (provisional), hurt by a strong dollar and weak Indian shares.",
+      "what_happened": "On Thursday, after Indian markets had closed, Brent crude settled 3.3% higher at $95.82 a barrel, CNBC reported. The rise came after President Trump posted that the US did not need a deal with Iran. Reuters also pointed to attacks on Saudi energy sites and disruptions to shipping through the Strait of Hormuz. Before this, oil had fallen sharply in November on hopes of peace.\n\nOn Friday, Brent traded around $95.47 a barrel in the afternoon, PTI reported, little changed on the day but well above the roughly $92 seen during Thursday's Indian session.\n\nThe rupee opened at 94.07 against the dollar and closed at 94.20 (provisional), down 8 paise from Thursday's final close of 94.12, PTI reported. The dollar index, which measures the dollar against six major currencies, was at 103.16, up 0.12%.",
+      "simple_explanation": "Oil prices depend a lot on whether the conflict involving Iran ends soon, because a big share of the world's oil passes near Iran. When the US President said he did not need a deal with Iran, traders worried the conflict could drag on, so oil prices jumped.\n\nIndia buys most of its oil from abroad and pays in dollars. When oil costs more, India needs more dollars, and that pushes the rupee down.\n\nAt the same time, the dollar itself became stronger because US interest rates may rise. Both forces together made the rupee a little weaker today.",
+      "analogy": "Imagine your family buys cooking gas from a supplier in another town and pays in that town's tokens. If gas gets costlier and those tokens also get dearer, your monthly budget gets squeezed from two sides at once.",
+      "why": "Forex traders said the dollar was strong after US inflation came in higher than expected, US Treasury yields rose and Federal Reserve officials spoke in favour of higher rates, PTI reported. Weak Indian shares also weighed on the rupee.\n\nJateen Trivedi of LKP Securities said the rupee slipped about 0.22% as the dollar index climbed above 103. On oil, markets are reacting to news about the Iran conflict and the Strait of Hormuz, through which a large share of the world's oil passes.",
+      "implications": {
+        "you": "Petrol and diesel prices at the pump are set by Indian oil companies and do not change with every daily move in crude, so there is no immediate change. A weaker rupee makes foreign holidays, imported gadgets and studying abroad slightly costlier.",
+        "markets": "Costlier oil tends to hurt companies that use a lot of fuel, such as airlines and paint makers, and helps oil producers. A weaker rupee helps IT exporters a little.",
+        "economy": "Higher oil raises India's import bill and can widen the current account deficit. It can also add to inflation, which is already above the RBI's comfort limit.",
+        "prices": "If oil stays high for weeks, it can push up transport costs and, over time, the prices of many goods. A one-day move has little effect."
+      },
+      "watch": "Any news on talks between the US and Iran, shipping through the Strait of Hormuz, and whether the rupee moves past 94.20.",
+      "terms": [
+        "Brent crude",
+        "Barrel",
+        "Strait of Hormuz",
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Dollar index",
+        "Forex trader",
+        "US Treasury yield",
+        "Federal Reserve",
+        "Hawkish",
+        "Import bill",
+        "Rupee depreciation",
+        "Current account deficit",
+        "Inflation"
+      ],
+      "explainers": {
+        "like12": "Oil is like the fuel that keeps the world's engines running: cars, trucks, ships and factories. A lot of the world's oil travels past a country called Iran, through a narrow sea route.\n\nThere has been a conflict involving Iran. Earlier this month, people hoped it would end soon, so oil got cheaper. But on Thursday, the US President said America did not need a deal with Iran. People worried the trouble would go on, so oil got more expensive again.\n\nIndia buys most of its oil from other countries, and it pays in US dollars. When oil costs more, India needs more dollars. That makes the dollar more valuable compared with the rupee, so one dollar now costs about ₹94.20.",
+        "real_life": "Arjun, 29, is a software engineer in Hyderabad earning ₹1.2 lakh a month. He is saving for a trip to Dubai next year and has budgeted $1,500 for it.\n\nAt 94.20 rupees per dollar, $1,500 costs him about ₹1,41,300. A week ago, at about 93.9, it would have cost about ₹1,40,850. The difference is small, about ₹450, but it shows how a weaker rupee raises the cost of anything priced in dollars.\n\nHis petrol bill for his bike does not change today, because pump prices are not revised daily with crude.\n\nIf oil stays high for months, though, he may see transport and delivery costs creep up, which can push up prices of many everyday goods."
+      }
+    },
+    {
+      "id": "tata-motors-pv-grasim-quarterly-losses",
+      "category": "Company news",
+      "title": "Tata Motors Passenger Vehicles reports a ₹5,531 crore quarterly loss after a big one-off charge; Grasim also slips into a loss despite higher sales",
+      "tldr": "Tata Motors Passenger Vehicles, which owns Jaguar Land Rover, reported a net loss of ₹5,531 crore for July to September after an exceptional charge of ₹6,738 crore, even though revenue rose 34%. Grasim Industries reported a consolidated loss of ₹234 crore because of a one-off charge linked to a pulp joint venture in Canada. On Thursday, Vodafone Idea's loss widened to ₹5,975 crore.",
+      "what_happened": "Tata Motors Passenger Vehicles reported a consolidated net loss of ₹5,531 crore for the July–September quarter, after an exceptional charge of ₹6,738 crore, reports said. Revenue rose about 34% from a year earlier to ₹96,920 crore. Jaguar Land Rover, still recovering from last year's cyberattack, made a profit before tax and exceptional items of £6 million, compared with a loss of £485 million a year earlier, Business Standard reported. Its margin forecast for the year was cut to 2–3%, the paper added. The results came after the market closed. The shares had fallen more than 3% during the day, to about ₹287.\n\nGrasim Industries, part of the Aditya Birla group, reported a consolidated net loss of ₹234 crore, against a profit of ₹595 crore a year earlier. Revenue rose 26% to ₹50,105 crore. The loss came from a one-off charge linked to its pulp joint venture, AV Group NB, in Canada; reports put the charge at between about ₹767 crore and ₹825 crore. On a standalone basis, Grasim's profit nearly tripled to ₹2,306 crore, helped by a ₹3,968 crore dividend from UltraTech Cement.\n\nOn Thursday, Vodafone Idea said its net loss widened to ₹5,975 crore from ₹5,524 crore a year earlier, partly due to a ₹462 crore exceptional item. Revenue rose 6.2% to ₹11,884 crore.",
+      "simple_explanation": "All three companies reported losses, but the reasons matter.\n\nTata Motors' car business actually sold much more than a year ago. Its luxury arm, Jaguar Land Rover, is getting back on its feet after a cyberattack last year shut its factories. The loss came mainly from a large one-time cost, reported to be linked to restructuring at JLR.\n\nGrasim also sold more. Its loss came from cutting the value of an investment in a Canadian paper-pulp business it part-owns. Its main business on its own made a big profit.\n\nVodafone Idea has been losing money for years. Its loss grew a little, though earnings per customer improved.",
+      "analogy": "Imagine two shopkeepers who both had a good month of sales. One paid a huge bill to renovate his shop, and the other discovered that a stall he co-owns in another city is worth much less. On paper, both show a loss for the month, but their daily trade is going well.",
+      "why": "The Tata Motors PV loss was driven by the exceptional charge, which Free Press Journal called the main reason for the loss. Its finance chief, Dhiman Gupta, called the domestic business and JLR fundamentally strong, and said the company will focus on new launches, cost cuts and generating cash.\n\nGrasim's loss came from an exceptional charge related to the estimated exposure in its Canadian pulp joint venture. The exact size differs between reports.\n\nAt Vodafone Idea, average revenue per user rose to ₹198, and subscribers increased to 194.4 million from 193.1 million in the June quarter.",
+      "implications": {
+        "you": "If you own a Nifty or Sensex index fund, these companies are a small part of it, so the effect on you is small. If you are thinking of buying a Tata car, these results do not change prices or warranties.",
+        "markets": "Investors will look past one-off charges to see whether regular profits are improving. Tata Motors PV shares will react to the results on Monday, as they came out after trading ended.",
+        "economy": "Rising sales at Tata Motors and Grasim point to steady demand for cars, cement and other materials.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "How Tata Motors PV shares react on Monday, and whether JLR's recovery continues in the coming quarters.",
+      "terms": [
+        "Quarterly results",
+        "Consolidated profit",
+        "Standalone profit",
+        "Net loss",
+        "Exceptional item",
+        "Revenue",
+        "JLR",
+        "Restructuring",
+        "Impairment",
+        "Joint venture",
+        "Dividend",
+        "Year on year",
+        "ARPU",
+        "Profit margin",
+        "Guidance"
+      ],
+      "explainers": {
+        "like12": "Every three months, big companies show a report card of how much money they made or lost. Today, Tata Motors' car business and a company called Grasim both showed a loss.\n\nBut here's the twist: both actually sold more than last year. Tata Motors sold 34% more. So why a loss?\n\nIt is because of special one-time costs. Tata's luxury car company in Britain, Jaguar Land Rover, had to spend a lot to reorganise itself. Grasim found that a paper-pulp business it part-owns in Canada was worth much less than it thought.\n\nIt is like a school canteen that sold lots of samosas this month but had to buy a new fridge. That month shows a loss, even though business was good.",
+        "real_life": "Vikram, 45, runs a small electrical shop in Jaipur. Years ago he bought 50 shares of Tata Motors, which he now holds as Tata Motors Passenger Vehicles shares after the company split.\n\nToday the shares fell more than 3% to about ₹287, before the results were out, so his 50 shares are worth about ₹14,350.\n\nWhen he reads 'Tata Motors reports ₹5,531 crore loss', he worries. But the details show sales rose 34% and the loss came mostly from a one-time charge of ₹6,738 crore.\n\nWhat matters for him over time is whether the regular business keeps improving. A single quarter with a big one-off cost tells only part of the story."
+      }
+    },
+    {
+      "id": "paytm-rbi-in-principle-wallet-approval",
+      "category": "Regulation",
+      "title": "Paytm gets the RBI's in-principle approval to run a digital wallet again; its shares touch a record high",
+      "tldr": "The RBI gave Paytm Payments Services, a unit of Paytm's parent One 97 Communications, in-principle approval to issue prepaid payment instruments such as digital wallets. It must pass a system and cybersecurity audit within six months to keep the approval. Paytm shares rose as much as 1.8% to a record ₹1,960 during the day.",
+      "what_happened": "Paytm Payments Services, a wholly owned subsidiary of One 97 Communications, received the RBI's in-principle authorisation to issue prepaid payment instruments, including wallets, the company said in a filing. The RBI's letter was dated 13 November. The unit had applied on 31 December 2025.\n\nThe approval is conditional. The company has six months to complete a system and cybersecurity audit, or the approval lapses. It must also follow the RBI's rules for prepaid payment instruments.\n\nPaytm's shares rose as much as 1.8% to ₹1,960 on the NSE, a record high, from Thursday's close of ₹1,925. The shares are up nearly 50% so far this year.\n\nPaytm's wallet used to be run through Paytm Payments Bank. The RBI stopped that bank from adding new customers in March 2022, and cancelled its banking licence on 24 April 2026.",
+      "simple_explanation": "A few years ago, many Indians kept money in the Paytm wallet on their phones and used it to pay shopkeepers. Then the RBI found problems at Paytm's banking arm and stopped it, so the wallet business shrank.\n\nNow the RBI has given a first 'yes' for a different Paytm company to run a wallet again. It is not the final licence yet. Paytm must first prove its systems are safe from hackers and follow all the rules.\n\nInvestors liked the news because a wallet could bring back customers and earnings, so the share price touched a new high.",
+      "analogy": "It is like a driving school telling a student who failed earlier: 'You can take the test again, but first get your vehicle checked.' It is a second chance, but the licence comes only after passing the checks.",
+      "why": "The RBI regulates wallets because they hold the public's money. Its in-principle approval means it is satisfied enough to let Paytm Payments Services move to the next stage, subject to audits.\n\nOne analyst told reporters that getting the final licence will take time, so any effect on Paytm's revenue is likely to show only in the financial year 2028, Business Standard reported.",
+      "implications": {
+        "you": "If you use UPI on Paytm today, nothing changes. If the wallet relaunches, you may again be able to load money into a Paytm wallet, but that is still months away and depends on the final licence.",
+        "markets": "The approval removes some uncertainty around Paytm's business. Analysts say the revenue benefit, if any, is likely to come later.",
+        "economy": "More licensed payment options can increase competition in digital payments, which is already very widespread in India.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Whether Paytm Payments Services completes the audit within six months and receives the final licence.",
+      "terms": [
+        "RBI",
+        "In-principle approval",
+        "Prepaid payment instrument",
+        "Digital wallet",
+        "Subsidiary",
+        "Payments bank",
+        "52-week high"
+      ],
+      "explainers": {
+        "like12": "Imagine a shop at school that let students keep pocket money in a special account and spend it at the canteen. Then the principal found the shop was not following the rules properly, and shut that account system.\n\nThat is a bit like what happened to Paytm's wallet. The RBI, which is like the principal for money in India, stopped Paytm's banking arm a few years ago.\n\nNow the RBI has said a different Paytm company can try again. But there's a condition: within six months, Paytm must show its computer systems are safe from hackers.\n\nPeople who own Paytm shares were happy, so the share price went up to its highest ever during the day.",
+        "real_life": "Fatima, 33, runs a tailoring shop in Bhopal. Before 2022 she kept about ₹2,000 in her Paytm wallet to pay suppliers quickly. When Paytm's bank was stopped, she moved to paying through UPI from her bank account.\n\nToday's news does not change anything for her yet. The wallet is not back; Paytm has only got a first approval and must pass a security audit within six months.\n\nIf the wallet returns, she could choose to keep a small balance there again, for example to avoid her bank account showing many tiny payments. But UPI works fine for her now.\n\nFor her, the main lesson is that the RBI checks companies that hold the public's money, and approvals come in stages."
+      }
+    },
+    {
+      "id": "us-inflation-fed-rate-hike-fears-wall-street-falls",
+      "category": "Global markets",
+      "title": "Wall Street and most Asian markets fall as hot US inflation and Fed rate-rise talk push US bond yields near 5%; foreign investors keep buying Indian shares",
+      "tldr": "US shares fell on Thursday: the S&P 500 lost 0.35% and the Nasdaq 0.39%, as worries grew that the US Federal Reserve will raise interest rates in December. The US 10-year bond yield was near 5%. Most Asian markets fell on Friday, with Hong Kong down 1.81%. Foreign investors still bought ₹7,830.60 crore of Indian shares, net, on Thursday.",
+      "what_happened": "On Thursday, the S&P 500 fell 0.35% to 7,592.40, the Nasdaq fell 0.39% to 25,366.09 and the Dow Jones fell 189.40 points, or 0.36%, to 52,297.09, CNBC reported. Chipmaker Nvidia fell 4.54%.\n\nUS consumer prices rose 0.4% in October from September, data released on Tuesday showed, more than the 0.3% economists expected. Fed Governor Christopher Waller said the Fed should raise rates in December and should consider a bigger, half-point rise if inflation gets worse. The 10-year US Treasury yield was around 4.99%.\n\nOn Friday in Asia, Hong Kong's Hang Seng fell 1.81%, South Korea's Kospi 0.99% and Shanghai 0.59%, while Japan's Nikkei rose 0.44%.\n\nIn India, foreign institutional investors bought a net ₹7,830.60 crore of shares on Thursday, while domestic institutions sold a net ₹6,331.17 crore, exchange data showed.",
+      "simple_explanation": "In America, prices are rising faster than expected. The US central bank, the Federal Reserve, may raise interest rates to slow them down. When US interest rates go up, US government bonds pay more, and some investors prefer those safe bonds to riskier shares. So US shares fell, and many Asian markets followed.\n\nThe good news for India is that foreign investors are still buying Indian shares in large amounts. That has supported Indian markets even on weak global days.",
+      "analogy": "Imagine the biggest bank in town starts offering higher interest on its fixed deposits. Some people who were buying shares might move money into that safe deposit instead. US bonds are like that big bank for the world's investors.",
+      "why": "Investors are worried about a US rate rise because inflation there has risen by 0.4% or more for three months in a row. Bloomberg linked Thursday's fall in US shares to turmoil at Nvidia and to the oil rally, which pushed bond yields higher.\n\nVinod Nair of Geojit said the rise in both Indian and US bond yields was making investors more careful with riskier assets, but that steady foreign inflows could support Indian shares.",
+      "implications": {
+        "you": "Higher US rates can strengthen the dollar and weaken the rupee, which makes foreign travel and imported goods a little costlier. If you invest in a US-focused mutual fund, its value can fall when US shares drop.",
+        "markets": "If US bond yields keep rising, some foreign money could move out of emerging markets like India. So far, foreign investors have kept buying Indian shares.",
+        "economy": "Higher US rates can make it costlier for Indian companies to borrow abroad and can put pressure on the rupee.",
+        "prices": "A weaker rupee can make imported goods such as electronics and some fuels a little costlier over time."
+      },
+      "watch": "The Federal Reserve's December decision, US bond yields, and whether foreign investors keep buying Indian shares next week.",
+      "terms": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "CPI",
+        "Federal Reserve",
+        "Rate hike",
+        "US Treasury yield",
+        "Hang Seng",
+        "Kospi",
+        "Nikkei 225",
+        "FII",
+        "DII",
+        "Bond yield",
+        "Mutual fund"
+      ],
+      "explainers": {
+        "like12": "America has the world's biggest economy, so what happens there affects everyone. Right now, prices in America are rising faster than expected.\n\nAmerica's central bank, called the Federal Reserve, is like a coach who can slow the team down if they are running too fast. Its way of slowing things is to make borrowing money more expensive by raising interest rates.\n\nWhen interest rates go up, safe US government savings pay more. Some investors then sell shares and put money into those safe savings. That is why US share markets fell on Thursday, and many Asian markets fell on Friday.\n\nBut foreign investors are still putting lots of money into Indian shares, which is helping India.",
+        "real_life": "Meera, 36, is an HR manager in Bengaluru earning ₹90,000 a month. Two years ago she started a ₹3,000 monthly SIP in a mutual fund that invests in big US companies, and it is now worth about ₹85,000.\n\nOn Thursday, US shares fell about 0.35%. Her fund may show a small dip of a few hundred rupees.\n\nShe also has an Indian index fund through another SIP. Indian shares fell today too, but foreign investors bought over ₹7,800 crore of Indian shares on Thursday, which has helped the market overall this month.\n\nFor Meera, these daily moves matter less than staying regular with her SIPs. The key thing to watch is the US rate decision in December."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Standalone vs consolidated results",
+    "explanation": "Big Indian companies often own other companies, called subsidiaries, and part-own others through joint ventures. So when they report quarterly results, they usually publish two sets of numbers.\n\nStandalone results show only the main company on its own. Consolidated results combine the main company with its subsidiaries and its share of joint ventures, as if the whole group were one business.\n\nThe two can tell very different stories. A parent company may make a healthy profit on its own while a loss at a subsidiary or joint venture drags the group into a loss. The reverse can happen too. Money moving within the group, such as a dividend paid by a subsidiary to its parent, can boost standalone profit without the group as a whole earning anything extra.\n\nNews headlines usually quote the consolidated figure, because it shows the whole group. Analysts look at both to understand where profits and problems are coming from.",
+    "example": "Grasim Industries reported a consolidated net loss of ₹234 crore for July to September, because of a one-off charge linked to its pulp joint venture in Canada. On a standalone basis, though, its profit nearly tripled to ₹2,306 crore, helped by a ₹3,968 crore dividend from its subsidiary UltraTech Cement.",
+    "takeaway": "Standalone shows the parent company alone; consolidated shows the whole family of companies. When the two look very different, read the details to see why."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Friday?",
+      "options": [
+        "Up 318.56 points",
+        "Down 318.56 points, or 0.39%",
+        "Down 622.26 points",
+        "Flat"
+      ],
+      "answer": 1,
+      "why": "The Sensex fell 318.56 points, or 0.39%, to 81,592.45. It had been down 622.26 points at its lowest point in the day."
+    },
+    {
+      "q": "Which piece of news released on Thursday evening weighed on the market on Friday?",
+      "options": [
+        "A rise in GST rates",
+        "October retail inflation of 6.09%",
+        "A cut in the repo rate",
+        "A new IPO"
+      ],
+      "answer": 1,
+      "why": "Retail inflation rose to 6.09% in October, above the RBI's 6% limit, raising worries about a December rate rise."
+    },
+    {
+      "q": "Why did oil prices jump on Thursday?",
+      "options": [
+        "OPEC cut production",
+        "A cold winter in Europe",
+        "President Trump said the US did not need a deal with Iran",
+        "India raised fuel taxes"
+      ],
+      "answer": 2,
+      "why": "Brent rose 3.3% to $95.82 after Trump's comment dimmed hopes of an early end to the conflict involving Iran."
+    },
+    {
+      "q": "Tata Motors Passenger Vehicles reported a loss even though revenue rose 34%. What was the main reason?",
+      "options": [
+        "A big exceptional charge of ₹6,738 crore",
+        "Sales collapsed",
+        "A new tax",
+        "Its factories closed this quarter"
+      ],
+      "answer": 0,
+      "why": "The ₹6,738 crore exceptional charge, a one-off cost, was the main factor behind the ₹5,531 crore loss."
+    },
+    {
+      "q": "What has Paytm's payments unit received from the RBI?",
+      "options": [
+        "A final banking licence",
+        "A fine",
+        "In-principle approval to issue wallets, subject to an audit",
+        "Permission to give loans"
+      ],
+      "answer": 2,
+      "why": "It is a conditional first approval. Paytm Payments Services must pass a system and cybersecurity audit within six months."
+    },
+    {
+      "q": "Grasim reported a consolidated loss but a standalone profit. What does 'standalone' mean?",
+      "options": [
+        "The whole group of companies",
+        "Only the main company, without its subsidiaries",
+        "Only overseas business",
+        "Profit before tax"
+      ],
+      "answer": 1,
+      "why": "Standalone results cover only the parent company. Consolidated results include subsidiaries and joint ventures."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DT Next (PTI): Markets snap 3-day rally; Sensex drops 318 points, Nifty slips below 25,150",
+      "url": "https://www.dtnext.in/news/business/markets-snap-3-day-rally-sensex-drops-318-points-nifty-slips-below-25150"
+    },
+    {
+      "title": "Business Standard: Stock Market Close: Sensex snaps 3-day winning run, ends 319 pts lower; Nifty at 25,144",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
+    },
+    {
+      "title": "ETV Bharat: Sensex drops over 400 pts, Nifty declines below 25,150: Why is stock market falling today?",
+      "url": "https://www.etvbharat.com/en/business/stock-market-on-november-13-2026-sensex-nifty-retail-inflation-fii-buying-enn26111301333"
+    },
+    {
+      "title": "Upstox: Market wrap, Nov 13: Indices snap winning streak; Shriram Fin top loser",
+      "url": "https://upstox.com/news/market-news/stocks/market-wrap-nov-13-indices-snap-winning-streak-sensex-falls-319-pts-nifty-50-ends-at-25-144-shriram-fin-top-loser/article-203442/"
+    },
+    {
+      "title": "5paisa: Nifty, Sensex end 3-day rally as inflation rises and crude oil surges",
+      "url": "https://www.5paisa.com/blog/post-market-update-nifty-sensex-fall-inflation-crude-oil-november-13-2026"
+    },
+    {
+      "title": "Telangana Today (PTI): Strong dollar, weak equities drag rupee down to 94.20",
+      "url": "https://telanganatoday.com/strong-dollar-weak-equities-drag-rupee-down-to-94-20"
+    },
+    {
+      "title": "CNBC: Oil prices rise after Trump says no Iran deal needed",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+    },
+    {
+      "title": "Bloomberg: Oil rises after Trump says US doesn't need Iran deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran"
+    },
+    {
+      "title": "Yahoo Finance (Reuters): Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions",
+      "url": "https://finance.yahoo.com/energy/articles/oil-falls-over-1-easing-045152522.html"
+    },
+    {
+      "title": "Business Standard: Tata Motors PV Q2 net loss at ₹5,531 cr",
+      "url": "https://www.business-standard.com/companies/quarterly-results/tata-motors-pv-q2-net-loss-at-5-531-cr-revenue-misses-estimates-126111301014_1.html"
+    },
+    {
+      "title": "Free Press Journal: Tata Motors PV swings to ₹5,531 crore Q2 loss, JLR restructuring weighs",
+      "url": "https://www.freepressjournal.in/business/tata-motors-pv-swings-to-5531-crore-q2-loss-jlr-restructuring-weighs"
+    },
+    {
+      "title": "Upstox: Grasim Industries Q2 FY27 results: net loss of ₹234 crore; revenue grows to ₹50,105 crore",
+      "url": "https://upstox.com/news/market-news/earnings/grasim-industries-q2-fy-27-results-firm-reports-net-loss-of-234-crore-yo-y-revenue-grows-to-50-105-crore/article-203434/"
+    },
+    {
+      "title": "The Week: Grasim Industries Q2: how a ₹3,968 crore dividend cushioned a one-time loss",
+      "url": "https://www.theweek.in/news/biz-tech/2026/11/13/grasim-industries-q2-profit-triples-how-a-indian-rupee3968-crore-dividend-cushioned-a-one-time-loss.html"
+    },
+    {
+      "title": "The Hans India: Vodafone Idea Q2 net loss widens to Rs 5,975 crore",
+      "url": "https://www.thehansindia.com/business/market-compass/vodafone-idea-q2-net-loss-widens-to-rs-5975-crore-1141590"
+    },
+    {
+      "title": "Upstox: Paytm shares hit 52-week high as RBI grants in-principle approval to operate wallet",
+      "url": "https://upstox.com/news/market-news/stocks/paytm-shares-hit-52-week-high-as-rbi-grants-in-principle-approval-to-operate-wallet-stock-up-49-ytd/article-203440/"
+    },
+    {
+      "title": "Business Standard: Paytm wallet likely to see revival following RBI's in-principle nod",
+      "url": "https://www.business-standard.com/amp/companies/news/paytm-wallet-likely-to-see-revival-following-rbi-s-in-principle-nod-126111301606_1.html"
+    },
+    {
+      "title": "Yahoo Finance (Reuters): Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html"
+    },
+    {
+      "title": "CNBC: Stock market news for Nov. 12, 2026",
+      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "Winning streak",
+      "definition": "A run of consecutive days, weeks or matches in which something keeps going up or winning.",
+      "more": "In market news, a winning streak means an index such as the Sensex has closed higher than the day before for several sessions in a row. Reporters count the days because long streaks are fairly rare: on most stretches, up days and down days mix. It is like a batsman scoring fifties in five matches in a row. A streak says nothing about what happens next. It can end the following day, and a long run of gains often tempts some investors to sell and lock in profits, which is called profit booking."
+    },
+    {
+      "term": "Retail inflation",
+      "definition": "How fast the prices of everyday goods and services bought by households are rising, measured by the Consumer Price Index (CPI).",
+      "more": "Every month the government collects prices of hundreds of items, from vegetables and milk to rent, school fees and bus fares, and works out how much more they cost than a year earlier. That figure is retail inflation. The RBI aims to keep it around 4%, within a band of 2% to 6%. If retail inflation stays above the target, the RBI may raise interest rates to cool demand. When news says 'CPI inflation rose to 4.82% in August', it means a basket of household items cost 4.82% more than in August last year."
+    },
+    {
+      "term": "RBI",
+      "definition": "The Reserve Bank of India, the country's central bank. It sets interest rates, regulates banks and manages the rupee.",
+      "more": "The RBI is like the bank of all banks. It decides the repo rate, the interest rate at which banks borrow from it, which shapes the rates on your home loan EMI and fixed deposit. It also supervises banks, prints currency notes, manages India's foreign exchange reserves and steps in when the rupee moves too sharply. It runs markets for government bonds and money markets too. When the RBI changes a rule, it usually issues a circular on its website, so a 'circular' shared on WhatsApp should be checked there."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Bond yield",
+      "definition": "The yearly return you'd earn from buying a bond at today's price. Yields rise when bond prices fall, and vice versa.",
+      "more": "A bond is a loan to a government or company that pays fixed interest. If the bond's market price falls, the same interest becomes a bigger percentage of what you pay, so the yield rises. They move like a seesaw. Think of a flat earning ₹20,000 rent a month: buy it cheaper and your rental 'yield' is higher. Government bond yields act as a base rate for the whole economy, so when news says 'the 10-year yield rose', loans and FD rates often follow."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Realty",
+      "definition": "Short for real estate: companies that build and sell homes, offices and malls.",
+      "more": "Realty companies such as DLF, Godrej Properties and Lodha build housing and commercial property. The Nifty Realty index tracks the listed ones. Their shares are very sensitive to interest rates, because most homebuyers take loans: when EMIs rise, fewer people buy flats. They also swing a lot because their profits arrive in lumps as projects are completed. It's like a mango seller whose income depends on one season. News reports often say 'realty stocks led the fall' on days when worries about rates or inflation rise."
+    },
+    {
+      "term": "Nifty Auto",
+      "definition": "An index that tracks India's biggest vehicle and vehicle-parts makers.",
+      "more": "The Nifty Auto index includes carmakers like Maruti Suzuki, Mahindra & Mahindra and Tata Motors, two-wheeler makers like Bajaj Auto and Hero MotoCorp, and parts suppliers. These shares are sensitive to fuel prices, interest rates on vehicle loans, festive demand and monthly sales figures. Cheaper oil helps them twice: it can make running a vehicle cheaper, and it lowers the cost of some raw materials. It's like a barometer for how keen Indians are to buy scooters, cars and trucks. News reports quote it when vehicle shares lead or drag the market."
+    },
+    {
+      "term": "Nifty Metal",
+      "definition": "An index that tracks India's big metal and mining companies, such as steel, aluminium and copper makers.",
+      "more": "The Nifty Metal index follows companies like Tata Steel, JSW Steel, Hindalco and Vedanta. Metal prices are set on world markets, so these shares often move with global demand, especially from China, and with the dollar. Think of a vegetable seller whose earnings depend on the wholesale mandi price that day: when global metal prices rise, these companies tend to earn more, and when prices fall, they earn less. In the news you will see it called 'metal stocks' or 'metals', and it is often one of the most up-and-down sectors."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A measure of how many shares rose compared with how many fell on a given day.",
+      "more": "Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, shows whether a move is broad or narrow. On Thursday, 2,868 BSE shares rose and 1,384 fell, so breadth was positive, but less lopsided than the index's 2.6% jump might suggest. It's like checking whether a whole class did better in an exam, not just the toppers. Analysts often say a rally is healthier when breadth is strong."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Profit margin",
+      "definition": "The share of each rupee of sales that a company keeps as profit after paying its costs.",
+      "more": "If a company sells goods worth ₹100 and keeps ₹10 after all costs, its profit margin is 10%. Margins shrink when costs such as raw materials, fuel or wages rise faster than the company can raise its prices. Think of a tea stall: if milk and sugar get costlier but the owner cannot charge more per cup without losing customers, he keeps less from each cup. In the news you will see phrases like 'margins under pressure' or 'margin expansion'. Investors watch margins closely, because higher sales mean little if profit per rupee is falling."
+    },
+    {
+      "term": "Current account deficit",
+      "definition": "When a country pays more to the rest of the world for imports and services than it earns from exports and other income.",
+      "more": "The current account is like a country's household budget with the outside world. India earns money by selling goods, IT services and through money sent home by Indians abroad. It spends money on imports, above all oil, gold and electronics. When spending is bigger than earnings, there is a deficit, and India must cover the gap with foreign investment or borrowing. A family that spends more than it earns each month must dip into savings or take a loan. When oil gets costlier, India's deficit usually widens, which can weaken the rupee."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure, released quickly, that may be revised slightly later.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. For example, Wednesday's rupee close was first reported as 94.58 per dollar but finally came in at 94.46. It's like an exam's provisional result, which can change slightly after rechecking. The differences are usually small, so provisional figures are still a good guide."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "Forex trader",
+      "definition": "Someone at a bank or firm who buys and sells currencies, such as dollars and rupees.",
+      "more": "Forex is short for foreign exchange. Forex traders work at banks and financial firms, buying and selling currencies for companies that need dollars to pay for imports, for investors moving money in or out of India, and for their own bank's account. Because the RBI does not always announce what it does in the currency market on the day, news reports often quote what forex traders say is moving the rupee. Think of them as the regulars at a vegetable mandi who know why prices moved today."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Hawkish",
+      "definition": "Describes a central bank, or its message, that leans towards keeping interest rates high or raising them to fight inflation.",
+      "more": "Markets borrow two bird names to describe central banks. A 'hawk' worries most about rising prices and prefers higher interest rates. A 'dove' worries more about jobs and growth and prefers lower rates. So a 'hawkish' message hints that rates may stay high or rise; a 'dovish' one hints at cuts. It's like a strict parent who keeps pocket money tight because prices keep rising, versus a relaxed one who loosens it. News reports often say a decision was a 'hawkish hold': rates unchanged, but with a warning that a hike could come."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "Rupee depreciation",
+      "definition": "When the rupee loses value against another currency, so you need more rupees to buy one dollar.",
+      "more": "If the rate moves from ₹95 to ₹96 per dollar, the rupee has depreciated, or weakened. This makes imports such as oil, electronics and foreign education costlier, but helps exporters like IT companies, whose dollar earnings are worth more rupees. Common causes are foreign investors pulling money out, high oil prices and a strong dollar. It's like the price of a foreign holiday going up while you were still saving for it. News reports often describe the move in paise, for example 'the rupee fell 37 paise'."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Quarterly results",
+      "definition": "A company's report of its earnings, costs and profit for a three-month period.",
+      "more": "Listed companies in India must publish results every quarter: April–June, July–September, October–December and January–March. These show revenue, expenses and profit, usually compared with the same quarter a year earlier and the previous quarter. Investors use them to judge whether a business is improving. It's like a student's term report card, which parents read closely. 'Results season' is the few weeks when most companies report, and individual share prices can jump or fall sharply on the day."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Standalone profit",
+      "definition": "The profit of the main company alone, leaving out its subsidiaries.",
+      "more": "Indian companies usually report two sets of numbers. Standalone figures cover only the listed company itself. Consolidated figures add in the results of its subsidiaries, the companies it controls. For a group like Trent, which owns stakes in other businesses, the two can grow at quite different rates. Think of a parent's own salary (standalone) versus the whole household's income including grown-up children who live at home (consolidated). News reports may quote either, so two headlines about the same result can show different profit numbers. Consolidated figures usually give the fuller picture."
+    },
+    {
+      "term": "Net loss",
+      "definition": "What a company has when its total expenses are more than its total income over a period.",
+      "more": "A net loss is the opposite of net profit: after paying for everything, including salaries, materials, fuel, interest and taxes, the company has spent more than it earned. A 'narrower' loss means the gap shrank compared with an earlier period, which investors may treat as progress even though the company is still losing money. It's like a household that overspent by ₹25,000 last year and by ₹18,000 this year: still in the red, but less so. Airlines often report losses in the July–September quarter, when the monsoon reduces travel."
+    },
+    {
+      "term": "Exceptional item",
+      "definition": "A large, unusual gain or cost in a company's results that is not part of its normal business and is not expected to repeat.",
+      "more": "Companies show exceptional items separately so that readers can see how the regular business performed. Examples include the cost of shutting a factory, a big legal settlement, a restructuring charge, or marking down the value of an investment. Imagine a family whose monthly budget is fine, but one month they pay a large hospital bill. That month shows a deficit, but it does not mean their normal spending is out of control. In results news you will see 'loss due to an exceptional charge' or 'profit before exceptional items'. Analysts usually look at both figures."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "JLR",
+      "definition": "Jaguar Land Rover, the British luxury car maker owned by India's Tata Motors group.",
+      "more": "Tata Motors bought Jaguar Land Rover in 2008. JLR makes Range Rover, Defender and Jaguar cars, mostly in the UK, and sells them around the world. Because it is so big, JLR's performance usually decides whether Tata Motors' passenger vehicle business shows a profit or a loss. It is like a family whose eldest son earns most of the household income abroad: when his job goes well, the whole family does well. JLR is still recovering from a cyberattack in 2025 that stopped its factories for weeks. News reports often quote JLR's results in British pounds."
+    },
+    {
+      "term": "Restructuring",
+      "definition": "A big reorganisation of a company's business, such as closing units, cutting jobs or changing what it makes, usually to cut costs.",
+      "more": "Companies restructure when parts of the business are losing money or when they want to change direction. The process usually costs money at the start: redundancy payments, closing factories, or writing down old products. These costs are often shown as an exceptional item. Think of a shop owner who knocks down an old counter and rebuilds the store layout: business suffers for a while, but the hope is that the shop runs better afterwards. In news reports you will see 'restructuring charge' or 'restructuring costs', which often turn a quarter's profit into a loss."
+    },
+    {
+      "term": "Impairment",
+      "definition": "Reducing the value of an asset or investment on a company's books because it is now worth less than recorded.",
+      "more": "When a company buys a factory, brand or stake in another business, it records it at a value on its balance sheet. If that asset later earns much less than expected, accounting rules require the company to cut the recorded value. The cut is shown as a cost, often as an exceptional item, even though no cash leaves the company that day. It is like realising the second-hand scooter you value at ₹60,000 would only fetch ₹35,000 today. In the news it appears as 'impairment charge' or 'writedown'."
+    },
+    {
+      "term": "Joint venture",
+      "definition": "A business set up and owned jointly by two or more companies that share its costs, profits and risks.",
+      "more": "Companies form joint ventures, or JVs, when they want to do something together without fully merging, such as building a plant or entering a new country. Each partner owns a share, and its part of the JV's profit or loss shows up in its own results. Think of two neighbours who split the cost of a borewell and share its water: if the borewell runs dry, both lose. In the news you will see 'JV partner', 'JV stake' or 'loss from a joint venture'. Problems at a JV can hit a parent company's profit even if its main business is doing well."
+    },
+    {
+      "term": "Dividend",
+      "definition": "A share of a company's profit paid out in cash to its shareholders.",
+      "more": "A dividend is money a company pays to its shareholders from its profits, usually stated per share. An interim dividend is paid during the year; a final dividend after the year ends. If a company declares ₹15 per share and you own 20 shares, you receive ₹300 in your bank account. Dividends are taxed as income, and the rules can change. It's like the owner of a family shop sharing some of the year's earnings with relatives who helped fund it."
+    },
+    {
+      "term": "Year on year",
+      "definition": "A comparison with the same period a year earlier, such as July–September this year versus July–September last year.",
+      "more": "Companies and governments usually compare a quarter's numbers with the same quarter of the previous year, called year on year or YoY. This avoids being misled by seasons: a sweet shop always sells more around Diwali, so comparing October with July would be unfair, but comparing this October with last October is fair. When a report says 'profit rose 6% year on year', it means profit was 6% higher than in the same quarter last year. You may also see 'quarter on quarter', which compares with the previous three months."
+    },
+    {
+      "term": "ARPU",
+      "definition": "Average revenue per user: how much a telecom company earns, on average, from each customer each month.",
+      "more": "ARPU stands for average revenue per user. A telecom company like Jio or Airtel divides its revenue by its number of customers to get it. If your mobile plan costs ₹299 a month, you are adding ₹299 to that average. ARPU rises when companies raise tariffs or when customers move to costlier plans with more data. Analysts watch it closely because, once almost everyone already has a phone, getting more from each user is the main way to grow. A rising ARPU can also mean higher mobile bills for households."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "In-principle approval",
+      "definition": "A first, conditional green light from a regulator, which must be followed by meeting conditions before a final licence is granted.",
+      "more": "When a regulator like the RBI gives in-principle approval, it is saying 'yes, you may proceed, provided you meet these conditions'. The company usually has a fixed period to complete steps such as audits, systems checks or raising capital. Only after that does the regulator give the final licence. It is like a bank sanctioning your home loan in principle: the money is not released until the property papers and valuation are checked. In news reports it is often written as 'in-principle nod'. It is an important step, but not the finish line."
+    },
+    {
+      "term": "Prepaid payment instrument",
+      "definition": "The RBI's official name for things like digital wallets and prepaid cards that store money in advance for payments.",
+      "more": "A prepaid payment instrument, or PPI, is anything where you pay first and spend later: mobile wallets, gift cards and some travel or metro cards. Companies need RBI authorisation to issue them, because they hold the public's money. The RBI's rules set how much a PPI can hold, how customers' identity must be checked through KYC, and how the money must be kept safe. Think of a canteen token system at your office: you pay the cashier first and use tokens for meals later. The rules can change from time to time."
+    },
+    {
+      "term": "Digital wallet",
+      "definition": "An app that stores money you load into it, so you can pay for things without using cash or a card each time.",
+      "more": "A digital wallet works like a prepaid purse on your phone. You top it up from your bank account or card, and then spend that balance to pay shopkeepers, buy tickets or pay bills. Paytm, PhonePe and Amazon Pay have offered wallets in India. A wallet is different from UPI: UPI moves money straight from your bank account, while a wallet holds a separate balance. Think of a metro card you recharge once and then tap many times. In India, wallets need permission from the RBI, which sets limits on how much they can hold and how they must check customers' identity."
+    },
+    {
+      "term": "Subsidiary",
+      "definition": "A company that is owned or controlled by another company, called its parent.",
+      "more": "Big Indian groups often run different businesses through separate companies. Jio Platforms is a subsidiary of Reliance Industries, and Reliance Jio Infocomm, the telecom company, is in turn a subsidiary of Jio Platforms. It's like a joint family where each son runs his own shop, but the head of the family still has the final say. When a subsidiary is listed through an IPO, outsiders can buy a piece of it directly, while the parent usually keeps control. News reports often discuss whether listing a subsidiary 'unlocks value' for the parent's shareholders."
+    },
+    {
+      "term": "Payments bank",
+      "definition": "A limited type of bank that can accept small deposits and handle payments, but cannot give loans.",
+      "more": "Payments banks were created in India to bring basic banking to more people. They can open savings accounts up to a deposit limit, issue debit cards and handle money transfers, but they are not allowed to lend. Airtel Payments Bank and India Post Payments Bank are examples. Think of a post office counter that accepts and sends money but does not hand out loans. Paytm Payments Bank was one, until the RBI stopped it from taking new customers and later cancelled its licence. In the news, payments banks come up mostly around rules and licences."
+    },
+    {
+      "term": "52-week high",
+      "definition": "The highest price a share or index has reached in the past year.",
+      "more": "Market reports often say a share 'hit a 52-week high', meaning it's trading at its highest price in the last 12 months. It shows strong recent demand, though it doesn't say whether the share is cheap or expensive. Its opposite is the 52-week low. It's like the best score a batsman has made this season: impressive, but no promise about the next innings. Exchanges publish daily counts of how many shares touched 52-week highs and lows, which gives a rough sense of the market's mood."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "CPI",
+      "definition": "The consumer price index: a measure of how fast the prices that ordinary households pay are rising. It is the main gauge of inflation.",
+      "more": "The consumer price index tracks the cost of a typical basket of things people buy, such as food, fuel, rent, clothes and services. When the index is, say, 3% higher than a year ago, inflation is 3%. India publishes its CPI, often called retail inflation, every month, and the US does the same. Think of it as tracking the cost of your monthly shopping list over time. In the news, CPI matters because central banks such as the RBI and the US Federal Reserve set interest rates with an eye on it."
+    },
+    {
+      "term": "Hang Seng",
+      "definition": "Hong Kong's main stock market index, which tracks large companies listed there, including many big Chinese firms.",
+      "more": "The Hang Seng is to Hong Kong what the Sensex is to India. Because it includes many large Chinese technology and property companies, it is often read as a gauge of investor mood about China. Indian market reports list it with Japan's Nikkei and South Korea's Kospi under 'Asian cues', since a big fall across Asia in the morning often makes Indian investors cautious too. Like any index, its percentage change matters more than its points."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Mutual fund",
+      "definition": "A pool of money from many investors that a professional manager invests in shares, bonds or both.",
+      "more": "A mutual fund collects money from thousands of people and invests it on their behalf. Each investor owns 'units' whose value rises or falls with the fund's investments. It's like a group of friends pooling money to buy a big box of sweets and sharing them in proportion to what each paid. Most Indian SIPs go into mutual funds. Funds charge a small yearly fee. When you move money from one fund to another, the tax system usually treats it as selling one investment and buying another, which can create a tax bill."
+    }
+  ]
+}
