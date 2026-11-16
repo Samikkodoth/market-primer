@@ -1,0 +1,740 @@
+{
+  "date": "2026-11-16",
+  "session_label": "Monday 16 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex jumped 512 points to 82,104 and the Nifty rose to 25,291 as foreign investors kept buying and FMCG and bank shares rallied, even as Asian chip stocks slid after Nvidia's CEO exit; smaller companies fell, Tata Motors PV dropped about 9% on a JLR outlook cut, and the rupee rose 27 paise to 93.92.",
+  "mood": "Mixed",
+  "mood_note": "The headline indices rose, led by a handful of big companies, but about two shares fell for every one that rose across the NSE. Asian markets were rattled by turmoil at Nvidia, while India benefited from steady foreign buying.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "On Friday we reported the rupee at 94.20 per dollar (provisional). PTI now gives Friday's final close as 94.19.",
+    "Exchange data showed foreign investors bought ₹5,736.55 crore of Indian shares, net, on Friday, while domestic institutions sold ₹2,253.58 crore.",
+    "On Friday we reported Tata Motors Passenger Vehicles' ₹5,531 crore quarterly loss. Today its shares fell about 9% after investors reacted to Jaguar Land Rover's lower forecast."
+  ],
+  "one_minute": [
+    "The Sensex rose 512.34 points (0.63%) to 82,104.79 and the Nifty 50 rose 146.80 points (0.58%) to 25,291.10, led by FMCG and bank shares.",
+    "Smaller companies fell: the Nifty Midcap 100 lost 0.51% and the Nifty Smallcap 100 lost 1.1%, and 2,515 NSE shares fell against 1,175 that rose.",
+    "Asian markets slid after Nvidia's chief executive Jensen Huang resigned; Taiwan's index fell 6.03% and Korea's Kospi 3.59%. Reports said India's low exposure to AI shares helped it attract foreign money.",
+    "Tata Motors PV fell 8.7% after Jaguar Land Rover cut its margin and cash flow forecasts. Hospital shares bounced back, led by Max Healthcare, up 6.63%.",
+    "The rupee rose 27 paise to 93.92 per dollar (provisional), and Brent crude slipped to about $95 a barrel on forecasts of a supply surplus."
+  ],
+  "big_picture": "Two very different stories played out across Asia today. In Taiwan and South Korea, shares tumbled as investors worried about the future of Nvidia, the American company at the centre of the AI boom, after its chief executive suddenly resigned. Those markets are packed with chip companies linked to Nvidia.\n\nIndia has few such companies, and that worked in its favour. Foreign investors have bought about ₹84,290 crore of Indian shares so far in November, and they kept buying today, mostly large banks and consumer companies. Cheaper oil, as supply returns to normal, also helped India, which imports most of its oil, and lifted the rupee.\n\nBut the gains were narrow. Most shares on the NSE fell, especially medium and small companies, and analysts say worries about inflation and interest rates have not gone away. The rally was real for the biggest companies, but not for the market as a whole.",
+  "chain": [
+    {
+      "label": "Nvidia shock",
+      "note": "Nvidia's chief executive resigned on 12 November, and AI-linked shares fell in the US on Friday."
+    },
+    {
+      "label": "Asia's chip markets slide",
+      "note": "Taiwan's Taiex fell 6.03% and Korea's Kospi 3.59% on Monday as chip shares were sold."
+    },
+    {
+      "label": "Money looks elsewhere",
+      "note": "Reports said India's low exposure to AI shares helped it attract foreign buyers, who bought ₹5,736.55 crore on Friday."
+    },
+    {
+      "label": "Oil and rupee ease",
+      "note": "Brent slipped to about $95 on a forecast supply surplus, and the rupee rose 27 paise to 93.92."
+    },
+    {
+      "label": "Big shares rise, small ones fall",
+      "note": "The Sensex rose 512.34 points, but the Nifty Smallcap 100 fell 1.1% and most NSE shares ended lower."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "82,104.79",
+      "change": "+512.34 (+0.63%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It rose as high as 82,311.65 during the day."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,291.10",
+      "change": "+146.80 (+0.58%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Its high for the day was 25,337.60."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "61,576.40",
+      "change": "-0.51%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies. They fell even as the big indices rose."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "19,441.10",
+      "change": "-1.1%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller companies. It was one of the weakest parts of the market."
+    },
+    {
+      "name": "Nifty FMCG",
+      "value": "",
+      "change": "+1.87%",
+      "direction": "up",
+      "what_it_is": "This tracks makers of everyday goods such as food, soap and cigarettes. It was the best-performing sector."
+    },
+    {
+      "name": "Nifty Metal",
+      "value": "",
+      "change": "-1.5%",
+      "direction": "down",
+      "what_it_is": "This tracks steel, aluminium and other metal companies."
+    },
+    {
+      "name": "Nifty Pharma",
+      "value": "",
+      "change": "-1.53%",
+      "direction": "down",
+      "what_it_is": "This tracks medicine makers. It was the weakest sector today."
+    },
+    {
+      "name": "India VIX",
+      "value": "15.7",
+      "change": "+1.33%",
+      "direction": "up",
+      "what_it_is": "A measure of how much traders expect the Nifty to swing over the next month."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "93.92",
+      "change": "+27 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "about $95",
+      "change": "about -0.3% to -1%",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. It was $95.51 during Indian trading hours and about $94.85 later."
+    },
+    {
+      "name": "FII net buying (Friday)",
+      "value": "₹5,736.55 crore",
+      "change": "net bought",
+      "direction": "up",
+      "what_it_is": "How much more foreign investors bought than sold in Indian shares on Friday."
+    },
+    {
+      "name": "DII net selling (Friday)",
+      "value": "₹2,253.58 crore",
+      "change": "net sold",
+      "direction": "down",
+      "what_it_is": "How much more domestic institutions such as mutual funds and insurers sold than bought on Friday."
+    },
+    {
+      "name": "Taiwan Taiex",
+      "value": "41,040.08",
+      "change": "-6.03%",
+      "direction": "down",
+      "what_it_is": "Taiwan's main share index, heavy in chipmakers. It fell on worries about Nvidia."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-jumps-512-nifty-25291-fii-buying-fmcg-banks",
+      "category": "Stock market",
+      "title": "Sensex jumps 512 points to 82,104 and Nifty rises to 25,291 as foreign investors keep buying, led by FMCG and bank shares; smaller companies fall",
+      "tldr": "The Sensex rose 512.34 points, or 0.63%, to 82,104.79 and the Nifty 50 rose 146.80 points, or 0.58%, to 25,291.10. Consumer goods (FMCG) and bank shares led the gains, helped by steady foreign buying and softer oil. But medium and smaller companies fell, and more shares fell than rose across the market.",
+      "what_happened": "The Sensex closed 512.34 points, or 0.63%, higher at 82,104.79, PTI reported. At its best point in the day it was up 719.2 points at 82,311.65. The Nifty 50 rose 146.80 points, or 0.58%, to 25,291.10, after moving between 25,172.10 and 25,337.60. In the Nifty 50, 31 shares rose and 19 fell.\n\nConsumer goods shares did best: the Nifty FMCG index rose 1.87%, Upstox reported. Tata Consumer Products rose 3.57%, ITC 3.54% and Nestle India 2.68%. Private banks rose 0.88% and public sector banks 0.5%. Metal, pharma, property and car shares fell between 1.29% and 1.53%.\n\nThe wider market was weaker. The Nifty Midcap 100 fell 0.51% and the Nifty Smallcap 100 fell 1.1%. On the NSE, 2,515 shares fell and only 1,175 rose. India VIX, a measure of expected swings, rose 1.33% to 15.7.",
+      "simple_explanation": "The two big headline numbers went up today, but most shares actually went down.\n\nThe Sensex and Nifty are made mostly of India's biggest companies. Foreign investors have been buying these big companies heavily this month, and today they helped push up shares like ITC, Tata Consumer and large banks.\n\nMeanwhile, many medium and small companies fell. So someone looking only at the Sensex would think it was a good day for everyone, while someone holding small-company shares may have seen their value drop.\n\nCheaper oil also helped a little, because India buys most of its oil from abroad.",
+      "analogy": "Imagine a class where the five toppers all score higher than last time, so the class average goes up. But when you look closely, most other students scored a little lower. The average looks good, but it hides what happened to the majority. Today the Sensex was the class average.",
+      "why": "V K Vijayakumar of Geojit Investments said continuous buying by foreign investors had lifted the mood of domestic investors. He said India had been the best-performing large market over the last month, with returns of 9.4%, and expected this to continue if foreign money keeps coming in. He added that profit booking by domestic institutions and worries about inflation were likely to limit the rally, though he saw the near-term direction as upward.\n\nForeign investors bought ₹5,736.55 crore of Indian shares, net, on Friday, exchange data showed, while domestic institutions sold ₹2,253.58 crore. Brent crude slipped to about $95.5 a barrel. Market reports also said FMCG shares, seen as relatively safe, attracted buyers while global markets were nervous about technology shares.",
+      "implications": {
+        "you": "If you have a Nifty index fund or a large-company SIP, its value rose by a little over half a percent today. If your SIP is in a midcap or smallcap fund, it likely fell. One day's move in either direction means little for a long-term SIP.",
+        "markets": "Analysts are watching whether foreign buying continues and whether smaller companies recover. A rally led by a few big shares, while most shares fall, is often seen as less sturdy than a broad rise.",
+        "economy": "Strong foreign buying brings dollars into India, which supports the rupee. It does not by itself change jobs or growth.",
+        "prices": "No direct effect on everyday prices from the share market rise itself."
+      },
+      "watch": "Whether foreign investors keep buying, whether midcaps and smallcaps recover, and how global markets react to Nvidia's results, due on Tuesday in the US.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "FMCG",
+        "Sectoral index",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "India VIX",
+        "FII",
+        "DII",
+        "Net buyer",
+        "Profit booking",
+        "Defensive stocks",
+        "Brent crude",
+        "Index fund",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Think of the Sensex as a scoreboard that adds up the share prices of 30 of India's biggest companies. Today that scoreboard went up by 512 points.\n\nWhy? Big investors from other countries have been buying shares of large Indian companies almost every day this month. Today they bought shares of companies that make biscuits, tea, soap and cigarettes, and of big banks.\n\nBut here is the surprise: across the whole market, about two shares fell for every one that rose. Most of the fallers were smaller companies that are not on the scoreboard.\n\nSo the headline number said 'good day', but for many smaller companies it was a bad day. Always look beyond the headline.",
+        "real_life": "Ravi, 34, is an accountant in Coimbatore earning ₹60,000 a month. He puts ₹3,000 a month into a Nifty 50 index fund and ₹2,000 into a smallcap fund through SIPs. Together they are worth about ₹2.5 lakh.\n\nToday his Nifty fund rose about 0.58%, the same as the index. His smallcap fund probably fell, since the Nifty Smallcap 100 dropped 1.1%. The two moves roughly cancel out, so his total barely changed.\n\nThis is a useful lesson. A 'Sensex up 512 points' headline does not mean every investor gained. What you own matters. For Ravi, nothing needs to change because of one day: his SIPs continue on the same date next month, buying units at whatever the price is then."
+      }
+    },
+    {
+      "id": "nvidia-ceo-exit-asian-chip-stocks-slide-india-gains",
+      "category": "Global markets",
+      "title": "Asian markets slide as Nvidia's leadership upheaval hits chip shares; Taiwan falls about 6% while India rises",
+      "tldr": "Shares across Asia fell sharply after Jensen Huang's sudden exit as chief executive of Nvidia, the US company whose chips power most AI systems. Taiwan's main index fell 6.03% and South Korea's Kospi 3.59%. India and Hong Kong were among the few markets that rose, and reports said India's limited exposure to AI shares helped it attract money.",
+      "what_happened": "Nvidia's long-time chief executive, Jensen Huang, resigned on 12 November amid a personal scandal, Al Jazeera and AP reported. The company named its finance chief, Colette Kress, as interim CEO. Nvidia is due to report its quarterly results on Tuesday.\n\nOn Monday, chip shares across Asia fell. Taiwan's Taiex fell 6.03% to 41,040.08, its second-biggest one-day fall in points ever, Taiwan's Central News Agency reported; TSMC, the world's largest contract chipmaker, fell 5.74%. South Korea's Kospi fell 3.59% to 5,100.5, with SK Hynix down 7.9% and Samsung Electronics down 4.5%, AP reported. Japan's Nikkei 225 fell about 2.4%. Hong Kong's Hang Seng rose 0.33%.\n\nOn Friday in the US, the S&P 500 fell about 0.4% and the Nasdaq fell 0.9%, while the Dow Jones edged up 0.10%. Investors are also watching the planned stock market debut of AI company Anthropic, expected this week.",
+      "simple_explanation": "A few years ago, investors around the world started pouring money into companies linked to artificial intelligence, or AI. The biggest winner was Nvidia, an American company that makes the special chips AI needs. Many Asian companies, especially in Taiwan and South Korea, make parts for these chips, so their shares rose too.\n\nLast week, Nvidia's famous boss suddenly quit. Investors worried about what comes next for the company and for the whole AI boom, so they sold chip shares across Asia.\n\nIndia has very few big AI or chip companies on its stock market. So when investors pulled money out of AI shares, some of it looked for other places to go, and India was one of them.",
+      "analogy": "Picture a busy market where one sweet shop has the longest queue, and nearby shops selling its ingredients also do well. If the sweet shop's famous owner suddenly leaves, people worry and the queues shrink at all those connected shops. A shop selling something completely different, a little further away, may even get a few extra customers.",
+      "why": "Reports linked Monday's fall in Asia to renewed doubts about the AI trade and Nvidia's leadership ahead of its results, Upstox reported. Some investors have also questioned whether AI-linked shares had risen too far, too fast.\n\nIn India, market reports said the country's limited exposure to crowded AI trades helped draw foreign money towards Indian shares, especially banks and consumer companies. Foreign investors have bought about ₹84,290 crore of Indian shares so far in November, PTI reported.",
+      "implications": {
+        "you": "If you own an international mutual fund or a US tech fund, its value may have dropped. If your investments are in Indian funds, today's Asian fall did not hurt them directly.",
+        "markets": "Nvidia's results on Tuesday could move global technology shares sharply in either direction. Indian IT companies are not chipmakers, but big global swings can still affect foreign investors' mood towards India.",
+        "economy": "Little direct effect on India's economy. If foreign money keeps moving from AI shares into India, it supports the rupee.",
+        "prices": "No effect on everyday prices in India."
+      },
+      "watch": "Nvidia's results on Tuesday (US time), any news on a permanent chief executive, and whether foreign investors keep buying Indian shares.",
+      "terms": [
+        "Nvidia",
+        "Interim CEO",
+        "AI trade",
+        "Semiconductor",
+        "Taiex",
+        "Kospi",
+        "Nikkei 225",
+        "Hang Seng",
+        "S&P 500",
+        "Nasdaq",
+        "IPO",
+        "Sector rotation"
+      ],
+      "explainers": {
+        "like12": "Nvidia is an American company that makes very powerful computer chips. These chips are the 'brains' that run artificial intelligence, like chatbots and image makers. Because everyone wants AI, Nvidia became one of the most valuable companies in the world.\n\nLast week Nvidia's boss, who had led the company for over 30 years, suddenly quit. Investors got nervous. Many companies in Taiwan and South Korea make parts for Nvidia's chips, so their share prices fell a lot on Monday. Taiwan's market fell about 6% in one day, which is a very big drop.\n\nIndia does not have many chip companies, so the trouble did not hit India much. In fact, some investors moved money into India instead.",
+        "real_life": "Meena, 38, is a school administrator in Chennai earning ₹48,000 a month. Two years ago she put ₹50,000 into an international fund that invests in US technology companies, alongside her regular Indian equity SIP.\n\nWhen chip and AI shares fall in the US and Asia, her international fund falls too. On the other hand, her Indian SIP is mostly in banks, consumer companies and other Indian businesses, which rose today.\n\nThis shows why some people spread their money across different kinds of funds: when one part falls, another may hold up. It does not mean one kind is always better. For Meena, her daily expenses, her salary and her EMIs are not affected by Nvidia's leadership change."
+      }
+    },
+    {
+      "id": "tata-motors-pv-falls-9-percent-jlr-cuts-outlook",
+      "category": "Company news",
+      "title": "Tata Motors Passenger Vehicles shares fall about 9% after Jaguar Land Rover cuts its profit and cash outlook",
+      "tldr": "Shares of Tata Motors Passenger Vehicles fell 8.7% on the NSE, the biggest fall in the Nifty 50, after its British unit Jaguar Land Rover (JLR) cut its forecast for profit margins and cash flow for this financial year. The company had reported a ₹5,531 crore quarterly loss on Friday.",
+      "what_happened": "Tata Motors Passenger Vehicles (TMPV) fell 8.7% to ₹262.40 on the NSE, the worst performer in the Nifty 50. On the BSE it fell 9.23% to ₹260.50.\n\nOn Friday after trading hours, the company reported a consolidated loss of ₹5,531 crore for July to September, after one-off charges of ₹6,738 crore, including employee separation costs and asset write-downs. Revenue rose 34% year on year to ₹96,920 crore.\n\nJLR, the British luxury carmaker it owns, cut its forecast for EBIT margin for the year to March 2027 to 2% to 3%, from about 4% earlier. It now expects free cash flow of minus £1.25 billion, instead of breaking even. JLR is targeting £1.7 billion of cost savings, including from job cuts.",
+      "simple_explanation": "Tata Motors Passenger Vehicles makes Tata cars in India and also owns Jaguar Land Rover, a maker of expensive cars sold around the world.\n\nOn Friday the company said it made a big loss last quarter, mostly because of one-time costs for cutting jobs and writing down the value of some assets. But investors were more worried about what comes next. JLR said it now expects to earn much less on each car it sells this year, and that it will spend more cash than it brings in.\n\nWhen a company lowers its own forecast, investors usually sell, because the future looks less bright than they had hoped. That is why the share fell so sharply today.",
+      "analogy": "Imagine a family-run sweet shop that also owns a fancy bakery abroad. The bakery owner tells the family: 'This year we'll make less profit on each cake, and we'll need to borrow to keep going.' Even if the sweet shop at home is fine, the family's overall plans now look shakier.",
+      "why": "Analysts at Citi flagged 'severe headwinds' for demand, especially in China and in the Middle East and North Africa region, and pressure on profitability, Upstox reported. Both the India business and JLR earned less than analysts had expected, with a bigger miss at JLR.\n\nAnalysts at CLSA stayed positive on the share but cut their profit estimates for the next two years by 13% and 14%. Nomura was neutral, saying new launches could help but margins remain exposed to costs and the mix of cars sold.",
+      "implications": {
+        "you": "If you own Tata cars, nothing changes for your warranty or service. If you hold a Nifty index fund, this share's fall was a small drag, more than offset by gains elsewhere today.",
+        "markets": "Car shares were among today's weakest: the Nifty Auto index fell 1.29%. JLR's guidance cut adds to worries about global demand for luxury cars.",
+        "economy": "Job cuts at JLR are mainly in the UK and abroad. The Indian car business is a separate story and was not the main cause of today's fall.",
+        "prices": "No effect on car prices in India from this news."
+      },
+      "watch": "Whether analysts change their targets after the guidance cut, and JLR sales figures in China and other key markets in the coming months.",
+      "terms": [
+        "JLR",
+        "Consolidated profit",
+        "Net loss",
+        "Exceptional item",
+        "Revenue",
+        "Year on year",
+        "Guidance",
+        "EBIT margin",
+        "Free cash flow",
+        "Restructuring",
+        "EBITDA",
+        "Brokerage"
+      ],
+      "explainers": {
+        "like12": "Tata Motors Passenger Vehicles makes cars like the Nexon and also owns a British company called Jaguar Land Rover, which makes fancy, expensive cars.\n\nEvery three months, companies tell everyone how much money they made. This time, the company said it lost money, mostly because it had to pay workers who were leaving and take some one-time hits.\n\nThe bigger worry was a warning about the future. Jaguar Land Rover said it would earn less this year than it had promised before, partly because fewer people in China want to buy its cars.\n\nWhen a company says 'the future looks worse than we told you', people sell its shares. So the share price fell about 9% in one day.",
+        "real_life": "Prakash, 45, works in sales in Pune and earns ₹85,000 a month. A few years ago he bought some Tata Motors shares through his demat account. After the business was split, he now holds shares in the passenger vehicles company, worth about ₹40,000 before today.\n\nA 9% fall means his holding is now worth roughly ₹36,400, a paper loss of about ₹3,600 in one day. He has not lost the money unless he sells.\n\nThis is the risk of holding a single company's shares: one piece of bad news can cause a big move. In a Nifty index fund, the same fall would have been diluted across 50 companies. Whatever Prakash decides, it depends on his own goals and time frame."
+      }
+    },
+    {
+      "id": "hospital-stocks-rebound-max-healthcare-up-6-63",
+      "category": "Company news",
+      "title": "Hospital shares bounce back: Max Healthcare jumps 6.63%, Fortis 5.13% and Apollo 2.87% after a fall on regulation worries",
+      "tldr": "Shares of hospital chains rose sharply. Max Healthcare was the Nifty 50's top gainer, up 6.63% to ₹1,009.90, and Fortis Healthcare, Aster DM and Apollo Hospitals also rose. They had fallen in recent weeks on worries that the government could cap what hospitals charge for medicines.",
+      "what_happened": "Max Healthcare rose 6.63% to ₹1,009.90 on the NSE, the biggest gain in the Nifty 50. Fortis Healthcare rose 5.13% to ₹803.20, Aster DM 3.81% to ₹750 and Apollo Hospitals 2.87% to ₹8,771, Kotak Neo reported.\n\nMax Healthcare had touched a 52-week low of ₹797 on 22 October, Business Standard reported, so today's price is about 26% above that low. Its operating EBITDA, a measure of profit from running hospitals, grew 18% year on year to ₹820 crore in July to September.\n\nHospital shares had fallen after the Supreme Court, in September, questioned the central government about applying a uniform 16% markup on medicines, and raised concerns about hospitals requiring patients to buy medicines from in-house pharmacies.",
+      "simple_explanation": "Big hospital chains earn money not just from doctors' fees and rooms but also from the medicines they sell to patients.\n\nA few weeks ago, the Supreme Court asked the government questions about how much extra hospitals and chemists can charge on medicines. Investors worried that new rules might cut hospitals' earnings, so they sold hospital shares and prices fell a lot.\n\nToday, some investors decided the fall had gone too far. India has a shortage of hospital beds, and demand for treatment keeps growing. Max Healthcare's recent results also showed its earnings growing. So buyers came back and hospital shares rose sharply.",
+      "analogy": "Think of a popular restaurant that hears a rumour that the city may cap the price of its desserts. Customers keep coming, but the owner's partners panic and sell their stake cheaply. When the panic cools and they see the restaurant still full every night, others step in and buy those stakes back.",
+      "why": "Market participants saw the earlier fall as an opportunity, pointing to steady demand for hospital services and India's shortage of hospital beds as long-term drivers, Kotak Neo reported. Business Standard said a brokerage kept a 'buy' rating on Max Healthcare after its results.\n\nThe regulatory question has not been settled. No new rule on hospital medicine pricing was announced today.",
+      "implications": {
+        "you": "There is no change today to what hospitals charge you. If the government later caps markups on medicines sold in hospitals, hospital bills could fall slightly for patients; that is still undecided.",
+        "markets": "Hospital shares are sensitive to any news on medicine pricing rules. Big swings like today's are likely to continue until the policy picture is clearer.",
+        "economy": "Healthcare is one of India's fastest-growing service sectors and a large employer. Today's share move does not change that.",
+        "prices": "No change to medicine or hospital prices from today's news."
+      },
+      "watch": "Any update from the Supreme Court or the government on medicine markups in hospitals.",
+      "terms": [
+        "52-week low",
+        "EBITDA",
+        "Year on year",
+        "Markup",
+        "Brokerage",
+        "Correction"
+      ],
+      "explainers": {
+        "like12": "Big hospitals don't just treat patients. They also sell medicines from their own pharmacies, and they add some extra money on top of the cost.\n\nA few weeks ago, India's top court asked the government whether there should be one fixed limit on how much extra can be added to medicine prices. Investors worried that hospitals would earn less money, so many sold hospital shares and the prices fell.\n\nToday, some investors thought: 'People will always need hospitals, and India needs more of them.' So they bought hospital shares again, and prices jumped. Max Healthcare's share price went up more than any other big company in the Nifty 50 today.",
+        "real_life": "Fatima, 52, is a government school teacher in Lucknow earning ₹70,000 a month. Her father had a knee operation at a private hospital last year, and medicines and consumables were a big part of the bill.\n\nToday's rise in hospital shares does not change anything she pays. But the court case behind the earlier fall matters to families like hers. If rules later limit how much hospitals can add on top of medicine costs, bills for treatments could come down a little.\n\nFor now nothing has been decided, so she should keep relying on her health insurance and any employer cover. If she holds a healthcare mutual fund, it probably gained today; a single day's move says little about the long term."
+      }
+    },
+    {
+      "id": "rupee-gains-27-paise-to-93-92-oil-eases-on-surplus-outlook",
+      "category": "Oil and rupee",
+      "title": "Rupee gains 27 paise to 93.92 per dollar as foreign money flows in; oil eases to about $95 on forecasts of a supply surplus",
+      "tldr": "The rupee rose 27 paise to 93.92 against the dollar (provisional), helped by foreign buying of Indian shares and softer oil. Brent crude slipped to about $95 a barrel after the International Energy Agency said oil supply should exceed demand in the last three months of the year.",
+      "what_happened": "The rupee opened at 94.22 against the dollar and closed at 93.92 (provisional), 27 paise stronger than Friday's close of 94.19, PTI reported. This ended a two-day fall. The dollar index, which measures the dollar against six major currencies, was at 103.44, up 0.03%.\n\nBrent crude was at $95.51 a barrel during Indian market hours, down 0.34%, PTI reported, and slipped further later in the day to about $94.85. It touched a low of $94.47, Upstox reported.\n\nThe International Energy Agency expects world oil supply to exceed demand by 1.7 million barrels a day in October to December; it had earlier forecast a shortage. Shipments through the Strait of Hormuz have recovered to near pre-war levels. Gold and silver also fell on Indian commodity exchanges.",
+      "simple_explanation": "The rupee got a little stronger today. One dollar now costs about ₹93.92, down from ₹94.19 on Friday.\n\nTwo things helped. First, foreign investors are bringing lots of dollars into India to buy shares. When dollars pour in, the rupee gains. Second, oil got slightly cheaper. India buys most of its oil from abroad and pays in dollars, so cheaper oil means India needs fewer dollars.\n\nWhy is oil cheaper? Ships are again moving oil freely through an important sea route near Iran, and an international energy agency now expects more oil to be produced than the world needs in the coming months.",
+      "analogy": "Think of a vegetable market. When a lot of tomatoes arrive and fewer buyers show up, the price drops. Oil works the same way. And for the rupee, think of a shop where more customers are coming in to buy Indian goods with dollars: the rupee becomes more in demand, so it gets a little dearer.",
+      "why": "Forex traders said foreign fund inflows, a firm domestic share market and lower crude prices supported the rupee, while a firm dollar overseas and high US bond yields limited its gains, PTI reported. Jateen Trivedi of LKP Securities said the rupee gained around 0.40% and moved above the 94 mark, helped by softer commodity prices easing worries about India's import bill.\n\nOil has been easing on expectations of more supply as shipping through the Strait of Hormuz recovers, though attacks on tankers in the region still lend prices some support.",
+      "implications": {
+        "you": "A stronger rupee makes foreign holidays, imported gadgets and overseas tuition fees slightly cheaper. A 27-paise move is small: on a $2,000 expense it saves about ₹540. Petrol and diesel pump prices do not change daily with crude.",
+        "markets": "Cheaper oil helps airlines, paint makers and other heavy users of fuel. A stronger rupee slightly reduces what IT exporters earn in rupees.",
+        "economy": "Lower oil prices reduce India's import bill and ease pressure on inflation, which was 6.09% in October. That is helpful ahead of the RBI's December meeting.",
+        "prices": "If oil stays lower for weeks, transport and many goods could get a little cheaper over time. One day's move has little effect."
+      },
+      "watch": "Whether foreign money keeps flowing in and whether Brent stays below $95. The RBI's next policy decision is on 4 December.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Rupee appreciation",
+        "Dollar index",
+        "Brent crude",
+        "Barrel",
+        "IEA",
+        "Supply surplus",
+        "Strait of Hormuz",
+        "Import bill",
+        "Inflation",
+        "US Treasury yield"
+      ],
+      "explainers": {
+        "like12": "Imagine the rupee and the dollar are two kinds of tokens at a fair. Today, you need about 94 rupee tokens to get one dollar token.\n\nWhen lots of people from other countries come to India and swap their dollars for rupees to buy Indian shares, rupees become more popular. So the rupee gets a bit stronger. That is what happened today: one dollar now costs ₹93.92 instead of ₹94.19.\n\nOil also got a little cheaper because there is now more oil around than people need. India buys most of its oil from other countries using dollars. Cheaper oil means India needs fewer dollars, and that helps the rupee too.",
+        "real_life": "Kiran, 27, is a nurse in Kochi earning ₹45,000 a month. Her younger brother is studying in Australia, and the family sends money for his expenses, which are priced in foreign currency.\n\nWhen the rupee gets stronger, each transfer costs the family slightly fewer rupees. Today's move is small: on a payment worth $2,000 it would save about ₹540. Over a full year of fees and rent, small moves can add up, in either direction.\n\nAt home, Kiran's scooter fuel costs do not change today, because petrol prices are not revised every day with crude. If oil stays lower for a long time, though, bus fares and delivery charges could ease a little."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Defensive stocks",
+    "explanation": "Defensive stocks are shares of companies whose sales stay fairly steady whether the economy is booming or struggling. They usually sell things people buy no matter what: food, soap, toothpaste, medicines, electricity.\n\nWhen investors are nervous, for example when global markets are falling or interest rates may rise, many move money into these shares. The reasoning is simple: people will still buy biscuits and tea even in a bad year, so these companies' profits are less likely to collapse.\n\nThe opposite are cyclical stocks, such as carmakers, metal companies and property developers, whose sales rise and fall with the economy. In good times, cyclical shares often rise faster. In uncertain times, defensive shares tend to hold up better.\n\n'Defensive' does not mean safe from losses. These shares can still fall, especially if investors have already paid a high price for them. It only means their business tends to be steadier.",
+    "example": "Today, while global markets were nervous about technology shares, the Nifty FMCG index, which tracks makers of everyday goods, rose 1.87%, the best of any sector. ITC rose 3.54%, Tata Consumer Products 3.57% and Nestle India 2.68%. Meanwhile, cyclical sectors such as metals and carmakers fell by about 1.3% to 1.5%.",
+    "takeaway": "Defensive stocks sell everyday necessities and tend to hold steadier when investors are worried. Steadier does not mean they cannot fall."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Monday?",
+      "options": [
+        "Down 512.34 points",
+        "Up 512.34 points, or 0.63%",
+        "Up 719.2 points",
+        "Flat"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose 512.34 points, or 0.63%, to 82,104.79. It had been up 719.2 points at its highest point in the day."
+    },
+    {
+      "q": "Which sector rose the most today?",
+      "options": [
+        "Metals",
+        "Pharma",
+        "FMCG (everyday consumer goods)",
+        "Realty"
+      ],
+      "answer": 2,
+      "why": "The Nifty FMCG index rose 1.87%, led by Tata Consumer Products, ITC and Nestle India. Metals, pharma and realty all fell."
+    },
+    {
+      "q": "The Sensex rose, but 2,515 NSE shares fell and only 1,175 rose. What does this tell you?",
+      "options": [
+        "Every investor made money",
+        "The gains were concentrated in a few big companies",
+        "The market was closed",
+        "Small companies did better than big ones"
+      ],
+      "answer": 1,
+      "why": "Market breadth was weak. A few big companies pushed the indices up while most shares, especially smaller ones, fell."
+    },
+    {
+      "q": "Why did Taiwan's and South Korea's markets fall sharply?",
+      "options": [
+        "An RBI rate hike",
+        "A rise in oil prices",
+        "Worries about chip shares after Nvidia's chief executive resigned",
+        "A holiday in the US"
+      ],
+      "answer": 2,
+      "why": "Taiwan and South Korea have many chip companies linked to Nvidia. Its CEO's sudden exit hit those shares hard."
+    },
+    {
+      "q": "Why did Tata Motors Passenger Vehicles' shares fall about 9%?",
+      "options": [
+        "Car prices were cut",
+        "Jaguar Land Rover lowered its margin and cash flow forecasts",
+        "It was removed from the Nifty",
+        "A new IPO"
+      ],
+      "answer": 1,
+      "why": "JLR cut its EBIT margin forecast to 2% to 3% from about 4% and now expects negative free cash flow of £1.25 billion."
+    },
+    {
+      "q": "The rupee moved from 94.19 to 93.92 per dollar. What does that mean?",
+      "options": [
+        "The rupee got weaker",
+        "The rupee got stronger",
+        "Nothing changed",
+        "Petrol prices rose"
+      ],
+      "answer": 1,
+      "why": "A lower number means one dollar costs fewer rupees, so the rupee strengthened by 27 paise."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Daily Jagran (PTI): Sensex climbs 512 points, Nifty nears 25,300 on FII inflows",
+      "url": "https://www.thedailyjagran.com/business/news/sensex-climbs-512-points-nifty-nears-25300-on-fii-inflows-10336485"
+    },
+    {
+      "title": "Business Standard: Stock Market Close: Sensex ends 512 pts higher, Nifty at 25,291; FMCG, bank shares outshine",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
+    },
+    {
+      "title": "Upstox: Market wrap, Nov 16: Sensex rises 512 pts, Nifty 50 ends at 25,291 led by FMCG stocks",
+      "url": "https://upstox.com/news/market-news/stocks/market-wrap-nov-16-sensex-rises-512-pts-nifty-50-ends-at-25-291-led-by-fmcg-stocks-max-healthcare-top-gainer/article-203523/"
+    },
+    {
+      "title": "ETV Bharat: Why did the stock market rise today? Sensex settles at 82,104; Nifty ends at 25,291",
+      "url": "https://www.etvbharat.com/en/business/why-did-the-stock-market-rise-today-sensex-nifty-rally-fii-buying-it-stocks-jump-enn26111601336"
+    },
+    {
+      "title": "HDFC Sky: Market close report, November 16, 2026",
+      "url": "https://hdfcsky.com/news/market-close-report-today-november-16-2026-nifty-sensex-shine-as-global-ai-jitters-redirect-trade-towards-india"
+    },
+    {
+      "title": "Trendlyne: FII DII activity (cash)",
+      "url": "https://trendlyne.com/macro-data/fii-dii/latest/cash-pastmonth/"
+    },
+    {
+      "title": "Telangana Today (PTI): Rupee snaps two-day losing streak, settles at 93.92 against dollar",
+      "url": "https://telanganatoday.com/rupee-snaps-two-day-losing-streak-settles-at-93-92-against-dollar"
+    },
+    {
+      "title": "Al Jazeera: Nvidia CEO Jensen Huang resigns",
+      "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo"
+    },
+    {
+      "title": "AOL (AP): Stocks decline in Asia as concerns over the Nvidia fallout persist",
+      "url": "https://www.aol.com/articles/stocks-decline-asia-investor-concerns-045636000.html"
+    },
+    {
+      "title": "Finimize: Asian stocks slide as traders reprice life after Nvidia",
+      "url": "https://finimize.com/content/asian-stocks-slide-as-traders-reprice-life-after-nvidia"
+    },
+    {
+      "title": "WTOP (AP): How major US stock indexes fared Friday 11/13/2026",
+      "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-friday-11-13-2026/"
+    },
+    {
+      "title": "Upstox: Tata Motors PV shares tumble 9% after Q2 results; analysts flag 'severe headwinds'",
+      "url": "https://upstox.com/news/market-news/stocks/tata-motors-pv-shares-tumble-9-after-q2-results-analysts-flag-severe-headwinds-for-demand/article-203489/"
+    },
+    {
+      "title": "Kotak Neo: Tata Motors PV shares slide as JLR cuts FY27 outlook",
+      "url": "https://www.kotakneo.com/news/stocks/tata-motors-pv-shares-slide-as-jlr-cuts-fy27-outlook/"
+    },
+    {
+      "title": "Kotak Neo: Max Healthcare closes 6.63% higher as hospital stocks rebound",
+      "url": "https://www.kotakneo.com/news/sectors/hospital-stocks-recover-after-regulatory-sell-off/"
+    },
+    {
+      "title": "Business Standard: Hospital stocks in focus: Max Healthcare, Aster DM, Fortis surge up to 7%",
+      "url": "https://www.business-standard.com/markets/news/hospital-stocks-in-focus-max-healthcare-aster-dm-fortis-surge-up-to-7-126111600992_1.html"
+    },
+    {
+      "title": "Invezz: Oil prices near $95 as supply glut grows",
+      "url": "https://invezz.com/news/2026/11/16/oil-prices-near-95-will-brent-crude-crash-below-90-as-supply-glut-grows/"
+    },
+    {
+      "title": "Goodreturns: Gold and silver rates today (16-11-2026)",
+      "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-16-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-price-1547173.html"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A measure of how many shares rose compared with how many fell on a given day.",
+      "more": "Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, shows whether a move is broad or narrow. On Thursday, 2,868 BSE shares rose and 1,384 fell, so breadth was positive, but less lopsided than the index's 2.6% jump might suggest. It's like checking whether a whole class did better in an exam, not just the toppers. Analysts often say a rally is healthier when breadth is strong."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Net buyer",
+      "definition": "An investor, or group of investors, who bought more shares than they sold over a period.",
+      "more": "Big investors buy and sell every day. Being a 'net buyer' means that after adding up all the buying and subtracting all the selling, the buying was bigger. If foreign investors bought ₹10,000 crore of shares and sold ₹4,000 crore, they were net buyers of ₹6,000 crore. It is like a shopkeeper who takes in more stock than he sells in a week: his shelves fill up. News reports use this to show which way big money is flowing. Steady net buying tends to support share prices; steady net selling tends to weigh on them."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Defensive stocks",
+      "definition": "Shares of companies whose business tends to stay steady in good times and bad, such as IT services, FMCG and pharma.",
+      "more": "Some companies sell things people keep buying whatever happens to the economy: medicines, soap, tea, or IT services under long contracts. Their profits swing less, so investors treat their shares as a safer place to wait out uncertain times. When investors feel braver, they often sell some of these defensive shares and move into riskier ones, such as small companies, hoping for bigger gains. It's like choosing a dal-chawal thali when you're unsure of a new restaurant, and trying the chef's special once you feel confident. News reports say 'defensives' fell when investors are taking more risk."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Index fund",
+      "definition": "A mutual fund that simply copies an index such as the Nifty 50, holding the same shares in the same proportions.",
+      "more": "An index fund does not try to pick winners. If the Nifty 50 rises 0.58% in a day, a Nifty 50 index fund rises by roughly the same amount, minus small costs. It is like ordering a fixed thali instead of choosing dishes: you get a bit of everything on the menu. Because nobody is paid to pick shares, fees are usually low. Many people invest in index funds through monthly SIPs. When the news says 'the Nifty rose', index fund investors can expect their holding to have moved in the same direction."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Nvidia",
+      "definition": "A US company that designs the computer chips most widely used to build and run artificial intelligence (AI) systems.",
+      "more": "Nvidia began by making graphics chips for video games. Its chips turned out to be very good at the huge number of calculations AI needs, so tech giants have bought them in vast quantities. That made Nvidia one of the most valuable companies in the world. Its suppliers, such as chipmakers in Taiwan and memory makers in South Korea, rise and fall with it. So news about Nvidia, such as its quarterly earnings or a change in its leadership, can move share markets across Asia and the US within hours."
+    },
+    {
+      "term": "Interim CEO",
+      "definition": "A person who runs a company temporarily after the chief executive leaves, until a permanent replacement is chosen.",
+      "more": "The CEO, or chief executive officer, is the top boss who runs a company day to day. When a CEO leaves suddenly, the board usually asks a senior executive, often the finance chief, to take charge for a while. That person is called the interim CEO. It is like a vice-captain leading the cricket team when the captain is suddenly ruled out. Investors watch these changes closely, because a long search for a new leader can create uncertainty about the company's plans and strategy."
+    },
+    {
+      "term": "AI trade",
+      "definition": "Market shorthand for investors buying shares of companies expected to profit from artificial intelligence, such as chipmakers and big tech firms.",
+      "more": "For the past few years, many global investors put large sums into companies linked to AI: chip designers, chipmakers, memory makers, data-centre builders and the big US technology firms. This crowd of money is called the 'AI trade'. When it is popular, those shares rise fast. When doubts appear, they can fall together. It is like a crowded restaurant: when people start leaving, the queue disappears quickly. India has few large AI-linked listed companies, so money leaving the AI trade sometimes flows towards Indian shares instead."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    },
+    {
+      "term": "Taiex",
+      "definition": "The main share index of Taiwan's stock exchange.",
+      "more": "The Taiex tracks shares listed in Taiwan, much as the Sensex does for India. Taiwan is home to TSMC, the world's biggest contract chipmaker, which makes chips for companies such as Nvidia and Apple. TSMC alone is a very large part of the index, so the Taiex is heavily tied to the global chip and AI business. When news hits chip stocks, the Taiex often moves far more than other Asian indices. That is why it is watched as a signal of how investors feel about the AI boom."
+    },
+    {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index.",
+      "more": "The Kospi tracks shares listed on the Korea Exchange. It is dominated by big technology and chip makers such as Samsung Electronics and SK Hynix, so it is very sensitive to news about chips and AI. Because South Korea and India compete for foreign investors' money in Asia, big moves in the Kospi can affect flows into India. It's like a neighbour's shop sale: it can pull customers away or send them your way. News reports often quote it with Japan's Nikkei."
+    },
+    {
+      "term": "Nikkei 225",
+      "definition": "Japan's best-known stock market index, made up of 225 large companies.",
+      "more": "The Nikkei 225 tracks 225 big companies listed in Tokyo, including carmakers, electronics firms and chip-equipment makers. As one of Asia's biggest markets, Japan's moves often set the tone for the region in the morning, before Indian markets open. It's like the weather in the next town: if a storm hits there, you may see clouds soon. Indian news reports often mention the Nikkei when describing 'Asian cues' at the start of the day."
+    },
+    {
+      "term": "Hang Seng",
+      "definition": "Hong Kong's main stock market index, which tracks large companies listed there, including many big Chinese firms.",
+      "more": "The Hang Seng is to Hong Kong what the Sensex is to India. Because it includes many large Chinese technology and property companies, it is often read as a gauge of investor mood about China. Indian market reports list it with Japan's Nikkei and South Korea's Kospi under 'Asian cues', since a big fall across Asia in the morning often makes Indian investors cautious too. Like any index, its percentage change matters more than its points."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Sector rotation",
+      "definition": "Moving money out of one group of shares and into another, without much changing the overall market.",
+      "more": "Big investors rarely sit still. When they think one group of shares has run its course or looks risky, they sell some of it and buy another group instead. Money might move out of banks and IT companies and into smaller companies or pharma firms. The headline index can then barely move, even though many individual shares move a lot. It's like shoppers at a mela leaving the crowded sweets stall for the chaat stall: the total crowd stays the same, but one stall gets busier. News reports call this rotation when sectors move in opposite directions on a flat day."
+    },
+    {
+      "term": "JLR",
+      "definition": "Jaguar Land Rover, the British luxury car maker owned by India's Tata Motors group.",
+      "more": "Tata Motors bought Jaguar Land Rover in 2008. JLR makes Range Rover, Defender and Jaguar cars, mostly in the UK, and sells them around the world. Because it is so big, JLR's performance usually decides whether Tata Motors' passenger vehicle business shows a profit or a loss. It is like a family whose eldest son earns most of the household income abroad: when his job goes well, the whole family does well. JLR is still recovering from a cyberattack in 2025 that stopped its factories for weeks. News reports often quote JLR's results in British pounds."
+    },
+    {
+      "term": "Consolidated profit",
+      "definition": "The profit of a company together with its subsidiaries, such as a bank plus its insurance or broking arms.",
+      "more": "Many Indian companies own other companies. ICICI Bank, for example, owns stakes in insurance, broking and fund businesses. Standalone profit covers only the main company; consolidated profit adds up the whole group. It's like the income of one earning member versus the income of the whole joint family. The two figures can grow at different rates, which is why news reports sometimes quote different percentages for the same results. When comparing numbers, check which basis is being used."
+    },
+    {
+      "term": "Net loss",
+      "definition": "What a company has when its total expenses are more than its total income over a period.",
+      "more": "A net loss is the opposite of net profit: after paying for everything, including salaries, materials, fuel, interest and taxes, the company has spent more than it earned. A 'narrower' loss means the gap shrank compared with an earlier period, which investors may treat as progress even though the company is still losing money. It's like a household that overspent by ₹25,000 last year and by ₹18,000 this year: still in the red, but less so. Airlines often report losses in the July–September quarter, when the monsoon reduces travel."
+    },
+    {
+      "term": "Exceptional item",
+      "definition": "A large, unusual gain or cost in a company's results that is not part of its normal business and is not expected to repeat.",
+      "more": "Companies show exceptional items separately so that readers can see how the regular business performed. Examples include the cost of shutting a factory, a big legal settlement, a restructuring charge, or marking down the value of an investment. Imagine a family whose monthly budget is fine, but one month they pay a large hospital bill. That month shows a deficit, but it does not mean their normal spending is out of control. In results news you will see 'loss due to an exceptional charge' or 'profit before exceptional items'. Analysts usually look at both figures."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "Year on year",
+      "definition": "A comparison with the same period a year earlier, such as July–September this year versus July–September last year.",
+      "more": "Companies and governments usually compare a quarter's numbers with the same quarter of the previous year, called year on year or YoY. This avoids being misled by seasons: a sweet shop always sells more around Diwali, so comparing October with July would be unfair, but comparing this October with last October is fair. When a report says 'profit rose 6% year on year', it means profit was 6% higher than in the same quarter last year. You may also see 'quarter on quarter', which compares with the previous three months."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "EBIT margin",
+      "definition": "The share of revenue left as operating profit, before interest and taxes.",
+      "more": "EBIT stands for earnings before interest and taxes: what a company earns from its main business after running costs, but before paying loan interest and tax. The EBIT margin shows this as a percentage of revenue. A 14.8% margin means about ₹14.80 of operating profit on every ₹100 of sales. It's like a tea stall owner working out how much of each ₹10 cup is left after milk, tea, sugar and wages. Rising margins suggest a company is running more efficiently."
+    },
+    {
+      "term": "Free cash flow",
+      "definition": "The cash a company has left after paying its running costs and its spending on new factories and equipment.",
+      "more": "Profit on paper is not the same as cash in the bank. Free cash flow measures the actual money left over after a company pays its bills and invests in its business. It is like a family's monthly salary minus household bills, EMIs and the cost of a new fridge: what remains can be saved or used to clear debt. A company with negative free cash flow is spending more cash than it brings in and may need to borrow. Investors watch it closely because cash pays for dividends, debt repayment and growth."
+    },
+    {
+      "term": "Restructuring",
+      "definition": "A big reorganisation of a company's business, such as closing units, cutting jobs or changing what it makes, usually to cut costs.",
+      "more": "Companies restructure when parts of the business are losing money or when they want to change direction. The process usually costs money at the start: redundancy payments, closing factories, or writing down old products. These costs are often shown as an exceptional item. Think of a shop owner who knocks down an old counter and rebuilds the store layout: business suffers for a while, but the hope is that the shop runs better afterwards. In news reports you will see 'restructuring charge' or 'restructuring costs', which often turn a quarter's profit into a loss."
+    },
+    {
+      "term": "EBITDA",
+      "definition": "A company's earnings before interest, taxes, depreciation and amortisation: roughly, the profit from its day-to-day business.",
+      "more": "EBITDA strips out costs that depend on how a company is funded or taxed, like interest on loans and wear and tear on machines, to show how much the core business earns. The EBITDA margin is EBITDA as a share of revenue. If a tea company sells ₹100 worth of goods and keeps ₹14 after paying for tea leaves, salaries, transport and advertising, its EBITDA margin is 14%. Investors watch margins closely, because a company can sell more and still earn less if its costs rise faster. Results reports often say margins 'expanded' or 'contracted' by some basis points."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "52-week low",
+      "definition": "The lowest price a share or index has traded at over the past year.",
+      "more": "The 52-week low is the cheapest a share has been in the last 52 weeks, or one year. Its opposite is the 52-week high. News reports mention it because touching a one-year low often signals that investors have become pessimistic about a company or industry. But cheap doesn't automatically mean good value: a share can keep falling after hitting a 52-week low. Think of it like the lowest price you've seen for onions all year; it tells you where prices are, not where they will go next."
+    },
+    {
+      "term": "Markup",
+      "definition": "The extra amount a seller adds on top of what an item cost them, to cover costs and make a profit.",
+      "more": "If a chemist buys a strip of tablets for ₹100 and sells it for ₹116, the markup is 16%. Every shop does this, from a kirana store to a car dealer. In healthcare, markups matter because patients often cannot shop around, especially in an emergency or inside a hospital. That is why courts and governments sometimes look at whether markups on medicines and medical supplies are fair. When the news mentions a cap or a uniform markup, it means a limit on how much extra a seller can charge."
+    },
+    {
+      "term": "Correction",
+      "definition": "A fall of 10% or more in a share or index from its most recent peak.",
+      "more": "Market watchers use 'correction' as a label for a meaningful fall: at least 10% below the latest high, but less than the 20% that is usually called a 'bear market'. The word suggests prices had run up too far and are 'correcting'. It's like a vegetable price that shot up during a shortage and then drops back once supply returns. Corrections are common, and many happen without any recession. In the news you'll read that an index has 'entered correction territory' on the day it closes 10% below its peak."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure, released quickly, that may be revised slightly later.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. For example, Wednesday's rupee close was first reported as 94.58 per dollar but finally came in at 94.46. It's like an exam's provisional result, which can change slightly after rechecking. The differences are usually small, so provisional figures are still a good guide."
+    },
+    {
+      "term": "Rupee appreciation",
+      "definition": "When the rupee gets stronger against another currency, so fewer rupees are needed to buy one dollar.",
+      "more": "If the rate moves from 94.19 to 93.92 rupees per dollar, the rupee has appreciated: one dollar now costs 27 paise less. This happens when more dollars flow into India, for example when foreign investors buy Indian shares, or when India needs fewer dollars, for example when oil gets cheaper. A stronger rupee makes imports, foreign travel and overseas education slightly cheaper. It earns IT and other exporters slightly fewer rupees for each dollar. Daily moves are usually small, and the RBI steps in when moves become sharp."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "IEA",
+      "definition": "The International Energy Agency, a Paris-based body that tracks world oil and energy supply and demand and publishes regular forecasts.",
+      "more": "The IEA was set up after the 1970s oil crisis to help countries prepare for supply shocks. India is an associate member. Every month it publishes an oil market report estimating how much oil the world will produce and use. Traders read these reports closely: if the IEA says supply will exceed demand, prices tend to fall, and if it warns of a shortage, prices tend to rise. It is like a weather forecast for the oil market. Its forecasts are often revised as events change."
+    },
+    {
+      "term": "Supply surplus",
+      "definition": "When more of something is being produced than buyers want, which usually pushes its price down.",
+      "more": "In the oil market, a surplus means the world is pumping more barrels each day than it is using, so unsold oil piles up in storage tanks. Sellers then cut prices to find buyers. It is like a bumper tomato harvest: when mandis are overflowing, the price per kilo drops. The opposite, a deficit, pushes prices up. Forecasts of a surplus can lower oil prices even before the extra oil arrives, because traders act on expectations. A surplus is usually good news for oil-importing countries such as India."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    }
+  ]
+}
