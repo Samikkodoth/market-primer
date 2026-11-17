@@ -1,0 +1,656 @@
+{
+  "date": "2026-11-17",
+  "session_label": "Tuesday 17 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex rose 427 points to 82,532 and the Nifty ended at 25,387 as banks led and the Nifty Bank index closed at a record high, while IT shares slipped on new US curbs on AI chips for China; Reuters reported SEBI may limit borrowing to buy shares, and the rupee rose 43 paise to 93.51.",
+  "mood": "Steady",
+  "mood_note": "Indian shares rose for a second day, led by banks, even as technology shares fell in the US and Asia. But the gains were narrow: slightly more NSE shares fell than rose, and smaller companies were flat to lower.",
+  "reading_minutes": 11,
+  "since_yesterday": [
+    "On Monday we reported the rupee at 93.92 per dollar (provisional). PTI now gives Monday's final close as 93.94.",
+    "Exchange data showed foreign investors bought ₹4,864.68 crore of Indian shares, net, on Monday.",
+    "On Monday we reported Nvidia's results were due on Tuesday. Before them, Nvidia's shares fell 4.1% on Monday after reports that its board was not considering bringing back Jensen Huang as chief executive."
+  ],
+  "one_minute": [
+    "The Sensex rose 427.40 points (0.52%) to 82,532.19 and the Nifty 50 rose 96.30 points (0.38%) to 25,387.40, led by bank shares.",
+    "The Nifty Bank index rose 1.13% to a record close of 62,273.25; PSU banks rose 1.95% and realty 1.94%, while the Nifty IT index fell 0.90%.",
+    "Reuters reported SEBI may stop new margin-funded buying in a share once such holdings hit 5% to 10% of its free float; margin-funded bets have reached ₹1.53 lakh crore.",
+    "The US tightened rules on AI chips reaching China through overseas data centres; Asian tech shares fell after the Nasdaq dropped 2.49% on Monday, ahead of Nvidia's results.",
+    "The rupee rose 43 paise to 93.51 per dollar (provisional), and Brent crude traded near $92 a barrel."
+  ],
+  "big_picture": "For the second day running, India went one way while global technology shares went the other. In the US and Asia, investors sold chip and AI-related shares after the US tightened rules on advanced AI chips reaching China, and ahead of Nvidia's results. India has few such companies, and foreign investors kept buying Indian shares, especially big banks.\n\nThat foreign money, a record $9.53 billion so far in November, has lifted both the share market and the rupee. Oil near $92 a barrel, well below last month's levels, has helped too.\n\nTwo cautions sit under the surface. Inflation is above the RBI's comfort range, and many expect another interest rate rise in December. And SEBI is reportedly worried about how much borrowed money ordinary investors are using to buy shares, especially in smaller companies.",
+  "chain": [
+    {
+      "label": "US tightens chip rules",
+      "note": "New US rules require data centres in five countries to get licences for advanced AI chips, to stop Chinese firms renting that power."
+    },
+    {
+      "label": "Global tech sell-off",
+      "note": "The Nasdaq fell 2.49% on Monday and Asian technology shares fell on Tuesday, ahead of Nvidia's results."
+    },
+    {
+      "label": "Money looks to India",
+      "note": "Foreign investors bought ₹4,864.68 crore of Indian shares on Monday and $9.53 billion so far in November, reports said."
+    },
+    {
+      "label": "Banks lead the rise",
+      "note": "The Nifty Bank index closed at a record 62,273.25 and the Sensex rose 427.40 points, while IT shares slipped."
+    },
+    {
+      "label": "Rupee strengthens",
+      "note": "Foreign money and oil near $92 helped the rupee rise 43 paise to 93.51 per dollar (provisional)."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "82,532.19",
+      "change": "+427.40 (+0.52%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It rose as high as 82,897.49 during the day."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,387.40",
+      "change": "+96.30 (+0.38%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. Reports called this its highest level in about nine months."
+    },
+    {
+      "name": "Nifty Bank",
+      "value": "62,273.25",
+      "change": "+697.35 (+1.13%)",
+      "direction": "up",
+      "what_it_is": "This tracks the biggest listed banks. It closed at its highest level ever."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "about +0.3%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies. Reports put its gain at 0.25% to 0.3%."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "-0.22%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller companies. It slipped even as the big indices rose."
+    },
+    {
+      "name": "Nifty PSU Bank",
+      "value": "",
+      "change": "+1.95%",
+      "direction": "up",
+      "what_it_is": "This tracks government-owned banks. It was the best-performing sector today."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "-0.90%",
+      "direction": "down",
+      "what_it_is": "This tracks IT services companies such as Infosys and HCL Tech. It was the weakest sector today."
+    },
+    {
+      "name": "India VIX",
+      "value": "15.51",
+      "change": "-1.08%",
+      "direction": "down",
+      "what_it_is": "A measure of how much traders expect the Nifty to swing over the next month. Lower means calmer."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "93.51",
+      "change": "+43 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "about $92",
+      "change": "eased",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil. PTI reported $92.68 in the evening."
+    },
+    {
+      "name": "FII net buying (Monday)",
+      "value": "₹4,864.68 crore",
+      "change": "net bought",
+      "direction": "up",
+      "what_it_is": "How much more foreign investors bought than sold in Indian shares on Monday."
+    },
+    {
+      "name": "Nasdaq (Monday, US)",
+      "value": "24,509.76",
+      "change": "-2.49%",
+      "direction": "down",
+      "what_it_is": "The main US index for technology companies. It fell sharply as AI-linked shares were sold."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-427-nifty-25387-nifty-bank-record-high",
+      "category": "Stock market",
+      "title": "Sensex rises 427 points to 82,532 and Nifty ends at 25,387 as banks lead; Nifty Bank closes at a record high, but IT shares slip",
+      "tldr": "The Sensex rose 427.40 points, or 0.52%, to 82,532.19 and the Nifty 50 rose 96.30 points, or 0.38%, to 25,387.40, a second day of gains. Bank shares led, and the Nifty Bank index closed at a record 62,273.25. IT shares fell on worries about global tech stocks, and slightly more shares fell than rose across the market.",
+      "what_happened": "The Sensex closed 427.40 points, or 0.52%, higher at 82,532.19, PTI reported. At its best point in the day it was up 792.7 points at 82,897.49. The Nifty 50 rose 96.30 points, or 0.38%, to 25,387.40, which reports described as the Nifty's highest level in about nine months.\n\nBanks did the heavy lifting. The Nifty Bank index rose 697.35 points, or 1.13%, to 62,273.25, its highest close ever, IIFL Securities reported. The Nifty PSU Bank index, which tracks government-owned banks, rose 1.95% and the Nifty Realty index 1.94%. Axis Bank rose 1.98%. Among other Nifty 50 shares, Adani Enterprises rose 3.24%, Eicher Motors 3.01% and Asian Paints 2.02%.\n\nOn the other side, the Nifty IT index fell 0.90%. HCL Technologies fell 2.09% and Infosys 1.32%. Power Grid, HDFC Life, ONGC and Coal India each fell about 1.5% to 1.6%.\n\nThe wider market was mixed. The Nifty Midcap 100 rose about 0.3%, while the Nifty Smallcap 100 fell 0.22%. On the NSE, 2,012 shares rose and 2,148 fell. The India VIX, a fear gauge, fell 1.08% to 15.51.",
+      "simple_explanation": "The two headline numbers rose for a second day, mainly because bank shares went up.\n\nBanks are the biggest group of companies in the Sensex and Nifty, so when they rise, the headline numbers rise too. Today the main bank index reached its highest closing level ever.\n\nNot everything went up. IT companies such as Infosys and HCL Tech fell because technology shares around the world were being sold. And across all shares on the NSE, a few more fell than rose. So the big picture is: big banks did well, the rest was mixed.",
+      "analogy": "Think of a cricket team where the two openers both score centuries. The team total looks great even if a couple of middle-order batsmen got out cheaply. Today the banks were the openers, IT was the middle order that struggled, and the Sensex was the team total.",
+      "why": "Vinod Nair of Geojit Investments said Indian shares rose despite weak global markets because foreign investors kept buying, and they favoured large companies. He said banks led the gains, while IT lagged as investors around the world pulled back from expensive AI-related shares. Midcaps and smallcaps were subdued.\n\nReports also pointed to steady foreign buying and oil prices staying near $92 a barrel. Foreign investors have put a record $9.53 billion into Indian shares so far in November, IIFL Securities reported, and the Sensex and Nifty have each risen about 10% this month.\n\nNair added a note of caution: inflation is above the RBI's comfort range, and many expect another interest rate rise in December, which he said could limit how far share prices rise.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund or a large-company SIP, its value rose by a little under half a percent today. Banking funds did better. If you own an IT-focused fund, it probably slipped. One day's move means little for a long-term SIP.",
+        "markets": "A record for bank shares is a sign of confidence in lenders. Analysts are watching whether foreign buying continues and whether a possible RBI rate rise in December slows the rally.",
+        "economy": "Strong bank shares suggest investors expect banks to keep lending and earning well. Foreign money coming in also supports the rupee. Neither directly changes jobs or growth today.",
+        "prices": "No direct effect on everyday prices from the share market rise."
+      },
+      "watch": "Nvidia's results in the US, due after the US market closes on Tuesday (early Wednesday in India), whether foreign investors keep buying, and any signals ahead of the RBI's December policy meeting.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "Nifty Bank",
+        "Record high",
+        "Sectoral index",
+        "PSU bank",
+        "Realty",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "India VIX",
+        "FII",
+        "Net buyer",
+        "Large-cap",
+        "Inflation",
+        "Repo rate",
+        "Rate hike",
+        "Index fund",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine the Sensex as a big scoreboard that adds up the share prices of 30 of India's largest companies. Today the score went up by 427 points.\n\nThe biggest reason was banks. Banks are some of the largest companies on that scoreboard, and their share prices rose. One bank scoreboard, called the Nifty Bank, reached its highest score ever.\n\nComputer services companies like Infosys went down a little, because people around the world were selling technology shares. So it was a good day for banks and an okay day for the market overall, but not a great day for every company.",
+        "real_life": "Kavita, 31, is a nurse in Pune earning ₹45,000 a month. She puts ₹2,000 a month into a Nifty 50 index fund through an SIP. Her fund is now worth about ₹1.2 lakh.\n\nToday the Nifty rose 0.38%, so her fund gained roughly ₹450 on paper. She did nothing, and she does not need to. Some days her fund will fall by a similar amount.\n\nHer savings account and fixed deposit at the bank are not affected by bank shares rising. But if the RBI raises interest rates in December, as many expect, new FDs could offer a little more, and her brother's floating-rate home loan EMI could rise a little."
+      }
+    },
+    {
+      "id": "sebi-may-limit-margin-trading-mtf-leverage-record",
+      "category": "Regulation",
+      "title": "SEBI may limit borrowing to buy shares as margin-funded bets hit a record ₹1.53 lakh crore, Reuters reports",
+      "tldr": "India's market regulator SEBI is considering stopping new margin-funded purchases in a share once such borrowed holdings reach 5% to 10% of the shares available for trading, Reuters reported, citing two unnamed sources. Money borrowed from brokers to buy shares has risen to ₹1.53 lakh crore, up 29% in a year. SEBI has not confirmed the plan, and nothing is final.",
+      "what_happened": "Reuters reported that SEBI is weighing limits on margin trading, where investors borrow from their stockbroker to buy shares. Under the idea being discussed, no fresh margin-funded purchases would be allowed in a company's shares once margin-funded holdings reach 5% to 10% of its free float, the shares that are freely traded. The exact limit has not been decided, the sources said.\n\nThe total amount lent this way has reached ₹1.53 lakh crore (about $16.3 billion), up 29% from a year ago and nearly double its level at the end of 2024, Business Today reported, citing Reuters. About two-thirds is linked to small and medium-sized companies. At least 36 shares have margin-funded positions above 10% of their free float, and more than 220 are above 5%, according to exchange data.\n\nThe sources said SEBI is not trying to stop margin trading altogether and would publish proposals for public comment first. SEBI did not respond to Reuters' questions. Shares of brokers Angel One and Groww fell about 4% after the report, one market report said.",
+      "simple_explanation": "Some people buy shares with money borrowed from their stockbroker. They put in a little of their own cash, and the broker lends the rest, charging interest.\n\nThis kind of borrowing has grown a lot. Now about ₹1.53 lakh crore is lent this way. The worry is simple: if share prices fall, people who borrowed may be forced to sell quickly to repay the loan. If many do this at once, it can make prices fall even faster.\n\nSEBI, the market's rule-maker, is thinking about a limit. If too much of one company's tradable shares has been bought with borrowed money, new borrowing to buy that share could be stopped. It is only an idea for now.",
+      "analogy": "Imagine a crowded bus where many passengers are standing on one side. If the bus turns sharply, everyone leans together and the bus may tip. The conductor may say: no more people stand on this side. SEBI's idea is similar: stop more borrowed money piling into the same few shares.",
+      "why": "Reuters said the plan is driven by fast growth in margin trading, especially in smaller companies where a lot of borrowed money is concentrated. A source quoted by Reuters said rising retail participation needs extra risk management to stop any cascading effect.\n\nReuters also pointed to South Korea, where falling prices triggered widespread margin calls and regulators tightened rules on leveraged products. Brokers typically lend up to four times an investor's own money under this facility, at interest rates of about 9% to 18%, Business Today reported.",
+      "implications": {
+        "you": "If you invest through SIPs or buy shares with your own money, this would not affect you. If you use your broker's margin trading facility, you might find some shares you cannot buy on borrowed money in future. Borrowing at 9% to 18% to buy shares can magnify losses as well as gains.",
+        "markets": "Broker shares fell on the report, since margin lending earns them interest. Small companies with a lot of borrowed buying could see some of that demand dry up if limits come in.",
+        "economy": "The aim is to reduce the risk of a sudden chain of forced selling. There is no direct effect on jobs or growth.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Whether SEBI publishes a formal consultation paper, the final limit it proposes, and how brokers respond.",
+      "terms": [
+        "SEBI",
+        "Margin trading facility (MTF)",
+        "Leverage",
+        "Free float",
+        "Margin call",
+        "Brokerage",
+        "Consultation paper",
+        "Retail investor",
+        "Smallcap",
+        "Midcap"
+      ],
+      "explainers": {
+        "like12": "Imagine your friend lends you ₹300 so you can buy ₹400 of cricket cards instead of ₹100. If the cards become more valuable, you make a lot. But if their value drops, you still owe your friend ₹300, and he might ask for it back right away. You may have to sell the cards cheaply to pay him.\n\nSome grown-ups do the same with shares. They borrow from their stockbroker to buy more shares than they can afford. A lot of people are doing this now.\n\nSEBI is like the school principal who makes the rules. It is thinking of a rule that stops too much borrowed money going into the same company's shares, so one bad day does not turn into a big crash.",
+        "real_life": "Arjun, 27, is a software tester in Hyderabad earning ₹70,000 a month. He has ₹50,000 in a trading account and his broker offers to lend him up to four times that to buy shares, at about 15% interest.\n\nIf he borrows ₹1.5 lakh and buys ₹2 lakh of a small company's shares, a 10% rise earns him ₹20,000. But a 10% fall loses ₹20,000, which is 40% of his own money, and he still owes interest. If the fall is bigger, his broker may ask for more money quickly or sell his shares.\n\nIf SEBI's idea goes ahead, Arjun might not be allowed to use borrowed money for some heavily borrowed-into shares. His regular SIP and his bank savings would not be affected."
+      }
+    },
+    {
+      "id": "us-ai-chip-curbs-asia-tech-falls-wall-street-nvidia-results",
+      "category": "Global markets",
+      "title": "US tightens rules on AI chips reaching China; Asian tech shares and Wall Street fall ahead of Nvidia's results",
+      "tldr": "The US announced rules requiring data-centre operators in five countries to get licences for advanced AI chips, to stop Chinese firms renting that computing power. Asian technology shares fell, after the Nasdaq dropped 2.49% on Monday. Indian IT shares slipped too. Nvidia reports its results after the US market closes on Tuesday.",
+      "what_happened": "New US rules would require data-centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil to get licences to export advanced AI chips, Investing.com reported. The aim is to stop Chinese companies getting around existing limits by renting computing power from data centres outside China.\n\nAsian technology shares fell on Tuesday. During the day, the MSCI Asia Pacific technology index was down 3.6%, Investing.com reported. Chinese AI companies were hit hard, with Alibaba and Baidu among the fallers, Bloomberg reported.\n\nThis came after a sharp fall in the US on Monday. The Nasdaq Composite fell 2.49% to 24,509.76, the S&P 500 about 1.9% to 7,416.59 and the Dow Jones 1.41% to 51,608.17. Nvidia's shares fell 4.1%. Reports said its board had signalled it was not considering bringing back Jensen Huang, who resigned as chief executive last week.\n\nNvidia's quarterly results are due after the US market closes on Tuesday. AI company Anthropic is expected to price its share sale on Wednesday and start trading on Thursday, Investing.com reported.",
+      "simple_explanation": "The US government does not want China to get the most powerful AI chips. It already stopped selling them directly to China. But some Chinese companies were renting computers with those chips from data centres in other countries. The new rules try to close that gap.\n\nInvestors worried this could mean fewer sales for chip companies, at a time when they are already nervous about Nvidia after its boss quit. So they sold technology shares in the US and Asia.\n\nIndia has few chip companies, so the main Indian effect was a small fall in IT services companies like Infosys and HCL Tech, which also depend on global technology spending.",
+      "analogy": "Imagine a school bans students from buying sweets at the canteen, but some keep sending a friend from another school to buy them. So the principal tells the other schools' canteens: no selling to our students either. The sweet shop owners worry about lost sales, even if most of their customers are elsewhere.",
+      "why": "Reports linked the falls to worries over AI share prices that had risen very high, the new chip rules, and uncertainty at Nvidia ahead of its results. Investors are watching whether Nvidia's results show that heavy spending on AI computing can continue next year, Investing.com reported.\n\nMarkets are also increasingly expecting the US Federal Reserve to raise interest rates next month, which can make investors more cautious about expensive shares.",
+      "implications": {
+        "you": "If you own an international or US technology fund, its value has likely fallen over the last few days. Indian index funds were not hurt today. An IT-focused Indian fund may have slipped a little.",
+        "markets": "Nvidia's results could move global tech shares sharply either way on Wednesday morning, India time. Indian IT shares may react to them too.",
+        "economy": "Little direct effect on India's economy. If foreign investors keep moving money away from AI shares and into markets like India, that supports the rupee.",
+        "prices": "No effect on everyday prices in India."
+      },
+      "watch": "Nvidia's results and outlook, China's response to the new rules, and the Anthropic share sale later this week.",
+      "terms": [
+        "Export controls",
+        "Nvidia",
+        "AI trade",
+        "Semiconductor",
+        "Data centre",
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "IT services",
+        "IPO",
+        "Federal Reserve",
+        "Interim CEO"
+      ],
+      "explainers": {
+        "like12": "Some computer chips are so powerful they can run artificial intelligence, like chatbots that answer questions. The best ones are made by an American company called Nvidia.\n\nThe US government does not want China to have these chips, so it banned selling them there. But some Chinese companies found a trick: they rented computers with those chips in other countries. Now the US has made new rules to stop that trick.\n\nPeople who own shares in chip and tech companies got worried about losing sales, so they sold shares. Tech shares fell in America and across Asia. India has very few chip companies, so it was only lightly affected.",
+        "real_life": "Suresh, 45, is a bank clerk in Lucknow earning ₹55,000 a month. Last year his daughter suggested he put ₹30,000 into a US technology fund, and he still does a ₹4,000 SIP in an Indian Nifty 50 fund.\n\nOver the last few days, his US fund has likely lost value as Nvidia and other tech shares fell. His Nifty fund, on the other hand, rose today.\n\nThis shows how money spread across different places can behave differently. It is not a sign that one kind of fund is always better. Suresh's salary, his bank's interest rates and his household costs do not change because of the US chip rules."
+      }
+    },
+    {
+      "id": "rupee-rises-43-paise-93-51-oil-near-92",
+      "category": "Rupee & oil",
+      "title": "Rupee gains 43 paise to 93.51 per dollar as foreign money flows in and oil stays near $92",
+      "tldr": "The rupee rose 43 paise to 93.51 against the US dollar (provisional), helped by lower oil prices, rising Indian shares and foreign money coming in, PTI reported. Brent crude, the global oil benchmark, traded at about $92 a barrel.",
+      "what_happened": "The rupee closed at 93.51 per dollar (provisional), 43 paise stronger than Monday's close of 93.94, PTI reported. It opened at 93.72 and moved between 93.40 and 93.73 during the day.\n\nForex traders credited lower crude oil prices, gains in Indian shares and inflows of foreign money, PTI reported, while a firm dollar and high US bond yields limited the rise. Anuj Choudhary of Mirae Asset Sharekhan expects the dollar to trade between ₹93.20 and ₹93.75 in the near term.\n\nBrent crude traded at about $92 a barrel. It was $92.68 in the evening, PTI reported. Reports said expectations of a global supply surplus and recovering Middle East exports kept prices in check, though attacks on oil tankers kept some worry alive.\n\nForeign investors bought ₹4,864.68 crore of Indian shares, net, on Monday, according to exchange data reported by PTI.",
+      "simple_explanation": "The rupee got stronger today. One dollar now costs about ₹93.51, down from ₹93.94 yesterday.\n\nTwo things helped. First, foreign investors are buying Indian shares, and to do that they swap dollars for rupees, which increases demand for the rupee. Second, oil stayed cheaper than it was a few weeks ago. India buys most of its oil from abroad and pays in dollars, so cheaper oil means India needs fewer dollars.\n\nA 43-paise move is a decent gain for one day, but the rupee is still much weaker than it was earlier this year.",
+      "analogy": "Think of the rupee like the price of a popular festival item at a market. When lots of buyers come looking for it, its price rises. Today foreign investors came to India wanting rupees, so the rupee's 'price' in dollars went up.",
+      "why": "Strong foreign buying of Indian shares has been the main support for the rupee this month, with foreign investors putting a record $9.53 billion into Indian shares in November so far, IIFL Securities reported. Lower oil prices also reduce India's need for dollars.\n\nOn the other side, the US dollar was firm and US bond yields were high, which tends to pull money towards the US and limited the rupee's rise, PTI reported.",
+      "implications": {
+        "you": "A stronger rupee makes foreign holidays, imported gadgets and overseas tuition fees slightly cheaper. A 43-paise move is small: on a $2,000 expense it saves about ₹860. Petrol and diesel pump prices do not change daily with crude.",
+        "markets": "A stronger rupee slightly reduces what IT exporters earn in rupees. Cheaper oil helps airlines, paint makers and tyre companies, which use a lot of oil-based inputs.",
+        "economy": "Lower oil and a firmer rupee reduce India's import bill and ease pressure on inflation, which was 6.09% in October. That matters ahead of the RBI's December meeting.",
+        "prices": "If oil and the rupee stay at these levels for weeks, some imported goods and transport could become a little cheaper over time. One day's move has little effect."
+      },
+      "watch": "Whether foreign money keeps flowing in, oil prices, and how the dollar reacts to Nvidia's results and US interest rate expectations.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Rupee appreciation",
+        "Brent crude",
+        "Barrel",
+        "Supply surplus",
+        "US Treasury yield",
+        "Import bill",
+        "FII"
+      ],
+      "explainers": {
+        "like12": "Money from different countries can be swapped. Today, to get one US dollar, you needed about ₹93.51. Yesterday you needed ₹93.94. So the rupee got a little stronger, because you need fewer rupees for the same dollar.\n\nWhy? Lots of people from other countries want to buy shares of Indian companies. To do that, they must change their dollars into rupees. When many people want rupees, the rupee becomes more valuable.\n\nAlso, India buys a lot of oil from other countries and pays in dollars. Oil has become cheaper, so India needs fewer dollars, which also helps the rupee.",
+        "real_life": "Fatima, 29, is a graphic designer in Kochi earning ₹50,000 a month. She is saving for a trip to Dubai next year and plans to spend about $1,500 there.\n\nAt yesterday's rate of 93.94, that would cost about ₹1,40,910. At today's 93.51, it costs about ₹1,40,265, around ₹645 less. That is a small saving, and the rate will move many times before her trip.\n\nFor her day-to-day life, the rupee's move today makes little difference. Her rent, groceries and phone bill are in rupees. Petrol prices are set by oil companies and do not change with daily currency moves."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Margin trading facility (MTF)",
+    "explanation": "A margin trading facility is a loan from your stockbroker that lets you buy more shares than your own cash would allow. You pay part of the price, the broker pays the rest, and you pay interest on what the broker lent. The shares you buy are held as security for the loan.\n\nThis is a form of leverage, and it works in both directions. If the shares rise, your gain on your own money is bigger than it would have been without the loan. If they fall, your loss is bigger too, and you still owe the loan and the interest.\n\nIf prices fall far enough, the broker will ask you to add money quickly, called a margin call. If you cannot, the broker can sell your shares to recover the loan, often at a bad price. When many borrowers are forced to sell at once, prices can fall faster.\n\nMargin trading is legal and regulated by SEBI. Rules on how much brokers can lend, and on which shares, change from time to time.",
+    "example": "Today Reuters reported that margin-funded bets in India have reached ₹1.53 lakh crore, up 29% in a year, with about two-thirds linked to small and medium-sized companies. Brokers typically lend up to four times an investor's own money at about 9% to 18% interest. SEBI is reportedly considering stopping new margin-funded buying in a share once such holdings reach 5% to 10% of its free float.",
+    "takeaway": "Margin trading means buying shares with borrowed money. It magnifies gains and losses, and a falling market can force borrowers to sell."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Tuesday?",
+      "options": [
+        "Down 427.40 points",
+        "Up 427.40 points, or 0.52%",
+        "Up 792.7 points",
+        "Flat"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose 427.40 points, or 0.52%, to 82,532.19. It had been up 792.7 points at its highest point in the day."
+    },
+    {
+      "q": "Which index closed at its highest level ever today?",
+      "options": [
+        "Nifty IT",
+        "Nifty Smallcap 100",
+        "Nifty Bank",
+        "Nasdaq"
+      ],
+      "answer": 2,
+      "why": "The Nifty Bank index rose 1.13% to 62,273.25, a record close. Nifty IT and the smallcap index fell, and the Nasdaq fell on Monday."
+    },
+    {
+      "q": "What is a margin trading facility?",
+      "options": [
+        "A government savings scheme",
+        "A loan from your broker to buy more shares than your own cash allows",
+        "A type of fixed deposit",
+        "A tax on share trading"
+      ],
+      "answer": 1,
+      "why": "Under MTF, the broker lends part of the money to buy shares, charges interest, and holds the shares as security."
+    },
+    {
+      "q": "Why did Indian IT shares such as HCL Tech and Infosys fall?",
+      "options": [
+        "The RBI raised rates today",
+        "Technology shares were being sold around the world amid AI worries and new US chip rules",
+        "Oil prices jumped",
+        "The rupee weakened sharply"
+      ],
+      "answer": 1,
+      "why": "Global technology shares fell after the Nasdaq dropped 2.49% and the US tightened AI chip rules. Analysts said IT lagged as investors unwound expensive AI trades."
+    },
+    {
+      "q": "The rupee moved from 93.94 to 93.51 per dollar. What does that mean?",
+      "options": [
+        "The rupee got weaker",
+        "The rupee got stronger",
+        "Nothing changed",
+        "Petrol prices fell"
+      ],
+      "answer": 1,
+      "why": "A lower number means one dollar costs fewer rupees, so the rupee strengthened by 43 paise."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Daily Jagran (PTI): Sensex climbs 427 points, Nifty hits 25,387: what's driving the market rally",
+      "url": "https://thedailyjagran.com/business/news/sensex-climbs-427-points-nifty-hits-25387-whats-driving-the-market-rally-10336608"
+    },
+    {
+      "title": "Business Standard: Stock Market Close: Sensex ends 427 pts up as rally extends to 2nd day, Nifty at 25,387; banks shine",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html"
+    },
+    {
+      "title": "IIFL Securities: Closing Bell: Nifty gains to 25,387 as Bank Nifty hits record high; crude eases near $92",
+      "url": "https://www.indiainfoline.com/news/markets/closing-bell-nifty-gains-to-25387-as-bank-nifty-hits-record-high-crude-eases-near-92"
+    },
+    {
+      "title": "HDFC Sky: Market close report, November 17, 2026",
+      "url": "https://hdfcsky.com/news/market-close-report-today-november-17-2026-nifty-sensex-continue-climb-as-investors-dump-global-ai-stocks-for-india"
+    },
+    {
+      "title": "Zee Business: Sensex, Nifty50 extend gains; Nifty Bank scales record closing high",
+      "url": "https://www.zeebiz.com/market-news/news-sensex-nifty50-niftybank-rise-for-3rd-day-in-a-row-share-market-highlights-405667"
+    },
+    {
+      "title": "Tennews: Nifty hits 9-month high, Bank Nifty scales record peak as market rally extends",
+      "url": "https://tennews.in/nifty-hits-9-month-high-bank-nifty-scales-record-peak-as-market-rally-extends/"
+    },
+    {
+      "title": "Business Standard (Reuters): Sebi may limit margin-funded stock purchases as retail leverage hits record",
+      "url": "https://www.business-standard.com/markets/news/sebi-may-limit-margin-funded-stock-purchases-as-retail-leverage-hits-record-126111700421_1.html"
+    },
+    {
+      "title": "Business Today: SEBI mulls limits on margin trading as retail leverage hits Rs 1.53 lakh crore",
+      "url": "https://www.businesstoday.in/markets/trending-stocks/story/sebi-mulls-limits-on-margin-trading-as-retail-leverage-hits-rs-1-53-lakh-crore-says-report-567824-2026-11-17"
+    },
+    {
+      "title": "Kotak Neo: SEBI may restrict margin trading in over 220 stocks as MTF positions hit ₹1.53 lakh crore",
+      "url": "https://www.kotakneo.com/news/regulations/sebi-may-restrict-margin-trading-as-mtf-exposure-rises/"
+    },
+    {
+      "title": "Investing.com: Asia stocks slide as U.S. tightens AI chip curbs ahead of Nvidia results",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-us-tightens-ai-chip-curbs-ahead-of-nvidia-results-5031571"
+    },
+    {
+      "title": "Bloomberg: Alibaba, Z.AI, Baidu among Chinese AI stocks hit by sweeping US chip curbs",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/alibaba-z-ai-baidu-among-chinese-ai-stocks-hit-by-sweeping-us-chip-curbs"
+    },
+    {
+      "title": "Business Standard: Asian shares fall as US tightens curbs on China's access to AI chips",
+      "url": "https://www.business-standard.com/markets/news/asian-shares-fall-as-us-tightens-curbs-on-china-s-access-to-ai-chips-126111700065_1.html"
+    },
+    {
+      "title": "WTOP (AP): How major US stock indexes fared Monday 11/16/2026",
+      "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-monday-11-16-2026"
+    },
+    {
+      "title": "CNN: Stocks slide to kick off major week for Wall Street",
+      "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee rises 43 paise against US dollar on foreign inflows",
+      "url": "https://www.deccanherald.com/business/markets/rupee-rises-43-paise-to-close-at-9351-against-us-dollar-4221300"
+    },
+    {
+      "title": "HDFC Sky (PTI): Rupee rises 43 paise to 93.51 against US dollar",
+      "url": "https://hdfcsky.com/news/rupee-rises-43-paise-to-close-at-93-51-provisional-against-us-dollar"
+    },
+    {
+      "title": "YourStory: RBI hikes interest rate for the first time in nearly four years, signals more to come",
+      "url": "https://yourstory.com/2026/10/rbi-hikes-interest-rate-for-the-first-time-in-nearly-four-years-signals-more-to-come"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "Nifty Bank",
+      "definition": "An index of the biggest banks listed on the NSE. People also call it Bank Nifty.",
+      "more": "The Nifty Bank index tracks around a dozen of India's largest listed banks, both private and government-owned, weighted by size. Because banks such as HDFC Bank and ICICI Bank are huge, this index is closely watched as a reading of how investors feel about lending and the economy. Think of it as the 'banking class' report card inside the wider school. News reports often quote it next to the Sensex and Nifty, for example 'Bank Nifty fell below 55,000', because banks make up a large slice of both headline indices."
+    },
+    {
+      "term": "Record high",
+      "definition": "The highest level a share price or index has ever reached, also called an all-time high.",
+      "more": "When reports say an index hit a record high, it means its number has never been higher since it was created. A 'record closing high' means the highest level at the end of a trading day, while an 'intraday record' means the highest point touched during trading, even if it slipped back before the close. It's like a batsman's highest-ever score. A record high shows how far prices have come, but it does not tell you whether they will keep rising. Markets often pause or fall back after records as some investors take profits."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Realty",
+      "definition": "Short for real estate: companies that build and sell homes, offices and malls.",
+      "more": "Realty companies such as DLF, Godrej Properties and Lodha build housing and commercial property. The Nifty Realty index tracks the listed ones. Their shares are very sensitive to interest rates, because most homebuyers take loans: when EMIs rise, fewer people buy flats. They also swing a lot because their profits arrive in lumps as projects are completed. It's like a mango seller whose income depends on one season. News reports often say 'realty stocks led the fall' on days when worries about rates or inflation rise."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A measure of how many shares rose compared with how many fell on a given day.",
+      "more": "Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, shows whether a move is broad or narrow. On Thursday, 2,868 BSE shares rose and 1,384 fell, so breadth was positive, but less lopsided than the index's 2.6% jump might suggest. It's like checking whether a whole class did better in an exam, not just the toppers. Analysts often say a rally is healthier when breadth is strong."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "Net buyer",
+      "definition": "An investor, or group of investors, who bought more shares than they sold over a period.",
+      "more": "Big investors buy and sell every day. Being a 'net buyer' means that after adding up all the buying and subtracting all the selling, the buying was bigger. If foreign investors bought ₹10,000 crore of shares and sold ₹4,000 crore, they were net buyers of ₹6,000 crore. It is like a shopkeeper who takes in more stock than he sells in a week: his shelves fill up. News reports use this to show which way big money is flowing. Steady net buying tends to support share prices; steady net selling tends to weigh on them."
+    },
+    {
+      "term": "Large-cap",
+      "definition": "A very big listed company, usually one of the 100 largest in India by market value.",
+      "more": "Shares are often grouped by company size. Large-caps are the biggest, best-known companies, such as HDFC Bank, Reliance or Infosys. In India, SEBI's rules treat the top 100 companies by market value as large-caps, the next 150 as midcaps and the rest as smallcaps. Large-caps tend to move less wildly than small ones and are favoured by foreign investors, who need to buy in big amounts. Think of them as the big department stores on a busy road. When reports say a rally was 'concentrated in large-caps', the biggest names rose while smaller ones lagged."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The rate at which prices of everyday goods and services rise, so the same money buys less over time.",
+      "more": "Inflation is usually measured by the Consumer Price Index, which tracks the prices of a basket of goods like food, fuel, rent and clothing. If inflation is 5%, something that cost ₹100 last year costs about ₹105 now. It's why your grandparents remember cinema tickets costing a few rupees. Mild inflation is normal, but high inflation hurts savers and people on fixed incomes. News reports quote the monthly CPI figure, and the RBI watches it closely when setting interest rates."
+    },
+    {
+      "term": "Repo rate",
+      "definition": "The interest rate at which the RBI lends money to banks. It is India's main policy interest rate.",
+      "more": "When the RBI changes the repo rate, banks' own borrowing costs change, and they usually adjust the rates on loans and deposits. Many home loans are directly linked to the repo rate, so their EMIs move soon after a change. It's like the wholesale price of milk: when it rises, the tea stall's chai eventually costs more. The RBI raises the repo rate to fight inflation and cuts it to encourage borrowing and growth. News reports announce changes in basis points, such as 'a 25 bps hike'."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Index fund",
+      "definition": "A mutual fund that simply copies an index such as the Nifty 50, holding the same shares in the same proportions.",
+      "more": "An index fund does not try to pick winners. If the Nifty 50 rises 0.58% in a day, a Nifty 50 index fund rises by roughly the same amount, minus small costs. It is like ordering a fixed thali instead of choosing dishes: you get a bit of everything on the menu. Because nobody is paid to pick shares, fees are usually low. Many people invest in index funds through monthly SIPs. When the news says 'the Nifty rose', index fund investors can expect their holding to have moved in the same direction."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "SEBI",
+      "definition": "The Securities and Exchange Board of India, the regulator of India's stock markets.",
+      "more": "SEBI makes and enforces the rules for stock exchanges, brokers, mutual funds, listed companies and IPOs. Its job is to protect investors and keep markets fair. It can fine companies, ban traders and change how trading or account-opening works. Think of it as the umpire in a cricket match: it doesn't play, but it makes sure everyone follows the rules. SEBI announces changes through documents called circulars, and news reports usually explain who is affected and from when."
+    },
+    {
+      "term": "Margin trading facility (MTF)",
+      "definition": "A loan from a stockbroker that lets you buy shares worth more than the cash you have, with the shares kept as security.",
+      "more": "Under a margin trading facility, you pay part of the price of shares and your broker lends the rest, charging interest on the loan. The shares you buy are pledged to the broker as security. If prices rise, your gain is bigger than it would be with your own money alone. If prices fall, your loss is bigger too, and you may have to add cash quickly. It's like buying a scooter mostly on a loan: if its resale value falls, you still owe the full loan plus interest. News reports often quote the total 'MTF book', the amount lent this way across the market."
+    },
+    {
+      "term": "Leverage",
+      "definition": "Using borrowed money to make a bigger investment than your own cash would allow.",
+      "more": "Leverage magnifies results in both directions. If you put in ₹25,000 of your own and borrow ₹75,000 to buy ₹1 lakh of shares, a 10% rise earns you ₹10,000, a 40% gain on your own money. But a 10% fall loses ₹10,000, which is 40% of your money, and you still owe interest on the loan. It's like a see-saw with a long lever: a small push at one end causes a big swing at the other. Regulators watch leverage closely because when many people borrow to buy, a fall in prices can force them all to sell at once."
+    },
+    {
+      "term": "Free float",
+      "definition": "The part of a company's shares that is available for the public to trade, leaving out shares held by promoters, the government and other locked-in holders.",
+      "more": "Not all of a company's shares change hands on the stock market. Founders and their families (promoters), governments or parent companies often hold large blocks that they rarely sell. The rest, which ordinary investors and funds trade every day, is the free float. If a company has 100 crore shares and promoters own 60 crore, its free float is about 40 crore shares. It's like a big shop where most stock is kept in the back storeroom and only what is on the shelves can be bought. Index providers and regulators often base their rules on free float rather than total shares."
+    },
+    {
+      "term": "Margin call",
+      "definition": "A demand from a broker for more money when the value of shares bought with borrowed money falls too far.",
+      "more": "When you buy shares with a margin loan, your broker needs the value of your shares to stay above a minimum level as security. If prices fall and your cushion shrinks too much, the broker issues a margin call: you must add cash or more shares quickly. If you cannot, the broker may sell your shares, often at a loss, to recover the loan. It's like a pawnbroker asking for more gold when the price of gold drops. When many investors get margin calls at once, forced selling can make a market fall faster, which is why regulators worry about it."
+    },
+    {
+      "term": "Brokerage",
+      "definition": "A firm that buys and sells shares for clients and publishes research and forecasts on companies.",
+      "more": "Brokerages such as Jefferies, Nomura or Motilal Oswal do two jobs. They carry out trades for investors, and their analysts study companies and publish reports with forecasts and views. When news reports say 'Jefferies expected sales of 585,000 units', they are quoting one of these forecasts. Brokerage forecasts are educated guesses, not guarantees, and different brokerages often disagree. For an ordinary reader, it helps to think of them as expert commentators, like cricket analysts predicting a score before an innings."
+    },
+    {
+      "term": "Consultation paper",
+      "definition": "A draft proposal a regulator publishes to collect comments from the public and industry before making a final rule.",
+      "more": "Before changing rules, regulators like IRDAI, SEBI and the RBI often publish a consultation paper explaining what they want to change and why, then invite feedback by a deadline. It's like a housing society circulating a draft of new parking rules before the committee votes on them. The final rule can differ from the draft. In the news, markets often react strongly to consultation papers anyway, because investors try to guess the final impact early. Always check the comment deadline and whether rules phase in over time."
+    },
+    {
+      "term": "Retail investor",
+      "definition": "An ordinary individual who buys shares with their own money, in small amounts.",
+      "more": "A retail investor is an everyday person, like a salaried employee or a shopkeeper, who invests their own savings. In an IPO, retail investors are those who apply for shares worth up to ₹2 lakh, and they get their own reserved quota so big investors cannot crowd them out. Retail investors also invest indirectly through mutual funds and SIPs. News reports often compare 'retail demand' with 'institutional demand'. A low retail subscription on the first day of an IPO is common, because many individuals apply on the last day."
+    },
+    {
+      "term": "Export controls",
+      "definition": "Government rules that limit or require licences for selling certain goods or technology to other countries.",
+      "more": "Governments use export controls to stop sensitive goods, such as weapons parts or advanced computer chips, from reaching countries they see as rivals. The US has used them for several years to limit China's access to the most powerful AI chips, made by companies like Nvidia. New rules can also cover indirect routes, such as data centres in other countries renting computing power to Chinese firms. It's like a shop being told it cannot sell a certain product to one customer, or to anyone who might pass it on to them. When such rules tighten, chipmakers' shares often fall."
+    },
+    {
+      "term": "Nvidia",
+      "definition": "A US company that designs the computer chips most widely used to build and run artificial intelligence (AI) systems.",
+      "more": "Nvidia began by making graphics chips for video games. Its chips turned out to be very good at the huge number of calculations AI needs, so tech giants have bought them in vast quantities. That made Nvidia one of the most valuable companies in the world. Its suppliers, such as chipmakers in Taiwan and memory makers in South Korea, rise and fall with it. So news about Nvidia, such as its quarterly earnings or a change in its leadership, can move share markets across Asia and the US within hours."
+    },
+    {
+      "term": "AI trade",
+      "definition": "Market shorthand for investors buying shares of companies expected to profit from artificial intelligence, such as chipmakers and big tech firms.",
+      "more": "For the past few years, many global investors put large sums into companies linked to AI: chip designers, chipmakers, memory makers, data-centre builders and the big US technology firms. This crowd of money is called the 'AI trade'. When it is popular, those shares rise fast. When doubts appear, they can fall together. It is like a crowded restaurant: when people start leaving, the queue disappears quickly. India has few large AI-linked listed companies, so money leaving the AI trade sometimes flows towards Indian shares instead."
+    },
+    {
+      "term": "Semiconductor",
+      "definition": "A computer chip, the tiny electronic part that powers phones, computers, cars and AI systems.",
+      "more": "Semiconductors, or chips, are made from materials like silicon that can control electricity very precisely. Memory chips store data, and processors do the calculations. AI data centres need huge numbers of advanced chips, so chip makers in South Korea, Taiwan, Japan and the US have boomed. Think of chips as the engines of the digital world. India mostly imports chips but is building its own factories. When investors worry that AI spending will slow, chip-maker shares are among the first to fall."
+    },
+    {
+      "term": "Data centre",
+      "definition": "A large building full of computers that store data and run online services, including AI systems.",
+      "more": "Every time you use a search engine, a UPI app or an AI chatbot, the work is done in a data centre: a warehouse-like building packed with servers, cooling systems and power lines. AI needs huge, power-hungry data centres, so tech companies have been spending heavily to build them, which has boosted chip makers. Because they use a lot of electricity, land and water, some local communities oppose them. It's like a giant kitchen that cooks for millions of customers at once. News about curbs on data centres can hit chip and tech shares worldwide."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that write software, run computer systems and provide tech support for clients, mostly abroad.",
+      "more": "India's IT services firms, such as TCS, Infosys, Wipro, HCLTech and Tech Mahindra, do technology work for banks, shops, airlines and governments around the world. Most of their revenue comes in dollars or euros, while most of their staff are paid in rupees. So a weaker rupee usually helps their profits. It's like a tailor in Tiruppur stitching for foreign buyers: paid in dollars, spending in rupees. IT firms are big parts of the Sensex and Nifty, so their results can move the whole market."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Interim CEO",
+      "definition": "A person who runs a company temporarily after the chief executive leaves, until a permanent replacement is chosen.",
+      "more": "The CEO, or chief executive officer, is the top boss who runs a company day to day. When a CEO leaves suddenly, the board usually asks a senior executive, often the finance chief, to take charge for a while. That person is called the interim CEO. It is like a vice-captain leading the cricket team when the captain is suddenly ruled out. Investors watch these changes closely, because a long search for a new leader can create uncertainty about the company's plans and strategy."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure, released quickly, that may be revised slightly later.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. For example, Wednesday's rupee close was first reported as 94.58 per dollar but finally came in at 94.46. It's like an exam's provisional result, which can change slightly after rechecking. The differences are usually small, so provisional figures are still a good guide."
+    },
+    {
+      "term": "Rupee appreciation",
+      "definition": "When the rupee gets stronger against another currency, so fewer rupees are needed to buy one dollar.",
+      "more": "If the rate moves from 94.19 to 93.92 rupees per dollar, the rupee has appreciated: one dollar now costs 27 paise less. This happens when more dollars flow into India, for example when foreign investors buy Indian shares, or when India needs fewer dollars, for example when oil gets cheaper. A stronger rupee makes imports, foreign travel and overseas education slightly cheaper. It earns IT and other exporters slightly fewer rupees for each dollar. Daily moves are usually small, and the RBI steps in when moves become sharp."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Supply surplus",
+      "definition": "When more of something is being produced than buyers want, which usually pushes its price down.",
+      "more": "In the oil market, a surplus means the world is pumping more barrels each day than it is using, so unsold oil piles up in storage tanks. Sellers then cut prices to find buyers. It is like a bumper tomato harvest: when mandis are overflowing, the price per kilo drops. The opposite, a deficit, pushes prices up. Forecasts of a surplus can lower oil prices even before the extra oil arrives, because traders act on expectations. A surplus is usually good news for oil-importing countries such as India."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    }
+  ]
+}
