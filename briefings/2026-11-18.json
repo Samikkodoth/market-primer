@@ -1,0 +1,772 @@
+{
+  "date": "2026-11-18",
+  "session_label": "Wednesday 18 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex fell 500 points to 82,031 and the Nifty slipped to 25,228 as investors booked profits after a strong November and worries about higher US interest rates grew; Titan fell nearly 5% as gold dropped below $3,800 an ounce, Nvidia's sales beat forecasts, and the rupee edged up 7 paise to 93.44.",
+  "mood": "Cautious",
+  "mood_note": "Indian shares fell after two days of gains as investors locked in profits from a strong month. The selling was broad: about two shares fell for every one that rose on the BSE, and midcaps fell more than the big indices.",
+  "reading_minutes": 12,
+  "since_yesterday": [
+    "Exchange data showed foreign investors bought ₹4,195.38 crore of Indian shares, net, on Tuesday, adding to Monday's buying.",
+    "On Tuesday we said Nvidia's results were due. They came out after the US market closed: revenue rose 103% to $115.8 billion, above forecasts.",
+    "Tuesday's record close for the Nifty Bank index did not hold: it slipped 0.38% today to 62,038.65."
+  ],
+  "one_minute": [
+    "The Sensex fell 500.38 points (0.61%) to 82,031.81 and the Nifty 50 fell 159.45 points (0.63%) to 25,227.95 as investors booked profits after a strong November.",
+    "Metal shares fell 2.46% and consumer durables more than 3%; the Nifty Midcap 100 fell 1.22%, and on the BSE 2,800 shares fell while 1,448 rose.",
+    "Gold fell below $3,800 an ounce for the first time since September 2025; Titan fell 4.82%, and gold-loan lenders Muthoot and Manappuram fell about 5%.",
+    "Nvidia's quarterly revenue rose 103% to $115.8 billion, beating forecasts, but worries about further US interest rate rises and a strong dollar kept markets cautious.",
+    "The rupee rose 7 paise to 93.44 per dollar (provisional) and Brent crude fell 1.26% to $91.97 a barrel; Crystal Crop Protection's IPO opened."
+  ],
+  "big_picture": "Indian shares have had a very strong November, helped by record foreign buying and cheaper oil. Today some investors took profits, and the market fell for the first time in three days.\n\nThe main worry came from the US. Officials at the US central bank have signalled that interest rates may rise again to fight inflation. That has made the US dollar stronger and pushed up bond yields, both in the US and in India. Higher rates make safe bonds more attractive compared with shares and gold.\n\nThat is also why gold has slipped to its lowest in more than a year, hurting jewellery companies and gold-loan lenders. On the positive side, Nvidia's strong results eased some worries about the AI boom, and oil near $92 a barrel, with steady foreign money, helped the rupee edge up.",
+  "chain": [
+    {
+      "label": "Fed signals more rate rises",
+      "note": "US Federal Reserve officials have warned inflation is still high, and traders expect a rate rise in December."
+    },
+    {
+      "label": "Dollar and yields climb",
+      "note": "The dollar index touched a 19-month high and the US 10-year yield was about 5.1%; Indian bond yields rose too."
+    },
+    {
+      "label": "Gold slides",
+      "note": "Gold, which pays no interest, fell below $3,800 an ounce, its lowest in more than a year."
+    },
+    {
+      "label": "Profits booked in India",
+      "note": "After a strong November rally, investors sold. The Sensex fell 500.38 points, led by metal and jewellery shares."
+    },
+    {
+      "label": "Rupee holds up",
+      "note": "Cheaper oil and foreign buying helped the rupee rise 7 paise to 93.44 per dollar (provisional)."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "82,031.81",
+      "change": "-500.38 (-0.61%)",
+      "direction": "down",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It fell as low as 81,780.47 during the day."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,227.95",
+      "change": "-159.45 (-0.63%)",
+      "direction": "down",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It ended a two-day rise."
+    },
+    {
+      "name": "Nifty Bank",
+      "value": "62,038.65",
+      "change": "-0.38%",
+      "direction": "down",
+      "what_it_is": "This tracks the biggest listed banks. It slipped a day after closing at a record high."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "60,974.45",
+      "change": "-1.22%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 medium-sized companies. It fell about twice as much as the big indices."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "19,331.95",
+      "change": "-0.34%",
+      "direction": "down",
+      "what_it_is": "This tracks 100 smaller companies."
+    },
+    {
+      "name": "Nifty Metal",
+      "value": "",
+      "change": "-2.46%",
+      "direction": "down",
+      "what_it_is": "This tracks metal companies. It was the weakest major NSE sector as world metal prices fell."
+    },
+    {
+      "name": "Nifty PSU Bank",
+      "value": "",
+      "change": "+0.59%",
+      "direction": "up",
+      "what_it_is": "This tracks government-owned banks. It was among the few sectors that rose, led by SBI."
+    },
+    {
+      "name": "India VIX",
+      "value": "15.53",
+      "change": "+0.06%",
+      "direction": "flat",
+      "what_it_is": "A measure of how much traders expect the Nifty to swing over the next month. It was almost unchanged."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "93.44",
+      "change": "+7 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$91.97",
+      "change": "-1.26%",
+      "direction": "down",
+      "what_it_is": "The international price of a barrel of oil, as reported by PTI during Indian trading."
+    },
+    {
+      "name": "Gold (international)",
+      "value": "$3,777.83",
+      "change": "nearly -2%",
+      "direction": "down",
+      "what_it_is": "The spot price of an ounce of gold, as reported by Trade Brains. Its lowest in more than a year."
+    },
+    {
+      "name": "FII net buying (Tuesday)",
+      "value": "₹4,195.38 crore",
+      "change": "net bought",
+      "direction": "up",
+      "what_it_is": "How much more foreign investors bought than sold in Indian shares on Tuesday."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-falls-500-nifty-25228-profit-booking",
+      "category": "Stock market",
+      "title": "Sensex falls 500 points to 82,031 and Nifty ends at 25,228 as investors book profits after a strong November; metal and jewellery shares lead losses",
+      "tldr": "The Sensex fell 500.38 points, or 0.61%, to 82,031.81 and the Nifty 50 fell 159.45 points, or 0.63%, to 25,227.95, ending a two-day rise. Investors sold to lock in gains after a sharp rally this month. Metal, consumer durables, auto and IT shares fell most, and about two shares fell for every one that rose on the BSE.",
+      "what_happened": "The Sensex closed 500.38 points, or 0.61%, lower at 82,031.81, PTI reported. At its lowest point in the day it was down 751.72 points at 81,780.47. The Nifty 50 fell 159.45 points, or 0.63%, to 25,227.95.\n\nTitan was the biggest loser in the Sensex, falling 4.82%, as gold and silver prices slid. TCS fell 2.49%, Bajaj Finance 2.45%, Eternal 2.45%, InterGlobe Aviation 1.97% and Infosys 1.86%. State Bank of India, ITC, UltraTech Cement and Power Grid rose. Cipla rose 2.13% on the Nifty after the US FDA cleared an inspection of its InvaGen factory in New York with no action needed, HDFC Sky reported.\n\nAmong sectors, the Nifty Metal index fell 2.46%, Auto 1.35% and IT 1.24%, Marketcalls reported. The BSE Consumer Durables index fell 3.14%. The Nifty PSU Bank index rose 0.59%, and media and pharma edged up. The Nifty Bank index slipped 0.38% to 62,038.65.\n\nSmaller companies fell too. The Nifty Midcap 100 fell 1.22% and the Nifty Smallcap 100 fell 0.34%. On the BSE, 2,800 shares fell and 1,448 rose. The India VIX, a fear gauge, was almost unchanged at 15.53.",
+      "simple_explanation": "After rising strongly for most of November, the market took a breather. Many investors who had made money sold some shares to lock in their gains. When lots of people sell at once, prices dip.\n\nThe fall was wide. Around two shares fell for every one that rose. Metal companies fell as world metal prices dropped. Jewellery companies like Titan fell as gold got cheaper. IT companies slipped too.\n\nThis was a fall of well under 1%. The Sensex is still about 10% higher than at the start of the month.",
+      "analogy": "Think of a runner who has sprinted for several laps. At some point they slow down to catch their breath. That does not mean the race is over, and it does not mean they will speed up again. Today the market slowed down after a fast run.",
+      "why": "Analysts mainly called it profit booking. The Sensex had risen nearly 11% and the Nifty more than 10% in November up to Tuesday, PTI reported. Analysts cited by HDFC Sky said the indices had become overbought after a rise of about 13% in 12 sessions, so a pause was likely.\n\nVinod Nair of Geojit Investments linked the fall to signals from US Federal Reserve officials that interest rates could rise further. He said that pushed up the US dollar and bond yields, and Indian bond yields rose too, which set off selling near recent highs.\n\nPonmudi R of Enrich Money said consumer durables was the weakest sector, falling more than 3%, with jewellery shares the main drag as gold prices fell.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund or a large-company SIP, its value fell by a little over half a percent today, after rising for most of November. Midcap funds probably fell more. One day's move means little for a long-term SIP.",
+        "markets": "Analysts are watching whether this is a short pause after a fast rally or the start of a bigger pullback. Foreign buying and US interest rate signals are the main things to watch.",
+        "economy": "A one-day fall in share prices does not change jobs or growth. Higher bond yields, if they last, can make borrowing a little costlier for companies and the government.",
+        "prices": "No direct effect on everyday prices from the share market fall."
+      },
+      "watch": "Whether foreign investors keep buying, the minutes of the US Fed's last meeting, and whether Indian bond yields keep rising.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "Profit booking",
+        "Overbought",
+        "Sectoral index",
+        "Consumer durables",
+        "Metal stocks",
+        "Nifty Bank",
+        "PSU bank",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "India VIX",
+        "FII",
+        "Net buyer",
+        "Bond yield",
+        "Federal Reserve",
+        "Rate hike",
+        "Hawkish",
+        "US FDA",
+        "Index fund",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine a big scoreboard that adds up the share prices of 30 of India's largest companies. That is the Sensex. For most of this month, the score kept going up. Today it went down by 500 points.\n\nWhy? Many people who had bought shares earlier had made a nice profit. Some of them decided to sell and keep that profit safe. When many people sell at the same time, prices go down a bit.\n\nJewellery company Titan fell the most, because gold became cheaper. Metal companies fell too. A few companies, like the big bank SBI and the medicine maker Cipla, went up.\n\nIt is a small dip after a big climb, a bit like stopping to rest on a hike.",
+        "real_life": "Rohit, 34, is an accountant in Lucknow earning ₹55,000 a month. He puts ₹3,000 a month into a Nifty 50 index fund through an SIP. His fund is now worth about ₹1.5 lakh.\n\nToday the Nifty fell 0.63%, so his fund lost roughly ₹950 on paper. But this month the Nifty has risen more than 10%, so his fund is still well ahead of where it was on 1 November. He does not need to do anything. His SIP will simply buy a few more units at today's slightly lower price.\n\nHis bank savings account and FD are not affected by today's fall."
+      }
+    },
+    {
+      "id": "gold-silver-one-year-low-titan-gold-loan-shares-fall",
+      "category": "Commodities",
+      "title": "Gold slips below $3,800 to its lowest in over a year and silver slides; Titan, Kalyan Jewellers and gold-loan companies fall",
+      "tldr": "World gold prices fell below $3,800 an ounce for the first time since September 2025, and silver fell too, as the US dollar strengthened and traders bet on higher US interest rates. In India, jewellery shares such as Titan and Kalyan Jewellers fell, and so did gold-loan companies Muthoot Finance and Manappuram Finance.",
+      "what_happened": "Spot gold fell nearly 2% to $3,777.83 an ounce on Wednesday, its lowest in more than a year, Trade Brains reported. Kotak Neo reported it had fallen below $3,800 for the first time since September 2025. Silver fell about 3% to below $46 an ounce.\n\nIn India, gold of 99.9% purity fell ₹1,400 on Tuesday to ₹1,38,600 per 10 grams in Delhi, and has fallen ₹8,300, nearly 6%, since 9 November, Kotak Neo reported. Silver fell ₹9,500 on Tuesday to ₹1,69,500 per kg, its lowest in a year. On the MCX, gold fell below ₹1,31,100 per 10 grams on Wednesday for the first time since December 2025, Trade Brains reported.\n\nJewellery and gold-loan shares fell. Titan fell 4.82% on the BSE, PTI reported. Kalyan Jewellers fell between about 3% and 5% during the day. Manappuram Finance fell 5.6% and Muthoot Finance 4.6%, Trade Brains reported.",
+      "simple_explanation": "Gold and silver have become cheaper over the past week or so.\n\nThe main reason is in America. The US dollar has become stronger and US interest rates are expected to rise. Gold pays no interest, so when safe US bonds pay more, some investors prefer the bonds and sell gold.\n\nCheaper gold sounds good for jewellers, but their shares fell. That is because they hold lots of gold in their shops, and that stock is now worth less. Buyers may also wait for prices to fall further. Gold-loan companies fell because the gold people pledged with them is now worth less, so their loans have a smaller safety cushion.",
+      "analogy": "Imagine a vegetable seller who bought 100 kg of tomatoes at ₹40 a kilo, and then the market price drops to ₹35. The tomatoes in his shop are suddenly worth less, even though he has not sold any. Customers may also hold off, hoping prices drop more. Jewellers feel the same squeeze when gold prices fall.",
+      "why": "Reports linked the fall to a stronger US dollar and rising bets that the US Federal Reserve will raise interest rates again. Last week Reuters reported the dollar hit its highest level in about 19 months after Fed officials warned that inflation was still high.\n\nTrade Brains said jewellers' shares fell because of worries about losses on the value of the gold they hold, depending on how well they have protected themselves, and because buyers may delay purchases if they expect lower prices. For gold-loan lenders, a lower gold price means the gold pledged against loans covers less of each loan.\n\nOne analysis noted that no company had given a specific reason for its share fall today.",
+      "implications": {
+        "you": "If you plan to buy gold jewellery for a wedding, prices are lower than earlier this month, but nobody knows if they will fall further or rise. If you have a gold loan, a big drop in gold prices can lead your lender to ask you to repay part of it or add more gold.",
+        "markets": "Jewellery and gold-loan shares are sensitive to gold prices. Analysts are watching US interest rate signals and the dollar for gold's next move.",
+        "economy": "Lower gold prices can reduce India's import bill, because India buys most of its gold from abroad. That can help the rupee a little.",
+        "prices": "Gold and silver jewellery has become cheaper compared with early November. There is no effect on everyday prices such as food or fuel."
+      },
+      "watch": "US interest rate signals, the US dollar, and whether lower prices bring buyers back to jewellery shops as the wedding season continues.",
+      "terms": [
+        "Spot price",
+        "Ounce",
+        "MCX",
+        "Federal Reserve",
+        "Rate hike",
+        "US Treasury yield",
+        "Safe haven",
+        "Consumer durables",
+        "Inventory",
+        "Gold loan",
+        "NBFC",
+        "Loan-to-value (LTV)",
+        "Nifty 50"
+      ],
+      "explainers": {
+        "like12": "Gold is a shiny metal that many Indian families love to buy and keep. Its price goes up and down every day, like the price of vegetables.\n\nThis week gold became cheaper, the cheapest it has been in more than a year. One big reason is that in America, keeping money in safe savings is starting to pay more interest. Gold does not pay any interest, so some people sold their gold to put money there instead.\n\nYou might think jewellery shops would be happy. But they already have lots of gold in their shops, bought at higher prices. Now it is worth less. So the shares of jewellery companies like Titan fell today.",
+        "real_life": "Sunita, 29, is a school teacher in Coimbatore earning ₹38,000 a month. Her family is planning her sister's wedding in February and wants to buy about 50 grams of gold jewellery.\n\nAt ₹1,38,600 per 10 grams, the gold alone would cost about ₹6.9 lakh, before making charges and GST. Earlier this month the same gold cost roughly ₹40,000 more. Nobody can say whether prices will keep falling or bounce back.\n\nHer neighbour has a gold loan of ₹60,000 against his chain. If gold keeps falling, his lender could ask him to repay part of the loan or pledge more gold."
+      }
+    },
+    {
+      "id": "nvidia-beats-forecasts-fed-rate-hike-bets-wall-street-falls",
+      "category": "Global",
+      "title": "Nvidia's sales double and beat forecasts, but worries about higher US interest rates kept global markets cautious",
+      "tldr": "Nvidia, the world's leading AI chip maker, said its quarterly revenue rose 103% to $115.8 billion, above forecasts, and its shares rose in after-hours trading. But before the results, US shares fell on Tuesday, and worries about further US interest rate rises and a strong dollar weighed on markets, including India's.",
+      "what_happened": "Nvidia reported revenue of $115.8 billion for the quarter to 25 October, up 103% from a year earlier, after the US market closed on Tuesday. Analysts had expected about $108.85 billion, Investing.com reported. Revenue from data centres rose 110% to $107.6 billion. Nvidia forecast revenue of about $130 billion for the current quarter, above expectations. Its shares rose in after-hours trading. These were its first results since its chief executive left last week.\n\nBefore the results, US shares fell on Tuesday. The S&P 500 fell 1.03% and the Nasdaq 0.74%, while the Dow Jones fell 1.64%, PTI reported.\n\nIn Asia on Wednesday, markets in South Korea, Japan and Shanghai rose, while Hong Kong fell, PTI reported.\n\nThe US 10-year Treasury yield was about 5.1% and the dollar index touched a 19-month high, Marketcalls reported.",
+      "simple_explanation": "Nvidia makes the chips that power most artificial intelligence. Its results are watched around the world as a sign of how strong the AI boom is. This time its sales more than doubled and beat forecasts.\n\nBut a second, bigger worry hung over markets. Officials at the US central bank have signalled they may raise interest rates again to fight inflation. Higher US rates make the dollar stronger and safe US bonds more attractive. That can pull money away from shares around the world, including India.\n\nSo good news from one company did not lift the whole mood.",
+      "analogy": "Think of a school where one student tops the exam. That is great news for that student. But if the principal announces that fees are going up next term, the parents' mood stays worried. Nvidia topped the exam; higher US interest rates are the fee rise.",
+      "why": "Nvidia said demand for its data centre chips remained strong. Reports said its share price had been under pressure because of its chief executive's sudden exit on 12 November and nervousness before the results.\n\nOn interest rates, Fed officials warned last week that US inflation remained high, and some said they were open to a bigger rate rise, Reuters reported. Traders now see a December rate rise as very likely, it said. Vinod Nair of Geojit Investments said hawkish Fed remarks and a stronger dollar weighed on Indian shares today.",
+      "implications": {
+        "you": "If you own an international or US-focused fund, Tuesday's fall in US shares would have pulled its value down a little. Higher US interest rates do not change your bank FD or loan EMI directly; the RBI sets Indian rates.",
+        "markets": "Strong Nvidia results ease some worries about AI spending. But higher US rates and a strong dollar can make foreign investors more cautious about markets like India.",
+        "economy": "If US rates keep rising, it can put pressure on the rupee and make it harder for the RBI to cut rates. The effect today is small.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "How US shares trade on Wednesday after Nvidia's results, the minutes of the Fed's last meeting, and the US dollar.",
+      "terms": [
+        "Nvidia",
+        "Revenue",
+        "Guidance",
+        "After-hours trading",
+        "Data centre",
+        "AI trade",
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "Federal Reserve",
+        "Rate hike",
+        "Hawkish",
+        "US Treasury yield",
+        "Dollar index",
+        "Bond yield"
+      ],
+      "explainers": {
+        "like12": "Nvidia is an American company that makes very powerful computer chips. These chips are the 'brains' behind artificial intelligence tools. Lots of companies are buying them, so Nvidia's sales have more than doubled in a year.\n\nOn Tuesday night Nvidia told everyone how much it earned in the last three months, and it was even more than people expected. Its shares went up a little after that.\n\nBut people are also worried about something else. America's central bank may raise interest rates, which means borrowing money there gets more expensive. When that happens, investors around the world get careful. So the good news from Nvidia did not cheer up everyone.",
+        "real_life": "Arjun, 27, is a software tester in Hyderabad earning ₹60,000 a month. He has ₹40,000 in an international fund that invests in big US companies, including Nvidia.\n\nUS shares fell about 1% on Tuesday, so his fund probably lost a few hundred rupees on paper. Nvidia's strong results could help it if US shares recover, but nobody knows how they will trade.\n\nHis home loan EMI is linked to Indian interest rates set by the RBI, not US rates. But if US rates keep rising and the rupee weakens, the RBI might find it harder to cut Indian rates. That would keep his EMI from falling."
+      }
+    },
+    {
+      "id": "rupee-gains-7-paise-93-44-brent-near-92",
+      "category": "Rupee & oil",
+      "title": "Rupee edges up 7 paise to 93.44 per dollar as oil eases to about $92, despite a strong US dollar",
+      "tldr": "The rupee rose 7 paise to 93.44 per US dollar (provisional), helped by lower oil prices and foreign money flowing into Indian shares, even though the US dollar was strong against other currencies. Brent crude fell 1.26% to $91.97 a barrel after US oil stocks rose more than expected.",
+      "what_happened": "The rupee closed 7 paise higher at 93.44 against the US dollar on Wednesday, according to provisional figures reported by PTI. On Tuesday it had risen 43 paise to 93.51.\n\nBrent crude, the international oil benchmark, fell 1.26% to $91.97 a barrel, PTI reported. An industry estimate showed US crude stocks rose by about 5.28 million barrels last week, when a fall had been expected, Invezz reported. Attacks on ships in or near the Strait of Hormuz since 10 November have kept prices from falling further, it said.\n\nForeign investors bought ₹4,195.38 crore of Indian shares, net, on Tuesday, according to exchange data. Foreign investors have put about $10 billion into Indian shares this month, a record, HDFC Sky reported.",
+      "simple_explanation": "The rupee got slightly stronger today. One dollar now costs ₹93.44, a little less than yesterday.\n\nTwo things helped. Oil became a bit cheaper. India buys most of its oil from abroad and pays in dollars, so cheaper oil means India needs fewer dollars. And foreign investors kept bringing dollars into India to buy shares, which they must swap into rupees.\n\nThis happened even though the dollar was strong against most other currencies. A 7-paise move is small.",
+      "analogy": "Think of the rupee and dollar on a see-saw. Cheaper oil and foreign money pushed down on the rupee's side, lifting it a little. A strong dollar pushed the other way. Today the rupee's side won, but only just.",
+      "why": "Reports said lower crude oil prices supported the rupee despite a strong dollar. Vinod Nair of Geojit Investments said softer crude and foreign inflows were supporting the rupee.\n\nOil fell mainly because US oil stocks rose more than expected, a sign of plentiful supply. But tensions in the Strait of Hormuz, a key route for Gulf oil, have kept a floor under prices. Brent was above $100 a barrel a month ago, Invezz noted.",
+      "implications": {
+        "you": "A slightly stronger rupee makes imported goods, foreign travel and overseas education a tiny bit cheaper. A 7-paise move is too small to notice in your daily spending.",
+        "markets": "Foreign money flowing in has supported both shares and the rupee this month. Oil prices and US interest rates are the main risks.",
+        "economy": "Oil near $92 is well below last month's levels, which eases pressure on India's import bill and on inflation.",
+        "prices": "Petrol and diesel prices are not changed directly by today's move. Lower crude, if it lasts, eases pressure on fuel costs."
+      },
+      "watch": "Oil prices and any new trouble in the Strait of Hormuz, foreign investor flows, and the US dollar.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Rupee appreciation",
+        "Dollar index",
+        "Brent crude",
+        "Barrel",
+        "Crude inventories",
+        "Strait of Hormuz",
+        "FPI",
+        "Import bill"
+      ],
+      "explainers": {
+        "like12": "Every country has its own money. India has the rupee and America has the dollar. When Indians buy things from other countries, like oil, they usually need dollars.\n\nToday one dollar cost ₹93.44, a tiny bit less than yesterday. That means the rupee got a little stronger.\n\nWhy? Oil got a bit cheaper, so India needs fewer dollars to buy it. And people from other countries brought dollars to India to buy shares of Indian companies, which means more dollars coming in.\n\nThe change is very small, like the price of a big bag of rice changing by a few paise.",
+        "real_life": "Priya, 26, works in marketing in Kochi and earns ₹42,000 a month. She is saving for a trip to Dubai next year and expects to need about $1,000.\n\nAt 93.44 rupees per dollar, $1,000 costs about ₹93,440. At yesterday's rate of 93.51, it would have cost about ₹93,510. The difference is only about ₹70.\n\nThe bigger change has been over the month: in mid-November the rupee was closer to 94 per dollar. Lower oil prices also help keep petrol and diesel costs in check for her scooter commute, though fuel prices do not change day to day with crude."
+      }
+    },
+    {
+      "id": "crystal-crop-protection-ipo-opens",
+      "category": "IPO",
+      "title": "Crystal Crop Protection's ₹455 crore IPO opens; price band ₹259 to ₹272 a share",
+      "tldr": "Crystal Crop Protection, which makes farm chemicals and seeds, opened its IPO on Wednesday to raise about ₹455 crore. Investors can bid between ₹259 and ₹272 a share until Friday 20 November, and the shares are expected to list on 26 November.",
+      "what_happened": "Crystal Crop Protection's IPO opened on 18 November and closes on 20 November. The price band is ₹259 to ₹272 a share, and the minimum bid is 55 shares, or ₹14,960 at the top of the band. The issue is worth about ₹455 crore, made up of about ₹355 crore of new shares and about ₹101 crore of shares sold by existing shareholders, reports said.\n\nThe company makes crop protection chemicals, seeds and natural crop products, and exports to countries including Bangladesh, Nepal and Indonesia. Most of the new money is meant to repay debt.\n\nThe issue was subscribed about 1.47 times on the first day, HDFC Sky reported. Allotment is expected on 23 November and listing on the NSE and BSE on 26 November.",
+      "simple_explanation": "An IPO is when a company sells its shares to the public for the first time. After that, its shares trade on the stock exchange like any other.\n\nCrystal Crop Protection makes products that farmers use to protect crops from insects, weeds and disease, plus seeds. It wants to raise about ₹455 crore. Most of the money from new shares will go to paying off loans. Some of it goes to existing owners who are selling part of their stake.\n\nOn the first day, people asked for about one and a half times the shares on offer.",
+      "analogy": "Think of a family-run sweet shop that has grown into a chain. To pay off loans, the owners invite the public to buy small pieces of the business. Some new pieces are created for the shop's needs, and some old owners also sell part of their own share.",
+      "why": "Crystal Crop Protection said it would use most of the money from new shares to repay borrowing by the company and its subsidiary. The part sold by existing shareholders goes to them, not to the company.\n\nAnalyst views on the issue were mixed. Anil Singhvi of Zee Business said he did not expect big listing gains, given its valuation and market conditions.",
+      "implications": {
+        "you": "If you apply, the minimum bid is about ₹14,960. You may get no shares if the issue is heavily oversubscribed, and IPO shares can list below the issue price.",
+        "markets": "A steady flow of IPOs shows companies see demand for new shares. How this one lists will be watched as a sign of investor mood.",
+        "economy": "Repaying debt can make the company financially stronger. The effect on the wider economy is very small.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Final subscription figures on 20 November, allotment on 23 November and listing on 26 November. Mahanadi Coalfields' IPO opens on 19 November.",
+      "terms": [
+        "IPO",
+        "Price band",
+        "Lot size",
+        "Fresh issue",
+        "Offer for sale",
+        "Subscription",
+        "Allotment",
+        "Listing",
+        "Agrochemicals",
+        "Retail investor"
+      ],
+      "explainers": {
+        "like12": "Imagine a company that makes medicines for plants. Farmers use them to keep insects and weeds away from their crops. The company also sells seeds.\n\nIt wants more money, mainly to pay back loans it took. So it is offering small pieces of the company, called shares, to anyone who wants to buy them. This first sale to the public is called an IPO.\n\nPeople can apply until Friday. If more people want shares than are available, some will get fewer or none. Next week the shares will start trading on the stock market, and their price could go up or down from what people paid.",
+        "real_life": "Manish, 32, is a bank clerk in Indore earning ₹48,000 a month. His colleague says the Crystal Crop Protection IPO looks interesting.\n\nThe minimum application is 55 shares at up to ₹272, which is ₹14,960. Manish would need that much in his bank account, blocked until allotment on 23 November. If he does not get shares, the money is released.\n\nIf he does get shares, their price on 26 November could be above or below ₹272. He should read the company's offer document before deciding and remember that IPOs carry risk, like any share."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Overbought",
+    "explanation": "'Overbought' is a word analysts use when a share or an index has risen very fast in a short time. The idea is that so many buyers have rushed in that prices may have run ahead of themselves, and a pause or a small fall becomes more likely.\n\nAnalysts usually judge this using charts and simple measures that compare recent gains with past patterns. One common tool is the relative strength index, or RSI, which gives a score from 0 to 100; readings above about 70 are often called overbought.\n\nOverbought is not a prediction that prices will crash. A market can stay overbought for weeks and keep rising. It is a warning that the pace of the rise is unusual, not a judgment about whether the companies are good or bad. Its opposite is 'oversold', after a very fast fall.",
+    "example": "Today analysts cited by HDFC Sky said the Sensex and Nifty had become overbought after rising about 13% in just 12 sessions, making a pause likely. The Sensex had risen nearly 11% in November up to Tuesday, PTI reported. On Wednesday investors booked profits and the Sensex fell 500.38 points.",
+    "takeaway": "Overbought means prices have risen unusually fast, so a pause is more likely. It is a warning about speed, not a forecast of a crash."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Wednesday?",
+      "options": [
+        "Up 500.38 points",
+        "Down 500.38 points, or 0.61%",
+        "Down 751.72 points",
+        "Flat"
+      ],
+      "answer": 1,
+      "why": "The Sensex fell 500.38 points, or 0.61%, to 82,031.81. It had been down 751.72 points at its lowest point in the day."
+    },
+    {
+      "q": "What did analysts mainly blame for today's fall?",
+      "options": [
+        "An RBI rate hike",
+        "Profit booking after a strong rally",
+        "A rise in oil prices",
+        "A holiday in the US"
+      ],
+      "answer": 1,
+      "why": "After a strong November, investors sold some shares to lock in gains. Hints of higher US interest rates added to the caution."
+    },
+    {
+      "q": "Why did Titan and other jewellery shares fall even though gold got cheaper?",
+      "options": [
+        "Gold became more expensive",
+        "The value of the gold they hold fell, and buyers may wait for lower prices",
+        "They were removed from the Sensex",
+        "The rupee weakened sharply"
+      ],
+      "answer": 1,
+      "why": "Jewellers hold large stocks of gold, which are worth less when prices drop, and customers may delay buying if they expect prices to fall further."
+    },
+    {
+      "q": "Why do gold-loan companies worry when gold prices fall?",
+      "options": [
+        "They lose customers to banks",
+        "The gold pledged against their loans is worth less, shrinking their safety cushion",
+        "They have to pay more tax",
+        "Their interest rates are cut by law"
+      ],
+      "answer": 1,
+      "why": "A lower gold price means the pledged gold covers less of each loan, so lenders may ask borrowers to repay part or add more gold."
+    },
+    {
+      "q": "The rupee moved from 93.51 to 93.44 per dollar. What does that mean?",
+      "options": [
+        "The rupee got weaker",
+        "The rupee got slightly stronger",
+        "Nothing changed",
+        "The dollar got stronger against the rupee"
+      ],
+      "answer": 1,
+      "why": "One dollar now costs fewer rupees, so the rupee has strengthened a little, by 7 paise."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Federal (PTI): Sensex slumps 500 points, Nifty falls below 25,250 as investors book profits",
+      "url": "https://thefederal.com/category/business/sensex-slumps-500-points-nifty-below-25250-investors-book-profits-263338"
+    },
+    {
+      "title": "HDFC Sky: Market close report, November 18, 2026",
+      "url": "https://hdfcsky.com/news/market-close-report-today-november-18-2026-nifty-sensex-decline-after-recent-rally-as-profit-booking-sets-in"
+    },
+    {
+      "title": "Marketcalls: Post-Market Report 18 Nov 2026: Nifty snaps 2-day rally as Titan, metals drag",
+      "url": "https://www.marketcalls.in/futures-and-options/post-market-report-18-november-2026.html"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 18 November 2026: Sensex and Nifty fall as profit booking, metal stocks weigh",
+      "url": "https://www.kotakneo.com/news/market-news/market-wrap-18-november-2026-profit-booking-and-a-drag-in-metal-stocks-pull-benchmarks-down/"
+    },
+    {
+      "title": "Zee Business: Closing Bell, Nov 18, 2026",
+      "url": "https://www.zeebiz.com/market-news/news-closing-bell-nov-18-2026-sensex-nifty-action-key-drivers-405714"
+    },
+    {
+      "title": "Trade Brains: Titan and 5 other jewellery and gold financing stocks fall by up to 6% today",
+      "url": "https://tradebrains.in/indian-markets/titan-and-5-other-jewellery-and-gold-financing-stocks-fall-by-up-to-6-today-heres-why-12819669"
+    },
+    {
+      "title": "Kotak Neo: Jewellery stocks fall as gold hits 14-month low and silver nears 13-month low",
+      "url": "https://www.kotakneo.com/news/stocks/titan-kalyan-jewellers-pc-jeweller-thangamayil-shares-fall-as-gold-hits-14-month-low-and-silver-nears-13-month-low/"
+    },
+    {
+      "title": "Univest: Gold price today: gold cracks $3,800, MCX falls 2%",
+      "url": "https://univest.in/blogs/gold-price-today-spot-gold-below-3800-dollar-mcx-gold-falls-rs-131420-fomc-minutes-fed-hike-levels-18-november-2026"
+    },
+    {
+      "title": "Investing.com: Nvidia shares gain after outlook lift",
+      "url": "https://investing.com/news/earnings/nvidia-quarterly-results-beat-estimates-5033943"
+    },
+    {
+      "title": "Yahoo Finance: Stock market today, Nov. 17: Nvidia slides ahead of earnings but rises after hours",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-17-222310679.html"
+    },
+    {
+      "title": "Nvidia: Form 8-K, third-quarter fiscal 2027 results",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm"
+    },
+    {
+      "title": "Euronext (Reuters): Dollar hits 19-month high as hawkish Fed view lifts yields",
+      "url": "https://live.euronext.com/en/financial-news/dollar-hits-19-month-high-hawkish-fed-view-lifts-yields"
+    },
+    {
+      "title": "Telangana Today (PTI): Rupee closes higher at 93.44 despite strong dollar and market weakness",
+      "url": "https://telanganatoday.com/rupee-closes-higher-at-93-44-despite-strong-dollar-and-market-weakness"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee rises 7 paise to close at 93.44 against US dollar",
+      "url": "https://www.deccanherald.com/business/markets/rupee-rises-7-paise-to-close-at-9344-against-us-dollar-4222668"
+    },
+    {
+      "title": "Invezz: Oil price today: Brent slips as API shows 5.28 million-barrel US crude build",
+      "url": "https://invezz.com/news/2026/11/18/oil-price-today-api-528-million-barrel-us-crude-build/"
+    },
+    {
+      "title": "Quantsapp: FII DII data",
+      "url": "https://www.quantsapp.com/fii-dii"
+    },
+    {
+      "title": "HDFC Sky: Crystal Crop Protection to raise up to ₹456 crore via IPO; issue opens on Nov 18",
+      "url": "https://hdfcsky.com/news/crystal-crop-protection-to-raise-up-to-rs-456-cr-via-ipo-issue-opens-on-nov-18"
+    },
+    {
+      "title": "HDFC Sky: Crystal Crop Protection IPO subscription status day 1",
+      "url": "https://hdfcsky.com/news/crystal-crop-protection-ipo-subscription-status-day-1"
+    },
+    {
+      "title": "Zee Business: Crystal Crop Protection IPO: should you subscribe or avoid? Anil Singhvi explains",
+      "url": "https://www.zeebiz.com/markets/ipo/news-crystal-crop-protection-ipo-should-you-subscribe-or-avoid-anil-singhvi-explains-405705"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "Profit booking",
+      "definition": "Selling shares that have risen, to lock in gains, which can push their prices down.",
+      "more": "When a share has gone up, some investors sell to turn paper gains into actual cash. If many do it at once, the price can dip even without any bad news. News reports often use 'profit booking' to explain why a sector fell on an otherwise good day. It's like selling some of your mango harvest when prices are high, rather than waiting and risking a drop. It doesn't necessarily mean investors expect bad times for the company."
+    },
+    {
+      "term": "Overbought",
+      "definition": "A chart-reading term for a share or index that has risen so fast that some analysts expect a pause or small fall.",
+      "more": "Technical analysts study price charts and use indicators that measure how quickly prices have moved. When an index rises sharply for many days, these indicators flash 'overbought'. It does not mean the market must fall; it means the rise has been unusually steep, and some buyers may stop to take profits. Think of a runner who has sprinted the first lap of a race: they may need to slow down for a bit, even if they finish strongly. Reports often say an index is 'in the overbought zone' and that a 'mild pullback cannot be ruled out'. Markets can stay overbought for a long time."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "Consumer durables",
+      "definition": "Long-lasting goods people buy for the home or themselves, such as appliances, electronics, watches and jewellery.",
+      "more": "Consumer durables are things you don't buy every week: fridges, TVs, air conditioners, watches and jewellery. Because they cost more and can be postponed, sales depend heavily on how confident families feel about their money. Think of a household that delays buying a new washing machine when petrol and school fees go up. The Nifty Consumer Durables index tracks listed makers of such goods, like Titan. When news says 'consumer durables led the fall', it usually means investors fear people will cut back on these purchases."
+    },
+    {
+      "term": "Metal stocks",
+      "definition": "Shares of companies that mine or make metals like steel, aluminium, copper and zinc.",
+      "more": "Metal stocks include steelmakers like Tata Steel and JSW Steel, and companies like Hindalco and Vedanta. Their profits rise and fall with global metal prices, which in turn depend on how fast economies are building roads, factories and homes. China is the world's biggest metal buyer, so news from China matters a lot. These shares often swing more than the overall market. It's like a construction labourer's income: plenty of work in boom times, lean months when building slows."
+    },
+    {
+      "term": "Nifty Bank",
+      "definition": "An index of the biggest banks listed on the NSE. People also call it Bank Nifty.",
+      "more": "The Nifty Bank index tracks around a dozen of India's largest listed banks, both private and government-owned, weighted by size. Because banks such as HDFC Bank and ICICI Bank are huge, this index is closely watched as a reading of how investors feel about lending and the economy. Think of it as the 'banking class' report card inside the wider school. News reports often quote it next to the Sensex and Nifty, for example 'Bank Nifty fell below 55,000', because banks make up a large slice of both headline indices."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A measure of how many shares rose compared with how many fell on a given day.",
+      "more": "Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, shows whether a move is broad or narrow. On Thursday, 2,868 BSE shares rose and 1,384 fell, so breadth was positive, but less lopsided than the index's 2.6% jump might suggest. It's like checking whether a whole class did better in an exam, not just the toppers. Analysts often say a rally is healthier when breadth is strong."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "FII",
+      "definition": "Foreign institutional investor: a large overseas fund that buys or sells Indian shares and bonds.",
+      "more": "FIIs, also called FPIs (foreign portfolio investors), include big pension funds, mutual funds and hedge funds based abroad. Because they move large sums, their buying or selling can push the market and the rupee. When they sell Indian shares, they often convert rupees back into dollars, which can weaken the rupee. The exchanges publish provisional figures each evening, like 'FIIs sold ₹5,285.37 crore'. Think of them as big out-of-town wholesale buyers at a mandi: when they leave, prices can drop."
+    },
+    {
+      "term": "Net buyer",
+      "definition": "An investor, or group of investors, who bought more shares than they sold over a period.",
+      "more": "Big investors buy and sell every day. Being a 'net buyer' means that after adding up all the buying and subtracting all the selling, the buying was bigger. If foreign investors bought ₹10,000 crore of shares and sold ₹4,000 crore, they were net buyers of ₹6,000 crore. It is like a shopkeeper who takes in more stock than he sells in a week: his shelves fill up. News reports use this to show which way big money is flowing. Steady net buying tends to support share prices; steady net selling tends to weigh on them."
+    },
+    {
+      "term": "Bond yield",
+      "definition": "The yearly return you'd earn from buying a bond at today's price. Yields rise when bond prices fall, and vice versa.",
+      "more": "A bond is a loan to a government or company that pays fixed interest. If the bond's market price falls, the same interest becomes a bigger percentage of what you pay, so the yield rises. They move like a seesaw. Think of a flat earning ₹20,000 rent a month: buy it cheaper and your rental 'yield' is higher. Government bond yields act as a base rate for the whole economy, so when news says 'the 10-year yield rose', loans and FD rates often follow."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Hawkish",
+      "definition": "Describes a central bank, or its message, that leans towards keeping interest rates high or raising them to fight inflation.",
+      "more": "Markets borrow two bird names to describe central banks. A 'hawk' worries most about rising prices and prefers higher interest rates. A 'dove' worries more about jobs and growth and prefers lower rates. So a 'hawkish' message hints that rates may stay high or rise; a 'dovish' one hints at cuts. It's like a strict parent who keeps pocket money tight because prices keep rising, versus a relaxed one who loosens it. News reports often say a decision was a 'hawkish hold': rates unchanged, but with a warning that a hike could come."
+    },
+    {
+      "term": "US FDA",
+      "definition": "The US Food and Drug Administration, the American regulator that checks medicines and the factories that make them.",
+      "more": "The US FDA decides whether medicines can be sold in America, and it inspects factories anywhere in the world that make medicines for the US market. Many Indian drug makers earn a big share of their money in the US, so an FDA inspection is a big event. A clean result, often described as 'no action indicated', means inspectors found nothing that needs fixing. A bad result can block sales from that factory. It is like a strict food-safety inspector visiting a restaurant kitchen: a clean report keeps the doors open."
+    },
+    {
+      "term": "Index fund",
+      "definition": "A mutual fund that simply copies an index such as the Nifty 50, holding the same shares in the same proportions.",
+      "more": "An index fund does not try to pick winners. If the Nifty 50 rises 0.58% in a day, a Nifty 50 index fund rises by roughly the same amount, minus small costs. It is like ordering a fixed thali instead of choosing dishes: you get a bit of everything on the menu. Because nobody is paid to pick shares, fees are usually low. Many people invest in index funds through monthly SIPs. When the news says 'the Nifty rose', index fund investors can expect their holding to have moved in the same direction."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Spot price",
+      "definition": "The price for buying something, such as gold or oil, for immediate delivery today.",
+      "more": "The spot price is the 'right now' price. If you walk into a jeweller and buy gold today, you pay roughly the spot price plus making charges and taxes. It differs from a futures price, which is agreed today for delivery on a later date. News reports usually quote international gold at its spot price in US dollars per ounce, and Indian gold in rupees per 10 grams. When you read that 'spot gold fell 2%', it means the price for immediate purchase fell by that much."
+    },
+    {
+      "term": "Ounce",
+      "definition": "A unit of weight used for gold and silver internationally. One troy ounce is about 31.1 grams.",
+      "more": "International gold and silver prices are quoted in US dollars per troy ounce. A troy ounce is about 31.1 grams, a little more than three 10-gram units, the size Indian prices usually use. So when gold is about $3,780 an ounce, you cannot compare that number directly with the rupee price per 10 grams you see in India. You also need to convert dollars into rupees and add import duty and GST. That is why Indian gold prices move with both world gold prices and the rupee."
+    },
+    {
+      "term": "MCX",
+      "definition": "The Multi Commodity Exchange of India, where gold, silver, oil and other commodities are traded.",
+      "more": "MCX is India's main exchange for trading commodities such as gold, silver, crude oil, natural gas and metals. Most trading is in futures contracts, which are agreements on a price for a future date. MCX gold prices are a common guide to what jewellers charge, though shop prices also include GST and making charges. It's like a big wholesale mandi for metals and energy. News reports quote MCX gold per 10 grams."
+    },
+    {
+      "term": "US Treasury yield",
+      "definition": "The interest rate the US government pays on its bonds. It affects borrowing costs worldwide.",
+      "more": "US Treasury bonds are loans to the US government. The yield is the return investors earn on them. Because these bonds are seen as very safe, their yields set a baseline for interest rates around the world. When US yields rise, global investors may pull money from riskier places like India; when they fall, India can look more attractive. It's like a bank's FD rate rising: people move savings from riskier options into the safe deposit."
+    },
+    {
+      "term": "Safe haven",
+      "definition": "An investment people buy in uncertain times because they expect it to hold its value, such as gold.",
+      "more": "When people are worried, about war, inflation or a crisis, they often move money into things they trust to keep their value. Gold is the classic safe haven, especially in India, where families have kept gold for generations. US government bonds and the US dollar are also seen as safe havens. But a safe haven can still fall in price. When interest rates rise, for example, investors can earn a good return on safe bonds instead, and gold, which pays no interest, can become less attractive."
+    },
+    {
+      "term": "Inventory",
+      "definition": "The stock of goods or materials a company holds to sell or use, such as gold held by a jeweller.",
+      "more": "Inventory is what a business keeps on its shelves or in its storeroom. A kirana shop's inventory is its rice, oil and soap. A jeweller's inventory is the gold and jewellery in its showrooms and vaults. When the price of the material falls, the value of that stock falls too, which can hurt profits unless the company has protected itself through hedging. That is why jewellery company shares sometimes fall when gold prices drop sharply, even though cheaper gold might eventually bring in more buyers."
+    },
+    {
+      "term": "Gold loan",
+      "definition": "A loan where you hand over gold jewellery or coins as security and get cash in return.",
+      "more": "A gold loan lets you borrow money by pledging gold. The lender keeps your gold safely, gives you cash worth a part of its value, and returns the gold once you repay with interest. If you do not repay, the lender can sell the gold. Many Indian families use gold loans for school fees, weddings, farming or small businesses because they are quick and need little paperwork. Banks and NBFCs both offer them. In the news, a rise in 'overdue gold loans' means more borrowers are late with repayments, which can hint at money stress among households."
+    },
+    {
+      "term": "NBFC",
+      "definition": "A non-banking financial company: a lender that gives loans but is not a bank and cannot offer savings accounts.",
+      "more": "NBFC stands for non-banking financial company. Firms like Bajaj Finance lend money for phones, cars, homes, businesses and gold, just like banks do, but they cannot take ordinary savings or current account deposits. They raise money by borrowing from banks, issuing bonds or taking fixed deposits under strict rules. The RBI regulates them. Think of a big, organised moneylender who follows the RBI's rulebook. NBFCs often lend to people banks find harder to serve, so their results are watched for signs of stress among ordinary borrowers. News reports often group them with banks as 'financials'."
+    },
+    {
+      "term": "Loan-to-value (LTV)",
+      "definition": "How big a loan is compared with the value of what was pledged for it. A ₹75,000 loan against ₹1 lakh of gold has an LTV of 75%.",
+      "more": "LTV compares the loan with the value of the security behind it. Gold-loan companies lend only part of the gold's value, so there is a cushion if prices fall. RBI rules cap how much they can lend, and those limits change from time to time. If gold prices drop sharply, the cushion shrinks: the same loan is now a bigger share of the gold's value. Lenders may then ask borrowers to repay part of the loan or add more gold, and in some cases they auction the gold. That is why gold-loan company shares can fall when gold drops."
+    },
+    {
+      "term": "Nvidia",
+      "definition": "A US company that designs the computer chips most widely used to build and run artificial intelligence (AI) systems.",
+      "more": "Nvidia began by making graphics chips for video games. Its chips turned out to be very good at the huge number of calculations AI needs, so tech giants have bought them in vast quantities. That made Nvidia one of the most valuable companies in the world. Its suppliers, such as chipmakers in Taiwan and memory makers in South Korea, rise and fall with it. So news about Nvidia, such as its quarterly earnings or a change in its leadership, can move share markets across Asia and the US within hours."
+    },
+    {
+      "term": "Revenue",
+      "definition": "The total money a company earns from selling its goods or services, before costs are taken out.",
+      "more": "Revenue is the top line of a company's results: everything it billed customers in a period. Profit is what's left after paying for materials, salaries, interest, taxes and other costs. A tea stall that sells ₹10,000 of tea in a day has ₹10,000 of revenue, but its profit might be only ₹2,000 after milk, sugar, gas and rent. Revenue can rise while profit falls, if costs rise faster. That's why news reports on results usually quote both, often with the change from a year earlier."
+    },
+    {
+      "term": "Guidance",
+      "definition": "A company's own forecast for its future sales or profit growth.",
+      "more": "Many companies, especially IT firms, tell investors roughly how much they expect to grow over the year, for example 'revenue growth of 2.5% to 4%'. This is called guidance. Investors watch it closely because it shows how confident the management is. If a company raises guidance, it signals business is better than expected; if it cuts guidance, shares often fall even when the latest quarter looks good. It's like a shopkeeper telling a lender how much sales they expect this Diwali season. Guidance is a forecast, not a promise."
+    },
+    {
+      "term": "After-hours trading",
+      "definition": "Buying and selling of US shares after the main market session closes. Prices can move sharply on news released then.",
+      "more": "US stock exchanges have a main trading session, but shares can also trade for some hours after it ends, and before it opens. Companies like Nvidia often release results after the main session closes, so the first reaction shows up in after-hours trading. Fewer people trade then, so prices can swing more and may change again when the main session opens. For Indian readers, the US after-hours period falls in the early morning, which is why Indian markets sometimes react to US company results before Wall Street has fully reacted."
+    },
+    {
+      "term": "Data centre",
+      "definition": "A large building full of computers that store data and run online services, including AI systems.",
+      "more": "Every time you use a search engine, a UPI app or an AI chatbot, the work is done in a data centre: a warehouse-like building packed with servers, cooling systems and power lines. AI needs huge, power-hungry data centres, so tech companies have been spending heavily to build them, which has boosted chip makers. Because they use a lot of electricity, land and water, some local communities oppose them. It's like a giant kitchen that cooks for millions of customers at once. News about curbs on data centres can hit chip and tech shares worldwide."
+    },
+    {
+      "term": "AI trade",
+      "definition": "Market shorthand for investors buying shares of companies expected to profit from artificial intelligence, such as chipmakers and big tech firms.",
+      "more": "For the past few years, many global investors put large sums into companies linked to AI: chip designers, chipmakers, memory makers, data-centre builders and the big US technology firms. This crowd of money is called the 'AI trade'. When it is popular, those shares rise fast. When doubts appear, they can fall together. It is like a crowded restaurant: when people start leaving, the queue disappears quickly. India has few large AI-linked listed companies, so money leaving the AI trade sometimes flows towards Indian shares instead."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure, released quickly, that may be revised slightly later.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. For example, Wednesday's rupee close was first reported as 94.58 per dollar but finally came in at 94.46. It's like an exam's provisional result, which can change slightly after rechecking. The differences are usually small, so provisional figures are still a good guide."
+    },
+    {
+      "term": "Rupee appreciation",
+      "definition": "When the rupee gets stronger against another currency, so fewer rupees are needed to buy one dollar.",
+      "more": "If the rate moves from 94.19 to 93.92 rupees per dollar, the rupee has appreciated: one dollar now costs 27 paise less. This happens when more dollars flow into India, for example when foreign investors buy Indian shares, or when India needs fewer dollars, for example when oil gets cheaper. A stronger rupee makes imports, foreign travel and overseas education slightly cheaper. It earns IT and other exporters slightly fewer rupees for each dollar. Daily moves are usually small, and the RBI steps in when moves become sharp."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Crude inventories",
+      "definition": "The amount of crude oil held in storage, often reported weekly for the US. A big rise suggests supply is plentiful.",
+      "more": "Every week, US industry groups and the government report how much crude oil is sitting in US storage tanks. If stocks rise more than expected, it suggests there is more oil than buyers need right now, which tends to push prices down. If stocks fall, it suggests demand is strong, which can push prices up. Think of a vegetable market: if traders are sitting on unsold piles of onions, prices soften. Because the US is a huge oil market, these weekly numbers move global oil prices, which matter to India."
+    },
+    {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea route between Iran and Oman through which a large share of the world's oil passes.",
+      "more": "The Strait of Hormuz connects the Persian Gulf to the open sea. Tankers carrying oil from Saudi Arabia, Iraq, the UAE, Kuwait and Iran pass through it, so any trouble there can raise oil prices worldwide. India buys a lot of its oil from Gulf countries, so disruptions matter here. It's like the only bridge into a busy market town: if traffic there is blocked, prices in the town rise. News reports mention it whenever Middle East tensions affect oil."
+    },
+    {
+      "term": "FPI",
+      "definition": "Foreign portfolio investor: a foreign fund or investor that buys Indian shares, bonds or similar investments, registered with SEBI.",
+      "more": "FPI is the official term SEBI uses for foreign investors who buy financial investments in India, such as shares and bonds, without taking control of a company. In everyday market news, 'FII' and 'FPI' are often used to mean the same group. Before they can invest, FPIs must register and complete checks, which can take time and paperwork. Think of it as the entry process at a big exhibition: the quicker and simpler the gate, the easier it is for visitors to come in. Their buying and selling can move the Sensex and the rupee."
+    },
+    {
+      "term": "Import bill",
+      "definition": "The total amount a country pays to buy goods from other countries over a period.",
+      "more": "India buys most of its crude oil, plus gold, electronics and more, from abroad, and pays in dollars. The import bill is the total of those payments. When oil prices rise, the import bill swells even if India buys the same number of barrels. It is like a household's grocery bill going up because the price of cooking oil jumped, not because the family ate more. A bigger import bill means more demand for dollars, which tends to weaken the rupee, and it can push up prices at home."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Price band",
+      "definition": "The range of prices, from lowest to highest, within which investors can bid for shares in an IPO.",
+      "more": "Before an IPO opens, the company announces a price band, such as ₹290–305 per share. Investors bid for shares at a price inside that range. Once bidding closes, the company fixes the final issue price, usually at the top of the band if demand is strong. It's like a seller saying a used bike will go for somewhere between ₹29,000 and ₹30,500 depending on interest. Most small investors simply bid at the top price (called the 'cut-off') to improve their chance of getting shares."
+    },
+    {
+      "term": "Lot size",
+      "definition": "The minimum number of shares you must apply for in an IPO. You can apply only in multiples of it.",
+      "more": "IPO shares are sold in fixed bundles called lots. If the lot size is 49 shares, you must apply for 49, 98, 147 and so on, not 10 or 60. The smallest application therefore costs the lot size multiplied by the price: at ₹305, one lot of 49 shares costs ₹14,945. It's like a shop selling eggs only by the tray, not singly. News reports mention the lot size so readers know the minimum amount needed to apply."
+    },
+    {
+      "term": "Fresh issue",
+      "definition": "New shares a company creates and sells in an IPO, with the money going to the company itself.",
+      "more": "An IPO can have two parts. In a fresh issue, the company creates new shares and keeps the money raised, usually to repay debt or fund growth. In an offer for sale, existing owners sell some of their shares and keep the money themselves. A 100% fresh issue means all the money goes into the business. It's like a shop owner taking in a new partner who puts cash into the shop, rather than the owner selling part of the shop and pocketing the money."
+    },
+    {
+      "term": "Offer for sale",
+      "definition": "The part of an IPO where existing shareholders sell some of their own shares to the public. The company itself gets no money from this part.",
+      "more": "An IPO can have two parts. In the 'fresh issue', the company creates new shares and keeps the money to spend on its business. In the 'offer for sale' (OFS), existing owners, such as founders or early investors, sell shares they already hold, and the money goes to them. Investors read this split closely: a large OFS can mean early backers want to cash out. It's like the difference between a shop owner raising money to open a new branch, and a partner selling their stake in the existing shop."
+    },
+    {
+      "term": "Subscription",
+      "definition": "How much of an IPO investors have applied for. '0.48 times' means bids came in for about half of the shares on offer.",
+      "more": "During an IPO, the exchanges publish how many shares investors have bid for compared with how many are available, called the subscription figure. '1 times' means demand exactly matches supply; '5 times' means five shares were sought for each one offered; '0.48 times' means only about half were sought so far. Many investors bid on the last day, so early figures often rise sharply at the end. It's like counting RSVPs for a wedding: many replies arrive only on the last day."
+    },
+    {
+      "term": "Allotment",
+      "definition": "The step after an IPO closes, when the company decides who gets shares and how many.",
+      "more": "If an IPO receives more bids than shares, not everyone gets what they asked for. Retail investors are usually given shares by a computerised lottery, with each lucky applicant getting at least one lot. If an IPO is not fully subscribed, everyone who applied gets shares. Money for unsuccessful bids, which was only blocked, is released back to the bank account. It's like a housing lottery for flats: you apply, wait for the draw and then learn if you got one. News reports give the allotment date so applicants know when to check."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    },
+    {
+      "term": "Agrochemicals",
+      "definition": "Chemicals used in farming, such as insecticides, weedkillers and fungicides.",
+      "more": "Agrochemical companies make products that protect crops from insects, weeds and disease. India is both a big user and a big exporter of these chemicals. The business depends heavily on weather: a bad monsoon or unusual rainfall can cut how much farmers spray, and global prices can swing when Chinese makers sell cheaply. It's like a medicine shop for crops, whose sales rise and fall with the season's illnesses. Indian agrochemical firms include PI Industries, UPL and Dhanuka, and their results often mention rainfall, exports and inventory levels."
+    },
+    {
+      "term": "Retail investor",
+      "definition": "An ordinary individual who buys shares with their own money, in small amounts.",
+      "more": "A retail investor is an everyday person, like a salaried employee or a shopkeeper, who invests their own savings. In an IPO, retail investors are those who apply for shares worth up to ₹2 lakh, and they get their own reserved quota so big investors cannot crowd them out. Retail investors also invest indirectly through mutual funds and SIPs. News reports often compare 'retail demand' with 'institutional demand'. A low retail subscription on the first day of an IPO is common, because many individuals apply on the last day."
+    }
+  ]
+}
