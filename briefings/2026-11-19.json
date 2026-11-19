@@ -1,0 +1,773 @@
+{
+  "date": "2026-11-19",
+  "session_label": "Thursday 19 November 2026",
+  "prepared_for": "Read tonight or tomorrow morning",
+  "headline": "The Sensex jumped 990 points to 83,021 and the Nifty rose to 25,514 as carmakers, banks and consumer companies rallied; Maruti Suzuki rose about 7.6% as metal prices fell, the EPFO approved a monthly withdrawal option for PF, and the rupee rose for a fourth day to 93.36.",
+  "mood": "Upbeat",
+  "mood_note": "Indian shares bounced back strongly after Wednesday's dip, recovering from a weak start. Carmakers led the way as metal prices fell, banks hit a new high, and foreign investors kept buying. Only IT shares lagged, on worries about higher US interest rates.",
+  "reading_minutes": 13,
+  "since_yesterday": [
+    "Exchange data showed foreign investors bought ₹5,866.78 crore of Indian shares, net, on Wednesday, their third straight day of net buying.",
+    "The Nifty Bank index, which slipped on Wednesday, rose 1.65% today and crossed 62,900 for the first time.",
+    "Mahanadi Coalfields' IPO, which we said would open today, drew bids for 0.38 times the shares on offer on day one."
+  ],
+  "one_minute": [
+    "The Sensex rose 989.94 points (1.21%) to 83,021.75 and the Nifty 50 rose 286.35 points (1.14%) to 25,514.30, recovering from a weak start.",
+    "Maruti Suzuki rose about 7.6% and the Nifty Auto index 4.4% as world aluminium and copper prices fell; IT shares fell 1.1%.",
+    "The EPFO board approved a plan letting retiring members take PF in instalments, and cut the wait for final withdrawal from 12 months to 2 months.",
+    "US Fed minutes pointed to more rate rises; the Dow fell 1.11%, and Anthropic priced a record $81.3 billion IPO at $83 a share.",
+    "The rupee rose 5 paise to 93.36 per dollar (provisional) on foreign buying; Mahanadi Coalfields' IPO was subscribed 0.38 times on day one."
+  ],
+  "big_picture": "Indian shares have had a very strong November, helped by record foreign buying and much cheaper oil. Wednesday's dip turned out to be short: today the Sensex rose nearly 1,000 points.\n\nA new reason for optimism is falling metal prices. Copper and aluminium have become cheaper in world markets. That lowers costs for companies that make cars, bikes, air conditioners and household goods, so their shares led today's rise.\n\nThe main worry is still the US. Notes from the US central bank's last meeting showed most officials expect to raise interest rates again. That weighed on Indian IT companies, which earn much of their money from American clients. Closer to home, the EPFO made changes that matter for every salaried worker with a PF account.",
+  "chain": [
+    {
+      "label": "Metal and oil prices fall",
+      "note": "World aluminium and copper prices fell, and Brent has dropped about 21.6% this month."
+    },
+    {
+      "label": "Costs ease for manufacturers",
+      "note": "Carmakers, appliance makers and consumer goods firms can make products more cheaply."
+    },
+    {
+      "label": "Auto and consumer shares rally",
+      "note": "The Nifty Auto index jumped 4.4% and Maruti Suzuki rose about 7.6%."
+    },
+    {
+      "label": "Foreign money keeps coming",
+      "note": "Foreign investors bought ₹5,866.78 crore of shares on Wednesday, helping banks and the rupee."
+    },
+    {
+      "label": "Sensex jumps 990 points",
+      "note": "Only IT shares lagged, on worries about higher US interest rates."
+    }
+  ],
+  "snapshot": [
+    {
+      "name": "Sensex",
+      "value": "83,021.75",
+      "change": "+989.94 (+1.21%)",
+      "direction": "up",
+      "what_it_is": "The Sensex tracks 30 large companies listed on the BSE. It recovered all of Wednesday's fall."
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,514.30",
+      "change": "+286.35 (+1.14%)",
+      "direction": "up",
+      "what_it_is": "The Nifty 50 tracks 50 large companies listed on the NSE. It recovered about 410 points from its low of the day."
+    },
+    {
+      "name": "Nifty Bank",
+      "value": "63,063.00",
+      "change": "+1.65%",
+      "direction": "up",
+      "what_it_is": "This tracks the biggest listed banks. It crossed 62,900 for the first time during the day."
+    },
+    {
+      "name": "Nifty Auto",
+      "value": "",
+      "change": "+4.4%",
+      "direction": "up",
+      "what_it_is": "This tracks carmakers and two-wheeler makers. It was the best of the main sectors."
+    },
+    {
+      "name": "Nifty IT",
+      "value": "",
+      "change": "-1.1%",
+      "direction": "down",
+      "what_it_is": "This tracks software and IT services companies. It was the main sector that fell."
+    },
+    {
+      "name": "Nifty Midcap 100",
+      "value": "",
+      "change": "+1.05%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 medium-sized companies."
+    },
+    {
+      "name": "Nifty Smallcap 100",
+      "value": "",
+      "change": "+0.71%",
+      "direction": "up",
+      "what_it_is": "This tracks 100 smaller companies."
+    },
+    {
+      "name": "India VIX",
+      "value": "about 16",
+      "change": "up about 3%",
+      "direction": "up",
+      "what_it_is": "A measure of how much traders expect the Nifty to swing. Sources gave slightly different closing figures."
+    },
+    {
+      "name": "Rupee vs dollar",
+      "value": "93.36",
+      "change": "+5 paise (provisional)",
+      "direction": "up",
+      "what_it_is": "How many rupees one US dollar costs. A lower number means a stronger rupee. Its fourth gain in a row."
+    },
+    {
+      "name": "Brent crude",
+      "value": "$92.52",
+      "change": "+0.62%",
+      "direction": "up",
+      "what_it_is": "The international price of a barrel of oil (January futures), as reported by Investing.com."
+    },
+    {
+      "name": "Gold (MCX)",
+      "value": "₹1,29,275",
+      "change": "-0.42%",
+      "direction": "down",
+      "what_it_is": "December gold futures per 10 grams on MCX, as reported by Kotak Neo during the afternoon."
+    },
+    {
+      "name": "FII net buying (Wednesday)",
+      "value": "₹5,866.78 crore",
+      "change": "net bought",
+      "direction": "up",
+      "what_it_is": "How much more foreign investors bought than sold in Indian shares on Wednesday. Domestic institutions sold ₹3,159.90 crore, net."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sensex-jumps-990-nifty-25514-autos-banks",
+      "category": "Stock market",
+      "title": "Sensex jumps 990 points to 83,021 and Nifty ends at 25,514 as auto, bank and consumer shares rally; Nifty Bank hits a record",
+      "tldr": "The Sensex rose 989.94 points, or 1.21%, to 83,021.75 and the Nifty 50 rose 286.35 points, or 1.14%, to 25,514.30, recovering all of Wednesday's fall and more. Carmakers, banks and consumer goods companies led the gains, and the Nifty Bank index hit a new high. IT shares were the main losers.",
+      "what_happened": "The Sensex closed 989.94 points, or 1.21%, higher at 83,021.75, and the Nifty 50 rose 286.35 points, or 1.14%, to 25,514.30, HDFC Sky reported. Markets opened lower, but the Nifty recovered about 410 points from its low for the day.\n\nMaruti Suzuki was the biggest gainer, rising about 7.6% on the BSE. Eicher Motors, Mahindra & Mahindra and Axis Bank rose more than 4% each, and Hindustan Unilever rose 4.07%. IT companies fell: Infosys, TCS and Tech Mahindra lost between about 1.3% and 1.7%.\n\nThe Nifty Auto index jumped 4.4%. Consumer durables rose more than 3%, PSU banks more than 2% and FMCG about 2%, while the Nifty IT index fell 1.1%. The Nifty Bank index rose 1.65% to 63,063.00, Investing.com reported, crossing 62,900 for the first time during the day, according to HDFC Sky.\n\nThe Nifty Midcap 100 rose 1.05% and the Nifty Smallcap 100 0.71%, Kotak Neo reported. More shares rose than fell on the BSE. The India VIX fear gauge rose about 3% to around 16.",
+      "simple_explanation": "Yesterday the market fell. Today it bounced back strongly, and ended even higher than where it was on Tuesday.\n\nThe biggest push came from companies that make cars, bikes and everyday household goods. Prices of metals like copper and aluminium have fallen in world markets, and oil is cheaper than a month ago. That means these companies can make their products more cheaply. Banks rose too.\n\nIT companies like Infosys and TCS fell, because they earn a lot from American clients and the US economy faces higher interest rates.\n\nA 1.2% rise in a day is a big move for the Sensex.",
+      "analogy": "Think of a cricket team that loses two quick wickets in the first over and then recovers to post a big total. The market started the day nervously, with the Sensex below Wednesday's close, but buyers stepped in and it finished nearly 1,000 points higher.",
+      "why": "Reports said buying in auto, bank and consumer shares drove the rise. Kotak Neo said carmakers drew buying as raw material prices softened, consumer goods makers rose on hopes of lower input costs, and air-conditioner makers gained after copper prices fell. HDFC Sky also pointed to steady festive-season vehicle demand, lower crude oil prices and continued foreign buying.\n\nInvestors also looked past the minutes of the US Federal Reserve's last meeting, which showed officials were worried about inflation, HDFC Sky said. Those worries weighed on IT companies, which earn much of their revenue in the US.\n\nNagaraj Shetti of HDFC Securities said the Nifty's trend remained positive. He said a clear move above 25,500 could take it towards 25,900–26,000, with support at about 25,200.",
+      "implications": {
+        "you": "If you have a Nifty 50 index fund or a large-company SIP, its value rose by a little over 1% today, more than making up for Wednesday's fall. One day's rise does not change a long-term plan.",
+        "markets": "The Nifty is up about 10.7% and the Sensex about 11.5% so far in November, HDFC Sky said. Analysts are watching whether foreign buying continues and how US interest rate signals affect the mood.",
+        "economy": "Lower metal and oil prices, if they last, can ease costs for Indian manufacturers and help keep inflation in check.",
+        "prices": "No immediate effect on everyday prices. If raw material costs stay lower, carmakers and consumer goods companies have less reason to raise prices."
+      },
+      "watch": "Whether the Nifty holds above 25,500, foreign investor flows, and the US weekly jobless claims data due on Thursday evening.",
+      "terms": [
+        "Sensex",
+        "Nifty 50",
+        "Intraday",
+        "Nifty Auto",
+        "Consumer durables",
+        "PSU bank",
+        "FMCG",
+        "Nifty IT",
+        "IT services",
+        "Nifty Bank",
+        "Record high",
+        "Midcap",
+        "Smallcap",
+        "Market breadth",
+        "India VIX",
+        "Input costs",
+        "Fed minutes",
+        "Support and resistance",
+        "Index fund",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "Imagine a giant scoreboard that adds up the share prices of 30 of India's biggest companies. That is the Sensex. Yesterday the score went down by 500 points. Today it went up by almost 1,000 points.\n\nWhy? Car companies like Maruti Suzuki had a great day. The metals they use to build cars, like copper and aluminium, have become cheaper around the world. When it costs less to make a car, the company can earn more on each one it sells.\n\nBig banks went up too. But computer service companies like Infosys and TCS went down, because many of their customers are in America, where things look a little shaky right now.",
+        "real_life": "Kavitha, 31, is an HR executive in Pune earning ₹62,000 a month. She puts ₹4,000 a month into a Nifty 50 index fund and ₹2,000 into a midcap fund. Together they are worth about ₹2 lakh.\n\nOn Wednesday her funds lost roughly ₹1,500 on paper. Today the Nifty rose 1.14% and midcaps rose about 1%, so they gained back a little more than that. Over two days she is slightly ahead.\n\nShe does not need to do anything. Her SIPs will keep buying every month whether the market rises or falls. Her bank savings and FD are not affected by these swings."
+      }
+    },
+    {
+      "id": "maruti-auto-shares-surge-metal-prices-fall",
+      "category": "Companies",
+      "title": "Maruti Suzuki jumps about 7.6% and the Nifty Auto index gains 4.4% as world metal prices fall",
+      "tldr": "Shares of India's biggest carmaker, Maruti Suzuki, rose about 7.6% on the BSE, and Eicher Motors and Mahindra & Mahindra rose more than 4% each. Reports linked the rally to falling world prices of aluminium and copper, which carmakers use in large amounts, along with cheaper oil and steady vehicle demand.",
+      "what_happened": "Maruti Suzuki rose 7.58% to ₹13,599 on the BSE, Investing.com reported. One report called it the stock's best day in 15 months, and said the shares had risen 16% over the past month.\n\nOther vehicle makers also rose sharply. Eicher Motors, which makes Royal Enfield motorcycles, rose about 4.7%, and Mahindra & Mahindra more than 4%. Tata Motors Passenger Vehicles rose 4.34%, HDFC Sky reported. The Nifty Auto index ended 4.4% higher, the best of the main sectors.\n\nThe gains spread to other companies that use a lot of metal. Air-conditioner makers rose after copper prices fell, and the consumer durables index rose more than 3%, Kotak Neo reported.",
+      "simple_explanation": "Cars and bikes are made from a lot of metal: steel for the body, aluminium for the engine and wheels, copper for the wiring. When the world price of these metals drops, it costs less to build each vehicle.\n\nIf a carmaker keeps its selling prices the same while its costs fall, it makes more profit on each car. Investors expect that, so they bought car company shares today.\n\nOil has also become cheaper this month, which can make driving cheaper and keep people buying vehicles. Reports said demand during the festive season has stayed healthy.",
+      "analogy": "Think of a mithai shop. If the price of sugar and ghee suddenly falls, but the shop still sells a kilo of barfi at the same price, it earns more on every box. Carmakers are in a similar spot when metal prices drop.",
+      "why": "One report said Maruti's rise came as global prices of aluminium and copper fell, lifting the whole auto sector. It noted that Maruti's profit margins had recently been hurt by high costs. Kotak Neo said auto shares saw fresh buying as raw material prices softened.\n\nA second report linked Maruti's gain to falling crude oil prices, which ease fuel-related costs. HDFC Sky also mentioned steady festive-season vehicle demand.\n\nNot every cost is falling. One report noted that steel prices in India were still about 7% higher than their average in the July–September quarter.",
+      "implications": {
+        "you": "If you are planning to buy a car or bike, lower metal prices do not mean an immediate price cut at the showroom. Companies usually use lower costs to protect their profits first. If you own an auto-sector fund, it had a strong day.",
+        "markets": "Auto shares are sensitive to raw material prices, fuel costs and monthly sales figures. Analysts will watch whether metal prices stay low and what December sales look like.",
+        "economy": "The auto industry employs lakhs of people in factories, dealerships and parts makers. Healthy demand and lower costs are good signs for these jobs.",
+        "prices": "No change in vehicle prices has been announced. Lower costs reduce the pressure on carmakers to raise prices."
+      },
+      "watch": "World copper and aluminium prices, monthly vehicle sales figures due in early December, and steel prices in India.",
+      "terms": [
+        "Nifty Auto",
+        "Input costs",
+        "Consumer durables",
+        "Sectoral index"
+      ],
+      "explainers": {
+        "like12": "Maruti Suzuki makes more cars than any other company in India. Today its share price went up by about 7.6%, which is a very big jump for such a large company in one day.\n\nWhy? Cars are made from metals like steel, aluminium and copper. Right now aluminium and copper have become cheaper around the world. So it costs Maruti less to make each car. If it sells the cars at the same price, it keeps more money as profit.\n\nOther companies that make cars, bikes and even air conditioners also went up, because they use a lot of metal too.",
+        "real_life": "Ramesh, 38, is a sales manager in Nagpur earning ₹70,000 a month. He plans to buy a small family car next year and has been saving ₹10,000 a month for the down payment.\n\nLower metal prices will not cut the showroom price of the car he likes right away. Carmakers usually keep some of the savings as profit, especially after a period of high costs. But if costs stay lower, companies have less reason to raise prices next year, which helps him.\n\nHis colleague owns a few Maruti shares bought years ago. Those gained about 7.6% today, but one good day does not tell anyone what the shares will do next."
+      }
+    },
+    {
+      "id": "epfo-board-approves-swp-faster-final-withdrawal",
+      "category": "Personal finance",
+      "title": "EPFO board approves a monthly withdrawal option for retiring PF members and a shorter wait for final withdrawal",
+      "tldr": "The board of the Employees' Provident Fund Organisation approved seven proposals on Thursday. They include a plan letting retiring members take their PF savings in regular instalments, a cut in the minimum balance rule from 25% to 10%, and a shorter wait for final withdrawal, from 12 months to 2 months. It also allowed EPFO to put a small part of new money into alternative investment funds.",
+      "what_happened": "The EPFO's Central Board of Trustees met in New Delhi on Thursday for its 240th meeting, chaired by Labour Minister Mansukh Mandaviya, Upstox reported. It approved seven proposals.\n\nRetiring members will be able to take out their PF savings in instalments, such as monthly, quarterly or half-yearly, through a systematic withdrawal plan. The option is voluntary. About 6.32 lakh members aged above 55 with PF balances over ₹5 lakh are expected to be the first to benefit.\n\nThe minimum balance requirement will fall from 25% to 10% of contributions, and the waiting period for final withdrawal will drop from 12 months to 2 months. Members will also be able to make direct voluntary contributions linked to their UAN, outside their employer's payroll. The board gave in-principle approval for EPFO to invest up to 3% of new money in eligible alternative investment funds, at first only in government-backed ones.\n\nSome changes need approval from the Labour Ministry before they are notified.",
+      "simple_explanation": "Most salaried people in India have a PF account. A part of your salary goes in every month, your employer adds some, and the money earns interest until you retire or leave work.\n\nToday the board that runs this system made several changes. The biggest one: when you retire, instead of taking out your whole PF amount at once, you can choose to receive it bit by bit, like a monthly payment, while the rest stays in the account.\n\nIt also shortened the wait before you can make a final withdrawal after leaving work, from a year to two months, and relaxed the rule on how much must be left in the account.",
+      "analogy": "Think of a large tin of rice you have filled over many years. Until now, when you retired you could tip the whole tin out at once. The new option lets you scoop out a fixed amount every month instead, while the rest stays in the tin.",
+      "why": "The report said the instalment option is aimed at retiring members who want a regular flow of money rather than a lump sum. The board also reviewed progress on its claims system: automatic processing of claims rose from 39% to 71%, and the average time to settle a claim fell from 11.15 days to 2.57 days, Upstox reported.\n\nAhead of the meeting, some reports had said the board might discuss raising the minimum pension under the Employees' Pension Scheme to ₹3,000 a month. The report of the decisions did not mention it, and there was no official word on it.",
+      "implications": {
+        "you": "If you are close to retirement, you may later be able to take your PF in regular instalments instead of one lump sum. If you leave a job and want to withdraw your PF, the wait could become much shorter. These changes take effect only after they are formally notified, so check EPFO announcements before planning around them.",
+        "markets": "EPFO is one of India's biggest investors. Permission to put up to 3% of new money into alternative investment funds is small but could, over time, direct more money towards infrastructure and private companies.",
+        "economy": "Easier access to PF money gives workers more flexibility. Faster claim settlement means less waiting when people change jobs or face emergencies.",
+        "prices": "No effect on everyday prices."
+      },
+      "watch": "Formal notification of the changes, details on how the instalment plan will work, and any official word on the minimum pension.",
+      "terms": [
+        "EPFO",
+        "EPF",
+        "Systematic withdrawal plan (SWP)",
+        "Alternative investment fund (AIF)",
+        "SIP"
+      ],
+      "explainers": {
+        "like12": "When grown-ups work for a company, a little of their salary goes into a special savings box every month. The company adds some money too. This box is called PF, and it is meant for when they stop working and get old.\n\nThe people in charge of these boxes met today and changed some rules. Now, when someone retires, they can choose to take out a little money every month, like pocket money, instead of emptying the whole box at once. The rest stays inside and keeps growing.\n\nThey also made it faster to take your money out after leaving a job: two months of waiting instead of a whole year.",
+        "real_life": "Suresh, 57, is a supervisor at a factory in Faridabad earning ₹45,000 a month. His PF balance is about ₹18 lakh, and he retires in three years.\n\nUnder the old system, he would take out the whole amount when he retires and then decide what to do with it. If the new option is notified, he could instead choose to receive a fixed amount every month while the rest stays with EPFO and keeps earning interest. That could work like a regular income alongside his pension.\n\nHis nephew, 26, recently left a job to study. A shorter waiting period means he could get his final PF payout sooner, once the change takes effect."
+      }
+    },
+    {
+      "id": "fed-minutes-hawkish-dow-falls-it-shares-anthropic-ipo",
+      "category": "Global",
+      "title": "Fed minutes point to more US rate rises; the Dow falls 561 points, Nvidia slips despite strong results, and Anthropic prices a record $81 billion IPO",
+      "tldr": "Minutes of the US Federal Reserve's late-October meeting showed nearly all officials thought further interest rate rises would be needed. The Dow fell 1.11% on Wednesday and Nvidia's shares ended 2.89% lower despite its strong results. In India, IT shares fell 1.1%. AI company Anthropic priced its IPO at $83 a share, raising $81.3 billion, ahead of its Nasdaq debut on Thursday.",
+      "what_happened": "The Federal Reserve published the minutes of its 27–28 October meeting on Wednesday. Reports said nearly all officials saw further rate increases as appropriate, and two said a rise of more than 0.25 percentage point in December could be considered if inflation got worse.\n\nThe Dow Jones fell 561.25 points, or 1.11%, to 50,198.17 on Wednesday, its closing figures showed. The S&P 500 fell 0.23% to 7,323.63, its fifth straight fall, while the Nasdaq rose 0.42%. Nvidia ended 2.89% lower at $150.96, despite results that beat forecasts, the Motley Fool reported.\n\nAnthropic, the AI company behind the Claude chatbot, priced its shares at $83, above its planned range of $70 to $78, AP reported. It raised $81.3 billion, the largest IPO on record, valuing the company at about $1.5 trillion. Its shares were due to start trading on the Nasdaq on Thursday under the ticker 'ANT', after the Indian market closed.\n\nIn India, the Nifty IT index fell 1.1%.",
+      "simple_explanation": "America's central bank, the Fed, released notes from its last meeting. They showed that almost all its officials think interest rates may need to go up again to bring prices under control.\n\nHigher US interest rates can make borrowing costlier for American businesses. Indian IT companies earn a lot from American clients, so investors worry those clients may spend less. That is one reason Infosys and TCS fell today.\n\nSeparately, a big AI company, Anthropic, is selling its shares to the public for the first time. It has raised more money than any company before in such a sale. Its shares start trading in New York tonight, Indian time.",
+      "analogy": "Think of a strict school principal whose meeting notes leak out, showing they plan to tighten rules next term. Even before anything changes, students start behaving more carefully. The Fed minutes did the same thing to investors.",
+      "why": "US inflation has stayed higher than the Fed wants, and officials have warned in recent weeks that rates may need to rise further. The minutes confirmed that view. Reports said traders see a December rate rise as very likely.\n\nNvidia's shares fell even after its sales beat forecasts. The Motley Fool said investors were weighing uncertainty over who will lead the company after its chief executive left, and regulatory scrutiny of its China business.\n\nHDFC Sky said the Fed minutes raised worries about tighter policy and technology spending, which matters for Indian IT firms with large US revenue.",
+      "implications": {
+        "you": "US interest rates do not change your bank FD or loan EMI directly; the RBI sets Indian rates. If you own an IT fund or an international fund, today's moves may have pulled its value down a little. Buying shares in US IPOs from India involves overseas remittance rules and taxes that change over time.",
+        "markets": "Higher US rates can make foreign investors more cautious about markets like India and weigh on IT shares. So far this month, foreign investors have kept buying Indian shares.",
+        "economy": "If US rates keep rising, the dollar could strengthen, putting pressure on the rupee and making it harder for the RBI to cut rates.",
+        "prices": "No direct effect on everyday prices."
+      },
+      "watch": "How Anthropic's shares trade on their first day, US weekly jobless claims, and any further comments from Fed officials before the December meeting.",
+      "terms": [
+        "Federal Reserve",
+        "Fed minutes",
+        "FOMC",
+        "Rate hike",
+        "Hawkish",
+        "Dow Jones",
+        "S&P 500",
+        "Nasdaq",
+        "Nvidia",
+        "IPO",
+        "Issue price",
+        "Price band",
+        "Valuation",
+        "Nifty IT",
+        "IT services"
+      ],
+      "explainers": {
+        "like12": "America has a central bank called the Fed. It decides how much interest people pay when they borrow money. A few weeks ago its leaders had a meeting, and today everyone got to read the notes from it.\n\nThe notes showed that almost all of them think interest should go up again, because prices in America are still rising too fast. That made investors nervous, and many American shares fell.\n\nIndian computer service companies like Infosys earn a lot of money from American customers, so their shares fell too.\n\nAlso, a company called Anthropic, which makes an AI helper, is selling its shares to the public for the first time. It raised a record amount of money.",
+        "real_life": "Deepak, 29, is a software engineer at an IT company in Bengaluru earning ₹85,000 a month. He gets some company shares as part of his pay, and his employer earns most of its revenue from US clients.\n\nToday IT shares fell about 1%, so the shares he holds lost a little value on paper. If US interest rates keep rising and American clients cut spending, IT companies could see slower growth, which can affect hiring and pay rises. But nobody knows yet how big that effect will be.\n\nHis friend asked about buying Anthropic shares. Indians can invest abroad under RBI remittance rules, but tax and currency rules apply, and new listings can swing sharply."
+      }
+    },
+    {
+      "id": "rupee-rises-5-paise-93-36-fourth-day",
+      "category": "Rupee & oil",
+      "title": "Rupee rises for a fourth day to 93.36 per dollar as foreign investors keep buying Indian shares",
+      "tldr": "The rupee rose 5 paise to 93.36 per US dollar (provisional), its fourth gain in a row, helped by a slightly weaker dollar and foreign money flowing into Indian shares. Foreign investors bought ₹5,866.78 crore of shares, net, on Wednesday. Brent crude was steady at about $92.5 a barrel.",
+      "what_happened": "The rupee settled 5 paise higher at 93.36 against the US dollar on Thursday, according to provisional figures reported by PTI. During the day it moved between 93.17 and 93.55. The dollar index, which measures the dollar against six major currencies, was down 0.17% at 103.61.\n\nForeign investors bought ₹5,866.78 crore of Indian shares, net, on Wednesday, while domestic institutions sold ₹3,159.90 crore, according to provisional exchange data. HDFC Sky said foreign investors' net purchases in November had reached a record $11.28 billion.\n\nBrent crude for January delivery was up 0.62% at $92.52 a barrel, Investing.com reported. HDFC Sky said Brent had fallen about 21.6% this month.",
+      "simple_explanation": "The rupee got a little stronger again today. One dollar now costs ₹93.36, five paise less than yesterday.\n\nThe main reason is that foreign investors keep bringing dollars into India to buy shares. To buy Indian shares, they must change their dollars into rupees, and that extra demand for rupees lifts its value.\n\nThe dollar also slipped slightly against other world currencies. But oil prices edged up today, which pulled the other way, because India needs dollars to buy oil.\n\nA 5-paise move is small, but the rupee has now gained for four days in a row.",
+      "analogy": "Imagine a mela where lots of visitors from out of town arrive and need to swap their money for local tokens to buy things. The more visitors come, the more valuable the tokens become. Foreign investors buying Indian shares are like those visitors.",
+      "why": "Forex traders cited a weaker US dollar and foreign money flowing into Indian shares, PTI reported. Rising crude oil prices limited the gains.\n\nAnuj Choudhary of Mirae Asset Sharekhan said traders may look to the US weekly jobless claims data for cues. He expects the dollar to trade between ₹92.95 and ₹93.50 in the near term.",
+      "implications": {
+        "you": "A slightly stronger rupee makes foreign travel, imported gadgets and overseas education a little cheaper. A 5-paise move is too small to notice; on a $1,000 expense it saves about ₹50.",
+        "markets": "Steady foreign buying has supported both shares and the rupee this month. Higher US interest rates and oil prices are the main risks.",
+        "economy": "Oil about a fifth cheaper than at the start of the month eases pressure on India's import bill and on inflation.",
+        "prices": "Petrol and diesel prices are not changed directly by today's move."
+      },
+      "watch": "Foreign investor flows, US jobless claims data, and oil prices.",
+      "terms": [
+        "Exchange rate",
+        "Paise",
+        "Provisional",
+        "Rupee appreciation",
+        "Dollar index",
+        "FPI",
+        "DII",
+        "Net buyer",
+        "Brent crude",
+        "Barrel"
+      ],
+      "explainers": {
+        "like12": "India uses rupees and America uses dollars. When people swap one for the other, there is a price, like a price tag. Today one dollar cost ₹93.36, a tiny bit less than yesterday. That means the rupee became a little stronger.\n\nWhy? People from other countries are buying lots of shares of Indian companies. To do that, they have to turn their dollars into rupees. When many people want rupees, the rupee's value goes up.\n\nThe rupee has now become a bit stronger four days in a row. Each change is small, like a few coins, but together they add up.",
+        "real_life": "Ananya, 24, is a junior analyst in Chennai earning ₹40,000 a month. Her younger brother has applied to study in Australia next year, and the family is saving in rupees for his fees, which are charged in foreign currency.\n\nA stronger rupee means each rupee buys slightly more foreign currency. Today's 5-paise move against the dollar is tiny: on a $10,000 payment it saves about ₹500. Over weeks or months, bigger moves can matter more, in either direction.\n\nFor her own daily life, from groceries to her bus pass, today's change makes no difference."
+      }
+    },
+    {
+      "id": "mahanadi-coalfields-ipo-opens",
+      "category": "IPO",
+      "title": "Mahanadi Coalfields' ₹8,981 crore IPO opens; subscribed 0.38 times on day one",
+      "tldr": "Mahanadi Coalfields, a coal-mining subsidiary of Coal India, opened its IPO on Thursday. All the shares are being sold by an existing shareholder, so the company itself gets no new money. The price band is ₹129 to ₹136 a share, and bidding closes on 23 November. By the end of the first day, investors had bid for 0.38 times the shares on offer.",
+      "what_happened": "The IPO of Mahanadi Coalfields opened on 19 November and closes on 23 November, HDFC Sky reported. It is worth about ₹8,981.12 crore and is entirely an offer for sale, with no new shares. Reports said the shares are being sold by Coal India.\n\nThe price band is ₹129 to ₹136 a share, and the minimum bid is 110 shares, or ₹14,960 at the top of the band. Anchor investors bid for their full portion before the issue opened, and one report put the amount raised from them at about ₹2,295 crore.\n\nBy about 5 pm on the first day, the issue was subscribed 0.38 times. Big institutions had bid for 1.26 times their portion, but retail investors only 0.14 times and wealthy individuals 0.08 times. Allotment is expected on 25 November and listing on the NSE and BSE on 27 November.",
+      "simple_explanation": "Mahanadi Coalfields digs coal out of the ground. It is owned by Coal India, a big government-owned company. Now Coal India is selling part of its stake to the public.\n\nBecause only existing shares are being sold, the money goes to Coal India, not to Mahanadi Coalfields.\n\nOn the first day, people bid for a bit over a third of the shares available. Big institutions bid for more than their full share, but ordinary investors have been slower. In many IPOs, most bids come on the last day.",
+      "analogy": "Think of a big family business that owns several shops. The parent company decides to sell part of one shop to the public. The shop keeps running as before, but the cash from the sale goes to the parent, not to the shop.",
+      "why": "In an offer for sale, an existing owner sells shares it already holds and keeps the money. Here, reports said that owner is Coal India.\n\nIPOGuru noted that retail and wealthy individual bids are usually lower on the first day and tend to build up towards the end of the issue.",
+      "implications": {
+        "you": "If you apply, the minimum bid is about ₹14,960, blocked in your bank account until allotment. IPO shares can list below the issue price, and you may get fewer shares than you bid for if the issue is heavily oversubscribed.",
+        "markets": "This is one of the larger IPOs of the year. How much demand it draws, especially from retail investors, will be watched as a sign of investor mood.",
+        "economy": "Because no new shares are issued, the IPO does not raise money for Mahanadi Coalfields' own projects.",
+        "prices": "No effect on everyday prices or electricity bills."
+      },
+      "watch": "Subscription figures through 23 November, allotment on 25 November and listing on 27 November.",
+      "terms": [
+        "IPO",
+        "Subsidiary",
+        "Offer for sale",
+        "Price band",
+        "Lot size",
+        "Anchor investor",
+        "Subscription",
+        "QIB",
+        "Retail investor",
+        "Non-institutional investor",
+        "Allotment",
+        "Listing",
+        "Issue price"
+      ],
+      "explainers": {
+        "like12": "Mahanadi Coalfields is a company that digs coal out of mines. Coal is burned in power plants to make electricity. This company belongs to a bigger company called Coal India.\n\nNow Coal India wants to sell some pieces of Mahanadi Coalfields to ordinary people. These pieces are called shares. Selling shares to the public for the first time is called an IPO.\n\nOn the first day, people asked for only about a third of the shares on offer. But big investors, like large funds, wanted more than their full share. Ordinary people can still apply until Monday, and many usually wait until the last day.",
+        "real_life": "Meera, 35, is a nurse in Bhubaneswar earning ₹50,000 a month. She has heard about Mahanadi Coalfields because it operates in Odisha.\n\nTo apply, she would need at least 110 shares at up to ₹136, or ₹14,960. That money would be blocked in her bank account until allotment on 25 November and released if she gets no shares.\n\nIf she gets shares, their price on 27 November could be higher or lower than ₹136. She should read the company's offer document and remember that, because this is an offer for sale, the money raised goes to Coal India, not to the company."
+      }
+    }
+  ],
+  "concept": {
+    "term": "Systematic withdrawal plan (SWP)",
+    "explanation": "A systematic withdrawal plan, or SWP, lets you take money out of your savings in fixed amounts at regular intervals, say ₹20,000 every month, instead of withdrawing everything at once. The rest of your money stays invested and keeps earning.\n\nYou can think of it as the opposite of an SIP. With an SIP you put a fixed amount in every month to build up savings. With an SWP you take a fixed amount out every month to live on. Mutual funds have offered SWPs for many years, and retirees often use them to turn a lump sum into a regular income.\n\nAn SWP does not guarantee your money will last. If you withdraw more than your savings earn, the balance shrinks over time. And in a mutual fund, if the market falls, each withdrawal sells more units. The idea is simply to spread out withdrawals in a planned way.",
+    "example": "Today the EPFO board approved a systematic withdrawal plan for PF members, letting retiring members take their savings in monthly, quarterly or half-yearly instalments instead of one lump sum. About 6.32 lakh members aged above 55 with balances over ₹5 lakh are expected to be the first to benefit, Upstox reported.",
+    "takeaway": "An SWP is the reverse of an SIP: instead of putting in a fixed sum every month, you take one out, while the rest stays invested."
+  },
+  "quiz": [
+    {
+      "q": "How did the Sensex end on Thursday?",
+      "options": [
+        "Down 989.94 points",
+        "Up 989.94 points, or 1.21%",
+        "Up 286.35 points",
+        "Flat"
+      ],
+      "answer": 1,
+      "why": "The Sensex rose 989.94 points, or 1.21%, to 83,021.75. The Nifty 50 rose 286.35 points to 25,514.30."
+    },
+    {
+      "q": "Why did Maruti Suzuki and other carmakers rise today, according to reports?",
+      "options": [
+        "The RBI cut interest rates",
+        "World prices of metals like aluminium and copper fell, lowering their costs",
+        "Petrol prices were raised",
+        "They announced bonus shares"
+      ],
+      "answer": 1,
+      "why": "Cheaper aluminium and copper lower the cost of making vehicles, which can improve carmakers' profits if selling prices stay the same."
+    },
+    {
+      "q": "What does the new EPFO systematic withdrawal plan let retiring members do?",
+      "options": [
+        "Withdraw their PF only after 10 years",
+        "Take their PF savings in regular instalments instead of one lump sum",
+        "Invest their PF directly in shares",
+        "Double their PF interest rate"
+      ],
+      "answer": 1,
+      "why": "The plan lets retiring members receive their PF savings monthly, quarterly or half-yearly, while the rest stays in the account."
+    },
+    {
+      "q": "Why did Indian IT shares fall today?",
+      "options": [
+        "The rupee crashed",
+        "Fed minutes pointed to more US rate rises, raising worries about US tech spending",
+        "IT companies reported losses today",
+        "The government raised taxes on IT firms"
+      ],
+      "answer": 1,
+      "why": "Indian IT companies earn much of their revenue in the US, so signs of higher US interest rates worried investors about their clients' spending."
+    },
+    {
+      "q": "In the Mahanadi Coalfields IPO, who gets the money raised?",
+      "options": [
+        "Mahanadi Coalfields",
+        "Coal India, the existing shareholder selling its shares",
+        "The stock exchange",
+        "SEBI"
+      ],
+      "answer": 1,
+      "why": "The IPO is entirely an offer for sale, so the money goes to the selling shareholder, which reports said is Coal India, not to the company."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HDFC Sky: Market close report, November 19, 2026",
+      "url": "https://hdfcsky.com/news/market-close-report-today-november-19-2026-nifty-sensex-stage-sharp-recovery-as-fed-fails-to-scare-stocks"
+    },
+    {
+      "title": "Kotak Neo: Closing Bell, 19 November 2026: Sensex, Nifty end higher as bulls return to Dalal Street",
+      "url": "https://www.kotakneo.com/news/market-news/closing-bell-19-november-2026-sensex-nifty-end-higher-as-bulls-return-to-dalal-street/"
+    },
+    {
+      "title": "Business Standard: Stock market close: Sensex rebounds 990 pts, Nifty settles at 25,514",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
+    },
+    {
+      "title": "Investing.com: India shares higher at close of trade; Nifty 50 up 1.14%",
+      "url": "https://in.investing.com/news/stock-market-news/india-shares-higher-at-close-of-trade-nifty-50-up-114-5714666"
+    },
+    {
+      "title": "HDFC Sky: India VIX rises 3.47% to 16.11",
+      "url": "https://hdfcsky.com/news/india-vix-rises-3-47percent-to-16-11-as-global-uncertainty-and-domestic-market-divergence-persist"
+    },
+    {
+      "title": "NewsBytes: Maruti Suzuki stock jumps almost 7% as metal prices fall",
+      "url": "https://www.newsbytesapp.com/news/business/maruti-suzuki-stock-jumps-almost-7-as-metal-prices-fall/tldr"
+    },
+    {
+      "title": "Kotak Neo: Maruti Suzuki shares surge as Nifty Auto rallies amid falling crude oil prices",
+      "url": "https://www.kotakneo.com/news/sectors/maruti-suzuki-shares-surge-6-percent-as-nifty-auto-rallies-amid-falling-crude-oil-prices/"
+    },
+    {
+      "title": "Upstox: EPF SWP, 10% minimum balance, final withdrawal after 2 months: 7 big decisions by EPFO board",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/epf-swp-10-minimum-balance-to-final-withdrawal-after-2-months-7-big-decisions-by-epfo-board/article-203722/"
+    },
+    {
+      "title": "Angel One: EPFO shifts 240th CBT meeting to New Delhi amid reports of ₹3,000 minimum EPS pension proposal",
+      "url": "https://www.angelone.in/news/personal-finance/epfo-shifts-240th-cbt-meeting-to-new-delhi-amid-reports-of-3-000-minimum-eps-pension-proposal"
+    },
+    {
+      "title": "Federal Reserve: Minutes of the FOMC, October 27-28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+    },
+    {
+      "title": "FXStreet: Fed minutes keep further rate hikes firmly on the table",
+      "url": "https://fxstreet.com/news/fed-minutes-set-to-provide-further-clues-on-the-central-banks-hiking-pace-202611181500"
+    },
+    {
+      "title": "HDFC Sky: US stock market today: Dow falls 561 points",
+      "url": "https://hdfcsky.com/news/dow-jones-sinks-561-points-as-hawkish-fed-minutes-and-unitedhealth-collapse-november-19-2026"
+    },
+    {
+      "title": "Motley Fool: Stock market today, Nov. 18: Nvidia slips on strong results",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-nvidia-slips-on-strong-results-as-succession-and-china-business-risks-weigh/"
+    },
+    {
+      "title": "PBS NewsHour (AP): Anthropic prices its IPO at $83 per share",
+      "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion"
+    },
+    {
+      "title": "CNBC: Anthropic IPO raises over $81 billion in largest offering on record",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    },
+    {
+      "title": "Deccan Herald (PTI): Rupee rallies for fourth session to close 5 paise higher at 93.36",
+      "url": "https://www.deccanherald.com/business/markets/rupee-rallies-for-fourth-session-to-close-5-paise-higher-at-9336-against-us-dollar-4224014"
+    },
+    {
+      "title": "DT Next (PTI): Rupee rallies for 4th session to close 5 paise higher at 93.36",
+      "url": "https://www.dtnext.in/news/business/rupee-rallies-for-4th-session-to-close-5-paise-higher-at-9336-against-us-dollar"
+    },
+    {
+      "title": "Kotak Neo: FII DII data",
+      "url": "https://www.kotakneo.com/share-market-today/fii-dii-data/"
+    },
+    {
+      "title": "HDFC Sky: Mahanadi Coalfields IPO subscription status day 1",
+      "url": "https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-1"
+    },
+    {
+      "title": "Groww: Mahanadi Coalfields IPO day 1",
+      "url": "https://groww.in/blog/mahanadi-coalfields-ipo-day-1-subscription-status-timeline-and-key-issue-details"
+    },
+    {
+      "title": "IPOGuru: Mahanadi Coalfields IPO subscription status day 1",
+      "url": "https://www.ipoguru.in/news/mahanadi-coalfields-ipo-subscription-status"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sensex",
+      "definition": "An index of 30 large companies listed on the BSE. Its number goes up or down as their share prices change.",
+      "more": "The Sensex, short for 'sensitive index', is one of India's two headline market numbers. It combines the share prices of 30 big, established companies such as banks, IT firms and Reliance, giving bigger companies more weight. It's like a class's average marks where toppers count extra: a few big names can move it a lot. When a news report says 'the market rose 400 points', it usually means the Sensex. The percentage change matters more than the points, because 400 points is a smaller share of a bigger number."
+    },
+    {
+      "term": "Nifty 50",
+      "definition": "An index of 50 large companies listed on the NSE, India's biggest stock exchange.",
+      "more": "The Nifty 50 is the NSE's headline index and the most widely followed measure of Indian shares. It covers 50 large companies from many sectors, weighted by size. Many index funds and ETFs simply copy it, so when the Nifty rises 0.65%, a Nifty index fund rises by about the same. Think of it as a basket of India's 50 biggest shops: if the basket's total value rises, the index rises. News reports often quote it alongside the Sensex; the two usually move in the same direction."
+    },
+    {
+      "term": "Intraday",
+      "definition": "Something that happens during a single trading day, between the market's opening at 9:15 am and closing at 3:30 pm.",
+      "more": "Share prices move all day, so a report may say a share 'rose 2% intraday' even if it finished the day flat. The closing level is the one that counts for the day's record, but the intraday swing shows how nervous or excited traders were. Think of a cricket match: a team may be 150 for 2 at one point and still lose. The intraday high and low are like the best and worst moments of the innings; the closing price is the final score. Wide intraday swings, like Wednesday's, usually signal uncertainty."
+    },
+    {
+      "term": "Nifty Auto",
+      "definition": "An index that tracks India's biggest vehicle and vehicle-parts makers.",
+      "more": "The Nifty Auto index includes carmakers like Maruti Suzuki, Mahindra & Mahindra and Tata Motors, two-wheeler makers like Bajaj Auto and Hero MotoCorp, and parts suppliers. These shares are sensitive to fuel prices, interest rates on vehicle loans, festive demand and monthly sales figures. Cheaper oil helps them twice: it can make running a vehicle cheaper, and it lowers the cost of some raw materials. It's like a barometer for how keen Indians are to buy scooters, cars and trucks. News reports quote it when vehicle shares lead or drag the market."
+    },
+    {
+      "term": "Consumer durables",
+      "definition": "Long-lasting goods people buy for the home or themselves, such as appliances, electronics, watches and jewellery.",
+      "more": "Consumer durables are things you don't buy every week: fridges, TVs, air conditioners, watches and jewellery. Because they cost more and can be postponed, sales depend heavily on how confident families feel about their money. Think of a household that delays buying a new washing machine when petrol and school fees go up. The Nifty Consumer Durables index tracks listed makers of such goods, like Titan. When news says 'consumer durables led the fall', it usually means investors fear people will cut back on these purchases."
+    },
+    {
+      "term": "PSU bank",
+      "definition": "A public sector bank: a bank in which the government owns the majority stake, such as SBI, Bank of Baroda or Punjab National Bank.",
+      "more": "PSU stands for public sector undertaking, meaning a company mostly owned by the government. PSU banks like SBI, Canara Bank and Union Bank of India are listed on the stock exchange, so the public owns the rest of their shares. The Nifty PSU Bank index tracks 12 of them. Their shares can swing more than private banks' because investors react to government policy, interest rates and loan quality. It's like a big government-run cooperative that also has outside shareholders. On days of heavy selling, PSU bank shares are often among the biggest fallers."
+    },
+    {
+      "term": "FMCG",
+      "definition": "Fast-moving consumer goods: everyday items like soap, biscuits, tea, toothpaste and cigarettes.",
+      "more": "FMCG companies sell things families buy again and again, often every week. In India, big FMCG names include ITC, Hindustan Unilever, Nestle India and Britannia. Their sales tend to be steady because people keep buying soap and tea even when times are hard, so investors often treat these shares as 'defensive'. It's a bit like the corner kirana shop that keeps doing business in every season. The Nifty FMCG index tracks these companies, and news reports often mention it when worried investors move money into safer-feeling shares."
+    },
+    {
+      "term": "Nifty IT",
+      "definition": "An index of the biggest information technology companies listed on the NSE, such as TCS and Infosys.",
+      "more": "The Nifty IT index tracks India's largest software and IT services companies, including TCS, Infosys, HCLTech, Wipro and Tech Mahindra. These companies earn most of their money from clients in the US and Europe, so the index often moves on news from abroad, the dollar-rupee rate and quarterly results, rather than on Indian events. It is like a team of exporters inside the market: when foreign customers are spending, they do well. News reports mention it as one of the 'sectoral indices', for example 'Nifty IT rose 2.88%, the only sector in the green'."
+    },
+    {
+      "term": "IT services",
+      "definition": "Companies that write software, run computer systems and provide tech support for clients, mostly abroad.",
+      "more": "India's IT services firms, such as TCS, Infosys, Wipro, HCLTech and Tech Mahindra, do technology work for banks, shops, airlines and governments around the world. Most of their revenue comes in dollars or euros, while most of their staff are paid in rupees. So a weaker rupee usually helps their profits. It's like a tailor in Tiruppur stitching for foreign buyers: paid in dollars, spending in rupees. IT firms are big parts of the Sensex and Nifty, so their results can move the whole market."
+    },
+    {
+      "term": "Nifty Bank",
+      "definition": "An index of the biggest banks listed on the NSE. People also call it Bank Nifty.",
+      "more": "The Nifty Bank index tracks around a dozen of India's largest listed banks, both private and government-owned, weighted by size. Because banks such as HDFC Bank and ICICI Bank are huge, this index is closely watched as a reading of how investors feel about lending and the economy. Think of it as the 'banking class' report card inside the wider school. News reports often quote it next to the Sensex and Nifty, for example 'Bank Nifty fell below 55,000', because banks make up a large slice of both headline indices."
+    },
+    {
+      "term": "Record high",
+      "definition": "The highest level a share price or index has ever reached, also called an all-time high.",
+      "more": "When reports say an index hit a record high, it means its number has never been higher since it was created. A 'record closing high' means the highest level at the end of a trading day, while an 'intraday record' means the highest point touched during trading, even if it slipped back before the close. It's like a batsman's highest-ever score. A record high shows how far prices have come, but it does not tell you whether they will keep rising. Markets often pause or fall back after records as some investors take profits."
+    },
+    {
+      "term": "Midcap",
+      "definition": "A company of medium size by stock market value, smaller than the biggest firms but larger than small ones.",
+      "more": "Indian markets group listed companies by size, measured by market value. The largest are large caps; the next tier is midcaps; then smallcaps. Midcap shares can grow faster than giants but tend to swing more. The Nifty Midcap 100 index tracks 100 such firms. Picture a town's businesses: the big mall, then busy local supermarkets, then small corner shops. Midcaps are the supermarkets. News reports often compare midcap moves with the Sensex to show whether a rally is broad or narrow."
+    },
+    {
+      "term": "Smallcap",
+      "definition": "A smaller listed company by stock market value. These shares usually rise and fall more sharply.",
+      "more": "Smallcaps are the smallest group of listed companies by market value. They can grow quickly, but they are also riskier: their shares can fall hard in bad times and are sometimes harder to sell. The Nifty Smallcap 100 index tracks 100 such firms. They are like small neighbourhood shops: some become big chains, many stay small, and a few close. When news reports say 'smallcaps underperformed', it means these shares did worse than the big indices that day."
+    },
+    {
+      "term": "Market breadth",
+      "definition": "A measure of how many shares rose compared with how many fell on a given day.",
+      "more": "Indices like the Nifty give the biggest companies much more weight, so a few giants can push the index up even when most shares fall. Counting rising and falling shares, called the advance–decline ratio, shows whether a move is broad or narrow. If 2,000 shares rise and 1,000 fall, breadth is strongly positive; if the numbers are close, the rise was led by a smaller group. It's like checking whether a whole class did better in an exam, not just the toppers. Analysts often say a rally is healthier when breadth is strong."
+    },
+    {
+      "term": "India VIX",
+      "definition": "A number that shows how much the market expects the Nifty to swing over the next month. Higher means more nervousness.",
+      "more": "India VIX is often called the 'fear gauge'. It is worked out from the prices of Nifty options, which traders buy to protect themselves or bet on big moves. When traders expect wild swings, they pay more for that protection and the VIX rises. When they feel calm, it falls. Think of it like the price of umbrellas going up before a storm is forecast. A VIX in the low teens is usually considered fairly calm. News reports quote its level and daily change, for example 'India VIX rose 1.98% to 13.88'."
+    },
+    {
+      "term": "Input costs",
+      "definition": "What a company pays for the raw materials, energy and parts it needs to make its products.",
+      "more": "A carmaker buys steel, aluminium, copper, rubber and plastic; a soap maker buys palm oil and chemicals; an air-conditioner maker needs a lot of copper. These are input costs. When their prices fall and the company keeps its selling prices the same, it earns more on each item sold, so its profit margin improves. It's like a dhaba owner whose vegetable and gas bills drop while the thali price stays at ₹120. News reports often say a sector rose on 'easing input costs' or fell because 'raw material prices surged'."
+    },
+    {
+      "term": "Fed minutes",
+      "definition": "The detailed written record of a US Federal Reserve rate-setting meeting, released about three weeks later.",
+      "more": "When the Fed announces a decision, it gives only a short statement and a press conference. About three weeks later it publishes the minutes, which summarise what the officials discussed, how many worried about inflation and what they thought might come next. Traders read them for hints about future interest rates. It's like reading the full notes of a family meeting after hearing only the final decision: you learn who argued for what. India's RBI publishes similar minutes for its Monetary Policy Committee. Hawkish minutes can push the dollar up and weigh on shares."
+    },
+    {
+      "term": "Support and resistance",
+      "definition": "Price levels where analysts expect an index or share to stop falling (support) or stop rising (resistance), based on past trading.",
+      "more": "Analysts look at charts and notice levels where buyers have often stepped in or sellers have often appeared. Support is like a floor and resistance is like a ceiling. Think of a sabzi seller: if customers always start buying tomatoes when they drop to ₹30 a kilo, ₹30 acts as support; if nobody buys above ₹50, that's resistance. In the news you'll read lines like 'Nifty has support at 22,500 and resistance at 22,800'. These are educated guesses, not rules. Prices often break through them."
+    },
+    {
+      "term": "Index fund",
+      "definition": "A mutual fund that simply copies an index such as the Nifty 50, holding the same shares in the same proportions.",
+      "more": "An index fund does not try to pick winners. If the Nifty 50 rises 0.58% in a day, a Nifty 50 index fund rises by roughly the same amount, minus small costs. It is like ordering a fixed thali instead of choosing dishes: you get a bit of everything on the menu. Because nobody is paid to pick shares, fees are usually low. Many people invest in index funds through monthly SIPs. When the news says 'the Nifty rose', index fund investors can expect their holding to have moved in the same direction."
+    },
+    {
+      "term": "SIP",
+      "definition": "A Systematic Investment Plan: investing a fixed amount in a mutual fund at regular intervals, usually monthly.",
+      "more": "An SIP lets you invest a set sum, say ₹2,000, into a mutual fund automatically every month. It's like a recurring deposit, but the money goes into a fund whose value rises and falls with the market. Because you invest the same amount every month, you buy more units when prices are low and fewer when prices are high. Millions of Indians invest this way, and the total monthly SIP inflow is reported regularly in the news. Those flows are a big reason domestic funds have been steady buyers of shares."
+    },
+    {
+      "term": "Sectoral index",
+      "definition": "An index that tracks shares from one industry only, such as IT, banks or carmakers.",
+      "more": "A sectoral index shows how one part of the market is doing. The Nifty IT tracks big technology companies; the Nifty Bank tracks banks; the Nifty FMCG tracks consumer-goods makers. It helps you see which industries are driving a day's move. Think of it like a school report that shows marks by subject, not just the overall total. News reports often say things like 'Nifty IT rose 3.9%, the best sector', which tells you where most of the buying happened."
+    },
+    {
+      "term": "EPFO",
+      "definition": "The Employees' Provident Fund Organisation, the government body that runs provident fund and pension savings for salaried workers.",
+      "more": "The EPFO manages the Employees' Provident Fund (EPF) and the Employees' Pension Scheme (EPS) for crores of salaried people in India. It sets the yearly interest rate on PF savings, processes withdrawals and invests the money it collects. Its decisions are made by a board called the Central Board of Trustees, chaired by the Labour Minister, with representatives of the government, employers and workers. Think of it as a giant, government-supervised savings piggy bank for workers. Many board decisions need government approval and a formal notification before they take effect."
+    },
+    {
+      "term": "EPF",
+      "definition": "The Employees' Provident Fund: a retirement savings account into which both a salaried worker and their employer put money every month.",
+      "more": "If you work for a company with 20 or more employees, part of your basic salary usually goes into your EPF account each month, and your employer adds a matching contribution, part of which goes to the pension scheme. The money earns interest declared every year and is meant mainly for retirement, though you can withdraw some of it earlier for needs such as a house, marriage, illness or unemployment. You can see your balance in your EPF passbook using your UAN, the account number that stays with you across jobs. It is like a compulsory piggy bank that grows quietly in the background."
+    },
+    {
+      "term": "Systematic withdrawal plan (SWP)",
+      "definition": "A way to take money out of your savings in fixed amounts at regular intervals, such as every month, instead of all at once.",
+      "more": "An SWP is the reverse of an SIP. With an SIP you put in, say, ₹5,000 every month; with an SWP you take out a fixed sum every month or quarter, while the rest stays invested. Mutual funds have offered SWPs for years, and many retirees use them to create a monthly income. It's like a farmer who stores the harvest and sells a few sacks each month rather than selling everything on day one. News reports mention SWPs when talking about retirement planning, pensions and how people can draw down their savings."
+    },
+    {
+      "term": "Alternative investment fund (AIF)",
+      "definition": "A SEBI-regulated fund that invests in things outside ordinary shares and bonds, such as start-ups, private companies, infrastructure or property.",
+      "more": "AIFs pool money from large investors and put it into investments that ordinary mutual funds usually don't touch, such as venture capital for start-ups, private equity in unlisted companies, or infrastructure and real-estate projects. They are meant for big or experienced investors, often with high minimum amounts, and the money can be locked in for years. Think of a mutual fund as a supermarket and an AIF as a specialist wholesale dealer that only serves big buyers. News reports mention AIFs when pension funds, insurers or banks are allowed to put a small share of their money into them."
+    },
+    {
+      "term": "Federal Reserve",
+      "definition": "The central bank of the United States, often called 'the Fed'. It sets US interest rates, much as the RBI does in India.",
+      "more": "The Federal Reserve decides the main interest rate in the US to keep prices stable and jobs growing. Because the dollar is the world's main currency, the Fed's decisions ripple across the globe, including into India. It's like the head of the largest joint family in the neighbourhood: when they tighten spending, everyone around notices. News reports talk about markets 'pricing in' a Fed rate hike, meaning traders are betting it will happen, and that expectation alone can move markets before the Fed acts."
+    },
+    {
+      "term": "FOMC",
+      "definition": "The Federal Open Market Committee, the group within the US Federal Reserve that sets US interest rates.",
+      "more": "The FOMC is the US Federal Reserve's rate-setting committee, a bit like India's Monetary Policy Committee at the RBI. It meets about eight times a year and announces whether it will raise, cut or hold its target range for the Fed funds rate. Its decisions are watched worldwide because they affect the dollar, global interest rates and where big investors send their money. Indian news reports often say 'ahead of the FOMC outcome' when markets are cautious before a decision. The announcement usually comes late at night or early morning in India."
+    },
+    {
+      "term": "Rate hike",
+      "definition": "An increase in the interest rate set by a central bank such as the RBI or the US Federal Reserve.",
+      "more": "When a central bank raises its key interest rate, borrowing becomes costlier across the economy. In India, an RBI repo rate hike usually leads banks to raise rates on floating-rate home and car loans over the following weeks, so EMIs can rise. FD rates may also go up. Central banks hike rates mainly to control inflation or to support the currency. Share markets often fall when they fear a hike, because costlier loans can slow spending and company profits. Talk of a possible hike can move markets even before any decision."
+    },
+    {
+      "term": "Hawkish",
+      "definition": "Describes a central bank, or its message, that leans towards keeping interest rates high or raising them to fight inflation.",
+      "more": "Markets borrow two bird names to describe central banks. A 'hawk' worries most about rising prices and prefers higher interest rates. A 'dove' worries more about jobs and growth and prefers lower rates. So a 'hawkish' message hints that rates may stay high or rise; a 'dovish' one hints at cuts. It's like a strict parent who keeps pocket money tight because prices keep rising, versus a relaxed one who loosens it. News reports often say a decision was a 'hawkish hold': rates unchanged, but with a warning that a hike could come."
+    },
+    {
+      "term": "Dow Jones",
+      "definition": "A US stock index of 30 large American companies, one of the world's most watched market numbers.",
+      "more": "The Dow Jones Industrial Average, usually just 'the Dow', tracks 30 big US companies such as Apple, JPMorgan and Coca-Cola. It is one of the oldest stock indices in the world. Indian news reports mention it because what happens on Wall Street overnight often sets the mood for Asian and Indian markets the next morning. It is like checking the weather in a big neighbouring city before you step out. The S&P 500, which covers 500 companies, and the tech-heavy Nasdaq are the other two US indices you will often see quoted."
+    },
+    {
+      "term": "S&P 500",
+      "definition": "An index of about 500 large US companies, the most widely followed measure of the US stock market.",
+      "more": "The S&P 500 tracks the shares of around 500 of America's biggest companies, from Apple and Microsoft to banks and retailers, weighted by size. Because so much of the world's money is invested in US companies, its moves often set the mood for markets elsewhere, including India, the next morning. It's like the Nifty 50 for America, but bigger. When news reports say 'Wall Street rose', they usually mean the S&P 500, the Dow Jones or the Nasdaq went up."
+    },
+    {
+      "term": "Nasdaq",
+      "definition": "A US stock exchange and its main index, the Nasdaq Composite, which is heavy with technology companies.",
+      "more": "The Nasdaq Composite tracks thousands of companies listed on the Nasdaq exchange in the US. Big technology names such as Apple, Microsoft, Nvidia and chip makers carry a lot of weight in it, so it is often treated as a measure of how tech shares are doing. When the Nasdaq falls sharply, Asian technology shares and Indian IT shares often feel the effect the next day. Think of it as the 'tech mood' of the world's biggest stock market. News reports usually mention it alongside the Dow Jones and the S&P 500."
+    },
+    {
+      "term": "Nvidia",
+      "definition": "A US company that designs the computer chips most widely used to build and run artificial intelligence (AI) systems.",
+      "more": "Nvidia began by making graphics chips for video games. Its chips turned out to be very good at the huge number of calculations AI needs, so tech giants have bought them in vast quantities. That made Nvidia one of the most valuable companies in the world. Its suppliers, such as chipmakers in Taiwan and memory makers in South Korea, rise and fall with it. So news about Nvidia, such as its quarterly earnings or a change in its leadership, can move share markets across Asia and the US within hours."
+    },
+    {
+      "term": "IPO",
+      "definition": "Initial Public Offering: when a company sells its shares to the public for the first time and then lists on a stock exchange.",
+      "more": "Before an IPO, a company is owned by its founders and private investors. In the IPO, it offers shares to the public at a fixed price or within a price band, and anyone with a demat account can apply. After allotment, the shares start trading on the NSE and BSE on the listing day. Some IPOs list above the issue price, giving applicants a quick gain; others list below it. It's like a new restaurant's grand opening: the buzz beforehand doesn't always match what customers decide once the doors open."
+    },
+    {
+      "term": "Issue price",
+      "definition": "The price per share at which a company sold its shares to investors in its IPO.",
+      "more": "In most Indian IPOs, the company announces a price band, say ₹30 to ₹32, and investors bid within it. The final price, usually the top of the band, is the issue price. Everyone who gets shares pays that price. On listing day, the share's trading price is compared with the issue price to see whether IPO investors gained or lost. Think of it as the MRP printed on a new product at launch: once it hits the open market, what people are willing to pay can be higher or lower."
+    },
+    {
+      "term": "Price band",
+      "definition": "The range of prices, from lowest to highest, within which investors can bid for shares in an IPO.",
+      "more": "Before an IPO opens, the company announces a price band, such as ₹290–305 per share. Investors bid for shares at a price inside that range. Once bidding closes, the company fixes the final issue price, usually at the top of the band if demand is strong. It's like a seller saying a used bike will go for somewhere between ₹29,000 and ₹30,500 depending on interest. Most small investors simply bid at the top price (called the 'cut-off') to improve their chance of getting shares."
+    },
+    {
+      "term": "Valuation",
+      "definition": "How expensive a share or market is compared with what the company earns or owns.",
+      "more": "A share's price alone doesn't tell you if it is cheap or costly. Valuation compares the price with measures like profit, often using the price-to-earnings or P/E ratio. When prices rise much faster than profits, investors say valuations are 'stretched'. It's like a flat in your city whose price has doubled while rents stayed the same: buyers start to wonder if it's worth it. Worries about stretched valuations of AI-related companies have recently led to sharp falls in US and Asian tech shares."
+    },
+    {
+      "term": "Exchange rate",
+      "definition": "The price of one currency in terms of another, such as how many rupees buy one US dollar.",
+      "more": "The exchange rate tells you how much of your currency you need to buy foreign money. At 94.92, one US dollar costs ₹94.92. If it moves to 94.50, the rupee has strengthened; if to 95.50, it has weakened. The rate affects the cost of imports like oil and electronics, foreign travel and studying abroad, and the earnings of exporters. It's like the price of onions at the mandi: it changes daily with supply and demand. News reports quote it most evenings."
+    },
+    {
+      "term": "Paise",
+      "definition": "One-hundredth of a rupee. Rupee moves against the dollar are usually reported in paise.",
+      "more": "There are 100 paise in a rupee. When reports say 'the rupee rose 7 paise to 94.92', it means one dollar now costs ₹94.92 instead of ₹94.99. A few paise sounds tiny, but on large sums it adds up: on $1 million, 7 paise is ₹70,000. That's why importers, exporters and the RBI follow these small moves closely. Think of it like a small rise in the price of petrol per litre; small per unit, big across millions of litres."
+    },
+    {
+      "term": "Provisional",
+      "definition": "An early figure that may be revised slightly when final numbers come in.",
+      "more": "Many market figures are first reported as provisional, meaning early and subject to change. The rupee's closing rate is often reported right at the close and then confirmed later, and the daily FII and DII buying and selling figures from the exchanges are provisional too. The final number is usually close, but can differ by a few paise or a few hundred crore. It's like an exam's provisional answer key: mostly right, but a few marks can change. News reports add '(provisional)' so readers know the figure may be revised."
+    },
+    {
+      "term": "Rupee appreciation",
+      "definition": "When the rupee gets stronger against another currency, so fewer rupees are needed to buy one dollar.",
+      "more": "If the rate moves from 94.19 to 93.92 rupees per dollar, the rupee has appreciated: one dollar now costs 27 paise less. This happens when more dollars flow into India, for example when foreign investors buy Indian shares, or when India needs fewer dollars, for example when oil gets cheaper. A stronger rupee makes imports, foreign travel and overseas education slightly cheaper. It earns IT and other exporters slightly fewer rupees for each dollar. Daily moves are usually small, and the RBI steps in when moves become sharp."
+    },
+    {
+      "term": "Dollar index",
+      "definition": "A measure of the US dollar's value against six major currencies, such as the euro and yen.",
+      "more": "The dollar index, often called DXY, shows whether the US dollar is getting stronger or weaker against a basket of major currencies. When it rises, currencies like the rupee usually weaken; when it falls, they often gain. It's like a thermometer for the dollar's strength worldwide. Forex reports in India often mention it alongside the rupee's close, because it helps separate two questions: is the rupee weak because of India-specific reasons such as oil, or simply because the dollar is strong against everyone?"
+    },
+    {
+      "term": "FPI",
+      "definition": "Foreign portfolio investor: a foreign fund or investor that buys Indian shares, bonds or similar investments, registered with SEBI.",
+      "more": "FPI is the official term SEBI uses for foreign investors who buy financial investments in India, such as shares and bonds, without taking control of a company. In everyday market news, 'FII' and 'FPI' are often used to mean the same group. Before they can invest, FPIs must register and complete checks, which can take time and paperwork. Think of it as the entry process at a big exhibition: the quicker and simpler the gate, the easier it is for visitors to come in. Their buying and selling can move the Sensex and the rupee."
+    },
+    {
+      "term": "DII",
+      "definition": "Domestic institutional investor: a large Indian investor such as a mutual fund, insurer or pension fund.",
+      "more": "DIIs include Indian mutual funds, LIC and other insurers, banks and pension funds like the EPFO. Much of their money comes from ordinary Indians through SIPs and insurance premiums. In recent years, DIIs have often bought when foreign investors sold, cushioning the market. It's like local buyers stepping in at a mandi when out-of-town traders leave. News reports usually show FII and DII figures side by side each evening, for example 'DIIs bought ₹3,319.39 crore'."
+    },
+    {
+      "term": "Net buyer",
+      "definition": "An investor, or group of investors, who bought more shares than they sold over a period.",
+      "more": "Big investors buy and sell every day. Being a 'net buyer' means that after adding up all the buying and subtracting all the selling, the buying was bigger. If foreign investors bought ₹10,000 crore of shares and sold ₹4,000 crore, they were net buyers of ₹6,000 crore. It is like a shopkeeper who takes in more stock than he sells in a week: his shelves fill up. News reports use this to show which way big money is flowing. Steady net buying tends to support share prices; steady net selling tends to weigh on them."
+    },
+    {
+      "term": "Brent crude",
+      "definition": "A widely used international benchmark price for crude oil.",
+      "more": "Brent crude is a type of oil originally from the North Sea, and its price is used as a reference for much of the world's oil trade. India imports most of its crude oil, so a higher Brent price raises India's import bill, can weaken the rupee and can push up fuel and transport costs. Think of it like the wholesale price of wheat that sets what bakeries pay. News reports quote Brent in dollars per barrel, like '$105.56 a barrel'."
+    },
+    {
+      "term": "Barrel",
+      "definition": "The standard unit for measuring oil, equal to about 159 litres.",
+      "more": "Oil prices are quoted per barrel, a unit equal to about 159 litres. When Brent is $105 a barrel, that is roughly $0.66 per litre of crude, before refining, transport, taxes and dealer margins. So petrol at the pump costs far more than crude per litre. It's a bit like quoting rice prices per quintal at a wholesale market, even though you buy a few kilos at the shop. News reports always use 'per barrel' for crude oil prices."
+    },
+    {
+      "term": "Subsidiary",
+      "definition": "A company that is owned or controlled by another company, called its parent.",
+      "more": "Big Indian groups often run different businesses through separate companies. Jio Platforms is a subsidiary of Reliance Industries, and Reliance Jio Infocomm, the telecom company, is in turn a subsidiary of Jio Platforms. It's like a joint family where each son runs his own shop, but the head of the family still has the final say. When a subsidiary is listed through an IPO, outsiders can buy a piece of it directly, while the parent usually keeps control. News reports often discuss whether listing a subsidiary 'unlocks value' for the parent's shareholders."
+    },
+    {
+      "term": "Offer for sale",
+      "definition": "The part of an IPO where existing shareholders sell some of their own shares to the public. The company itself gets no money from this part.",
+      "more": "An IPO can have two parts. In the 'fresh issue', the company creates new shares and keeps the money to spend on its business. In the 'offer for sale' (OFS), existing owners, such as founders or early investors, sell shares they already hold, and the money goes to them. Investors read this split closely: a large OFS can mean early backers want to cash out. It's like the difference between a shop owner raising money to open a new branch, and a partner selling their stake in the existing shop."
+    },
+    {
+      "term": "Lot size",
+      "definition": "The minimum number of shares you must apply for in an IPO. You can apply only in multiples of it.",
+      "more": "IPO shares are sold in fixed bundles called lots. If the lot size is 49 shares, you must apply for 49, 98, 147 and so on, not 10 or 60. The smallest application therefore costs the lot size multiplied by the price: at ₹305, one lot of 49 shares costs ₹14,945. It's like a shop selling eggs only by the tray, not singly. News reports mention the lot size so readers know the minimum amount needed to apply."
+    },
+    {
+      "term": "Anchor investor",
+      "definition": "A large investor, such as a mutual fund or insurer, that commits to buy shares in an IPO a day before it opens to the public.",
+      "more": "Anchor investors are big institutions that agree to buy part of an IPO at a fixed price before ordinary investors can bid. They must hold the shares for a set period before selling. Their participation is meant to show confidence and give the IPO a steady start. It's like a few well-known guests confirming for a wedding early, which reassures others that the event will be good. News reports mention how much a company raised from anchors, but anchor interest doesn't guarantee a good listing."
+    },
+    {
+      "term": "Subscription",
+      "definition": "How much of an IPO investors have applied for. '0.48 times' means bids came in for about half of the shares on offer.",
+      "more": "During an IPO, the exchanges publish how many shares investors have bid for compared with how many are available, called the subscription figure. '1 times' means demand exactly matches supply; '5 times' means five shares were sought for each one offered; '0.48 times' means only about half were sought so far. Many investors bid on the last day, so early figures often rise sharply at the end. It's like counting RSVPs for a wedding: many replies arrive only on the last day."
+    },
+    {
+      "term": "QIB",
+      "definition": "Qualified institutional buyer: a large professional investor, such as a mutual fund, bank or insurer, that gets a separate share of an IPO.",
+      "more": "In an Indian IPO, the shares on offer are divided into portions for different kinds of investors. QIBs are big, regulated institutions like mutual funds, insurance companies, banks and foreign funds. Retail investors, who apply for smaller amounts, get their own portion, and wealthy individuals (NIIs or HNIs) get another. Reports on IPO demand usually break down subscription by category. It's like a cinema holding separate queues for bulk bookings, families and single tickets. Strong QIB demand is often read as a sign that professionals like the issue."
+    },
+    {
+      "term": "Retail investor",
+      "definition": "An ordinary individual who buys shares with their own money, in small amounts.",
+      "more": "A retail investor is an everyday person, like a salaried employee or a shopkeeper, who invests their own savings. In an IPO, retail investors are those who apply for shares worth up to ₹2 lakh, and they get their own reserved quota so big investors cannot crowd them out. Retail investors also invest indirectly through mutual funds and SIPs. News reports often compare 'retail demand' with 'institutional demand'. A low retail subscription on the first day of an IPO is common, because many individuals apply on the last day."
+    },
+    {
+      "term": "Non-institutional investor",
+      "definition": "In an IPO, wealthier individuals and companies who apply for shares worth more than ₹2 lakh. Also called NIIs or HNIs.",
+      "more": "When a company sells shares in an IPO, it splits them into separate quotas for different kinds of buyers. The non-institutional investor (NII) quota is for individuals, family trusts and companies who apply for more than ₹2 lakh worth of shares but are not big institutions such as mutual funds. They are often called high-net-worth individuals, or HNIs. Think of it as the 'bulk buyer' queue at a sale, separate from both the shopkeepers (institutions) and ordinary shoppers (retail). News reports give subscription figures for each queue, for example 'the NII portion was booked 1.32 times'."
+    },
+    {
+      "term": "Allotment",
+      "definition": "The step after an IPO closes, when the company decides who gets shares and how many.",
+      "more": "If an IPO receives more bids than shares, not everyone gets what they asked for. Retail investors are usually given shares by a computerised lottery, with each lucky applicant getting at least one lot. If an IPO is not fully subscribed, everyone who applied gets shares. Money for unsuccessful bids, which was only blocked, is released back to the bank account. It's like a housing lottery for flats: you apply, wait for the draw and then learn if you got one. News reports give the allotment date so applicants know when to check."
+    },
+    {
+      "term": "Listing",
+      "definition": "The day a newly issued share starts trading on a stock exchange, and its first trading price.",
+      "more": "After an IPO closes and shares are allotted, the company's shares are 'listed' on the NSE and BSE. The first price at which they trade is decided by buyers and sellers, not by the company. If that price is above the IPO price, it's a 'listing gain' or 'premium'; if below, a 'listing discount'. News reports watch listings closely because they show how keen the wider market is on a company once the IPO excitement fades. A weak listing doesn't decide a company's long-term future, but it does show the mood on day one."
+    }
+  ]
+}
